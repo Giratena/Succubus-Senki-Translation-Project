@@ -1,0 +1,25 @@
+Chp1 ダイアログオプション
+よし、 やろう　-> Right! Let's do this.
+うう、不安だ・・・。-> Urgh, I'm not ready...
+
+
+ユニッ卜メニュ／ウィンドウ：
+Masterbation -> Masterbate
+beg -> Beg
+Stock -> Convoy
+Option -> Options
+待機 -> Wait
+ユニッ卜メニュ -> Unit Status
+MIND -> RES
+MOVE -> MOV
+Attack (ユニッ卜メニュ中）　－＞ Atk
+回避 -> Avoid
+
+
+情報収集 -> Investigate
+ショップ -> Shop
+酒場 -> Tavern
+
+Ch2:
+仲間に入れる -> Let him join
+仲間に入れない -> Don't let him join
