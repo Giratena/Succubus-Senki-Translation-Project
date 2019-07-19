@@ -1101,7 +1101,7 @@ from our skilled swordsman.
 ユミル：上
 Hey, snap out of it \pdb[0]!**
 You're the best swordsman out of all of us!
-What the heck are you so nervous for!～❤
+What the heck are you so nervous for?
 
 ユミル：上
 If we are victorious, we can collect
