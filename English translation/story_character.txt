@@ -3,7 +3,7 @@ Ch1:
 中級サキュパス ->　Intermedite Succubus
 下級サキユバス　->　Lesser Succubus
 見習いリーダー -> Lord
-見習いシ-フ -> Theif
+見習いシ-フ -> Thief
 見習い守護者 -> Knight
 下級スライム -> Lesser Slime
 スケルトン -> Skeleton 

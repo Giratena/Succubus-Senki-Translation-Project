@@ -4,7 +4,7 @@ Chp1 ダイアログオプション
 
 
 ユニッ卜メニュ／ウィンドウ：
-Masterbation -> Masterbate
+Masturbation -> Masturbate
 beg -> Beg
 Stock -> Convoy
 Option -> Options
