@@ -3425,122 +3425,123 @@ Are you perhaps,
 The one who defended the town against the demon attack,
 Lord \pdb[0]?
 Actually, I am quite confident on the battlefield myself.**
-My specialty is healing allies. If you would have me,
-could I accompany allong with you? 
+My specialty is healing allies. If it is alright,
+may I accompany along as with you? 
 
 レイ：上
 ...
 
 イエヤス：上
-本当ですか！やった・・・！**
-では、これからよろしくお願いします。
+Truely!? Many thanks...!**
+Well then, I hope we make a soild team.
 
 テロップ：中央
-イエヤスが仲間になった！
+Leon joined the party!
 
 イエヤス：上
-そうですか・・・。**
-残念ですが、仕方ありません。
-もし考え直していただけたら、またお声をかけてください。
+I see...**
+What a shame, I suppose it is out of my hands.
+If you change your mind, please come talk with me again.
 
 <CM0-2>
 イエヤス：上
-おお、\pdb[0]さん。
-考え直していただけたのですか？
+Ah, Lord \pdb[0].
+Did you come to reconsider?
 
 レイ：上
-・・・・・。
+...
 
 イエヤス：上
-本当ですか！やった・・・！**
-では、これからよろしくお願いします。
+Truely!? Many thanks...!**
+Well then, I hope we make a soild team.
 
 テロップ：中央
-イエヤスが仲間になった！
+Leon joined the party!
 
 イエヤス：上
-そうですか・・・。**
-残念ですが、仕方ありません。
-もし考え直していただけたら、またお声をかけてください。
+I see...**
+What a shame, I suppose it is out of my hands.
+If you change your mind, please come talk with me again.
 
 <CM1>
 男：上
-やあ、こんにちは。
-話・・・？
-ええと、長くないならいいよ。
+Oh, Hello.
+Chat...?
+Eeh, alright, but keep it short.
 
 男：上
-いや、どうもおれはせっかちでね、
-たらたらと人の話を聞くのが苦手なんだ。
-パッと全部飛ばしたいね。
+Actually, I'm too impatient for that.
+I'm terrible at listening to people and their tales.
+I wish I could skip them all.
 
 テロップ：中央
-キーボード左端の「 Ctl キー　」を押すと
-・メッセージのスキップ
-・戦闘の高速化　　　　が行えます。
-会話を省略したい場合などに便利です。**
-またSPACEキーを押すと、
-イベントを丸ごと省略できます。
+Use the [Ctl Key] or  [Left Click] to:
+- Skip Mesages
+- Increase battle speed
+It is very handy for ommiting dialogue.**
+You can also use the [Space Key],
+to skip events entirely.
 
 テロップ：中央
-道を歩いていると、
-何かがきらっと光っているのが見えた。
+While walking down the road, you see the glitter of
+something shiny.
 
 <CM5>
 兵隊：上
-ん？仲間を募りたい？
-それなら酒場に行ってみたらどうだい？*
-あんたに十分な魅力があれば、
-ついてきてくれるやつはけっこういるはずさ。
+Hmm? You want strong allies? Well in that case why 
+not visit the bar?*
+If you have enough renown, you should gain many followers.
 
 テロップ：中央
-ステージクリアに応じて名声ポイントが手に入ります。
-このポイントを使うと仲間を雇用できます。*
-名声ポイントを使って仲間を雇用できるのは、
-「酒場」です。拠点メニューから行くことができます。
+Renown points are obtained depending on the cleared stage.
+These points can be used to hire allies.*
+You can use Renown points to hire allies at the [Bar],
+which is accessed from the location menu.
 
 <CM6>
 兵隊：上
-指揮官ならば味方のことを知っていることは重要だ。
-それに敵の情報も正確に知っておきたい。*
-きみにはどうやら敵味方をよく観察できる
-特別な眼がそなわっているようだ。*
-敵を知り、己を知れば百戦危うからず、
-と言うからな。重要な能力だな。
+As a commander, it's important to know your allies.
+But know your enemies more.*
+You seem to have a keen eye for observing both enemies
+and allies.*
+Know yourself, and know your enemies when in battle, that's 
+what I always say. There is nothing more important.
 
 テロップ：中央
-戦闘マップでキャラにカーソルを合わせ、
-「右クリック」または「ｘキー」を押すと*
-キャラクターのステータスや
-所持アイテムを見ることができます。*
-味方の情報だけではなく、
-敵の情報も見ることができます。*
-また、ステータス画面で「右矢印」を押すと、
-そのユニットに付与されている状態異常の一覧を
-見ることができます。
+When pusing the [Right Key] or [X Key] with the 
+cursor in battle,*
+You can check the status and held items of 
+units.*
+Not only can you see ally imformation, but 
+enemy imformation as well.*
+Furthermore, if you press the [Right Arrow Key] from
+within the status screen, you can view any status effects
+applied to that unit.
 
 <CM2>
 男：上
-あんたら、あっちの村で出た魔物を退治したんだって？**
-すごいじゃないか。
-その若さでその強さなら、
-将来は立派な騎士様かもな。
+You lot were the ones who fought off the deamons from
+that village?**
+That was nothing short of spectaular.
+Being that strong at that age, you would make 
+fine knights in the future.
 
 <CM4>
 男：上
-よお、あんた。
-ランクメダルってのを持っていないかい？*
-ここだけの話だがな、
-なんでも、不思議なメダルらしくてよ。*
-これまでとは違う
-一回り上の力を手に入れられる魔道具らしいって
-もっぱらの噂なんだ。
-今なら高値でも買い取るぜ？
-な？見つけたら教えてくれよ。
+Hey, you.
+Is that a Rank Medal you have there?*
+Just between you and me,
+I hear they're quite an enigma.*
+It's not what it used to be.
+Rumor has it that it's a tool monsters used to
+raise their power every turn.
+I'd buy it for a high price yeah?
+let me know if you find one.
 
 男：上
-まったく魔物には困ったものだよ。
-いきなり湧いてきては、村や人を襲うんだから。*
+The demons are a serious threat.
+Because they spring up suddenly, and attack the
+people of the village*
 まあ、やつらは特に徒党を組んでいるわけでもないし、
 都の騎士団が出向けば今のところ負けなしだがね。*
 それでも急に襲われると、

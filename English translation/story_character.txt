@@ -10,7 +10,8 @@ Ch1:
 
 Ch2:
 イエヤス -> Leon
-Ie-yasu
+男 -> Man
+兵隊 -> Soldier
 
 キャラクター：
 勝ち気むすめ -> Determined Girl

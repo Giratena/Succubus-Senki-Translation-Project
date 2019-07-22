@@ -16,10 +16,22 @@ Attack (ユニッ卜メニュ中）　－＞ Atk
 回避 -> Avoid
 
 
-情報収集 -> Investigate
+情報収集 -> Gather Information
 ショップ -> Shop
 酒場 -> Tavern
+My Units -> Units
+
 
 Ch2:
+
+情報収集/前にバトル:
+ローブ姿の男【！】 -> Robed Man 【！】
 仲間に入れる -> Let him join
 仲間に入れない -> Don't let him join
+せっかち商人（スキップ機能） -> Hasty Merchant (Dialgoue Skip)
+兵隊 (仲間の雇用) -> Soldier (Hired Units)
+兵隊 (敵味方の情報) -> Soldier (Unit Status)
+村人A -> Villager A
+村人B -> Villager B
+おばあさん -> Elderly Lady
+
