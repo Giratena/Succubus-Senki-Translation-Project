@@ -3551,56 +3551,55 @@ can finally live in peace.
 
 <CM3>
 おばあさん：上
-ちょっとあんた、これ取っときなよ。
+You there, take this.
 
 おばあさん：上
-礼はいらないよ。
-あんたらみたいな若いのを見ると、
-無茶して死んだ、あの子が思い浮かぶのさ。
-攻撃と同じぐらい回復は大事だよ。
-しっかり体調管理して、死ぬんじゃないよ。
+No need to thank me.
+It makes me dreadfully worries seeing how
+young you all are.
+Recovery items are just as important as attacking.
+Look after yourselves, and don't die on us.
 
 <CM15>
 テロップ：中央
-街を歩いていると、ノブが近くの家に入るのが見えた。
-出ている看板を見るとどうやら宿屋のようだ。
-ノブはここに泊まっているのだろうか。
+As you walk through the town, you see Nobus enter 
+a nearby house. According to the signpost outside, it seems
+to be an Inn. Could Nobus be staying here?
 
 ミレニア：上
-\vo[mi1]いらっしゃいませ。宿屋、月影亭にようこそ。**
-\vo[mi2]あ！あなたがノブくんが話していたレイさん？
-初めまして。わたしミレニアって言います。
+\vo[mi1]Welcome to the Moonlight Inn!**
+\vo[mi2]Oh! Could you be the Lord Ray Nobby mentioned?
+Nice to meet you. I'm Mileena. 
 
 ノブ：上
-お、レイじゃないか。**
-俺、ここに泊まっているんだ。昨日、酒を飲んでいたらこ
-の子、ミレニアちゃんに誘われてさ。
+Ah, if it isn't Ray.**
+I've been staying here. This young lady Mileena invited
+me while I was out drinking.
 
 ミレニア：上
-\vo[mi3]ノブくんったら、
-英雄の一団を称える飲み会なのに、壁の方の
-すみっこで、一人でチビチビ飲んでいたんですよ。
-\vo[mi4]わたし、せっかくだから、話しかけちゃいました。**
-\vo[mi5]二人きりで話していたら、
-すっごくお話もはずんで・・・。
-ゆうべは楽しかったです。
+\vo[mi3]About Nobby, 
+despite the hero praise party happening, 
+he was worn out in the corner drinking.
+\vo[mi4]So, I got started a chat with him.**
+\vo[mi5]When it's only two people, you can talk for ages
+and ages... It was a fun evening.
 
 ノブ：上
-彼女はここの宿屋の娘さんなんだ。飲んだ後にぜひうち
-に泊まっていってくださいって言われてさ。*
-食事もおいしいし、いい宿だよ。ここは。
-都を中心にしばらく動くだろうから、その間の拠点はここ
-にしようかなと思っている。
+She's the innkeeper here. After we finished drinking
+I was asked would like to stay here for the night.*
+The meals here are delicious, it's a good place.
+It will be a while before we make our way to the captial,
+I was thinking of setting up base here in the meantime.
 
 ミレニア：上
-\vo[mi6]ほんと！うれしい❤
-むぎゅー❤
+\vo[mi6]Really!? I would love that～❤
+(Squeezeー❤)
 
 テロップ：中央
-ノブはミレニアに抱き着かれて、顔を真っ赤にして照れ
-ている。*
-このまま二人を見ているのも何なので、僕はそこそこで
-立ち去った。
+Mileena gave Nobus a hug, his face turning 
+red with embarrasement.*
+Seeing the two like that, I decided give them some 
+space and left promptly.
 
 <CM8>
 兵隊：上

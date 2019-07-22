@@ -12,6 +12,7 @@ Ch2:
 イエヤス -> Leon
 男 -> Man
 兵隊 -> Soldier
+ミレニア -> Mileena
 
 キャラクター：
 勝ち気むすめ -> Determined Girl
