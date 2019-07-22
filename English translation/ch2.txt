@@ -1,19 +1,19 @@
 <PL1>
 テロップ：中央
-人の声がしない・・・。**
-不審に思い家の中を調べると、
-そこには干からびた男たちの死体があった。*
-もう手遅れのようだ・・・。
+Nothing can be heard...**
+Investigating the unusual house,
+there was the dried up corpse of a man.*
+It was already too late...
 
 <PL0>
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
+It's a recovery circle.**
+It restores the HP of nearby allies!
 
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
-(ヒーラーが使用したため、効果範囲アップ)
+It's a recovery circle.**
+It restores the HP of nearby allies!
+(Healers increase the range of effect!)
 
 <AT2>
 守護兵：下
