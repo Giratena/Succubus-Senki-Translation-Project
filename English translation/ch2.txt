@@ -1346,47 +1346,45 @@ OPをスキップしますか？
 
 <OP0>
 兵隊：上
-た、たいへんだぁー！！
+This, this is terrible...!!
 
 レイ：上
-・・・・？
+...?
 
 兵隊：上
-み、都に魔物が攻め込んできたぁ！！
-助けてくれぇ！
+Mo, monsters have invaded the capital!!
+Someone help!
 
 ユミル：上
-おいおい、魔物ぐれぇ
-都にいる騎士団でなんとかなるだろ？*
-何をそんなに慌てて・・・。
+Hey hey, should the Order of Knights at the capital be 
+able to handle the monsters? There's no need for panic...
 
 兵隊：上
-ち、違うんだ。
-見たこともない魔物が現れて・・！
+N, No, this is different.
+The monsters are unlike anything we've seen...!
 
 レイ：上
-・・・・！
+...!
 
 兵隊：上
-女の姿をした魔物が城壁を囲んでいるんだ！**
-そいつら、いくら攻撃しても剣が体をすり抜けるんだよ！
-こちらの攻撃が全然効かないから、
-一方的に距離を詰められて・・・。
-体にまとわりついたかと思ったら、
-体から変な光みたいなのを吸いはじめたんだ！*
-それをされた城外の衛兵は
-みんな干からびちまって、
-ほとんど全滅してしまった！
-と、とにかく大変なんだ。
-誰か救援に来てくれ！！
+Monsters in the forms of wommen have surrounded the walls!**
+Swords slip past their body no matter how much you attack them!
+With attacking impossible, the battle has become increadibly
+one sided...
+Just when I thought I was dead, I breathed in a strange light.**
+All the guards outside the castle are passed out,
+We're almost entirely wiped out!*
+It, it's a disaster.
+S, someone help us!
+
 
 ユミル：上
-女型の魔物！
-来た来たぁ！
-さっそく俺たちの出番だぜ！
+The woman typed monsters!
+Gather around everyone!
+We must strike at once!
 
 ノブ：上
-急いで助けに行こう。
+Let's go and help quickly
 
 <ED0>
 ユミル：上
@@ -1420,27 +1418,27 @@ OPをスキップしますか？
 
 <CM2>
 ユミル：上
-お、戦術についての意見が聞きたいのか？**
-この戦いは都を襲う魔物を退治することが目的だ。
-だから自軍が全滅していなくても、都の防衛軍が全滅
-すると俺たちの負け・・・
-勝利条件は敵の全滅、あるいは敵リーダーの
-撃破だな。
+Huh? You want to hear my opinon on tactics?**
+The purpose of this fight it to rout the enemies attacking
+the capital. Therefore, even if our forces aren't wiped out,
+if the allied forces are defeated, we lose...
+We either need to rout the enemy, or 
+defeat the enemy leader.
 
 ユミル：上
-戦略的に重要な場所は二か所だ。
-一つはここ。
+There are two main points of interest.
+The first is here.
 
 ユミル：上
-スライムが湧いていることから見て、
-魔力が噴き出ているみたいだ。*
-ここに部隊を置けば、、
-湧き出る魔力の効果でHPを回復できる。
-特にヒーラーに任せればその効果は絶大だぜ。
-ついでに湧きたてのスライムは
-弱いくせに経験値が高いから
-おいしい獲物だ。ここを攻めるのは一石二鳥だな。
-次に、ここだ。
+Judging from the spring of slimes, there seems to be
+a source of magic.*
+If a unit is placed here,
+they can restore HP by releasing the magic within.
+Healers especially are rather effective at doing this.
+Speaking of Slimes, although they are weak.
+They'll yeild delicously high experience.
+An attack here would kill two birds with one stone.
+Next, is here.
 
 ユミル：上
 ここは周囲を山に囲まれている交通の要衝だ。
