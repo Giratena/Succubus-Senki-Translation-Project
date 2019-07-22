@@ -3542,12 +3542,12 @@ let me know if you find one.
 The demons are a serious threat.
 Because they spring up suddenly, and attack the
 people of the village*
-まあ、やつらは特に徒党を組んでいるわけでもないし、
-都の騎士団が出向けば今のところ負けなしだがね。*
-それでも急に襲われると、
-騎士団が来るまでにけっこうな被害が出る。*
-あんたらみたいな自警団がいると、
-街も安心だろうね。
+It would seem they don't like to attack in groups, and
+the knights certainly wouldn't have any problems.*
+But with the sudden attacks, by the time the order comes
+the damage would have already been done.*
+Now with you as our vigilante committee, the town
+can finally live in peace.
 
 <CM3>
 おばあさん：上
