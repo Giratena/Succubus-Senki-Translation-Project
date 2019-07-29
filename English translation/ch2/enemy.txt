@@ -6,68 +6,70 @@ Eek! What on... Enemies?
 
 <(65536)ルミーネ0>
 アクティブ：上
-\vo[rumi78]わたしの唇に魅了されてね？
-んー、ちゅ❤
+\vo[rumi78]Would you like to be facinated with my lips?
+Mm... chu-❤
 
 <(65536)ルミーネ1>
 アクティブ：上
-\vo[rumi79]ほぉら、キスだよ❤
+\vo[rumi79]Ho-ra, time for a kiss～❤
 
 アクティブ：上
-\vo[rumi80]わたしのこと好きになって？ん、ちゅ♥
+\vo[rumi80]Are you falling in love with me?
+Mm... chu-❤
 
 アクティブ：上
-\vo[rumi81]ちゅーぱっ❤
+\vo[rumi81]Kiss kiss kiss-❤
 
 アクティブ：上
-\vo[rumi82]えへへ、投げキッスするから、
-避けないでね？
+\vo[rumi82]Ehehe, you don't want to
+avoid my kisses do you?
 
 アクティブ：上
-\vo[rumi83]わたしのために戦って？
-「裏切りの投げキッス」❤
-んっ、ちゅ❤
+\vo[rumi83]You want to fight for me don't you?
+Kiss of Betrayal!-❤
+Mm... chu-❤
 
 アクティブ：上
-\vo[rumi84]洗脳されると気持ちいいんだよ？
-ちゅっ❤
+\vo[rumi84]Being brainwashed feels good doesn't it?
+Chu chu-❤
 
 アクティブ：上
-\vo[rumi85]わたしの奴隷さんにしてあげる♥
-んちゅっ❤
+\vo[rumi85]I'll make you my slave-♥
+Mmm, chu-❤
 
 アクティブ：上
-\vo[rumi86]仲間を裏切って、
-わたしに尽くしてぇ❤
-んー、ちゅば❤
+\vo[rumi86]Betray your allies,
+and serve me-❤
+Mmm, kiss-❤
 
 アクティブ：上
-\vo[rumi87]ふふ、こう見えておっぱいは
-すごく大きいんだよ？*
-\vo[rumi88]これで挟まれたらどんな男もいちころ❤
-あなたも挟んでおっぱいの虜にしてあげる。
+\vo[rumi87]Fufu, my boobs are absolutely
+ginormous aren't they?*
+\vo[rumi88]No man can win when between these bad girls～❤
+And now you'll become a slave to my tits too.
 
 アクティブ：上
-\vo[rumi89]歯向かうなんて生意気。
-そんな人には足で十分だよね？*
-\vo[rumi90]足でシコシコしごかれて、
-簡単に気持ちよくなっちゃうんだ。*
-\vo[rumi91]くすくす・・・。雑魚❤
+\vo[rumi89] What a saucy child; you have some fight in you.
+But for you my feet are more than suffciant aren't they?*
+\vo[rumi90]Stroking a pumping you with my feet,
+it's easy to force pleasure into your dick.*
+\vo[rumi91]Fufu... small fry-❤
 
 アクティブ：上
-\vo[rumi92]お口で天国に連れて行ってあげるね❤**
-\vo[rumi93]ほら、くわえられて、んっ・・・❤
-きもひいい？じゅぷ・・❤ん、んっ❤
+\vo[rumi92]I'll lead you to heaven with my mouth❤**
+\vo[rumi93]Hora, I'm gonna suck on it- Mmm...❤
+Does that feel good? Suck-❤ Mmm, slurp-❤
 
 アクティブ：上
-\vo[rumi94]わたしの手でシコシコされて幸せだね。**
-\vo[rumi95]いいんだよ？
-あっさり敵のサキュバスに負けちゃっても。相手は中級
-のサキュバスだもん。仕方ないよ。
-\vo[rumi96]シコシコ、シコシコってされて、
-腰砕けになっちゃうのは仕方ない。
-そうだよ❤
-\vo[rumi97]ぷぷぷ・・・。ザーコ❤
+\vo[rumi94]My hands stroking your penis brings you so 
+much joy doesn't it?*
+\vo[rumi95]It's good right?
+It doesn't matter if you give in right away. You're fighting 
+against an intermediate succubus, it can't be helped.
+\vo[rumi96]Stroke stroke, stroke stroke,
+you can't stop your waist from cumbling.
+Yes, like that～❤
+\vo[rumi97]Fall to your knees, the pleasure is too much～❤
 
 <(65537)足コキ淫魔0>
 アクティブ：上
