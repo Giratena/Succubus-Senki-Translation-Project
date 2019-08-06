@@ -1,4 +1,4 @@
-<PL1>
+﻿<PL1>
 テロップ：中央
 Nothing can be heard...**
 Investigating the unusual house,
@@ -1369,7 +1369,7 @@ Mo... Monsters have invaded the capital!!
 Someone help!
 
 ユミル：上
-Hey hey, should the Order of Knights at the capital be 
+Hey hey, shouldn't the Order of Knights be 
 able to handle the monsters? There's no need for panic...
 
 兵隊：上
