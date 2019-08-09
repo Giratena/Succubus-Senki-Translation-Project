@@ -3421,19 +3421,19 @@ Um, excuse me.
 ...?
 
 イエヤス：上
-Are you perhaps, 
-The one who defended the town against the demon attack,
+Are you, perhaps, 
+the one who defended the town against the demon attack,
 Lord \pdb[0]?
 Actually, I am quite confident on the battlefield myself.**
 My specialty is healing allies. If it is alright,
-may I accompany along as with you? 
+may I accompany you? 
 
 レイ：上
 ...
 
 イエヤス：上
 Truely!? Many thanks...!**
-Well then, I hope we make a soild team.
+Well then, I hope we make a solid team.
 
 テロップ：中央
 Leon joined the party!
@@ -3441,19 +3441,19 @@ Leon joined the party!
 イエヤス：上
 I see...**
 What a shame, I suppose it is out of my hands.
-If you change your mind, please come talk with me again.
+If you change your mind, please come speak with me again.
 
 <CM0-2>
 イエヤス：上
 Ah, Lord \pdb[0].
-Did you come to reconsider?
+Did you reconsider?
 
 レイ：上
 ...
 
 イエヤス：上
 Truely!? Many thanks...!**
-Well then, I hope we make a soild team.
+Well then, I hope we make a solid team.
 
 テロップ：中央
 Leon joined the party!
@@ -3461,7 +3461,7 @@ Leon joined the party!
 イエヤス：上
 I see...**
 What a shame, I suppose it is out of my hands.
-If you change your mind, please come talk with me again.
+If you change your mind, please come speak with me again.
 
 <CM1>
 男：上
@@ -3475,10 +3475,10 @@ I'm terrible at listening to people and their tales.
 I wish I could skip them all.
 
 テロップ：中央
-Use the [Ctl Key] or  [Left Click] to:
+Use the [Ctrl Key] or  [Left Click] to:
 - Skip Mesages
 - Increase battle speed
-It is very handy for ommiting dialogue.**
+It is very handy for omitting dialogue.**
 You can also use the [Space Key],
 to skip events entirely.
 
@@ -3501,19 +3501,19 @@ which is accessed from the location menu.
 <CM6>
 兵隊：上
 As a commander, it's important to know your allies.
-But know your enemies more.*
+But, know your enemies more.*
 You seem to have a keen eye for observing both enemies
 and allies.*
 Know yourself, and know your enemies when in battle, that's 
 what I always say. There is nothing more important.
 
 テロップ：中央
-When pusing the [Right Key] or [X Key] with the 
+When pushing the [Right Key] or [X Key] with the 
 cursor in battle,*
 You can check the status and held items of 
 units.*
-Not only can you see ally imformation, but 
-enemy imformation as well.*
+Not only can you see ally information, but 
+enemy information as well.*
 Furthermore, if you press the [Right Arrow Key] from
 within the status screen, you can view any status effects
 applied to that unit.
@@ -3522,7 +3522,7 @@ applied to that unit.
 男：上
 You lot were the ones who fought off the demons from
 that village?**
-That was nothing short of spectaular.
+That was nothing short of spectacular.
 Being that strong at that age, you would make 
 fine knights in the future.
 
@@ -3536,12 +3536,12 @@ It's not what it used to be.
 Rumor has it that it's a tool monsters used to
 raise their power every turn.
 I'd buy it for a high price yeah?
-let me know if you find one.
+Let me know if you find one.
 
 男：上
 The demons are a serious threat.
 Because they spring up suddenly, and attack the
-people of the village*
+people of the village.*
 It would seem they don't like to attack in groups, and
 the knights certainly wouldn't have any problems.*
 But with the sudden attacks, by the time the order comes
@@ -3555,7 +3555,7 @@ You there, take this.
 
 おばあさん：上
 No need to thank me.
-It makes me dreadfully worries seeing how
+It makes me dreadfully worried seeing how
 young you all are.
 Recovery items are just as important as attacking.
 Look after yourselves, and don't die on us.
@@ -3568,7 +3568,7 @@ to be an Inn. Could Nobus be staying here?
 
 ミレニア：上
 \vo[mi1]Welcome to the Moonlight Inn!**
-\vo[mi2]Oh! Could you be the Lord Ray Nobby mentioned?
+\vo[mi2]Oh! Could you be the Lord that Ray Nobby mentioned?
 Nice to meet you. I'm Mileena. 
 
 ノブ：上
@@ -3580,25 +3580,25 @@ me while I was out drinking.
 \vo[mi3]About Nobby, 
 despite the hero praise party happening, 
 he was worn out in the corner drinking.
-\vo[mi4]So, I got started a chat with him.**
+\vo[mi4]So, I started a chat with him.**
 \vo[mi5]When it's only two people, you can talk for ages
 and ages... It was a fun evening.
 
 ノブ：上
-She's the innkeeper here. After we finished drinking
-I was asked would like to stay here for the night.*
-The meals here are delicious, it's a good place.
-It will be a while before we make our way to the captial,
-I was thinking of setting up base here in the meantime.
+She's the innkeeper here. After we finished drinking,
+I was asked if I would like to stay here for the night.*
+The meals here are delicious, and it's a good place.
+It will be a while before we make our way to the capital,
+so I was thinking of setting up base here in the meantime.
 
 ミレニア：上
 \vo[mi6]Really!? I would love that～❤
 (Squeezeー❤)
 
 テロップ：中央
-Mileena gave Nobus a hug, his face turning 
-red with embarrasement.*
-Seeing the two like that, I decided give them some 
+Mileena gave Nobus a hug, and his face turned 
+red with embarrassment.*
+Seeing the two like that, I decided to give them some 
 space and left promptly.
 
 <CM8>
@@ -6027,7 +6027,7 @@ Aah, aaah...❤❤
 あは❤ありがとう。
 わー、キレイなものがいっぱい。*
 結構高かったでしょ？
-こんなにくt��てお姉さんうれしいなぁ♪*
+こんなにくt��てお姉さんうれしいなぁ♪*
 それじゃあ、いい子にはご褒美あげないとね。**
 おちんちんを鉄柵の中に入れてごらん？
 そうしたらシコシコできるから。*
