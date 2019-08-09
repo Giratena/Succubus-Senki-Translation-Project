@@ -1,0 +1,116 @@
+﻿Spare Dialogue
+
+ch1
+AT5
+Want it.
+Don't want it.
+
+AT6
+Want it
+Don't want it.
+
+AT7
+Want it
+Don't want it.
+
+AT8
+Let her do it.
+Don't let her do it.
+
+AT9
+Nod silently.
+Resist her advancements.
+
+AT11
+Wait and see what happens.
+Devliver the final blow.
+
+ch2
+AT4
+Sit down and spread your legs apart.
+Stand up and put and end to her.
+
+AT5
+Turn a blind eye to her actions.
+Don't turn a blind eye.
+
+AT7
+Stare longingly at her breasts.
+Stab at her, disregarding temptation.
+
+AT8
+Inspect her appearance.
+Disgregard it.
+
+AT9
+Stare longingly at her breasts.
+Stab at her, disregarding temptation.
+
+AT10
+Wait and see what happens.
+Deal with her seduction.
+
+AT11
+Wait and see what happens.
+Deal with her seduction.
+
+ch3
+AT3
+Stare longingly at her breasts.
+Stab at her, disregarding temptation.
+
+AT4
+Stare longingly at her breasts.
+Stab at her, disregarding temptation.
+
+AT9
+Wait and see what happens.
+Shake her off.
+
+AT5
+Look into her eyes.
+Close your eyes.
+
+AT10
+Stare longingly.
+Finish her.
+
+AT7
+Wait and see what happens.
+Stab at her, disregarding temptation.
+
+AT13
+Wait and see what happens.
+Finish her, disregarding temptation.
+
+AT19
+Wait and see what happens.
+Finish her, disregarding temptation.
+
+AT8
+Wait and see what happens.
+Finish her, disregarding temptation.
+
+AT15
+Wait and see what happens.
+Finish her, disregarding temptation.
+
+AT11
+Nod silently
+Finish her, disregarding temptation.
+
+AT17
+Wait and see what happens.
+Finish her, disregarding temptation.
+
+AT18
+Wait and see what happens.
+Finish her, disregarding temptation.
+
+AT20
+Stare longingly at her breasts.
+Finish her, disregarding temptation.
+
+AT21
+Stare longingly at her breasts.
+Finish her, disregarding temptation.
