@@ -19,7 +19,7 @@ Don't let her do it.
 
 AT9
 Nod silently.
-Resist her advancements.
+Resist her advances.
 
 AT11
 Wait and see what happens.
@@ -48,11 +48,11 @@ Stab at her, disregarding temptation.
 
 AT10
 Wait and see what happens.
-Deal with her seduction.
+Ignore her seduction.
 
 AT11
 Wait and see what happens.
-Deal with her seduction.
+Ignore her seduction.
 
 ch3
 AT3
