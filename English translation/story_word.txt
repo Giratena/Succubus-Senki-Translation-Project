@@ -28,7 +28,7 @@ Ch2:
 ローブ姿の男【！】 -> Robed Man 【！】
 仲間に入れる -> Let him join
 仲間に入れない -> Don't let him join
-せっかち商人（スキップ機能） -> Hasty Merchant (Dialgoue Skip)
+せっかち商人（スキップ機能） -> Hasty Merchant (Dialogue Skip)
 兵隊 (仲間の雇用) -> Soldier (Hired Units)
 兵隊 (敵味方の情報) -> Soldier (Unit Status)
 村人A -> Villager A
