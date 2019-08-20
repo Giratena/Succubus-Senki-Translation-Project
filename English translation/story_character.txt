@@ -1,6 +1,6 @@
 Ch1:
 クラス：
-中級サキュパス ->　Intermedite Succubus
+中級サキュパス ->　Intermediate Succubus
 下級サキユバス　->　Lesser Succubus
 見習いリーダー -> Lord
 見習いシ-フ -> Thief
