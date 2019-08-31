@@ -4216,36 +4216,34 @@ sending in one of our tougher soilders, and patch them
 up from a distance. That's my thinking at present.
 
 ユミル：上
-机のバリケードを突破したら、二階へ行くための大扉が
-ある。これは階段の近くのレバーを下ろせば、扉が開く
-って話だ。
-この扉から上に登れば・・・。
+Once we've broken through the desk barricades, there's a 
+big door we can use to go upstairs.  If you lower this 
+lever, the door will open, or so they say.
 
 ユミル：上
-すぐに賢者さまのいる部屋だ。二階にはこの学園の上
-級生たちが陣取っているらしい。戦闘力が高いから注
-意しろよ。
-場合によっては、そいつらを倒さないで、無理やり賢者
-さまのいる部屋を目指すのもありだと思うぜ。*
-さて、大臣さまの話だと、「王紋の首飾り」の魔力は、
-指揮官が持っていれば部隊全員に行きわたるらしい。*
-だから、賢者さまのドアに向かうのも、別にお前が直接
-行かなくても大丈夫だ。俺やノブ、それ以外の兵隊が
-賢者様を救出してもオッケーってわけだ。
+Immediately past the door is the Sage's room. It seems
+the second floor is where the upper class students reside.  
+Their strength is no joke, so i trust you to guide us well.
+Beating them or avoiding them is your call to make. 
+Remember, our mission is to rescue, so don't overstep.*
+And as the vice minister told us, you can use the power 
+of the "King Crest Necklace" to protect us.*
+For that reason, do not feel the need to rush in by yourself.
+The others, Nobus and I will always be there assist you.
 
 ユミル：上
-最後に、魔力が湧いているところを確認しておこう。
+Lastly, I'll establish the magic circle locations.
 
 ユミル：上
-魔法使いの学校ということもあって、魔力が湧いている
-箇所が無数にあるな。うまく使えば味方の体力を回復
-できるはずだ。
-戦闘不能者を出さず、味方の体力に十分気を付けて
-いきたいところだな。敵に対して多勢に無勢って形にな
-らないようにするのが重要だと思うぜ。
-なかなか苦戦するかもしれないが、慎重に進めればな
-んとかなるはずだ。賢者様を救い出して、国の中でさら
-に出世してやろうぜ！
+As this is a mage's academy, you'll find magic 
+circles in many places.*
+Take note of your allies who are low on health, and 
+place them accrodingly.* 
+Our forces are largely outnumbered, but I think we 
+can use the magic circles to turn the tide.*
+This'll be a hard fight, but we'll make it through
+somehow if we plan carefully. We'll rescue the sage,
+and win favour with the kingdom!
 
 <CM1>
 初等部生徒：中央
