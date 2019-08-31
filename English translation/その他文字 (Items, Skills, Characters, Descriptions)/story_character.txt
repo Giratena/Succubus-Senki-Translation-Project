@@ -1,6 +1,7 @@
-Main Characters:
+﻿Main Characters:
 レイー -> Ray
 ノブ -> Nobus
+ユミル -> Miles
 イエヤス -> Lyon
 
 Enemies:
