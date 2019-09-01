@@ -8,7 +8,7 @@ It was already too late...
 <PL0>
 テロップ：中央
 It's a recovery circle.**
-The HP of nearby allies have been restored!
+The HP of nearby allies has been restored!
 
 テロップ：中央
 It's a recovery circle.**
