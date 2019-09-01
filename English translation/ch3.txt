@@ -285,21 +285,21 @@ footjob and fellatio techniques-♥
 <PL11>
 テロップ：中央
 It's a recovery circle.**
-All surrounding ally's HP has been restored!
+The HP of nearby allies have been restored!
 
 テロップ：中央
 It's a recovery circle.**
-All surrounding ally's HP has been restored!
+The HP of nearby allies have been restored!
 (Healers increased the range of effect!)
 
 <PL12>
 テロップ：中央
 It's a recovery circle.**
-All surrounding ally's HP has been restored!
+The HP of nearby allies have been restored!
 
 テロップ：中央
 It's a recovery circle.**
-All surrounding ally's HP has been restored!
+The HP of nearby allies have been restored!
 (Healers increased the range of effect!)
 
 <PL13>
@@ -309,11 +309,11 @@ The door opened!
 <PL15>
 テロップ：中央
 It's a recovery circle.**
-All surrounding ally's HP has been restored!
+The HP of nearby allies have been restored!
 
 テロップ：中央
 It's a recovery circle.**
-All surrounding ally's HP has been restored!
+The HP of nearby allies have been restored!
 (Healers increased the range of effect!)
 
 <AT32>
