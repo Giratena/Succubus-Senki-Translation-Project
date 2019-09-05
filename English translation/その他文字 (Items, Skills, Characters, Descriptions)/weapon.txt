@@ -71,6 +71,6 @@ May strike twice. Odds increase with high skill.
 Power Lance
 A lance more powerful than your average lance.
 Killer Lance
-命中は低いがクリティカルが出やすい槍。
-天恵の槍
-天の恵みを宿した槍。装備していると体力自動回復。
+A lance with a high criticalrate but low hitrate.
+Blessed Spear
+A spear blessed by the goddess. Restores HP every turn when equipped.
