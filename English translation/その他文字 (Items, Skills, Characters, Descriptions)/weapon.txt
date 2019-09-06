@@ -18,9 +18,9 @@ Torturous Sword
 A sword that deals damage, but will never kill it's foe.
 Dark Sword
 A sword wreathed in darkness. Strong, but dulls the mind.
-Excalibur
+Kazemaken
 The holy sword of wind. Strike twice when attacking.
-Galatine
+Hikarimaken
 The holy sword of light. Surpresses the power of surrouding succubus.
 Asagiri
 A legendary sword with high offensive power.
