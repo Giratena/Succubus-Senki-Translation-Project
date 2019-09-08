@@ -156,7 +156,7 @@ Old Ring	Each ring has a random effect.
 Blood Pendant	所持しているとステータスがあがる。
 Luminous Pendant	所持しているとステータスがあがる。
 Joyful Jewel 所持していると幸運+20。幸運の成長+1。
-古びた石板	最大HP+30
+Rustic Tablet	最大HP+30
 神秘の石板	最大HP+100
 古の神像	神像の加護で生存能力が上がる。
 不思議な鉱石	全能力+2
