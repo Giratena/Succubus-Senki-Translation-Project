@@ -149,7 +149,7 @@ Treasure	200Gで売れるアイテム
 Ancient Drops 600Gで売れるアイテム
 Chipped Fine China 300Gで売れるアイテム
 Bullion	1000Gで売れるアイテム
-銀の燭台（換金）	800Gで売れるアイテム
+Candleabra	800Gで売れるアイテム
 謎の木像（換金）	700Gで売れるアイテム
 Stone	20Gで売れるアイテム
 Old Ring	Each ring has a random effect.
