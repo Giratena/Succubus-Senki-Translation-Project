@@ -18,9 +18,9 @@ Torturous Sword
 A sword that deals damage, but will never kill its foe.
 Dark Sword
 A sword wreathed in darkness. Strong, but dulls the mind.
-Kazemaken
+Amihan
 The holy sword of wind. Strike twice when attacking.
-Hikarimaken
+Mithrus
 The holy sword of light. Suppresses the power of surrounding succubi.
 Asagiri
 A legendary sword with high offensive power.
