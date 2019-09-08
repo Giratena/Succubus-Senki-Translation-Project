@@ -19,7 +19,7 @@ A sword that deals damage, but will never kill its foe.
 Dark Sword
 A sword wreathed in darkness. Strong, but dulls the mind.
 Amihan
-The holy sword of wind. Strike twice when attacking.
+The holy sword of wind. Strikes twice when attacking.
 Mithrus
 The holy sword of light. Suppresses the power of surrounding succubi.
 Asagiri
@@ -33,7 +33,7 @@ A legendary sword with a high critical hit rate.
 Jouroku
 A legendary sword with the ability to raise the stats of its user.
 Chisui
-A legendary sword able to adsorb HP while attacking.
+A legendary sword able to absorb HP while attacking.
 Mujin
 A legendary sword that will never dull no matter how much you use it.
 Dagger
@@ -59,7 +59,7 @@ A dagger designed to put enemies to sleep. Inflicts "Sleep" on foes.
 Lethality
 A dagger able to kill foes in one blow. High skill is needed to trigger this effect.
 Gambler's Knife
-Occasionally allows the use to act again after taking an action.
+Occasionally allows unit to act again after taking an action.
 Short Spear
 A short spear.
 Lance
