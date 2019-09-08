@@ -1,0 +1,201 @@
+Amihan	The holy sword of wind. It's true power will be unleashed when used.
+Mithrus	The holy sword of light.  It's true power will be unleashed when used.
+Sealed Cloth Sigil	A cloth with the power to surpress curses. Originaly wrapped around the holy sword Mithrus. It's used to cover the hilt of the sword.
+Stiff Start	Start with a degree of hardness.
+Female Recruitment Deploma	When held, allows female succubus enemies from past chapters to be recruited.
+Renown +1000	Bestows 1000 Renown.
+Gold +1000	Bestows 1000 Gold.
+Brassiere	You may receive a special "Service" after buying this…
+Stockings	You may receive a special "Service" after buying this…
+Panties	You may receive a special "Service" after buying this…
+Vulnerary	Heals 15 HP to an adjacent unit.
+Concoction	Heals 45 HP to an adjacent unit.
+Max Potion	Heals 80 HP to an adjacent unit.
+Sweet Tincture	Heals 5 HP to an adjacent unit.
+Alruane's Nectar	Fully Heals all HP to unit.
+Lamia Tea	Use to gradually restore HP for 5 turns.
+Elixir	Heals all HP to an adjacent unit.
+EXP Potion	Growth medicine that increases EXP by 100 when used.
+Infinite EXP Gem	A glimmering jewel that increases EXP by 100 when used.
+Speed Potion	Increases Avoidance for 3 turns.
+Speed Tonic	Greatly Increases Avoidance for 3 turns.
+HP Potion	Grants HP + 20 for 3 turns.
+HP Tonic	Grants HP + 50 for 3 turns.
+Poison	Poisons an adjacent enemy.
+Deadly Poison	Badly poisons an adjacent enemy.
+Strength Sap	Permantly decreases foe's strength by 1 after combat.
+Defense Sap	Permantly decreases foe's defence by 1 after combat.
+Magic Sap	Permantly decreases foe's magic by 1 after combat.
+Skill Sap	Permantly decreases foe's skill by 1 after combat.
+Speed Sap	Permantly decreases foe's speed by 1 after combat.
+Vaunted Sap	Permantly decreases all foe's stats by 2 after combat.
+Aphrodasiac	May inflict "Charm" on enemies while held.
+Seductive Aroma	Lowers the stats of surrouding male units within a three tile radius.
+Bottled Slime	A bottle containing a slime's deadly poison. Converts others into slimes.
+Powder	Powder that serves no real purpose.
+Smelling Salts	Cures an adjacent chamed unit.
+Brainwashing Medicine	Cures an adjacent brainwashed unit.
+Temptation Medicine 	Cures an adjacent unit from seduction.
+Arousal Nulifier	Cures an adjacent unit from arousal.
+Panacea	Removes all negative status conditions.
+Panacea Pack	Removes all negative status conditions.
+Large Panacea Pack	Removes all negative status conditions.
+Healing Leaf	A magical leaf that can be used multiple times. Heals 10- HP.
+Recovery Leaf	A magical leaf that can be used multiple times. Heals 80 HP.
+Spirit Leaf	A magical leaf that can be used multiple times. Heals 20 HP.
+Goddess Leaf	A magical leaf that can be used multiple times. Heals 120 HP.
+Sour Leaf	ちぎってなめると苦みから正気に戻る葉。魅了・発情から回復する。
+Swift Mantle	エルフからもらったマント。所持していると速さ+5。
+Dash Boots	所持していると移動力が１上がる。
+Pegasus Boots	所持していると移動力が3上がる。
+Boots of Hermes	所持していると移動力が12上がる。
+Ultra Growth Gem	所持しているとレベルアップ時に成長補正がかかる宝玉。
+Gem of Healing	自身の体力を25回復する（何回でも使用可能）
+Gem of Life	所持していると毎ターン10自然回復する。
+Turnwheel Gem	時空をゆがめて味方全体をもう一度行動可能にする宝玉。一度しか使えない。
+Iron Dumbbells	所持していると力が少し伸びやすくなる。
+Stamina Suit	重りを入れた服。所持しているとHPが少し伸びやすくなる。
+Weighted Boots	所持していると速さが少し伸びやすくなる。
+Dexterous glove	所持していると技が少し伸びやすくなる。
+Mystery Moss	所持していると魔力が少し伸びやすくなる。
+Lively Flag	所持しているとHPの成長にやや大きなボーナスが付く。
+Toy Doll	少年がくれたおもちゃの人形。所持していると心を強く持てる。
+Elf's Amulet	精神力+1、魔力+2、幸運+2
+Fourleafed Clover	幸運+10
+Heavy Armour	重い鎧で防御力抜群。
+Small Shield	小さな金属製の盾
+Class Change Certificate	所持しているとクラスチェンジができるようになる。
+Healing Tome	味方一人の体力を25回復する(射程全域)。
+Healing Cane	味方一人の体力を30回復する杖。射程２。
+Healing Staff	味方一人の体力を60回復する杖。射程２。
+Forest Staff	味方一人の体力を30回復する杖。素材の木がよく、魔力が遠くまで届く。
+All Recovery Staff (Weak)	味方全員の体力を8回復する杖。
+All Recovery Staff (Medium)	味方全員の体力を25回復する杖。
+All Recovery Staff (Strong)	味方全員の体力を65回復する杖。
+Prayer Staff	範囲6の味方の体力を魔力分だけ回復する杖。耐久に優れる。
+Wonderous Cane	範囲6の味方の体力を魔力*2だけ回復する杖。耐久に優れる。
+Charm Restoration Stave	味方一人の魅了を回復する杖。射程２。
+Brainwashing Restoration Stave	味方一人の「裏切り」を回復する杖。射程２。
+Curious Restoration Save	味方一人の状態異常をすべて回復する杖。射程２。
+Stave of Paralysis	相手一人に「金縛り」を付与。
+Powerup Stave	味方一人に「攻撃力増加」を付与。
+Speed Stave	既に行動した味方一人を再行動させる。
+Entrap	味方一人を自分のもとに引き寄せる
+Entrap+	味方一人を自分のもとに引き寄せる（モルジア専用）
+Heavy Footed Curse	敵1人に鈍足を付与する（速さと移動力低下）
+Paralysis Curse	敵1人に「金縛り」（移動封印）を付与する
+Magic Down Curse	敵1人に魔力低下を付与する。
+Defence Down Curse	敵1人に守備力低下を付与する。
+Luck Down Curse	敵1人に幸運低下を付与する。
+Heavy Footed Curse	敵1人に鈍足を付与する（速さと移動力低下）
+Paralysis Curse	敵1人に「金縛り」（移動封印）を付与する
+Magic Down Curse	敵1人に魔力低下を付与する。
+Defence Down Curse	敵1人に守備力低下を付与する。
+Luck Down Curse	敵1人に幸運低下を付与する。
+Enchanted Inscription	使用するとページが1枚消費され、ランダムで呪いの力が充填される。
+Surrender/Give up	使用すると味方全員が勝負をあきらめて無抵抗になる。
+Negative Status Inflictor	使用すると使用者に任意のバッドステータスを付与する。
+Soldier	ふつうの兵士。
+Elite Soldier	才能のある兵士。
+Teacher	味方の基礎ステを上げられる。戦闘力は低い
+Discoverable House	特技「発掘」でアイテムを収集できる
+Lancer	「技」の高い槍使い
+Healer	回復の杖が使える癒し手
+Alchemist	薬を調合できる職人
+Flag Bearer	近くにいる味方を強化する支援ユニット
+Upstart Thief	HPと攻撃力にすぐれるユニット
+Magician	相手の妨害に特化したユニット
+Martial artist	己の肉体のみで戦い、武器やアイテムの消費の少ないユニット。
+Attack Boost	隣接する味方を指定して、その攻撃力を強化する
+HP Boost	隣接する味方を指定して、その最大HPを強化する
+HP Boost+	隣接する味方を指定して、その最大HPを強化する
+Skill Boost	隣接する味方を指定して、その技を強化する
+Speed Boost	隣接する味方を指定して、その速さを強化する
+Attack Boost+	隣接する味方を指定して、その攻撃力を強化する
+幸運強化（強）	隣接する味方を指定して、その幸運を強化する
+技強化（強）	隣接する味方を指定して、その技を強化する
+速さ強化（強）	隣接する味方を指定して、その速さを強化する
+魔力強化（強）	隣接する味方を指定して、その魔力を強化する
+全能力強化	隣接する味方を指定して、そのすべての能力を強化する
+HPダウン（弱）	使用者のHPを―3するアイテム。
+力ダウン（弱）	使用者の力を―1するアイテム。
+魔力ダウン（弱）	使用者の魔力を―1するアイテム。
+技ダウン（弱）	使用者の技を―1するアイテム。
+速さダウン（弱）	使用者の速さを―1するアイテム。
+精神力ダウン（弱）	使用者の精神力を―1するアイテム。
+幸運ダウン（弱）	使用者の幸運を―1するアイテム。
+Force Weakness: Breasts	
+Force Weakness: Feet	
+Force Weakness: Kiss	
+Force Weakness: Fellatio	
+Force Weakness: Handjob	
+Force Weakness: Sex	
+Force Weakness: Charm	
+Resist Weakness: Breasts	
+Resist Weakness: Feet	
+Resist Weakness: Kiss	
+Resist Weakness: Fellatio	
+Resist Weakness: Handjob	
+Resist Weakness: Sex	
+Resist Weakness: Charm	
+Power Band	Increases strength by 2 when held.
+Defence Ring	Increases defence by 2 when held.
+Protection Ring	Increases resistance by 2 when held.
+Muscle Ring	力を２上げる代わりに魔力が５下がる指輪。
+運まかせの指輪	幸運を３、速さを５上げる代わりに精神が５下がる指輪。
+全能力アップの指輪	全能力を+1する指輪
+土くれ	20Gで売れるアイテム
+雑貨	200Gで売れるアイテム
+古びたツボ（換金）	600Gで売れるアイテム
+欠けた陶器（換金）	300Gで売れるアイテム
+金の置物（換金）	1000Gで売れるアイテム
+銀の燭台（換金）	800Gで売れるアイテム
+謎の木像（換金）	700Gで売れるアイテム
+ただの岩	20Gで売れるアイテム
+Old Ring	Each ring has a random effect.
+ブラッドペンダント	所持しているとステータスがあがる。
+ルミナスペンダント	所持しているとステータスがあがる。
+ハッピージュエル	所持していると幸運+20。幸運の成長+1。
+古びた石板	最大HP+30
+神秘の石板	最大HP+100
+古の神像	神像の加護で生存能力が上がる。
+不思議な鉱石	全能力+2
+魔法のランプ	最大HP+10、魔力+4、幸運+2
+呪いのツボ	HP+30、力+5、移動力+1、毎ターン10ダメージ受ける。
+幸運のメダル	幸運が高いとまれに連続行動できる
+神秘のメダル	幸運が高いとまれに連続行動できる
+King Crest Necklace	A necklace engraved with the crest of the holy family.  Holds an unknown power.
+発情回避の腕輪	「発情」を無効にする腕輪。
+Melty Mouth	射程3。「フェラに弱い」相手を誘引し魅了を付与する
+誘惑する谷間	射程4。「おっぱいに弱い」相手を誘引し３０ダメージを与える
+強制洗脳ぱふぱふ	射程3。「おっぱいに弱い」相手を洗脳する
+強制洗脳ぱふぱふ	範囲1。相手をおっぱいの快楽で洗脳する
+魅了フェロモン	射程2。「発情」相手を「魅了」する
+蠱惑の歌	隣接した相手に「洗脳」を付与する。
+Seducing Song	範囲５の敵に「洗脳」を付与する。
+捕食する花弁	射程１。「誘惑」相手を即死させる。
+Panty Temptation	「パンチラテンプテーション」。射程4、範囲3。「自慰狂い」付与。
+Arousal Rain Kiss	投げキッスの雨を降らせて、「発情」「勃起」を付与（射程5）。
+Harem Rain Kiss	投げキッスの雨を降らせて、範囲5に「裏切り」を付与。
+Alluring Bow	「誘惑」を付与。射程６
+Dream Prison	「おっぱいに弱い」相手を攻撃した時に発動。相手を夢に閉じ込め洗脳する。
+Paizuri Hold Temptation	周囲６マスの敵に「弱点：おっぱい」を付与。
+高揚の舞	味方全体の攻撃力を大きくあげる。
+そよ風の舞	味方全体の速さを大きくあげる。
+エイジドレインギガ	敵全体にミニマム（永続）を付与。相手を手のひらサイズにもできる魔法。
+応援キッス	味方一人の移動力を一時的に+3する。
+幻影蘇生	幻影が死亡しても復活させることができる。
+エスナ姫のお守り	精神力+3。自軍の精神的な状態異常を解除できる。（無限使用）
+淫魔のパンツ	淫魔が手渡してきたパンツ。彼女たちの匂いがしみついている。
+淫魔のブラ	淫魔がつけているブラ。
+メイドの手袋	メイド淫魔が着用していた手袋。肌触りがとてもよい。持っているだけでムラムラしてくる。
+セクシーパンツ	淫魔が着用していた下着。布面積が非常に少なく過激である。甘い匂いがして力が抜けてしまう。
+アリスのブラ	乳魔アリスが使用しているブラジャー。持っているだけで理性がとろける。
+巨大回復キノコ	食べると自分の体力を30回復するキノコ。大きいので5回も使える。
+魔吸茸	魔力を吸い取るキノコ。使うと相手の魔力を永続的に-1する。
+のろいの草	相手をのろくする草。相手の速さを永続的に-3する。
+Energy Apple	食べると活力がみなぎる魔法のリンゴ。最大HP+10。
+黄金のリンゴ	食べると生命力がみなぎる魔法のリンゴ。最大HP+20。
+魔獣の牙	兵士たち十数人で討伐した魔獣の牙。力+2、幸運+1
+悪魔の角	HP+5、力+1、魔力+3
+霊獣の木彫り人形	精神+1、速さ+8、移動+1
