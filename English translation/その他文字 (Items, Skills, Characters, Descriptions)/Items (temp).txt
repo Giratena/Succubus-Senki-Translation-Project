@@ -153,9 +153,9 @@ Candleabra	800Gで売れるアイテム
 Enigmatic Sat	700Gで売れるアイテム
 Stone	20Gで売れるアイテム
 Old Ring	Each ring has a random effect.
-ブラッドペンダント	所持しているとステータスがあがる。
-ルミナスペンダント	所持しているとステータスがあがる。
-ハッピージュエル	所持していると幸運+20。幸運の成長+1。
+Blood Pendant	所持しているとステータスがあがる。
+Luminous Pendant	所持しているとステータスがあがる。
+Joyful Jewel 所持していると幸運+20。幸運の成長+1。
 古びた石板	最大HP+30
 神秘の石板	最大HP+100
 古の神像	神像の加護で生存能力が上がる。
