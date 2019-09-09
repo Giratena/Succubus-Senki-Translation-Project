@@ -3479,13 +3479,13 @@ You want to chat...?
 Eeh, alright, but keep it short.
 
 男：上
-...actually, I'm too impatient for that.
+...Actually, I'm too impatient for that.
 I'm terrible at listening to people and their tales.
 I wish I didn't need to talk to anyone.
 
 テロップ：中央
 Use the [Ctrl Key] or  [Left Click] to
-skip Mesages, or increase battle speed.
+skip messages, or increase battle speed.
 It is very handy for omitting dialogue.
 You can also use the [Space Key],
 to skip events entirely.
@@ -3513,12 +3513,12 @@ But, know your enemies more.*
 You seem to have a keen eye for observing both enemies
 and allies.*
 Know your allies, but don't forget about your enemies.
-that's what I always say. Nothing is more important.
+That's what I always say. Nothing is more important.
 
 テロップ：中央
 When pushing the [Right Key] or [X Key] with the 
 cursor in battle,
-You can check unit status and held items.
+you can check unit status and held items.
 Not only can you see ally information, but 
 enemy information as well.*
 Furthermore, if you press the [Right Arrow Key] from
@@ -3551,9 +3551,9 @@ Because they spring up suddenly, and attack the
 people of the village.
 It would seem they don't like to attack in groups, and
 the knights certainly wouldn't have any problems.*
-But with the sudden attacks, by the time the order comes
+But with the sudden attacks, by the time the order comes,
 the damage would have already been done.*
-Now with you as our vigilante committee, the town
+Now with you as our vigilante group, the town
 can finally live in peace.
 
 <CM3>
@@ -3581,8 +3581,8 @@ Nice to meet you. I'm Mileena.
 
 ノブ：上
 Oho, if it isn't Ray.**
-I've been staying here. This young lady
-Mileena invited me while I was out drinking.
+I've been staying here. This young lady,
+Mileena, invited me while I was out drinking.
 
 ミレニア：上
 \vo[mi3]So about Nobus, despite the hero praise 
@@ -3616,11 +3616,11 @@ space and left promptly.
 
 <CM8>
 兵隊：上
-Uugh, I drank way to much last night...**
+Uugh, I drank way too much last night...**
 There's no way I can do my duties with this 
 headache.*
 If you're feeling worse for wear,
-try some panacea. It works for just about anything
+try some Panacea. It works for just about anything
 other than deadly poison.
 You can only get such medicine from the capital.
 It's a tad expensive, but for the sake of my 
@@ -3629,8 +3629,8 @@ duties... Oogh...
 <CM10>
 兵隊：上
 Hmm, what to do...**
-Strength increases deals damage delt with weapons,
-and magic increases damage delt with staves
+Strength increases damage dealt with weapons,
+and magic increases damage dealt with staves
 and magic. 
 So in that case...**
 For instance, there are items which boost 
@@ -3650,7 +3650,7 @@ Because of yesterday's attack, I wasn't able
 to account for the people who ran away, so I'll
 have to start over again.
 It's not just limited to this either, keeping
-records are incredibly important. I'd reccomend
+records are incredibly important. I'd recommend
 using it to stay out of trouble.
 
 テロップ：中央
@@ -3673,7 +3673,7 @@ We're counting on you!
 This is the money everyone managed to scrape up.
 If you hadn't driven awway those demons, I don't
 know what I would have done with my life.
-Buy what ever weapons you can with this money,
+Buy whatever weapons you can with this money,
 and do your best to protect this country!
 
 <CM11>
@@ -3681,11 +3681,11 @@ and do your best to protect this country!
 I used to live outside the castle walls,
 now I'm taking refuge inside the castle in
 anticipation of the next attack.
-But, although, they're demons right?
+But, they're demons right?
 I heard they're monsters who take the forms of
-sexy woman.*
+sexy women.*
 I recall one time I saw a drop dead sexy woman,
-and she tried to becken me closer.
+and she tried to beckon me closer.
 If I wasn't with my daughter at the time, I might
 have swayed, but I think I could withstand
 her seduction.
@@ -3695,7 +3695,7 @@ her seduction.
 Hey, big brother! Are you worried about gold?**
 If so, you should make friends with an Excavator!**
 Excavators can collect items and gold from dungeons.
-If you got one, I'd bet you'd end up with alot of
+If you got one, I'd bet you'd end up with a lot of
 money!
 
 <CM13>
@@ -3753,8 +3753,8 @@ Please? Won't you follow us...?
 
 お姉さん：上
 Ahnn-❤
-Don't say such a cold thing. Well then.
-You will get my killer breast smothering-❤
+Don't say such a cold thing. Well then,
+you will get my killer breast smothering-❤
 No man can endure this*
 Hora, I will wrap my breasts around your face,
 and go rub rub...❤ Squish squish...❤
@@ -3771,7 +3771,7 @@ Did our breasts excite you? Hehehe...
 Hey...... Won't you stay still?
 I will rub you through your clothing...♥*
 Just like this, rub rub-❤ Rub rub...❤
-And for your tip I'll go,scratch scratch, 
+And for your tip I'll go scratch scratch, 
 scratch scratch-❤
 
 レイ：上
@@ -3792,7 +3792,7 @@ We will make you feel really good-❤
 お姉さん：上
 Kyaha-❤
 Time to guide this customerー♪*
-Hora, this way this way. Follow us...❤
+Hora, this way, this way. Follow us...❤
 
 お姉さん：上
 Is this your first time in an erotic shop?
@@ -3826,7 +3826,7 @@ You did great. Good boy, good boy-❤
 お姉さん：上
 Ufufu, next is my turn.
 I will suck on you with my mouth.
-So hora, plese let out more...❤
+So hora, please let out more...❤
 
 レイ：上
 Ahh...❤
@@ -3923,8 +3923,8 @@ My my...❤
 Just seeing our faces...*
 Did it make you remember our breast smothering from
 before and make you hard?-❤*
-Hora, we will make that large thing feel good,**
-So it you want to feel better, come to our shop❤
+Hora, we will make that large thing feel good.**
+So, if you want to feel better, come to our shop❤
 
 レイ：上
 Uhh...❤
@@ -3932,7 +3932,7 @@ Uhh...❤
 お姉さん：上
 Kyaha-❤
 Time to guide this customerー♪*
-Hora, this way this way. Follow us...❤
+Hora, this way, this way. Follow us...❤
 
 お姉さん：上
 Is this your first time in an erotic shop?
@@ -3965,7 +3965,7 @@ You did great. Good boy, good boy-❤
 お姉さん：上
 Ufufu, next is my turn.
 I will suck on you with my mouth.
-So hora, plese let out more...❤
+So hora, please let out more...❤
 
 レイ：上
 Ahh...❤
@@ -4061,7 +4061,7 @@ You lost to our temptation, and paid a lot of money.
 
 お姉さん：上
 I am not interested in poor people.
-But I want you to come back.*
+But, I want you to come back.*
 If you can pay 1000 gold, I will think about it...
 Hehehe......❤
 
@@ -4095,7 +4095,7 @@ Ahh...・❤ Ahh......❤
 お姉さん：上
 Hehehe. This is our double paizuri-❤*
 Our breasts are wrapping around your no good penis.
-Does it fell good?*
+Does it feel good?*
 From your tip to your base, our breasts are wrapping
 comーpletely around you, squishing against you...❤
 
@@ -4104,8 +4104,8 @@ Afuuuu-❤ It feels so good...❤
 
 お姉さん：上
 You are melting from our technique-❤
-How cutee-❤*
-You can become our captive even more okay?
+How cuuuute-❤*
+How can you become our captive even more?
 Hoora, we will move our breasts in opposite directions.
 Squish squish-❤ Squeeze Squeeze-❤
 
@@ -4122,7 +4122,7 @@ face rubbing and cowgirl combination-❤
 Oーkay, I am happy to do it,
 but you will have to pay me more okay?-❤*
 This time is just our paizuri.
-But just that feels amazing enough, hmm?
+But, just that feels amazing enough, hmm?
 
 レイ：上
 Ahiii, ahh-❤ Ahh-❤
