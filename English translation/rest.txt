@@ -1200,105 +1200,114 @@ Up to this point is the current version.
 Thank you for playing.
 
 テロップ：中央
-都を救った僕たちは、
-人々から大きな歓待を受けていた。
+There was a great deal of hospitality from the 
+people we saved at the capital.
 
 男：上
-救国の英雄たちに、乾杯ー！！！
+To the heroes who saved our country!!!
 
 ユミル：上
-ひゃっはー！！
-見ろよ、この盛り上がり！！*
-俺たちあっという間に英雄様だぜ。
-うっははー！信じらんねぇ。
+Whoa-!!
+Now this is what I'm talking about.*
+It's like we've become instant heroes!
+Hahaha! You'd better believe it.
 
 レイ：上
-・・・・♪
+...♪
 
 ユミル：上
-いやぁ、大手柄をあげた後で飲む酒はうまいな！
-おい、そこの兄ちゃん、もっとくれよ！
+No kidding, nothing beats a good drink after a 
+sweet victory!
+Hey brother, fill 'er up once more!
 
 男：上
-おうおう、飲め飲め♪
-あんたらのおかげでこの命があるんだ。
-いくら飲んでもらってもおつりがくるぜ！
+Ohoho, drink to your hearts content-♪
+I owe you my life thanks to you guys.
+Drink all you want, it's on the house!
 
 兵隊：上
-この度は本当にありがとうございました。
-あなたがたが来なければどうなっていたことか・・・。*
-我々の攻撃はなぜかやつらには当たりませんでした。
-しかし、あなた方の剣はやつらを切り裂いた！*
-あなた方はまさしく英雄です！
+I thank you from the bottom of my heart.
+I hate to imagine what would have happened if you
+had not come to our rescue.
+For some reason our attacks could not land at all,
+and yet, your swords cut right through them!*
+There is no doubt, you are surely heroes!
 
 レイ：上
-・・・・・。
+...
 
 ユミル：上
-だはは♪
-レイ、お前もいい感じに酔っぱらっているじゃねえか。*
-勝利は素直に喜ぶ。
-名誉は謙遜せずに受ける。
-これに限るよな！
+Wahaha♪
+Ray, you're not getting sober too are you?*
+Victory is sweet.
+Honour is only recieved without humility.
+That's the best way to approach this!
 
 ユミル：上
-おいおい、謙遜するなよ～♪**
-俺たちはこの都に住んでいる全員の命を守ったんだ。
-これが英雄じゃなければ何が英雄だっていうんだ！*
-ここは素直に喜ぼうぜ。ほらほら、もっと飲みな！
+Hey now, no need to be honest～♪**
+We just saved everyone in the capital.
+If that's not what heroes do, then I don't know 
+what is!
+So drink up! Yeah, that's it! We did it!
 
 レイ：上
-・・・・♪
+...♪
 
 兵隊：上
-あの、あなた方がこの団の指揮官の方々でしょうか。**
-わたくしは大臣さまからの伝令で参りました。
+Pardon the interruption! Are you the leader of
+this band of mercinaries?*
+I have been sent as a messenger by the chancellor!
 
 ユミル：上
-大臣さまから！？ひぇ、そんな偉い人が一体何を。
+The chancellor!? What could such a high noble want?
 
 兵隊：上
-詳しい話は存じておりませんが、みなさまに明日の夜、
-王城まで来ていただきたいとのことです。
+I cannot diverge into details, but he would like 
+for you all to arrive at the castle by tomorrow 
+evening and listen to what he has to say. 
+
 
 ユミル：上
-ありゃ、そういえばノブはどこいったんだ？
-あいつとも乾杯しなきゃ締まらねえからな。*
-おーい、ノブー？どこだぁ？
+Ah, now that I think about it, where's Nobus?
+I gotta have a toast with him too.*
+Hey, Nobus, where are you?
 
 ：上
-（遠くでノブが誰かと話しているのが見える。）
+(Nobus is seen speaking with someone in the 
+distance.)
 
 ミレニア：上
-・・・♪・・・♪
+...♪...♪
 
 ノブ：上
-・・・♪
+...♪
 
 ：上
-（会話の内容は聞こえないが楽しそうだ。）
+(It's hard to hear what they're talking about,
+but they seem to be having fun.)
 
 ユミル：上
-おお、何だよ。ノブのやつも隅に置けねえな。
-あんなかわい子ちゃんと仲良くしてよ。*
-それにしても、すっげー胸のサイズの子だな。
-ううっ、サキュバスと戦ったばかりだから、なんだか見てる
-とムラムラしちまうぜ。
-ま、ここは友情ということで、ほっといてやるか。
-女っ気がなかったノブも、これからに期待だな。
-がはは♪
+Oh, would you look at that. That's Nobus over 
+there. Chatting up with that cute girl.*
+Not only that, check out the size of her chest.
+Uugh, we only just fought succubi earlier, so 
+seeing something like that makes my heart pound.
+But this is his friend we're talking about here,
+so I'll back off the smack.*
+I always knew Nobus would be so popular with
+the ladies! Ahaha-♪
 
 テロップ：中央
-こうして僕たちの活躍を祝う宴は
-夜更けまで続いた。*
-宴の終わりのこと。**
-「大臣さまがあなた方をお呼びしているので、
-明日の夜、王城に来るように」
-と隊長とおぼしき人物が伝えてきた。
-・・・・・・。**
-この情勢なら何か任務を与えられるかもしれない。
-朝のうちに、道具を整えたり、いろいろな準備をしてお
-いた方がいいだろう。
+And so, the feast of our celebration lasted*
+into the night.*
+The last words of that night conveyed by what
+seemed to be a commanding officer,**
+"The chancellor has summoned you,
+so come to the castle tomorrow evening."*
+...**
+What sort of duties he would give us, I had no 
+idea. Come morning, we'd better prepare ourselves
+and organise our equipment for what's to come.
 
 <OP2>
 テロップ：中央
@@ -3466,19 +3475,18 @@ If you change your mind, please come speak with me again.
 <CM1>
 男：上
 Oh, Hello.
-Chat...?
+You want to chat...?
 Eeh, alright, but keep it short.
 
 男：上
-Actually, I'm too impatient for that.
+...actually, I'm too impatient for that.
 I'm terrible at listening to people and their tales.
-I wish I could skip them all.
+I wish I didn't need to talk to anyone.
 
 テロップ：中央
-Use the [Ctrl Key] or  [Left Click] to:
-- Skip Mesages
-- Increase battle speed
-It is very handy for omitting dialogue.**
+Use the [Ctrl Key] or  [Left Click] to
+skip Mesages, or increase battle speed.
+It is very handy for omitting dialogue.
 You can also use the [Space Key],
 to skip events entirely.
 
@@ -3489,14 +3497,14 @@ something shiny.
 <CM5>
 兵隊：上
 Hmm? You want strong allies? Well in that case why 
-not visit the bar?*
+not visit the tavern?*
 If you have enough renown, you should gain many followers.
 
 テロップ：中央
-Renown points are obtained depending on the cleared stage.
-These points can be used to hire allies.*
-You can use Renown points to hire allies at the [Bar],
-which is accessed from the location menu.
+Renown points are obtained depending on the cleared 
+stage. These points can be used to hire allies.*
+You can use Renown points to hire allies at the 
+[Tavern], which is accessed from the location menu.
 
 <CM6>
 兵隊：上
@@ -3504,14 +3512,13 @@ As a commander, it's important to know your allies.
 But, know your enemies more.*
 You seem to have a keen eye for observing both enemies
 and allies.*
-Know yourself, and know your enemies when in battle, that's 
-what I always say. There is nothing more important.
+Know your allies, but don't forget about your enemies.
+that's what I always say. Nothing is more important.
 
 テロップ：中央
 When pushing the [Right Key] or [X Key] with the 
-cursor in battle,*
-You can check the status and held items of 
-units.*
+cursor in battle,
+You can check unit status and held items.
 Not only can you see ally information, but 
 enemy information as well.*
 Furthermore, if you press the [Right Arrow Key] from
@@ -3521,7 +3528,7 @@ applied to that unit.
 <CM2>
 男：上
 You lot were the ones who fought off the demons from
-that village?**
+that village?*
 That was nothing short of spectacular.
 Being that strong at that age, you would make 
 fine knights in the future.
@@ -3541,7 +3548,7 @@ Let me know if you find one.
 男：上
 The demons are a serious threat.
 Because they spring up suddenly, and attack the
-people of the village.*
+people of the village.
 It would seem they don't like to attack in groups, and
 the knights certainly wouldn't have any problems.*
 But with the sudden attacks, by the time the order comes
@@ -3563,8 +3570,9 @@ Look after yourselves, and don't die on us.
 <CM15>
 テロップ：中央
 As you walk through the town, you see Nobus enter 
-a nearby house. According to the signpost outside, it seems
-to be an Inn. Could Nobus be staying here?
+a nearby house. According to the signpost outside, 
+it seems to be an Inn. 
+Could Nobus be staying here?
 
 ミレニア：上
 \vo[mi1]Welcome to the Moonlight Inn!**
@@ -3572,14 +3580,14 @@ to be an Inn. Could Nobus be staying here?
 Nice to meet you. I'm Mileena. 
 
 ノブ：上
-Ah, if it isn't Ray.**
+Oho, if it isn't Ray.**
 I've been staying here. This young lady
 Mileena invited me while I was out drinking.
 
 ミレニア：上
-\vo[mi3]About Nobus, 
-despite the hero praise party happening, 
-he was worn out in the corner drinking.
+\vo[mi3]So about Nobus, despite the hero praise 
+party happening, he was worn out in the corner
+drinking.
 \vo[mi4]So, I started a chat with him.**
 \vo[mi5]When it's only two people,
 you can talk for ages and ages...
@@ -3588,7 +3596,7 @@ It was a fun evening.
 ノブ：上
 She's the innkeeper here.
 After we finished drinking, I was asked
-if I would like to stay here for the night.*
+if I would like to stay here for the night.
 The meals here are delicious,
 and it's a good place.
 It will be a while before we make our
@@ -3608,61 +3616,65 @@ space and left promptly.
 
 <CM8>
 兵隊：上
-うっ、昨日は飲みすぎました・・・。**
-頭が痛くて、このままでは任務に支障が出そうです。**
-体調が悪くなったときは、万能薬ですね。
-猛毒から酔い覚ましまで
-何にでも効きます。
-都ぐらいでしか手に入らない便利な薬です。
-ちょっと高いですが、これも任務のため・・・。
-うえっぷ・・・。
+Uugh, I drank way to much last night...**
+There's no way I can do my duties with this 
+headache.*
+If you're feeling worse for wear,
+try some panacea. It works for just about anything
+other than deadly poison.
+You can only get such medicine from the capital.
+It's a tad expensive, but for the sake of my 
+duties... Oogh...
 
 <CM10>
 兵隊：上
-ええと、何々・・・。**
-力は武器で与えるダメージにだけ影響し、魔力は杖や
-魔術書で与えるダメージにだけ影響するのか。
-ん、ということは・・・。
-例えば、力をあげる代わりに魔力が下がるアイテムがあ
-ったとしたら、武器で戦う戦士にとっては実質デメリット
-がないわけか。ふむふむ、なるほど・・・。
+Hmm, what to do...**
+Strength increases deals damage delt with weapons,
+and magic increases damage delt with staves
+and magic. 
+So in that case...**
+For instance, there are items which boost 
+strength, but lower magic. So they would be best
+on physical attackers right? Hmmm, I see...
 
 兵隊：上
-おや、きみは噂の英雄くんじゃないか。
-そうだ、これをあげるよ。
+Oh, you're the hero they've been talking about
+right? I thought so. Here, take this.
 
 <CM47>
 兵隊：上
-やあ。こんにちは。
-僕はここで街に入った人の記録を取っているんだ。*
-昨日の襲撃のときは、緊急のことだったから、
-逃げてきた人の完全な記録が取れていないけれど、
-そこはまた追々やる予定さ。
-これに限らず、記録はとても大事だからね。
-面倒でもまめにつけることをお勧めするよ。
+Ah. Good morning.
+I've been keeping a record of all the people in
+this town.
+Because of yesterday's attack, I wasn't able
+to account for the people who ran away, so I'll
+have to start over again.
+It's not just limited to this either, keeping
+records are incredibly important. I'd reccomend
+using it to stay out of trouble.
 
 テロップ：中央
-セーブは、
-拠点や戦闘準備画面で行うことができますが、
-戦闘中の各ターン開始時にも行うことができます。
-ユニットのいない場所をクリックするとメニューが開くので
-そこから「セーブ」の項目を選択してください。*
-また、「オプション」で設定すれば、
-メニューに「ロード」の項目を付け加えることもできます。
+The ability to [save] is enabled during the 
+investigation and investigation menus.*
+At the start of each turn, you can also open the 
+menu and [save] provided you have not moved any 
+units. 
+Furthermore, using the options menu, you can 
+enable the [load] function during battle as well.
 
 <CM7>
 おばあさん：上
-おや、あんたが噂の英雄さんかい？
-ほお、なかなか男前じゃないか。*
-これは餞別だ。とっときな。
-頼りにしてるよ！
+Ah, are you the hero I've heard rumours about?
+Oho, you're quite the handsome fellow.*
+Consider this a parting gift.
+We're counting on you!
 
 おばあさん：上
-さっきの金はみんなでかき集めたのさ。あんたらが魔物
-を追い払わなければ、どうなってたか分からない命だか
-らね。
-この金で少しでもいい武器を買って、
-この国のために頑張っておくれよ！
+This is the money everyone managed to scrape up.
+If you hadn't driven awway those demons, I don't
+know what I would have done with my life.
+Buy what ever weapons you can with this money,
+and do your best to protect this country!
 
 <CM11>
 男：上
