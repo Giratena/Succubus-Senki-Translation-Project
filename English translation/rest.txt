@@ -3678,23 +3678,25 @@ and do your best to protect this country!
 
 <CM11>
 男：上
-俺、城壁の外に住んでいたんだがよ、
-今度の襲撃で城内に逃げ込んできたんだ。*
-いやぁ、とはいえ、あの魔物は何なのかね。
-あんなエロい女のモンスター、聞いたことねえぜ。*
-俺が出会ったときも、
-すげえエロいポーズをしながら、
-こっちに手招きしてきたんだ。
-娘が一緒にいなかったら、ふらふらついていってたかもな
-よくあの誘惑に耐えられたと自分でも思うよ。
+I used to live outside the castle walls,
+now I'm taking refuge inside the castle in
+anticipation of the next attack.
+But, although, they're demons right?
+I heard they're monsters who take the forms of
+sexy woman.*
+I recall one time I saw a drop dead sexy woman,
+and she tried to becken me closer.
+If I wasn't with my daughter at the time, I might
+have swayed, but I think I could withstand
+her seduction.
 
 <CM12>
 男：上
-おいおい兄ちゃん、あんた金に困ってたりするか？**
-もしそうなら発掘家を仲間に加えるといいかもな。**
-発掘家はダンジョンからアイテムやゴールドを収集でき
-る連中だ。あいつらがいれば、金欠とおさらばできるか
-もしれねぇぜ。
+Hey, big brother! Are you worried about gold?**
+If so, you should make friends with an Excavator!**
+Excavators can collect items and gold from dungeons.
+If you got one, I'd bet you'd end up with alot of
+money!
 
 <CM13>
 ：スチル
