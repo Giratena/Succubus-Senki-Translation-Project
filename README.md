@@ -13,11 +13,3 @@ Dialogue Box and Translation Guide:
   - "テクスト...❤" -> "Text...❤"
   - "テクスト～❤" -> "Text～❤" (IMPORTANT: Don't do "Text~❤"! The game engine won't recognise this.)
 Your branch may not be accpeted if these rules aren't followed!
-
------------
-Proofreading/Writing Guide:
-TBA
-
------------
-Items Guide:
-TBA
