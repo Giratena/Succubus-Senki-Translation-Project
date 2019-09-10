@@ -4639,44 +4639,55 @@ helped the heroes who saved this country.
 
 <CM19>
 男：上
-例の新しい魔物の件だが、
-ついに騎士団が反撃を始めたらしいね。
-さすがはわが国の騎士団だ。頼りになるよ。
-王都まで敵が来たときは本当にひやひやしたからねぇ。
-ああ、どうか早く魔物を退治してくれますように。
+Even with these new kinds of monsters,
+the Knights of Order have already started counter
+attacking. 
+As expected from our country's knight squadron. 
+They're quite dependable.
+But when the enemies tried to attacked the capital
+I admit I was fearing the worst.
+Aah, please get rid of those demons quickly.
 
 <CM22>
 男：上
-聞いたかい？
-なんでも近くの店に王女様が来ていたんだってね。*
-この国の王族の方々は、
-代々魔道具を作るのに秀でていてね。
-今回も魔道具の材料を買いにやって来たらしい。
-自分で目利きをしたいからって、
-直接下町のお店に来るんだから、
-いやあ、お姫様とは思えない職人気質だねえ。
+Did you hear?
+The princess came to visit one of the shops around
+here.*
+The many royal families in this country has 
+excelled at creating magical artifacts for 
+generations.
+But now, it seems you can come here buy the 
+resources for these magical artifacts.
+I wanted to see it for myself,
+so I came to the shops downtown, no,
+I don't think Princess would take pride 
+in her work.
 
 <CM33>
 男：上
-よお、あんた。薬はいらねえかい？**
-いやいや怪しい薬じゃねえよ、普通の回復薬さ。**
-実は俺の仲間にアルケミストやっているやつがいてな。
-薬の調合はお手の物なのよ。
-それを分けてもらったってわけ。
-あんたもアルケミストを仲間にすれば、
-薬が楽に手に入って便利だと思うぜ。
+Hey, you. Want some drugs?**
+What? No! Not the dubious kind, I mean general
+recovery medicine.*
+The truth is, one of the companions is an 
+alchemist.
+Mixing medicine is his specialty.
+I got a share of what he makes.
+If you had an alchemist in your party, I bet 
+you'd get a lot of medicine easily too!
 
 男：上
-ほら、これはお試し品だ。とっときな。
+Here, these are some trial goods. Have fun.
 
 <CM20>
 おばあさん：上
-最近、食べ物の値段が高くっていけないね。**
-やっぱり戦になると物が高くなる。
-それに田舎の村ばかり襲われているから、
-今年の収穫は結構被害を受けているみたいだ。
-ああ、やだやだ。
-うまくやりくりしないといけないね。
+During times like these, we can't have the food
+be at high prices.*
+During the war, prices rise of cause.
+Because only the rural areas of the country have
+been attacked, this years harvest will be taking
+a significant impact.
+Oh, what to do...
+We ought to manage our resources well.
 
 <CM17>
 テロップ：中央
@@ -15452,3 +15463,4 @@ Aah, aaah...❤
 
 テロップ：中央
 ミラージュに力を吸い取られてしまった・・・
+
