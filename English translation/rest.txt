@@ -4579,31 +4579,34 @@ back!
 
 <CM32>
 テロップ：中央
-通りに人だかりができている。
-その横で、兵隊がひとをかき分けようとしていた。
+You make your way through the crowd.
+Next to you, a soldier is trying to push his way
+past the people.
 
 兵隊：上
-ああ、ちょっとどいてください。
-ううっ、背伸びしても見えない・・・。
-もう少しで見えそうなのに・・・。
-あ、これは英雄どの！
-いや、お恥ずかしい姿をお見せしました。*
-実は、美人で有名なエスナ姫が
-そこの高級店でお買い物をされているらしく、
-ちょっとした人だかりができているのです。
-田舎から出てきて都勤めになったばかりですから、
-一度はエスナ姫のお顔を見たいと思って、
-物見遊山をしていたのですが、なかなか見えなくて・・・
-いや、その、すいません・・・。
-任務に戻ります・・・。
+Excuse me, could you please step aside?
+Ooh, I can't see a thing even when using the tips 
+of my toes... Although I can almost see it...
+Ah, if it isn't Sir Hero! Oh, please excuse
+my awkward posture just now.*
+The truth is, the beautiful and renowed Princess 
+Esuna is out shopping in that high class 
+store over there, 
+but the crowd is proving to be a bit of a bother.**
+I've only just come out of the country to work in
+the capital, so I want to see Princess Esuna at
+least once. 
+I thought I'd catch her during some sight seeing, 
+but I can't see a thing...*
+Er, um, my apologies...
+I will be returning to my duties.
 
 テロップ：中央
-メッセージ枠で隠れて画像が見にくいときには、
-矢印キーの左右を押すと、
-メッセージ枠が一時的に非表示になります。
-画像やアニメーションをしっかり見たいときに
-便利な機能です。
-もう一度、左右キーを押すと元に戻ります。
+If textboxes are obstructing images, you can 
+temperarily hide them by pressing left and right 
+on the arrow keys. It's handy for when you want 
+to see images and animations clearly. Simply press
+the left and right keys again to revert back.
 
 <CM18>
 兵隊：上
@@ -4624,12 +4627,15 @@ back!
 
 <CM27>
 ミツヒデ：上
-あ、こんにちは。レイさん。**
-わたしも弱年ながら、賢者と呼ばれている身です。
-何か分からないことがあればお気軽にご質問ください。*
-サキュバスについてのことなど、いくらか情報も入ってい
-ます。この国を救う英雄の力になれると思えば、とてもう
-れしいです。
+Oh, hello Mr. Ray!**
+I may be frail, but I've been said to be quite
+knowlegeable.
+If there's anything you don't understand
+please feel free to ask.*
+I even have information on things concerning 
+succubui and the like as well.
+It would make me very happy if I could think I
+helped the heroes who saved this country.
 
 <CM19>
 男：上
