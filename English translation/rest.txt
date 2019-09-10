@@ -1133,16 +1133,17 @@ We routed the demons attacking the village, and
 headed towards the village to report our findings.
 
 ユミル：上
-Ugh, that was a quite a fight, definitly something
-worthy of praise!
+Ugh, that was a quite a fight, definitely 
+something worthy of praise!
 
 レイ：上
 ...?
 
 ユミル：上
 The reason why I say that is...
-We've never heard of those demon typed girls we defeated 
-have we? We would have gained valuable experience from 
+We've never heard of those demon typed girls we 
+defeated, have we? 
+We would have gained valuable experience from 
 fighting those rare enemies!
 
 
@@ -1150,17 +1151,20 @@ fighting those rare enemies!
 ...!
 
 ユミル：上
-We need to report this to the order of knights right away,
-We'll plan a new demon counterplan with the order,
-and while doing so, we create a name for ourselves.
-They'll see our true abilies, and promote us! Don't you see?
+We need to report this to the Knight Order right 
+away.* 
+We'll make a new demon counterplan with the Order,
+and while doing so, create a name for 
+ourselves.
+They'll see our true abilities, and promote us! 
+Don't you see?
 
 ノブ：上
 Sigh...
 
 ユミル：上
-Huh? Hey hey, what's the matter Nobus?
-You alright? You've been sighing since we got here.
+Huh? Hey hey, what's the matter Nobus? You 
+alright? You've been sighing since we got here.
 Are you unwell?
 
 ノブ：上
@@ -1172,10 +1176,12 @@ It felt really nice...
 
 ノブ：上
 Aah, it must be that. Yeah, I know.
-They're evil demons. But, um, when they, started to...*
-The time I felt those soft breasts still lingres in my mind...
+They're evil demons. 
+But, um, when they, started to...
+The time I felt those soft breasts still lingers 
+in my mind...*
 When I'm asleep, when I'm awake, 
-it's like "I want it" even more.*
+it's like "I want it" even more.
 I can't help but be concerned.
 
 レイ：上
@@ -1191,12 +1197,12 @@ so be steady, Nobus. Pull yourself together.
 Uuugh... I'll do my best.
 
 テロップ：中央
-We set forward to depat for the captial at once after a
-rest from our jouney to Reshia.
+We departed for the capital after recuperating
+from our jouney to Reshia.
 
 <OP1>
 テロップ：中央
-Up to this point is the current version.
+This marks the end of the current version.
 Thank you for playing.
 
 テロップ：中央
@@ -1221,7 +1227,7 @@ sweet victory!
 Hey brother, fill 'er up once more!
 
 男：上
-Ohoho, drink to your hearts content-♪
+Ohoho, drink to your heart's content-♪
 I owe you my life thanks to you guys.
 Drink all you want, it's on the house!
 
@@ -1238,9 +1244,9 @@ There is no doubt, you are surely heroes!
 
 ユミル：上
 Wahaha♪
-Ray, you're not getting sober too are you?*
+Ray, you're not getting sober too, are you?*
 Victory is sweet.
-Honour is only recieved without humility.
+Honour is only received without humility.
 That's the best way to approach this!
 
 ユミル：上
@@ -1255,15 +1261,16 @@ So drink up! Yeah, that's it! We did it!
 
 兵隊：上
 Pardon the interruption! Are you the leader of
-this band of mercinaries?*
+this band of mercenaries?*
 I have been sent as a messenger by the chancellor!
 
 ユミル：上
-The chancellor!? What could such a high noble want?
+The chancellor!? 
+What could such a high noble want?
 
 兵隊：上
-I cannot diverge into details, but he would like 
-for you all to arrive at the castle by tomorrow 
+I cannot divulge the details, but he would like 
+for you all to arrive at the castle tomorrow 
 evening and listen to what he has to say. 
 
 
@@ -1288,20 +1295,20 @@ but they seem to be having fun.)
 
 ユミル：上
 Oh, would you look at that. That's Nobus over 
-there. Chatting up with that cute girl.*
+there. Chatting up that cute girl.*
 Not only that, check out the size of her chest.
 Uugh, we only just fought succubi earlier, so 
 seeing something like that makes my heart pound.
-But this is his friend we're talking about here,
+But this is our friend we're talking about here,
 so I'll back off the smack.*
-I always knew Nobus would be so popular with
+I always knew Nobus would be popular with
 the ladies! Ahaha-♪
 
 テロップ：中央
-And so, the feast of our celebration lasted*
-into the night.*
+And so, the party lasted 
+well into the night.*
 The last words of that night conveyed by what
-seemed to be a commanding officer,**
+seemed to be a commanding officer,*
 "The chancellor has summoned you,
 so come to the castle tomorrow evening."*
 ...**
@@ -3421,7 +3428,8 @@ and organise our equipment for what's to come.
 
 <CM0>
 テロップ：中央
-Walking through the town, a robed man speaks out to you.
+Walking through the town, 
+a robed man speaks out to you.
 
 イエヤス：上
 Um, excuse me.
@@ -3431,9 +3439,10 @@ Um, excuse me.
 
 イエヤス：上
 Are you, perhaps, 
-the one who defended the town against the demon attack,
-Lord \pdb[0]?
-Actually, I am quite confident on the battlefield myself.**
+the one who defended the town against the demon 
+attack, Lord \pdb[0]?
+Actually, I am quite confident 
+on the battlefield myself.*
 My specialty is healing allies. If it is alright,
 may I accompany you? 
 
@@ -3441,7 +3450,7 @@ may I accompany you?
 ...
 
 イエヤス：上
-Truely!? Many thanks...!**
+Truly!? Many thanks...!**
 Well then, I hope we make a solid team.
 
 テロップ：中央
@@ -3450,7 +3459,8 @@ Leon joined the party!
 イエヤス：上
 I see...**
 What a shame, I suppose it is out of my hands.
-If you change your mind, please come speak with me again.
+If you change your mind, 
+please come speak with me again.
 
 <CM0-2>
 イエヤス：上
@@ -3461,7 +3471,7 @@ Did you reconsider?
 ...
 
 イエヤス：上
-Truely!? Many thanks...!**
+Truly!? Many thanks...!**
 Well then, I hope we make a solid team.
 
 テロップ：中央
@@ -3470,65 +3480,71 @@ Leon joined the party!
 イエヤス：上
 I see...**
 What a shame, I suppose it is out of my hands.
-If you change your mind, please come speak with me again.
+If you change your mind, 
+please come speak with me again.
 
 <CM1>
 男：上
-Oh, Hello.
+Oh, hello.
 You want to chat...?
 Eeh, alright, but keep it short.
 
 男：上
-...Actually, I'm too impatient for that.
-I'm terrible at listening to people and their tales.
+...Actually, I'm too impatient for that. I'm 
+terrible at listening to people and their tales.
 I wish I didn't need to talk to anyone.
 
 テロップ：中央
-Use the [Ctrl Key] or  [Left Click] to
+Use the [Ctrl Key] or [Left Click] to
 skip messages, or increase battle speed.
 It is very handy for omitting dialogue.
-You can also use the [Space Key],
+You can also use the [Space Key]
 to skip events entirely.
 
 テロップ：中央
-While walking down the road, you see the glitter of
-something shiny.
+While walking down the road, 
+you see the glitter of something shiny.
 
 <CM5>
 兵隊：上
-Hmm? You want strong allies? Well in that case why 
-not visit the tavern?*
-If you have enough renown, you should gain many followers.
+Hmm? You want strong allies? Well in that case, 
+why not visit the tavern?*
+If you have enough renown, 
+you would gain many followers.
 
 テロップ：中央
-Renown points are obtained depending on the cleared 
-stage. These points can be used to hire allies.*
+Renown points are obtained depending on the 
+cleared stage. 
+These points can be used to hire allies.
 You can use Renown points to hire allies at the 
-[Tavern], which is accessed from the location menu.
+[Tavern], which is accessed from the 
+location menu.
 
 <CM6>
 兵隊：上
-As a commander, it's important to know your allies.
-But, know your enemies more.*
-You seem to have a keen eye for observing both enemies
-and allies.*
-Know your allies, but don't forget about your enemies.
-That's what I always say. Nothing is more important.
+As a commander, it's important to know your 
+allies.
+But, know your enemies even more.*
+You seem to have a keen eye for 
+observing both enemies and allies.*
+Know your allies, but don't forget about your 
+enemies. That's what I always say. 
+Nothing is more important.
 
 テロップ：中央
-When pushing the [Right Key] or [X Key] with the 
-cursor in battle,
+When pushing the [Right Click] or [X Key] 
+with the cursor in battle,
 you can check unit status and held items.
 Not only can you see ally information, but 
 enemy information as well.*
-Furthermore, if you press the [Right Arrow Key] from
-within the status screen, you can view any status effects
-applied to that unit.
+Furthermore, if you press the [Right Arrow Key] 
+from within the status screen, you can view any 
+status effects applied to that unit.
 
 <CM2>
 男：上
-You lot were the ones who fought off the demons from
-that village?*
+You lot were the ones who fought off the demons 
+from that village?*
 That was nothing short of spectacular.
 Being that strong at that age, you would make 
 fine knights in the future.
@@ -3539,21 +3555,23 @@ Hey, you.
 Is that a Rank Medal you have there?*
 Just between you and me,
 I hear they're quite an enigma.*
-It's not what it used to be.
+To this day, no one knows what they do.
 Rumor has it that it's a tool monsters used to
 raise their power every turn.
-I'd buy it for a high price yeah?
+I'd buy it for a high price, yeah?
 Let me know if you find one.
 
 男：上
 The demons are a serious threat.
 Because they spring up suddenly, and attack the
 people of the village.
-It would seem they don't like to attack in groups, and
-the knights certainly wouldn't have any problems.*
-But with the sudden attacks, by the time the order comes,
-the damage would have already been done.*
-Now with you as our vigilante group, the town
+It would seem they don't like to attack in groups,
+and the knights certainly wouldn't have any 
+problems.
+But with the sudden attacks, 
+by the time the order comes,
+the damage would have already been done.
+Now with you as our mercenary group, the town
 can finally live in peace.
 
 <CM3>
@@ -3570,7 +3588,7 @@ Look after yourselves, and don't die on us.
 <CM15>
 テロップ：中央
 As you walk through the town, you see Nobus enter 
-a nearby house. According to the signpost outside, 
+a nearby house. According to the signpost outside,
 it seems to be an Inn. 
 Could Nobus be staying here?
 
@@ -3585,10 +3603,9 @@ I've been staying here. This young lady,
 Mileena, invited me while I was out drinking.
 
 ミレニア：上
-\vo[mi3]So about Nobus, despite the hero praise 
-party happening, he was worn out in the corner
-drinking.
-\vo[mi4]So, I started a chat with him.**
+\vo[mi3]I saw Nobus tired out and drinking alone 
+at his own party.
+\vo[mi4]So, I started to chat with him.**
 \vo[mi5]When it's only two people,
 you can talk for ages and ages...
 It was a fun evening.
@@ -3605,7 +3622,7 @@ setting up base here in the meantime.
 
 ミレニア：上
 \vo[mi6]Really!? I would love that～❤
-(Squeezeー❤)
+(Squeeze-❤)
 
 テロップ：中央
 Mileena gave Nobus a hug, and his face turned 
@@ -3635,7 +3652,7 @@ and magic.
 So in that case...**
 For instance, there are items which boost 
 strength, but lower magic. So they would be best
-on physical attackers right? Hmmm, I see...
+on physical attackers, right? Hmmm, I see...
 
 兵隊：上
 Oh, you're the hero they've been talking about
@@ -3645,7 +3662,7 @@ right? I thought so. Here, take this.
 兵隊：上
 Ah. Good morning.
 I've been keeping a record of all the people in
-this town.
+town.
 Because of yesterday's attack, I wasn't able
 to account for the people who ran away, so I'll
 have to start over again.
@@ -3654,13 +3671,13 @@ records are incredibly important. I'd recommend
 using it to stay out of trouble.
 
 テロップ：中央
-The ability to [save] is enabled during the 
+The ability to [Save] is enabled during the 
 investigation and investigation menus.*
 At the start of each turn, you can also open the 
-menu and [save] provided you have not moved any 
+menu and [Save], provided you have not moved any 
 units. 
 Furthermore, using the options menu, you can 
-enable the [load] function during battle as well.
+enable the [Load] function during battle as well.
 
 <CM7>
 おばあさん：上
@@ -3687,16 +3704,17 @@ sexy women.*
 I recall one time I saw a drop dead sexy woman,
 and she tried to beckon me closer.
 If I wasn't with my daughter at the time, I might
-have swayed, but I think I could withstand
+have been swayed, but I think I could withstand
 her seduction.
 
 <CM12>
 男：上
 Hey, big brother! Are you worried about gold?**
-If so, you should make friends with an Excavator!**
-Excavators can collect items and gold from dungeons.
-If you got one, I'd bet you'd end up with a lot of
-money!
+If so, you should make 
+friends with an Excavator!*
+Excavators can collect items and gold from 
+dungeons. If you got one, I'd bet you'd end up 
+with a lot of money!
 
 <CM13>
 ：スチル
@@ -3704,11 +3722,11 @@ As I walked by the entrance to a back alley,
 two women in erotic clothing called out to me.
 
 お姉さん：上
-Hey, big brother over there?
-Why don't you play with us?**
+Hey, big brother over there.
+Why don't you play with us?*
 Look at this outfit. Isn't it sexy?
 Fufu, you are blushing while looking away.
-I can tell you are peeking at my cleavage.❤
+I can tell you're peeking at my cleavage.❤
 Your innocent reaction is so cute-❤
 Hora, I will give you some service,
 so shall we do something pleasant together?
@@ -3738,7 +3756,7 @@ That girl has the biggest breasts in our shop.*
 They are so huge that you can't even wrap
 your arms around them.*
 Having your face buried between them would
-feel nice wouldn't it?*
+feel nice, wouldn't it?*
 Hora, imagine it...❤
 Her soft breasts, wrapping around
 various parts of ya...*
@@ -3746,7 +3764,7 @@ It would feel so great,
 that your head would go blank...
 
 お姉さん：上
-Heyyー...❤
+Heyy...❤
 If you want me to do something even better,
 won't you come to our shop...❤*
 Please? Won't you follow us...?
@@ -3764,18 +3782,18 @@ and go rub rub...❤ Squish squish...❤
 Hn-❤❤
 
 お姉さん：上
-Ahnn-❤ He is twitching. How cuteeー♪**
+Ahnn-❤ He is twitching. How cute～♪**
 And big brother's place down here is, ufu.
 You've gotten hard-❤
 Did our breasts excite you? Hehehe...
-Hey...... Won't you stay still?
+Hey... Won't you stay still?
 I will rub you through your clothing...♥*
 Just like this, rub rub-❤ Rub rub...❤
 And for your tip I'll go scratch scratch, 
 scratch scratch-❤
 
 レイ：上
-Uhh...❤ Ahh...❤
+Ughh...❤ Ahh...❤
 
 お姉さん：上
 You are letting a cute voice-❤
@@ -3785,13 +3803,13 @@ like this...
 
 お姉さん：上
 Sheesh, how mean-❤
-Okay then. If you get horny and can't hold back
+Okay then. If you get horny and can't hold back,
 come here again.
-We will make you feel really good-❤
+We'll make you feel really good-❤
 
 お姉さん：上
 Kyaha-❤
-Time to guide this customerー♪*
+Time to guide this customer～♪*
 Hora, this way, this way. Follow us...❤
 
 お姉さん：上
@@ -3801,20 +3819,20 @@ Fufu, we will do a lot of pleasant things-❤
 お姉さん：上
 According to some soldiers, it seems that
 some sexy monsters have appeared...*
-But I don't think we will lose to them-❤
-We will make you spurt everywhere with our
-techniques we have trained in this shopー❤
+But I don't think we'll lose to them-❤
+We'll make you spurt everywhere with the
+techniques we have trained in this shop-❤
 
 レイ：上
-Hn...❤ Uh...❤
+Hn...❤ Ugh...❤
 
 お姉さん：上
 Ahnn-❤ I just started stroking you,
-but you are twitching so muchー❤
-How cuteeeー❤
-Hora horaー.
-Lose to this older sister's technique
-and ejaculateー❤
+but you're twitching so much～❤
+How cute-❤
+Hora hora～.
+Submit to this older sister's technique
+and ejaculate-❤
 
 レイ：上
 Ahh...❤ I'm going to...❤
@@ -3840,11 +3858,11 @@ to have sex-❤*
 Sex is actually forbidden here,
 and cumming inside would cause a huge fine...
 But, inserting you is okay right..?
-Pleaーse-❤
+Plea-se?-❤
 My pussy, is aching so much...❤
 
 レイ：上
-Ahh...❤ Uhh...❤
+Ahh...❤ Ughh...❤
 
 お姉さん：上
 Big brother's member is already unable to
@@ -3874,9 +3892,9 @@ Ah, ahhh, it feels so goodddd-❤❤
 お姉さん：上
 Yahh-❤ You are crying out so cutely-❤**
 You are cute, so I will give you an extra service.
-Hoーra, I'll wrap my breasts around your face.
+Ho-ra, I'll wrap my breasts around your face.
 As I enchant you with my breasts, I will shake
-my hips a lotー❤
+my hips a lot-❤
 
 レイ：上
 Ahh, uhhh, ahiii...❤❤
@@ -3886,28 +3904,30 @@ Ufufu, you came in an instant-❤**
 But it couldn't be helped. Being ridden
 by her as she wraps her breasts around your face-❤
 When this girl does that, everyone goes mad.
-And you were a virgin right? You are already
+And you were a virgin, right? You're already
 addicted to her. You will be this girl's prisoner
-from now on......❤
+from now on...❤
 
 レイ：上
 Ahhhhh-❤
-Ah... nooo, I'm going to cum againnn....❤
+Ah... Nooo, I'm going to cum againnn...❤
 
 お姉さん：上
-Go ahead......❤
-Spurt out as much as you want until your money is all gone-❤
+Go ahead...❤
+Spurt out as much as you want 
+until your money is all gone-❤
 
 テロップ：中央
-After being milked by the older sisters a lot,
-as a fine for breaking the 「No Sex」 rule of the shop,
-all my money was taken away!
+After being milked dry by the older sisters,
+as a fine for breaking the 「No Sex」 rule of the 
+shop, all my money was taken away!
 
 <CM13-2>
 ：スチル
 Even though I knew I shouldn't,
 I came back to the entrance to that alley.*
-And sure enough, the women from before called out to me.
+And sure enough, 
+the women from before called out to me.
 
 お姉さん：上
 Aha-❤ As expected you came back to play.
@@ -3916,23 +3936,24 @@ Aha-❤ As expected you came back to play.
 Hehe. You couldn't endure the lust inside you-❤
 
 レイ：上
-Uhhh---❤
+Ughhh...❤
 
 お姉さん：上
 My my...❤
 Just seeing our faces...*
-Did it make you remember our breast smothering from
-before and make you hard?-❤*
+Did it make you remember our breast smothering 
+from before and make you hard?-❤*
 Hora, we will make that large thing feel good.**
 So, if you want to feel better, come to our shop❤
 
 レイ：上
-Uhh...❤
+Ughh...❤
 
 お姉さん：上
 Kyaha-❤
-Time to guide this customerー♪*
-Hora, this way, this way. Follow us...❤
+Time to guide this customer-♪*
+Hora, this way, this way. 
+Follow us...❤
 
 お姉さん：上
 Is this your first time in an erotic shop?
@@ -3941,19 +3962,19 @@ Fufu, we will do a lot of pleasant things-❤
 お姉さん：上
 According to some soldiers, it seems that
 some sexy monsters have appeared...*
-But I don't think we will lose to them-❤
-We will make you spurt everywhere with our
-techniques we have trained in this shopー❤
+But I don't think we'll lose to them-❤
+We'll make you spurt everywhere with the
+techniques we have trained in this shop-❤
 
 レイ：上
 Hn...❤ Uh...❤
 
 お姉さん：上
 Ahnn-❤ I just started stroking you,
-but you are twitching so muchー❤
-How cuteeeー❤
-Hora horaー. Lose to this older sister's technique
-and ejaculateー❤
+but you are twitching so much-❤
+How cute-❤
+Hora hora-. Submit to this older sister's 
+technique and ejaculate-❤
 
 レイ：上
 Ahh...❤ I'm going to...❤
@@ -3972,14 +3993,14 @@ Ahh...❤
 Ahhh, amazing...❤
 
 お姉さん：上
-Ahann-❤ Big brother, is so energeticー❤
+Ahann-❤ Big brother, is so energetic-❤
 You are still hard.*
 Hey, showing me such a sight, makes me want
 to have sex-❤*
 Sex is actually forbidden here, and cumming inside
 would cause a huge fine...
 But, inserting you is okay right..?
-Pleaーse-❤
+Plea-se?-❤
 My pussy, is aching so much...❤
 
 レイ：上
@@ -4013,9 +4034,9 @@ Ah, ahhh, it feels so goodddd-❤❤
 お姉さん：上
 Yahh-❤ You are crying out so cutely-❤**
 You are cute, so I will give you an extra service.
-Hoーra, I'll wrap my breasts around your face.
+Ho-ra, I'll wrap my breasts around your face.
 As I enchant you with my breasts, I will shake
-my hips a lotー❤
+my hips a lot-❤
 
 レイ：上
 Ahh, uhhh, ahiii...❤❤
@@ -4025,48 +4046,52 @@ Ufufu, you came in an instant-❤**
 But it couldn't be helped. Being ridden
 by her as she wraps her breasts around your face-❤
 When this girl does that, everyone goes mad.
-And you were a virgin right? You are already
+And you were a virgin, right? You are already
 addicted to her. You will be this girl's prisoner
-from now on......❤
+from now on...❤
 
 レイ：上
 Ahhhhh-❤
-Ah... nooo, I'm going to cum againnn....❤
+Ah... Nooo, I'm going to cum againnn...❤
 
 お姉さん：上
-Go ahead......❤
-Spurt out as much as you want until your money is all gone-❤
+Go ahead...❤
+Spurt out as much as you want 
+until your money is all gone-❤
 
 テロップ：中央
-After being milked by the older sisters a lot,
-as a fine for breaking the 「No Sex」 rule of the shop,
-all my money was taken away!
+After being milked dry by the older sisters,
+as a fine for breaking the 「No Sex」 rule of the 
+shop, all my money was taken away!
 
 <CM13-3>
 お姉さん：上
-Aara, you came again?
+Ara, you came again?
 
 お姉さん：上
 I buried your face between my breasts a lot-❤
-Could your penis not run away from the pleasure anymore?
+Could your penis not run away from 
+the pleasure anymore?
 
 お姉さん：上
 But, I won't do it again for free.
 If big brother gives us a lot of money,
-I will ride on top of you again raw......
+I will ride on top of you again raw...
 
 お姉さん：上
-Puhh. But you are completely empty now aren't you?**
-You lost to our temptation, and paid a lot of money.
+Puhh. But you are completely empty now, 
+aren't you?*
+You lost to our temptation, 
+and paid a lot of money.
 
 お姉さん：上
 I am not interested in poor people.
 But, I want you to come back.*
 If you can pay 1000 gold, I will think about it...
-Hehehe......❤
+Hehehe...❤
 
 レイ：上
-......
+...
 
 お姉さん：上
 Hmmmm...?**
@@ -4078,49 +4103,52 @@ gather money?
 お姉さん：上
 Hehehe...❤
 After becoming addicted to this no-good sex
-with us, you sold your weapons
+with us, 
+you sold your weapons
 and equipment for money-❤*
-You really are hopeless. But, that is okay...❤*
-If you are willing to pay, we will send even
-a hopeless man like you to heaven.❤
+You really are hopeless. But, that's okay...❤*
+If you're willing to pay, we'll send even
+a hopeless man like you to heaven-❤
 
 お姉さん：上
 Hora, come with us.
 Enjoy the taste of giving money for pleasure
-at our shop.♥
+at our shop-♥
 
 レイ：上
-Ahh...・❤ Ahh......❤
+Ahh...❤ Ahh...❤
 
 お姉さん：上
-Hehehe. This is our double paizuri-❤*
-Our breasts are wrapping around your no good penis.
-Does it feel good?*
-From your tip to your base, our breasts are wrapping
-comーpletely around you, squishing against you...❤
+Hehehe. This is our double paizuri-❤**
+Our breasts are wrapping 
+around your no good penis. 
+Does it feel good?
+From your tip to your base, our breasts are 
+wrapping com-pletely around you, 
+squishing against you...❤
 
 レイ：上
 Afuuuu-❤ It feels so good...❤
 
 お姉さん：上
 You are melting from our technique-❤
-How cuuuute-❤*
+How cu-te-❤*
 How can you become our captive even more?
-Hoora, we will move our breasts in opposite directions.
-Squish squish-❤ Squeeze Squeeze-❤
+Ho-ra, we will move our breasts in opposite 
+directions. Squish squish-❤ Squeeze Squeeze-❤
 
 レイ：上
 Aah, aaah...❤❤
 
 レイ：上
-U-Ummm...
+U-ummm...
 
 お姉さん：上
 Eh? You want to have sex?**
 I see. You are addicted to my
 face rubbing and cowgirl combination-❤
 Oーkay, I am happy to do it,
-but you will have to pay me more okay?-❤*
+but you will have to pay me more, okay?-❤*
 This time is just our paizuri.
 But, just that feels amazing enough, hmm?
 
@@ -4130,12 +4158,13 @@ Ahiii, ahh-❤ Ahh-❤
 お姉さん：上
 Are you trying to hold back between us?**
 Fufu, but there is no man who has endured
-even three minutes of being wrapped around by both of us.
+even three minutes of being 
+wrapped around by both of us.
 
 お姉さん：上
-Hora hora, cummー❤
+Hora hora, cumm-❤
 We will push our breasts together,
-and go squish squish, crush crushー❤
+and go squish squish, crush crush-❤
 
 レイ：上
 Ahhh, noooo-❤
@@ -4143,409 +4172,441 @@ That is too much-❤ Ahiii...❤
 
 <CM14>
 ：スチル
-路地裏の入り口で、
-露出の多い二人の女性が
-僕に話しかけてきた。
+As I approached the entrance of the back alley,
+two erotically clothed woman came up to me. 
 
 お姉さん：下
-ねえ、そこのボク？**
-わたしたちと遊んでいかない？
-気持ちいいこと❤、一緒にしましょ？
+He-y, big brother?**
+Won't you play with us for a bit?
+Wanna do something that feels good with us?-❤
 
 レイ：下
-・・・・。
+...
 
 お姉さん：下
-ええ？嫌？
-これから準備することがあるから？
-ふぅーん。
-でもでも、そんなことよりも
-わたしたちと遊んだほうが楽しいよ？
-えいっ。
+Huh? No?
+There's something you need to prepare for?
+Hmmph-
+But but! Wouldn't it more more fun to play
+with us? 
+Owah-
 
 レイ：下
-・・・・！
+...!
 
 お姉さん：下
-えへへ、腕に抱き着いちゃった。**
-おっぱい大きいでしょ・・・？
-ほら、柔らかい感触味わっていいんだよ❤
+Tee-hee, caught your arm-**
+My breasts are real big, right...?
+Hora, you can feel how soft they are if you like-❤
 
 お姉さん：下
-うふふ❤
-その子ね、店で一番おっぱいが大きいのよ。*
-腕なんて余裕でくるんじゃう、特盛サイズ。
-そのおっぱいに顔を埋めたら気持ちいいでしょうね。*
-ほら、想像してみて・・・❤
-柔らかいおっぱいに、色んなところ挟まれて・・・。
-気持ちよすぎて、頭真っ白になって・・・。
+Ufufu-❤
+This gal has the biggest breasts in the store.*
+When you have breasts that big,
+wrapping them around someone's arm is easy.*
+I bet it'd feel really good to have your face 
+buried between them.*
+Hora, just imagine it...❤
+Her soft breasts, wrapping around your various 
+body parts...*
+Feeling so good, your mind becoming blank with
+pleasure...
 
 お姉さん：下
-ねえー・・・❤
-もっとイイこと、お店でしよーよぉ・・・❤
+Come on-...❤
+We can do even better things in the shop...❤
 
 レイ：下
-っ・・・❤
+Uh...❤
 
 お姉さん：下
-あん❤つれないこと言わないで。**
-ほら、必殺のぱふぱふしてあげる。
-これされて我慢できる男なんていないんだから。*
-ぱふぱふ・・・❤ぱふぱふ・・・❤
+Ahnn-❤ He can't tell us what to do.**
+Hora, I'll give you my specialty puff puff. 
+There's no man that can resist me once under 
+these.
+Puff Puff...❤ Puff Puff...❤
 
 レイ：下
 ...!!
 
 お姉さん：下
-ああん❤ビクンってした。かわいいー♪**
-あなたのココ、おっきくなっちゃったね❤
-わたしたちのおっぱいに興奮しちゃったんだ？
-くすくす・・・。
-ほおら・・・、じっとしてて？
-服の上からなでてあげる♥*
-なでなで❤なでなで❤
-先っちょカリカリ…❤
+Aaah-❤ He's twitching. He's so cuteー♪**
+You've completely swollen up down here too-❤
+Did our boobies get you aroused?
+Tee-hee...
+Ho-ra... Could you stay still?
+I'll stroke it over your pants-♥*
+Stroke stroke-❤ Stroke stroke-❤
+And now I'll rub the tip. Squeeze-❤
 
 レイ：下
-うっ・・・❤あっ・・・❤
+Ooh...❤ Oaagh...❤
 
 お姉さん：下
-うふふ、いい感じに目がとろんとしてきたわね。
-ほら、その気持ちよさに身を任せて？
+Ufufu, your eyes have glazed over in 
+pleasure. Hora, leave everything to us,
+we'll make you feel good, okay?
 
 お姉さん：下
-むう、いけず❤
-いいわ。ムラムラして我慢できなくなったら、
-またいらっしゃい。
-お姉さんたちが、
-いっぱい気持ちよくしてあげるから❤
+Ooh, that's too bad-❤
+It's okay. If you ever start feeling aroused,
+please visit us again.
+Your big sisters will make you feel really,
+really good-❤
 
 お姉さん：下
-きゃは❤
-一名様、ご案内ー♪*
-ほら、こっちこっち。
-ついてきて・・・❤
+Kyaha-❤
+Alright, just follow our leadー♪*
+Hora, over here.
+follow us...❤
 
 お姉さん：上
-エッチなお店は初めて？
-ふふ、たくさん気持ちいいことしようね❤
+Is this your first time at a erotic shop?
+Fufu, we'll show you a lot of pleasent things-❤
 
 お姉さん：上
-兵隊さんの話では、
-すっごくセクシーな魔物が出たらしいけど・・・。*
-わたしたちだって負けていないと思うな❤
-エッチなお店で鍛えたテクでいっぱい、
-ドピュドピュさせちゃうぞー❤
+As the soldiers say,
+you could do it with the stupidly sexy monsters 
+out there... And end up sucked dry.
+But with us, you can indulge to your heart's 
+content-❤*
+At our erotic shop, we've honed our techniques
+so you can go 'pew pew' as much as you like-❤
 
 レイ：上
-っ・・・❤、っ・・・❤
+Oh...❤ Ooh...❤
 
 お姉さん：上
-ほら、もっと出しなさい・・・❤
+Hora, cum as much as you like...❤
 
 レイ：上
-あうっ・・・❤
+Ooogh...❤
 
 お姉さん：上
-ここ、ほんとは本番禁止のお店だけど、**
-お姉さん、セックスしたくなっちゃった❤**
-ね、入れていいよね。
-おねがーい❤
+In truth, sex is prohibited here but...**
+Now you're here, wanting to have sex with your
+big sister-❤*
+Hey, put it in, it's okay.
+Plea-se-❤
 
 お姉さん：上
-くすくす。
-ぬるぬるのアソコ、こすりつけられたら、
-我慢なんてできないでしょ。
-ほら、ゆっくり、
-おまんこに入っちゃう❤
-でも、全然抵抗できない・・・❤
+Tee-hee.
+Once my slippery pussy starts rubbing you,
+it'll be impossible for you to endure.
+Hora, slowly, 
+entering my pussy-❤
+But, you can't resist it at all...❤
 
 レイ：上
-あっ・・・❤うっ・・・❤
+Ah...❤ Ooh...❤
 
 お姉さん：上
-あん❤
-入ったぁ❤*
-どうかな、お姉さんとのエッチ❤
-入れただけでもとろけるぐらいの
-おまんこで、
-ボクのおちんちんをぬっぽぬっぽってしごいたら・・・❤
+Aah-❤
+It's inside me-❤*
+How does it feel having sex with your big sister?-❤
+Just putting it in is enough to make you melt.
+And if I stroke your penis with my moist pussy...❤
 
 レイ：上
-あっ❤ああっ❤
+Aah-❤ Uaaah...❤
 
 お姉さん：上
-やあん❤かわいい声あげちゃって❤**
-いいよー。我慢しないでたっぷり気持ちよくなろうね。
+Uwah-❤ You have such a cute voice-❤**
+It's okay- I bet it feels so good to sit back and 
+stop resisting
 
 お姉さん：上
-うふふ
-おっぱいに顔を挟まれながらの生ハメ騎乗位・・・❤
-あれされちゃうと、みんな常連さんになっちゃうのよね。
+Ufufu,
+Having raw cowgirl sex while having your face
+buryied between my breasts...❤
+Everyone becomes a regular once we do this.
 
 テロップ：中央
-お姉さんたちにたっぷり絞られた後、**
-「本番禁止」の店でセックスした罰金として
-有り金をすべてむしり取られてしまった。
+After that, I was squeezed many times by the two 
+woman.*
+As a fine for having sex at a "Sex Prohibited"
+store, I was stripped of any money I had on hand.
 
 <CM14-2>
 ：スチル
-用などないはずなのに、
-僕はまた、あの路地裏の入り口に来ていた。*
-案の定、さきほどの女たちに声をかけられてしまう。
+Although there were other things I needed to be 
+doing, I once again apporached the foot of the 
+alleyway.
+And sure enough, the women from earlier called
+out to me.
 
 お姉さん：上
-あはっ❤やっぱり遊びたくなっちゃった？
+Aha!-❤ Did you want to play with us again?
 
 お姉さん：上
-くすっ。
-ムラムラして我慢できなくなっちゃったんだ❤
+Teehee-
+It's impossible to have any kind of self control
+when you're horny-❤
 
 レイ：上
-ううっ・・・・❤
+Oogh...❤
 
 お姉さん：上
-あれれ・・・❤
-わたしたちの顔見ただけなのに、*
-さっきのパフパフとスリスリを思い出して、
-またおっきくなっちゃったね❤*
-ほら、そのおっきいのを気持ちよくしてあげるからぁ、**
-もっとイイこと、お店でしよーよぉ・・・❤
+Oh...?-❤
+You only just saw our faces,*
+And remembering the puff puff and rub rub you got,
+you've become big down here again-❤*
+Hora, can we make this big thing feel really good?**
+We can do even better things in our shop...❤
 
 レイ：上
-っ・・・❤
+Gulp...❤
 
 お姉さん：上
-ふふつ。
-いつまで我慢できるのかしら。*
-またいらっしゃい。
-お姉さんたちが、いっぱい気持ちよくしてあげるから❤
+Fufu-
+I wonder how long you'll endure this time?*
+You're always welcome-
+Your big sisters will make you feel really,
+really good-❤
 
 お姉さん：上
-きゃは❤
-一名様、ご案内ー♪*
-ほら、こっちこっち。
-ついてきて・・・❤
+Kyaha-❤
+Alright, just follow our leadー♪*
+Hora, over here.
+follow us...❤
 
 お姉さん：上
-エッチなお店は初めて？
-ふふ、たくさん気持ちいいことしようね❤
+Is this your first time at a erotic shop?
+Fufu, we'll show you a lot of pleasent things-❤
 
 お姉さん：上
-兵隊さんの話では、
-すっごくセクシーな魔物が出たらしいけど・・・。*
-わたしたちだって負けていないと思うな❤
-エッチなお店で鍛えたテクでいっぱい、
-ドピュドピュさせちゃうぞー❤
+As the soldiers say,
+you could do it with the stupidly sexy monsters 
+out there... and end up sucked dry.
+But with us, you can indulge to your hearts 
+content-❤*
+At our erotic shop, we've honed our techniques
+so you can go 'pew pew' as much as you likeー❤
 
 レイ：上
-っ・・・❤、っ・・・❤
+Oh...❤ Ooh...❤
 
 お姉さん：上
-ほら、もっと出しなさい・・・❤
+Hora, cum as much as you like...❤
 
 レイ：上
-あうっ・・・❤
+Ooogh...❤
 
 お姉さん：上
-ここ、ほんとは本番禁止のお店だけど、**
-お姉さん、セックスしたくなっちゃった❤**
-ね、入れていいよね。
-おねがーい❤
+In truth, sex is prohibited here but...**
+Now you're here, wanting to have sex with your
+big sister-❤*
+Hey, put it in, it's okay.
+Plea-se-❤
 
 お姉さん：上
-くすくす。
-ぬるぬるのアソコ、こすりつけられたら、
-我慢なんてできないでしょ。
-ほら、ゆっくり、
-おまんこに入っちゃう❤
-でも、全然抵抗できない・・・❤
+Tee-hee.
+Once slippery pussy starts rubbing you,
+it'll be imposible for you to endure.
+Hora, slowly, 
+entering my pussy-❤
+But, you can't resist it at all...❤
 
 レイ：上
-あっ・・・❤うっ・・・❤
+Ah...❤ Ooh...❤
 
 お姉さん：上
-あん❤
-入ったぁ❤*
-どうかな、お姉さんとのエッチ❤
-入れただけでもとろけるぐらいの
-おまんこで、
-ボクのおちんちんをぬっぽぬっぽってしごいたら・・・❤
+Aah-❤
+It's inside me-❤*
+How does it feel having sex with your big sister?-❤
+Just putting it in is enough to make you melt.
+And if I stroke your penis with my moist pussy...❤
 
 レイ：上
-あっ❤ああっ❤
+Aah-❤ Uaaah...❤
 
 お姉さん：上
-やあん❤かわいい声あげちゃって❤**
-いいよー。我慢しないでたっぷり気持ちよくなろうね。
+Uwah-❤ You have such a cute voice-❤**
+It's okay- I bet it feels so good to sit back and 
+stop resisting
 
 お姉さん：上
-うふふ
-おっぱいに顔を挟まれながらの生ハメ騎乗位・・・❤
-あれされちゃうと、みんな常連さんになっちゃうのよね。
+Ufufu,
+Having raw cowgirl sex while having your face
+buryied between my breasts...❤
+Everyone becomes a regular once we do this.
 
 テロップ：中央
-お姉さんたちにたっぷり絞られた後、**
-「本番禁止」の店でセックスした罰金として
-有り金をすべてむしり取られてしまった。
+After that, I was squeezed many times by the two 
+woman.*
+As a fine for having sex at a "Sex Prohibited"
+store, I was stripped of any money I had on hand.
+
 
 <CM14-3>
 お姉さん：上
-あら、また来たの？
+Ara, you're here again?
 
 お姉さん：上
-いっぱいパフパフしてあげたもんね❤
-気持ちいい感触が
-おちんちんからとれなくなっちゃったかな？
+You're here for lots and lots of puff puffs 
+right?-❤*
+Would you like to feel pleasuring your
+penis directly?
 
 お姉さん：上
-でもぉ、わたしタダでやるのはいやだなぁ。
-お兄さんがたくさんお金くれるなら、
-また生ハメ騎乗位してあげてもいいけど・・・。
+But... I don't like doing it for free.
+If you had a lot of gold,
+I could even do some raw cowgirl sex like last
+time but...
 
 お姉さん：上
-ぷっ。でも、あなた、今はもうすっからかんよね。**
-わたしたちの誘惑に負けて、
-お金たっぷり払っちゃったんだから。
+Tisk- But, you're completely empty.**
+You gave into our temptations,
+and gave us all your money.
 
 お姉さん：上
-わたし、貧乏君には興味ないからぁ、
-もう一度出直してきてほしいな。*
-もし1000ゴールド払えるなら、
-考えなくもないけどぉ・・・。くすくす・・・❤
+I have no interest in the poor,
+but come back again sometime.*
+Maybe if you had 1000 gold, but I doubt that
+would happen... Tee-hee-❤
 
 レイ：上
-・・・・っ。
+...
 
 お姉さん：上
-あらぁ・・？**
-ふふ、1000ゴールド用意したんだ❤**
-さっきすっからかんになるまでむしったのになぁ。
-もしかして、大事な道具とか売って、
-お金作ったのかなぁ？
+What's this...?**
+Fufu, that's 1000 gold-❤**
+But you were only pennyless moments ago.
+You perhaps, didn't sell anything important like 
+weapons and items to get this gold did you?
 
 お姉さん：上
-くすくす・・・❤
-お姉さんとのいけないエッチにドはまりして*
-武器とか道具とか、
-全部お金に変えちゃったんだぁ❤*
-どうしようもないダメ男だね。
-ふふ、でもいいよ…❤*
-お金さえ払ってくれるなら、
-君みたいなダメ男も天国に連れて行ってあげるから❤
+Tee-hee...
+Stuck doing lewd things with your big sister.*
+Your gold, your weapons,
+you've turned it all into gold-❤*
+I suppose it's only natrual if you're a loser.
+Fufu, but it's okay...❤*
+As long as you're willing to pay,
+I'll show even a loser like you heaven-❤
 
 お姉さん：上
-ほら、ついてきなさい。
-お店でそのお金の分の気持ちよさ、
-味合わせてあげる♥
+Hora, follow me.
+I'll let you experience what it's like to pay for
+pleasure at our shop-♥
 
 レイ：上
-あっ・・・❤あっ・・・❤
+Aah... ❤ Oooh...❤
 
 お姉さん：上
-くすくす。
-二人で挟んであげるダブルパイズリだよぉ❤
+Tee-hee.
+This is a double paizuri, where we bury you 
+between two pairs of breasts-❤
 
 お姉さん：上
-わたしたちのテクでとろけなさい・・・❤**
-ほおら、こうやって左右交互に、ぬぷぬぷ❤
+Melt with in our techniques...❤**
+Ho-ra, watch us knead your penis between our
+breasts in opposite directions like this-❤
 
 レイ：上
 Aah, aaah...❤❤
 
 お姉さん：上
-うーん？セックスしたいの？**
-さっきのパフパフ騎乗位、
-クセになっちゃったんだぁ❤*
-うれしいけど、
-それはもっとお金をたくさん払ってくれたらね❤*
-今は、パイズリだけでおあずけ。
-ふふ、でもこれだけでも気持ちいいでしょ？
+Hmm? You want to have sex?**
+Since the puff puff cowgirl sex,
+you've developed a habit of coming here-❤*
+I'm really happy about that but,
+You'd need to pay more money for that-❤*
+For now, it's just paizuri.
+Fufu, but even just this feels really good right?
 
 お姉さん：上
-わたしたち二人で挟んだら、
-3分持つ男はいないものねぇ。*
-ふふ・・・。あなたもさっきから、
-びゅーびゅー情けなく射精しまくって、まあ。
+When we slip someone between the two of us,
+no man can last longer than three minutes.*
+Fufu... And you're going to ejaculate soon too,
+splurting pathetically between out breasts,
+aren't you?
 
 お姉さん：上
-ほらほら、イっちゃえー❤
-ぬぷぬぷ、ぬちゅぬちゅー❤
+Hora hora, cum-❤
+Squishy squishy, squish-❤
 
 レイ：上
-あひぃ・・❤
+Aaaagh-❤
 
 <CM9>
 第三騎士団団長：上
-やあ、君が噂の英雄くんか。
-ボクは第三騎士団の団長さ。*
-君の活躍は聞き及んでいるよ。
-ようやく奴らの弱点が判明したことだ。僕らも君に負け
-ないよう戦果をあげるつもりさ。
-ところで、クラスチェンジの証を授与されたそうだね。
-それは王家の特別な加護の力を使って、
-人の持つ潜在能力を開花させる魔道具なんだ。
-潜在能力を開花させるには、
-ある程度経験を積んでいないといけないんだけど、
-さて、君の実力は・・・・。
+Ah, you must be the Hero I've heard rumors about.
+I am the head of the Knights of Order.*
+I have heard of your activities. The weakness of 
+the enemy has been revealed at last.
+With you at our side, we will not be defeated.
+By the way, I heard you were awarded a class
+change certificate. it's a magical tool that uses
+the power of the royal family's divine protection
+to bring out your unit's full potential.
+But to find out what potential lies beyond, 
+you need to gain some experience.
+I shall test if you are ready...
 
 第三騎士団団長：上
-やあ、英雄くん、また来たんだね。
-特訓は順調かい？*
-クラスチェンジのためには
-ある程度経験を積んでいないといけないんだけど、
-さて、君の実力は・・・・。
+Ah, Hero! You're here again. How's your specialty
+training going?*
+In order to perform a class change, 
+you need to gain some battle experience.
+I shall test if you are ready...
 
 第三騎士団団長：上
-うん。十分みたいだね。
-クラスチェンジを試してみるといいよ。
+Mm, you should be ready. Try giving class change
+a go.
 
 第三騎士団団長：上
-うむ、まだ少し経験が足りないみたいだね。
-そうだ、せっかくだから少し稽古をつけてあげよう。
+Hm, your experience isn't quite there yet.
+I see, I would recomend doing some training.
 
 第三騎士団団長：上
-うむ、まだ少し経験が足りないみたいだね。
-よし、さっきと同じようにまた稽古してあげよう。若人を
-育てるのも上に立つ者の務めだからね。
+Hm, your experience isn't quite there yet.
+No not give up, just practice a little more.
+As a leader, it's your duty to guide your allies
+who fight alongside you.
 
 テロップ：中央
-各キャラクターはLv5とLv15で
-クラスチェンジをすることができます。*
-クラスチェンジをするとステータスにボーナスが入るほか、
-能力の限界値が成長し、また特別な能力が、
-戦闘中に使えるようになることもあります
-「ユニット整理」の項目で、
-クラスチェンジをすることができます。
-デメリットはないので、積極的に試してみましょう。
+Each unit can change classes at Lv5 or Lv15.
+With class change, other than gaining bonuses to 
+stats,* 
+their stat limits will go up, and some 
+special abilties may be avalible during combat 
+as well.
+You can change classes at will through the
+"unit formation" option. There are no 
+disadvantages to changing classes, so don't hold
+back!
 
 <CM32>
 テロップ：中央
-通りに人だかりができている。
-その横で、兵隊がひとをかき分けようとしていた。
+You make your way through the crowd.
+Next to you, a soldier is trying to push his way
+past the people.
 
 兵隊：上
-ああ、ちょっとどいてください。
-ううっ、背伸びしても見えない・・・。
-もう少しで見えそうなのに・・・。
-あ、これは英雄どの！
-いや、お恥ずかしい姿をお見せしました。*
-実は、美人で有名なエスナ姫が
-そこの高級店でお買い物をされているらしく、
-ちょっとした人だかりができているのです。
-田舎から出てきて都勤めになったばかりですから、
-一度はエスナ姫のお顔を見たいと思って、
-物見遊山をしていたのですが、なかなか見えなくて・・・
-いや、その、すいません・・・。
-任務に戻ります・・・。
+Excuse me, could you please step aside?
+Ooh, I can't see a thing even when using the tips 
+of my toes... Although I can almost see it...
+Ah, if it isn't Sir Hero! Oh, please excuse
+my awkward posture just now.*
+The truth is, the beautiful and renowed Princess 
+Esuna is out shopping in that high class 
+store over there, 
+but the crowd is proving to be a bit of a bother.**
+I've only just come out of the country to work in
+the capital, so I want to see Princess Esuna at
+least once. 
+I thought I'd catch her during some sight seeing, 
+but I can't see a thing...*
+Er, um, my apologies...
+I will be returning to my duties.
 
 テロップ：中央
-メッセージ枠で隠れて画像が見にくいときには、
-矢印キーの左右を押すと、
-メッセージ枠が一時的に非表示になります。
-画像やアニメーションをしっかり見たいときに
-便利な機能です。
-もう一度、左右キーを押すと元に戻ります。
+If textboxes are obstructing images, you can 
+temperarily hide them by pressing left and right 
+on the arrow keys. It's handy for when you want 
+to see images and animations clearly. Simply press
+the left and right keys again to revert back.
 
 <CM18>
 兵隊：上
@@ -4566,441 +4627,469 @@ Aah, aaah...❤❤
 
 <CM27>
 ミツヒデ：上
-あ、こんにちは。レイさん。**
-わたしも弱年ながら、賢者と呼ばれている身です。
-何か分からないことがあればお気軽にご質問ください。*
-サキュバスについてのことなど、いくらか情報も入ってい
-ます。この国を救う英雄の力になれると思えば、とてもう
-れしいです。
+Oh, hello Mr. Ray!**
+I may be frail, but I've been said to be quite
+knowlegeable.
+If there's anything you don't understand
+please feel free to ask.*
+I even have information on things concerning 
+succubui and the like as well.
+It would make me very happy if I could think I
+helped the heroes who saved this country.
 
 <CM19>
 男：上
-例の新しい魔物の件だが、
-ついに騎士団が反撃を始めたらしいね。
-さすがはわが国の騎士団だ。頼りになるよ。
-王都まで敵が来たときは本当にひやひやしたからねぇ。
-ああ、どうか早く魔物を退治してくれますように。
+Even with these new kinds of monsters,
+the Knights of Order have already started counter
+attacking. 
+As expected from our country's knight squadron. 
+They're quite dependable.
+But when the enemies tried to attacked the capital
+I admit I was fearing the worst.
+Aah, please get rid of those demons quickly.
 
 <CM22>
 男：上
-聞いたかい？
-なんでも近くの店に王女様が来ていたんだってね。*
-この国の王族の方々は、
-代々魔道具を作るのに秀でていてね。
-今回も魔道具の材料を買いにやって来たらしい。
-自分で目利きをしたいからって、
-直接下町のお店に来るんだから、
-いやあ、お姫様とは思えない職人気質だねえ。
+Did you hear?
+The princess came to visit one of the shops around
+here.*
+The many royal families in this country has 
+excelled at creating magical artifacts for 
+generations.
+But now, it seems you can come here buy the 
+resources for these magical artifacts.
+I wanted to see it for myself,
+so I came to the shops downtown, no,
+I don't think Princess would take pride 
+in her work.
 
 <CM33>
 男：上
-よお、あんた。薬はいらねえかい？**
-いやいや怪しい薬じゃねえよ、普通の回復薬さ。**
-実は俺の仲間にアルケミストやっているやつがいてな。
-薬の調合はお手の物なのよ。
-それを分けてもらったってわけ。
-あんたもアルケミストを仲間にすれば、
-薬が楽に手に入って便利だと思うぜ。
+Hey, you. Want some drugs?**
+What? No! Not the dubious kind, I mean general
+recovery medicine.*
+The truth is, one of the companions is an 
+alchemist.
+Mixing medicine is his specialty.
+I got a share of what he makes.
+If you had an alchemist in your party, I bet 
+you'd get a lot of medicine easily too!
 
 男：上
-ほら、これはお試し品だ。とっときな。
+Here, these are some trial goods. Have fun.
 
 <CM20>
 おばあさん：上
-最近、食べ物の値段が高くっていけないね。**
-やっぱり戦になると物が高くなる。
-それに田舎の村ばかり襲われているから、
-今年の収穫は結構被害を受けているみたいだ。
-ああ、やだやだ。
-うまくやりくりしないといけないね。
+During times like these, we can't have the food
+be at high prices.*
+During the war, prices rise of cause.
+Because only the rural areas of the country have
+been attacked, this years harvest will be taking
+a significant impact.
+Oh, what to do...
+We ought to manage our resources well.
 
 <CM17>
 テロップ：中央
-街角を歩いていると、
-子供の声が聞こえた。
+As you walk past the corner of the street,
+you hear the voice of a child.
 
 男の子：上
-あううぅ。やめてよぉ・・・。
+Awww... Stop it...!
 
 女の子：上
-きゃはは。何よ。そんなカッコ悪い声あげちゃって。
-ほら、わたしたちに渡すものがあるでしょ。
-早くしなさい。
+Kyahaha! What? Your voice is so laame-
+Hora, that thing in your hands, hand it over.
+Quickly give it to me.
 
 男の子：上
-ううっ。このお金は、
-お母さんたちが一生けんめい働いて稼いだお金だよ。
-だから・・・。
+Bu, but. My mum worked hard her whole life to get 
+gold, so...
 
 女の子：上
-だから、なに？
-痛めつけられないと分からないの？んー？
+So, what?
+Do you want me to beat you up? Hmm?
 
 女の子：上
-ほらほら、早く出しなよー。
+Hora hora, give it to us now-
 
 テロップ：中央
-どうやら男の子が女の子たちにいじめられているようだ。
+It looks as if those girls are bullying that 
+boy.
 
 レイ：上
-・・・・。
+...
 
 女の子：上
-むっ、何？
-お兄さん、何か文句でもあるの？
+Ugh, what?
+You got something to say, big brother?
 
 レイ：上
-・・・・！
+...!
 
 女の子：上
-きゃっ！！
-ちょっと、放してよ。急に腕つかまないで。*
-ったく、お兄さんには関係ないじゃん。
-なんでちょっかい出すの？
-男の子を助けて、かっこつけてるつもり？
-ふん、こうなったら、あれしようよ。
-ほら、ミカ。やっちゃえ❤
+Kyaa!!
+Hey, release me! Let go of my arm will you.*
+Really, this doesn't concern you big brother!
+Why do you have poke your nose in things?
+you want to look cool? Trying to help this boy?
+Hmph, well in that case, let's do this.
+Hora, Micah, get him-❤
 
 女の子：上
-うふふ。はぁい。
-それじゃあ、ちょっとだけ失礼しますね。
+Ufufu. Okie dokie-.
+Well then, excuse me for a bit-
 
 テロップ：中央
-ミカと呼ばれた少女は
-いきなり僕の股間を指でスリスリとなでてきた。
+The girl named Micah suddenly started using her 
+fingers to stroke and rub between my groin.
 
 レイ：上
-・・・！
-あっ❤あっ❤
+...!
+Aah-❤ Ah-❤
 
 女の子：上
-どうですか？気持ちいいですかぁ？
+What about this? Does it feel good?
 
 女の子：上
-へへっ、ミカはすっごいテクニシャンなんだよ。
-お兄さんなんて、秒でアへらせちゃうんだから。
+Ehehe- Micah's techniques are unmatched.
+she can shatter even someone like you in a matter
+of seconds.
 
 女の子：上
-ねえ、こうやって裏筋を、
-すーって指でなぞるの気持ちいいですよねぇ。
-カメさんも指でぎゅむぎゅむ揉んであげますよぉ❤
+Hey, doesn't it feel good when I trace my smooth- 
+fingers down the back muscle of your penis?*
+I'll massage Mr. Penis and give him a big
+hug with my fingers-❤
 
 レイ：上
-うっ❤ああっ❤
+Ooh-❤ Aaah-❤
 
 女の子：上
-そこでじっとしときなよ。
-そうすれば気持ちよくしてもらえるよ？*
-私たちの邪魔はしないで、
-いい子にしていること。
-いいね？
+Now, stay still.
+If you do, we'll make you feel good alright?*
+Just sit there and be a good boy for us.
+Okay?
 
 レイ：上
-そ、それはっ・・・❤
+Th, that's...❤
 
 女の子：上
-えー、いいじゃないですかぁ。
-知りもしない男の子でしょう？*
-お兄さんのこと、いっぱい気持ちよくしてあげたいなぁ❤
-こうやって指をはわせて、さわさわさわーっ❤てしたりとか
+Huh? Isn't this good though?
+You are a boy, right?*
+And the only thing boys want to feel is lots and 
+lots of pleasure-❤*
+Like when my fingers crawl around you and...
+Stroke stroke stroke-❤
 
 レイ：上
-あっ、ちょっ❤だめっ❤あああっ❤
+Ah, wait just a, aaah-❤ No, sto-❤ Oooaah-❤
 
 女の子：上
-ね？じっとしてて？
-わたしのお手で、ご奉仕させて？ね？
+Hm? Are you gonna stay still now?
+Are you gonna let me service you with my hands?
+Huh?
 
 レイ：上
-うっ・・・・❤ううっ・・・・❤
+Oooh...❤ Ooh...❤
 
 女の子：上
-くすくす。声にもならない声をあげちゃって♪
-動けないんだぁ❤*
-結局自分が気持ちよくなることが一番大事。
-赤の他人なんてどうでもいい。
-そうでしょ？
+Teehee- You can't stop yourself from moaning-♪
+You can't even move-❤*
+In the end, the only thing you care about is 
+pleasure. Even if it's with a total stranger.
+Isn't that right?
 
 レイ：上
-それは、ちがっ・・❤ああっ❤
+Th, that's not...❤ Aaah-❤
 
 女の子：上
-えー、違わないですよぉ。**
-こうやって服の上からすーりすーりってしてあげたら、
-頭の中真っ白になって、
-他のことなんかどうでもよくなっちゃうんですもん。
-ほら？抗えます？
-シコシコ、早めますよ？
+Mhm- that's totally it-**
+Even if I rub up against your crotch like this,
+your mind goes blank, and you can't think about
+anything else.
+Hora? Am I wrong?
+Should I stroke faster?
 
 レイ：上
-あっ❤あっ❤だめっ❤
-くぅぅ・・・❤気持ちいいっ❤ああっ❤
+Aah-❤ Aah-❤ No more-❤
+Uuugh-❤ It's feels so good-❤ Aaah-❤
 
 女の子：上
-ほらぁ。男は簡単に女の子に負けちゃうんです。
-女の子に負けるためなら、
-他のことなんてどうだっていいんです。
-くすくす。わかりましたか？
+Ho-ra, men are easily defeated my girls.
+Nothing else matters if you're gonna lose to girls 
+anyway. Teehee- Do you understand?
 
 レイ：上
-あっ❤あひぃ❤
-そこを指でカリカリしないでっ❤
-ああっ❤
+Agh-❤ Aiee-❤
+Don't rub there with your fingers-❤
+Aah!-❤
 
 女の子：上
-くすくす。ちょろすぎ❤**
-それじゃあ、助けに来たお兄さんも、
-もう私たちの魅力に堕ちたことだし、*
-さっさとお金をよこしなさい。
-ほらっ！
+Teehee. Too easy-❤**
+Well then, even the big brother who came to save
+you fell to our charms.*
+Now, give us the money.
+Hora!
 
 男の子：上
-ううっ・・・・。
+Uuugh...
 
 女の子：上
-ふふっ。確かにもらったわ。
-ふん、あんたにはもう用はないの。
-あっち行ってなさい。
+Fufu. And, accepted-
+Now, I have no use for you anymore.
+Get out of our sight.
 
 男の子：上
-ちくしょう。ぜったい仕返ししてやるっ。
-仕返ししてやるんだからな！
+You big loser! I'll get you back
+for this! I'll have my revenge!
 
 女の子：上
-ぷっ。強がっちゃって❤
-そういうあんただってほら。
-ちょっと大きくなっているじゃない❤
+Ooh, all talk and no trousers-❤
+And speaking of which, hora.
+Your thing has become quite big too hasn't it?-❤
 
 男の子：上
-ふぁ・・・❤
-やめろ。さわるなっ❤
-ぼくは汚い大人たちとは違うんだっ❤あうぅ❤
+Ooaah-❤
+Stop! Don't touch me-❤
+I'm not like those adults-❤ Aaah-❤
 
 女の子：上
-タマタマ揉んであげただけでうっとりしちゃってるくせに❤
-ぷぷっ、何が違うの？
+I only just gave you a little massage and it's
+already becoing hard for you to think-❤
+Pfft, are you sure you're no different?
 
 男の子：上
-うっ、ううっ❤はぅ・・・❤
+Ooh oooh-❤ I..❤
 
 女の子：上
-あはっ。腰がヘコヘコ動いてるわよ？
-いいの？女の子の手でもみもみされただけで負けて。
-どぴゅどぴゅ射精しちゃうの？
+Aha. You're shaking your hips too aren't you?
+Are you okay with that? You're going to submit,
+being massaged my a girl's hand. 
+Are you gonna ejaculate and go pew pew?
 
 男の子：上
-あっ、あっ❤あっ❤
+Aah, aah-❤ Aah-❤
 
 女の子：上
-って、イかせる訳ないじゃない。バーカ❤
-ほら、気持ちいい玉揉みはもうおしまい。
-さっさとどっかへ行けばいいわ。
+...as if I'd let that happen. Idiot-❤
+Hora, I'm already done with massaging your balls.
+Now run off someone like a good boy.
 
 男の子：上
-あっ、あっ。そんな・・・・。ううっ・・・。
-ちくしょう・・・。
+Aah, aah. Why you... Ooh...
+You stupid, dumb loser...
 
 女の子：上
-くすくす。前かがみで走っちゃって、カッコ悪い❤
+Tee-hee. Yes, run off clutching your groin,
+how pathetic-❤
 
 女の子：上
-あーあ、お兄さんが見捨てちゃったから、
-男の子がお金とられちゃいましたよぉ？
-罪悪感ないんですかぁ？
+Ha-ha, because big brother deserted him, I got
+all that boy's money didn't I?
+Doesn't that make you mad?
 
 レイ：上
-そ、それはっ❤お前たちがっ❤
-あっ、あひぃ❤
+Well thats...❤ You can't jus-❤
+Ah, aaiee-❤
 
 女の子：上
-ふふっ。
-私の力なんてお兄さんなら簡単に振りほどけますよぉ。*
-気持ちいいお手てシコシコに負けて、
-男の子を見捨てたのはお兄さんです。
-違いますか？
+Fufu. It'd have been easy for a guy like you to 
+shake me off.*
+But you abanded him, submitting to the 
+pleasurable strokes of my hand.
+Am I wrong?
 
 レイ：上
-くっ、ああっ❤
+Gah, aaah-❤
 
 女の子：上
-うふふ。ごめんなさい❤
-反応がかわいいから、ついいじめちゃいました。
-でも、もういいですよ。難しいことは考えなくて・・・。
-わたしの手でいっぱい気持ちよくなって、
-シコシコびゅっびゅっ❤ってするだけでいいんです。
-お兄さんが気持ちよくなってくれれば、それだけで十分
-指がなぞるところ、気持ちいいですね。
-しゅりしゅり❤にぎにぎ❤ってされて、
-頭の中真っ白になっちゃいますね❤
-ほら、わたしの手コキに負けてください❤
-力抜いて、快楽を受け入れて――
-最高に気持ちいい射精、どぴゅーってしちゃってください
+Ufufu. Sorry-❤**
+Your reactions are so cute, so I couldn't help but
+bully you. But it's okay. Don't think about those
+difficult things....
+I'll make you feel really good with my hands,
+so all you need to do is go pew pew pew, when I
+go stroke stroke stroke-❤
+My big brother is feeling so good, even just
+tracing my fingers around this place here
+feels great right?
+Rub rub-❤ Squeeze squeeze-❤
+When I do this your mind becomes blank and empty-❤
+Hora, submit to my handjob-❤
+Relax, accept the pleasure――
+Having the best ejaculation ever, you'll
+go pew pew pew.
 
 レイ：上
-あっ、やめてっ❤
-そんなに早くっ❤あうっ❤あひぃ❤
+Aah, stop-❤
+That's too quick-❤ Aah-❤ Aiee-❤
 
 レイ：上
-あひぃ❤はぅ・・・、気持ちいぃ❤
+Aiee-❤ Aah.... It feels soo good!-❤
 
 女の子：上
-くすくす。膝から崩れ落ちちゃいましたねぇ。
-気持ちよすぎてもう立てませんか？
+Tee-hee. You feel down on your knees-
+Does it feel so good you can't stand?
 
 女の子：上
-あはは。情けなーい。正義面して割り込んできたのに、
-こんな女の子の手コキに屈服しちゃったんだ❤
-よかったわね。ミカちゃんの天国手コキを味わえて。
-普通だったらお金がたくさんいるのよ？
-それをタダで味わえたんだもの。超お得よ。
+Ahaha. How pathetic- You should have stood up for
+justice, but now you're surrendering yourself to
+some girls handjob-❤
+It's good isn't it? Experiencing Micah's heavenly
+handjob?
+You'd normally need to pay a lot of gold
+to get this you know? But you're getting it for
+free. What a great deal-
 
 女の子：上
-なんなら、
-お兄さんもわたしの常連さんになっちゃいます？
-くすくす・・・。
-でもぉ、今度はたくさんお金を持ってきてくださいね❤
-タダじゃしてあげませんからね？*
-それじゃあ、おちんちんさんにバイバイってしますね。
-亀さんに手のひら押し付けて・・・。バイバイ❤
-また会おうね❤すりすり、むぎゅむぎゅ❤
+But what if,
+Big brother was to become a regular customer?
+Tee-hee...
+But, make sure you bring a lot of money okay?-❤
+Because we won't do it for free.*
+Now then, let's say good bye to Mr. Penis okay?-
+Pushing our palms against him... Bye bye!-❤
+Lets meet again soon-❤ Pat pat- Rub rub-❤
 
 レイ：上
-はひぃ！！ちょっ、ああっ❤
+Aiaaah-❤
 
 女の子：上
-ふふっ、イったばかりの先っぽいじめられて、すごい声。
-それじゃあね。みじめなお兄さん❤あはは♪
+Fufu, you came with just having your tip teased, 
+and let out an amazing moan. Well, till next time-
+Pathetic big brother-❤ Kyahaha!-
 
 テロップ：中央
-女の子たちは笑いながら立ち去っていった。**
-名声を1000失った…。
+While laughing away, the girls left.**
+You lost 1000 renown...
 
 女の子：上
-きゃ！！
+Iyaah-!
 
 女の子：上
-うそお、ミカちゃんのテクで堕ちないなんて・・・。
+No way!He didn't fall for Micah-chan's 
+techniques...
 
 レイ：上
-・・・・・！
+...!
 
 女の子：上
-ちょっ、やめて、こら暴力反対！
-襟のところつかまないでよ。
-ううっー！！
-もう覚えておきなさいよ！
-絶対にあんたに恥かかせてやるんだから。
-べーっだ！！
+Wai- stop, I'm against violence!
+Let go of my collar. Aaah-!!
+I'll remember this!
+I'm gonna humiliate you if it's the last thing
+I do. THBPBPTHPT-!
 
 テロップ：中央
-捨て台詞を残して少女たちは去っていた。
+With that parting shot, the girls left.
 
 男の子：上
-ありがとう、お兄さん。**
-ボク、もうどうしようもないって思ってたから、
-お兄さんが助けてくれて、
-すっごくうれしかったよ！
-ボクからあげられるものなんて、
-たいしたものないけど、
-これ、お礼！
+Thanks big brother.**
+Even though you had nothing to do with me,
+you saved me anyway,
+I don't know how to thank you!
+This is something that bellonged to me,
+it's not that important but, here!
 
 <CM21>
 女の子：上
-あっ、いたいた！
-あいつだ！
+Ah, he's here he's here!
+He came!
 
 テロップ：中央
-街角を歩いていると、
-さっきの少女がこちらに向かって声をかけてきた。
+As you walk around the corner of the street,
+The girl from before called out for me.
 
 レイ：上
-・・・・！
+...!
 
 女の子：上
-さっきはよくも恥をかかせてくれたな！
-今度はそうはいかないぞ！
+How dare you embarrass me in front of everyone!
+It's not going to work this time!
 
 レイ：上
-・・・・。
+...
 
 女の子：上
-お姉ちゃーん、こっち来て！
-さっき言った男がいたよ！ほら！
+Over here big sister!
+This is the guy I told you about! Hora!
 
 お姉さん：上
-はぁ、まったく。
-男ぐらい自分で堕としなさいよね。*
-ん、はじめまして。
-わたしはこの子の姉です。
-さっきはうちの子が迷惑かけたみたいで。
-それで、迷惑料ってわけではないのですが、
-これを見てもらえますか？
-んっ・・・・❤
+Aah, really?
+He'll fall just like any other man.*
+Mm, nice to meet you.
+I'm this girl's elder sister.
+It sounds like you were bothering her awhile ago.
+And, I don't want to cause any trouble but,
+could you look here?
+Mmm....❤
 
 テロップ：中央
-女は胸元の紐をしゅるりとほどいた。
-服のすき間から、大きな胸の谷間が露出する。
+The woman unfasted the thread around her chest.
+Exposing her large, bare breasts from the opening
+in her clothes.
 
 レイ：上
-・・・・！
+...!
 
 お姉さん：上
-ふふっ、隙あり・・・❤
-んちゅっ・・❤
+Fufu, gotcha...❤
+Mmchu...❤
 
 レイ：上
-ふぁ・・・っ❤❤❤❤❤
+Oomph...❤❤❤❤❤
 
 お姉さん：上
-はむっ❤んっ❤んふっ❤
-どうですか？わたしのキステク❤
-舌をからめてっ・・❤ん❤
-ふふ、体から力抜けましたよ？
-もうふにゃふにゃですね。*
-それじゃあ、おちんちんの方も、手で握って・・・・。**
-キスしながらシコシコ・・・❤
+Om-❤ Mmm-❤ Mmph-❤
+How are my kiss techniques?-❤
+Coiling around your tounge...❤ Mm-❤
+Fufu, has your body lost it's strength?
+You've already become limp and floppy-*
+And now, to grasp your penis as well...**
+Kissing you while stroking your penis...❤
 
 レイ：上
-あっ、あっ・・・❤あひぃ❤❤❤
+Aah, aah-❤ Aiee...❤❤❤
 
 お姉さん：上
-くすっ、ビクビク痙攣しちゃって・・・❤
-んっ❤ちゅる❤んはぁ❤
+Ufu, it's twitching and convulsing...❤
+Mmm-❤ Slurp-❤ Mmmph-❤
 
 レイ：上
-はぅぅ・・・❤
-あひぃ・・・・❤❤❤❤
+Oooph-❤
+Aaaooh-❤❤❤❤
 
 お姉さん：上
-あはっ。はっや❤
-もうイっちゃった❤
-わたしのキス手コキ、そんなによかったかしら？
+Aha. That was quick-❤
+You came already-❤
+Was my kiss masturbation technique that good?
 
 レイ：上
-はふっ・・・。ああっ・・・。
+Haah... Aahh...
 
 お姉さん：上
-もう力入らないんだね❤
-尻もちついて、とろとろのお顔でわたしを見上げて・・・。
-ふふっ、なんならもっとしてあげようか？
+He's already out of strength-
+On his butt, looking up at me with glazed, empty
+eyes...
+Fufu, is there anything else I should do?
 
 女の子：上
-すっごーい、お姉ちゃん！
-あっという間に骨抜きにしちゃった！*
-ふふん、どうだ見たか！
-わたしの邪魔をするやつはこうなるんだ。
-いい気味♪きゃはは。
+That was amazing big sister!-
+You wore him down so quickly!*
+Fufu, you see that?
+That's what you get when you mess with me.
+Servers you right-♪ Kyahaha!
 
 レイ：上
-あっ、あうぅ・・・・。
+Ugh, oogh...
 
 お姉さん：上
-あらあら。バカにされているのに
-頭の中ぼんやりして、まともに話すこともできないんだ❤
-すっかりメロメロでかわいいじゃん❤
-さてと。**
-ほら、あんたもこの男に、
-自分の力を思い知らせてあげなさい。*
+Ara ara. He may be a fool, but his mind is totally 
+empty, he won't be able to understand you-❤
+Completely lovely dovey, and cute-❤
+Now then.
+Hora, show this guy what you're capable of as well.*
 「ボクはこの女にはかなわない」
 って教育しておかないと、
 あとで恨まれたりしたら面倒だわ。
@@ -15388,3 +15477,4 @@ Aah, aaah...❤
 
 テロップ：中央
 ミラージュに力を吸い取られてしまった・・・
+
