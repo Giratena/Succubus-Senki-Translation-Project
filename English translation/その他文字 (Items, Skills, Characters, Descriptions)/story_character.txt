@@ -3,6 +3,7 @@
 ノブ -> Nobus
 ユミル -> Miles
 イエヤス -> Lyon
+ミツヒデ　-> Mizuhide
 
 Enemies:
 ルミーネ -> Luminara
