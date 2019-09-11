@@ -4251,87 +4251,96 @@ The next day were were summoned by the chancellor,
 and arrived at a room inside the castle.
 
 大臣：上
-うむ、この度の魔物撃退、
-まことに良き働きであった。
-おぬしたちにはいくら感謝しても足りぬ。
+Greetings merceneries. Your efforts were 
+exceptional in repelling those demons that 
+attacked our capital the other day.
+On behalf of the kingdom,
+you have our eternal thanks.
 
 ユミル：上
-ありがたきお言葉です。
-大臣どの。へへ・・・。
+No thanks nessicary, we were just doing our duty,
+oh great chancellor. Ehehe...
 
 大臣：上
-とはいえ、
-新種の魔物の問題は片付いたわけではない。*
-各地で女性型のモンスターが出現したという
-報告が相次いでいる。*
-やつらは、人間の女を捕らえては、
-何か不思議な力によって、
-その女たちも同じ種類の魔物にしてしまうらしい。
-このままではやつらの数は増えるばかり。
-国が滅ぼされるのも時間の問題だ。
+However, the problem of these new monsters is 
+still at large.*
+We have been recieving reports of these new 
+female typed monsters being sighted in quick 
+succession.
+Those things, they're capturing human women, 
+converting them to their kind by using some kind 
+of twisted magic.
+We believe that they attempting to increase their 
+forces. If this continues, it's only a matter of 
+time before they take over the kingdom.
 
 レイ：上
-・・・・。
+...
 
 大臣：上
-そこで君らに頼みがある。**
-今、王立学院に
-わが国の賢者どのが閉じ込められている。
-彼を救い出してはくれないか。
+Therefore, I have a request for you all.**
+At present, our top sage has been imprisoned in
+the royal academy. 
+I humbly request if you could save him for us.
 
 ノブ：上
-賢者、ですか・・・？
+A sage...?
 
 大臣：上
-そうだ。
-年齢は若いが大変な知識の持ち主だ。*
-なぜ君たちの攻撃がやつらに通じたのか、
-そしてなぜ騎士団の攻撃が通じなかったのか、*
-こんな基本的なことすら、
-我々には原因が分かっていない。*
-だからこそ、
-ぜひとも賢者どのの智恵が必要なのだ。*
-敵のことが分かれば
-抜本的な対策も建てられるだろう。
-そうすれば奴らと戦うことができる。
+That is correct.
+Despite being of young age, he possesses vital
+information.
+The questions of why your group can attack those 
+things, why our own knights cannot...*
+Even basic mysteries like this, we do not know
+the answers to.
+For this reason,
+it is paramount we seek the sage's wisdom.*
+If we know what we're dealing with,
+we can develop drastic countermeasures. If we can 
+do that, we will finally have a fair fight.
+That is what I believe.
 
 ノブ：上
-なるほど。
-確かにそれは重要ですね。
+I got it. That is very important.
 
 大臣：上
-その賢者どのだが、
-今、王立学院に閉じ込められている。*
-王立学院は魔物化した女生徒たちに占拠されて、
-我々では手だしすることができないのだ。*
-賢者どのを救えるのは
-奴らと戦える君たちしかいない。
-どうか、頼まれてはくれないか。
+However as said before,
+at present, the sage is locked within the royal
+academy.
+The royal academy has been taken over by demonized
+schoolgirls, so we have not been able to lend our
+support.
+As your group are the only ones who can fight
+those things, only you can save the sage.
+On behalf of the kingdom, we request your aid.
 
 レイ：上
-・・・・！
+...!
 
 ユミル：上
-ええ、もちろんですとも！
+Yes! But of cause!
 
 ノブ：上
-俺たちで、必ず、
-賢者さまを救い出してみせます！
+With our strength, we'll save the sage and
+make sure he's not harmed!
 
 テロップ：中央
-こうして俺たちは
-城外にある、
-王立学院に向かった。
+And so,
+we headed out of the castle, and set course
+towards the royal academy.
 
 テロップ：中央
-大臣からは王家の紋章が刻まれた、
-特殊な道具を手渡された。
+Beaing the royal family crest from the chancellor,
+we were also given special tools and equipment.
+
 
 テロップ：中央
-「賢者どのは、結界を張って部屋の中に閉じこもってい
-る。この道具を示して、僕たちが王家からの救援だとい
-う証拠にしてほしい」、とのことだった。
-この道具は大事に持っておく必要があるだろう。
+He told us "Sir Sage, has created a magical barrier 
+and locked himself in his room",* 
+Show him this crest to prove help has come from the
+kingdom, and put these tools and equipment to good
+use.
 
 <CM0>
 ユミル：上
