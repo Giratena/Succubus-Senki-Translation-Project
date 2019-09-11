@@ -4247,8 +4247,8 @@ OPをスキップしますか？
 
 <OP0>
 テロップ：中央
-翌日、僕たちは大臣に呼ばれて、
-王城の一室に来ていた。
+The next day were were summoned by the chancellor,
+and arrived at a room inside the castle.
 
 大臣：上
 うむ、この度の魔物撃退、
