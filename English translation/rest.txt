@@ -5304,17 +5304,18 @@ being a baby!" but they laughed at me.
 
 <CM67>
 ノブ：上
-聞き込みをしている感じ、
-古い伝承の記録なんかは
-教会の書庫にあるみたいだな。
-ふわぁ・・・。
-んあ、ごめん。なんか最近寝不足らしくて、
-しょっちゅうあくびが出ちゃってさ。
-毎日しっかり寝ているはずなんだけど、
-どうも疲れが取れないんだ・・・。
-学園の件以来、こんな感じかな・・・。
-え？少しやつれている？
-そうかな・・・。
+The gist I'm getting from asking everyone is that
+old manuscripts of legend seem to be kept in the
+church library.
+Yaaawn...
+Ah, sorry. I haven't been getting much sleep
+lately, so I've been yawning a bit.
+I've been making sure I get a good nights' sleep
+every day, but I just can't seem to shake my
+tiredness...
+I've been like this since that school event...
+Huh? Am I getting weaker?
+I wonder...
 
 <CM29>
 女の子：上
