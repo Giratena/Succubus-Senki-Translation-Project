@@ -10,11 +10,12 @@ Stock -> Convoy
 Option -> Options
 待機 -> Wait
 ユニッ卜メニュ -> Unit Status
-MIND -> RES
+MIND -> WIL
 MOVE -> MOV
 Attack (ユニッ卜メニュ中）　－＞ Atk
 回避 -> Avoid
-
+付加 -> Debuff
+特効 -> Eff.
 
 情報収集 -> Gather Information
 ショップ -> Shop

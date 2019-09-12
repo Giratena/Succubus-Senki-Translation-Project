@@ -1318,14 +1318,14 @@ and organise our equipment for what's to come.
 
 <OP2>
 テロップ：中央
-賢者を救出した僕たちは、
-その賢者に呼ばれて、王城の一室に来ていた。
+Rescuing the sage, we were summoned by him
+at a room in the king's castle.
 
 ミツヒデ：上
-ああ、みなさん、来てくれたんですね。**
-まずは、命をかけて僕を救出してくれたことに
-礼を言わせてください。
-本当にありがとうございました。
+Ah, mercinaries. You arrived.**
+Firstly, let me express my thanks for putting
+your lives on the line for rescuing me.
+I cannot thank you enough.
 その恩に報いるためにも、僕はこの知識を存分にふるう
 つもりです。これ以上、この国をあの魔物たちの好きに
 はさせません。

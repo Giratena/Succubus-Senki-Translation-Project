@@ -5,10 +5,12 @@
 イエヤス -> Lyon
 ミツヒデ　-> Mizuhide
 
-Enemies:
+Others:
 ルミーネ -> Luminara
 ミレニア -> Mileena
 モルジア -> Moumei
+
+Classes:
 勝ち気むすめ -> Determined Girl
 中級サキュパス ->　Intermediate Succubus
 下級サキユバス　->　Lesser Succubus
@@ -18,6 +20,7 @@ Enemies:
 娘村 -> Village Girl
 初等部学生 A/B -> Primary School Girl A/B
 中等部生徒 -> Middle School Girl
+乳魔 -> Boobie Succubus
 高等部生徒 -> High School Girl
 
 クラス：
