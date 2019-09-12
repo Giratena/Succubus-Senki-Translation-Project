@@ -1550,37 +1550,36 @@ Ray and Miles are my childhood friends,
 so I thought we'd always be on the same page.*
 But now they're becoming worthy heroes,
 with special abilies, even...
-Compared to them, I'm just following allong.
-When I heard about the story 
-あの二人さえいれば十分だったんだって余計に思った。
-だから、二人と一緒にいる資格、俺にあるのかなぁって
-ずっと考えちまって・・・。
+Compared to them, I'm just a regular guy.
+Before I heard about the divine protection,
+I thought I was enough to be with them,
+but now I wonder if I'm even qualified
+to be with them...
 
 ミレニア：上
-\vo[mi13]ノブくん・・・。**
-\vo[mi14]大丈夫だよ！
-ノブくんが落ち込んだら、わたしが元気づけてあげる！
-ほら！
+\vo[mi13]Oh Nobby...**
+\vo[mi14]It's going to be alright!
+Whenever you get sad, I'll always be here to
+cheer you right up! Come on!
 
 ノブ：上
-ちょっ、ミレニアちゃん・・・。
+Ah, Mileena...
 
 ミレニア：上
-\vo[mi15]こうやってぎゅーって抱きしめてあげるから、
-わたしに身を預けていいんだよ・・・。*
-\vo[mi16]ね？
-今は二人は見ていないよ。
-わたしの胸で泣いていんだよ。
+\vo[mi15]I'll give you lots of hugs,
+so you can let me take care of you...*
+\vo[mi16]You can do that, right?
+Those two people aren't here right now.
+You can melt all your worries away with my chest.
 
 ノブ：上
-ふぁ・・・・❤
+Uaahh...❤
 
 ミレニア：上
-\vo[mi17]ノブくん・・・。
-力を抜いて・・・。
-そう・・・。頭も真っ白にして・・・❤
-\vo[mi18]わたしの体に嫌なこと、
-全部吸い取られちゃおうね・・・❤
+\vo[mi17]Just relax Nobby...
+That's it... There's no need to think-❤
+\vo[mi18]Let my body squeeze out all those bad things
+in your mind...❤
 
 <OP3>
 テロップ：中央
