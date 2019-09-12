@@ -1390,100 +1390,106 @@ Muma...? So what does that mean?
 ミツヒデ：上
 'Mu-ma' （夢魔） directly translates to 
 'dream monster'.*
-It could als be writting with the character for
+It could als be written with the character for
 fog lke this, （霧魔）*
-The character for dream （夢） is for female forms,
-and fog （霧） is used for general monsters.
-After that, they were given the name "Mu-ma".
 So, to get to the point.
-I think the naming is very relevant.
-Dream 「夢」 and Fog 「霧」...
-If both elements are not disrupted at the same 
-time, then all attacks on them are nullified.
+Succubus are of both elemental types Dream （夢） 
+and Fog （霧）, which both cause attack immunity.
+If you don't cancel both of these elements,
+Dream 「夢」 and Fog 「霧」, at the same time,
+regular attacks will have no effect.
 
 レイ：上
 ...!
 
 ミツヒデ：上
-That is why our attacks could not hit them.
-But on the cuntrary, why could Lord Ray's group
-attack them?
-It must be a factor of elemental weaknesses.
-Light clears dreams, and wind clears the fog...*
-「光」と「風」の属性を混合させて攻撃することが、彼女
-たちの「夢」と「霧」を同時に攻撃するために必要だった
-のでしょう。
-今、お二人に光の加護と風の加護があることを確認し
-て、この仮説は確信に変わりました。*
-指揮官の加護は部隊全員に及びます。みなさんが彼
-女たちを攻撃できた理由は、レイさんとユミルさんの二
-つの属性の混合にあったわけです。
+That is why our attacks could not hit them.**
+So the question is, why could Lord Ray's group
+attack them?*
+I theorized it must be a factor of elemental 
+weaknesses.
+Light overcomes Dreams, and Wind overcomes Fog...
+So you would need to attack with the attributes of
+both Light and Wind to strike past their 
+attributes of Dream and Fog.
+Now that I have confirmed you two posssess the 
+divine protection of Light and Wind, I'm 
+confident my theory is correct.
+The divine protection extends across all of 
+your allies as well. That's why your forces
+can attack them, because of the combination
+of Ray's and Miles' attributes.
 
 ユミル：上
-はぁ。なるほど。
-風と光ねぇ。そんなこと考えもしなかったな。
-よく調べたもんだぜ。
+...aah. I see.
+Wind and Light huh? I didn't even think about
+that. I guess all that study really payed off.
 
 ノブ：上
-・・・ん？
-その加護というのは珍しいのか？
+...oh? So is divine protection rare?
 
 ミツヒデ：上
-いえ、そこまで珍しいというわけではありません。何らか
-の加護を持った人は数多くいます。光の加護は少し珍
-しいですが、それでも騎士団に十数人はいるはずです
+No, not particularly rare. There are many
+who come to posess divine protection.*
+It is slightly curious though about the
+divine protection of light. It's quite rare...
+But yes, some of the Knights of Order have 
+blessings, for example.*
 
 レイ：上
-・・・・？
+...?
 
 ユミル：上
-ん？おかしいじゃねぇか。それなら、なぜ騎士団はやつ
-らに攻撃できなかったんだ？
+Hang on though, if the Knights have blessings,
+why can't they attack them?
 
 ミツヒデ：上
-それは、普通は隊長と副隊長で属性を統一するから
-です。*
-これは軍隊の常識でもあるのですが、隊長と副隊長の
-加護が異なっていると、属性の力が反発しあって、
-あまりいい効果が得られないことが分かっています。
-そのため、我が国の騎士団では隊長と副隊長の加護
-をそろえています。光の加護の隊長ならば、副隊長も
-光の加護持ちという具合に・・・。
+That's because blessings are most effective when 
+both our commanders have compatible protection.*
+Although they are common here, the divine 
+protection others have varies a lot.*
+Therefore, we try to arrange comanders from 
+different countries with compatible protection.*
+For example, if the comander has the blessing
+of light, they would be paired with others
+who have the same blessing.
 
 ユミル：上
-つまり、俺たちはたまたま属性を統一していなかったから
-、攻撃できたということか？
+So in other words, if we didn't happen to
+posess a unique combination of Wind and Light,
+we wouldn't be able to attack them either?
 
 ミツヒデ：上
-そういうことです。**
-地方の自警団であるあなたたちが、加護の統一につい
-て知らなくても無理はありません。今回はそれが非常に
-いい結果に働きました。
-今後は騎士団も指揮系統を再編して、
-光の加護持ちと風の加護持ちを中心に
-編成しなおすつもりです。
-逃げることしかできなかった我々も、
-これでようやく反撃することができるのです！*
-あなた方のおかげで、
-僕たちにも希望の光が見えてきました。
-重ねて言いますが、本当にありがとうございました。
+That is correct.**
+As you are only local mercinaries, I wouldn't
+have expected you to know, but you happened to
+come across a potent combination.
+I'll inform the knights so they can reorgainise 
+their chain of comand to match this new 
+combination.
+We were only able to retreat, but with this,
+we can finally strike back!*
+Thanks to you,
+we finally have a glimmer of hope.
+Thank you, truely.
 
 レイ：上
-・・・・・・♪
+...♪
 
 テロップ：中央
-今後の作戦については、
-大臣と話し合い、
-内容が決まり次第追って連絡するとのことだった。
-また今回の働きを評価して特別なアイテムと国の宝物
-庫への立ち入りが許可された。
+After a discussion on tactics,
+word was relayed to the councellor, who mentioned 
+he would get on it as soon as possible.
+As a result of our efforts, we were permitted 
+access to the treasury and other special items.
 
 テロップ：中央
-宝物庫＆クラスチェンジ解放！
-（名声で宝物ゲット＆LV5からクラスチェンジ可）
+Class Change and the Treasury are now avalible!
+(Spend Renown to obtain Treasures and
+change classes starting from level 5)
 
 テロップ：中央
-賢者との面談が終わったあとのこと・・・。
+And so, our meeting with the sage ended.
 
 ノブ：上
 はぁ・・・・。
