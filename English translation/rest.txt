@@ -1318,77 +1318,98 @@ and organise our equipment for what's to come.
 
 <OP2>
 テロップ：中央
-Rescuing the sage, we were summoned by him
+With the sage rescued we were summoned by him
 at a room in the king's castle.
 
 ミツヒデ：上
-Ah, mercinaries. You arrived.**
+Ah, mercenaries. You arrived.**
 Firstly, let me express my thanks for putting
 your lives on the line for rescuing me.
 I cannot thank you enough.
-その恩に報いるためにも、僕はこの知識を存分にふるう
-つもりです。これ以上、この国をあの魔物たちの好きに
-はさせません。
+I owe you a great deal of debt, so I request
+you make use of any knowlege I have.
+I will stand for these demons do as they please 
+with our country.
 
 レイ：上
-・・・・♪
+...♪
 
 ユミル：上
-へへ、頼もしいじゃないか。
+Heh, reliable as ever, aren't you Mizuhide?
 
 ミツヒデ：上
-みなさんをお呼びしたのは、お礼のためもありますが、
-なぜあの魔物を騎士団が攻撃できなかったかについて
-僕の仮説を確かめたかったからです。
-レイさん、ユミルさん、ノブさん、
-この水晶玉を触ってくれませんか？
+Well, I did call everyone here to express
+my grattitude...*
+But I also wanted to check my hypothesis on why 
+the knights weren't able to attack those demons.*
+Ray, Miles, Nobus... Could you touch this crystal
+analyser please?
 
 ユミル：上
-ん？なんだ、この水晶玉は。
+Hm? What, this crystal ball?
 
 ：スチル
-水晶玉は、レイが触れると白い光を、ユミルが触れると
-緑色の光を放った。ノブが触れても特に反応を示さな
-かった。
+When Ray touched the crystal analyser it shone with
+a bright while light, and flashed green when Miles 
+touched it. There was no particular reaction
+when Nobus touched it.
 
 ミツヒデ：上
-やはり・・・。**
-この水晶玉は、その人の持つ「加護」を調べるための
-道具なのです。白い色は光の加護、緑色は風の加護
-を意味しています。
+As I had expected...**
+Long ago, the heroes of legend who slayed the
+dragons that threatened this world, recieved a 
+blessing of 'divine protection' from the goddess.
+This protection safely warded them from the
+dragons' attacks, and allowed their blades to
+strike true.
+But, in some cases people can carry this 
+'protection' within them without a blessing. This
+crystal is used to analyse that type of protection.
+The white colour you see indicates the protection
+of light, and the green colour indicates the
+protection of the wind.
 
 ノブ：上
-それが今回の魔物と何か関係があるのか？
+So what does that have to do with the monsters
+we've been fighting?
 
 ミツヒデ：上
-ええ。**
-みなさんは、あの魔物の名前を知っていますか？**
-彼女たちは自分たちではサキュバス、あるいは淫魔と
-名乗っています。しかし、古い文献では彼女たちは
-「ムマ」と呼ばれています。
+Of cause, allow me to explain.**
+Are you familar with the name of those monsters?**
+We call them succubus, or in old Japanese terms
+'In-ma'. However, in old archaic literature, 
+they are referred to as 'Mu-ma'.
+Take a look at these inscriptions. 
+'In-ma' （淫魔）
+'Mu-ma' （夢魔）
+
 
 ユミル：上
-ムマ？なんだ、それは？
+Muma...? So what does that mean?
 
 ミツヒデ：上
-夢の悪魔と書いて「夢魔」。
-あるいは霧の悪魔と書いて「霧魔」。*
-彼女たちは「夢」を本体とし、「霧」を肉体とする魔物
-です。それにちなんでかつての人々は「ムマ」と名付けた
-そうです。
-僕は非常に適切な命名だと思います。「夢」と「霧」、
-その二つの部分を同時に破壊できなければ、彼女たち
-への攻撃は無効化されてしまうのですから。
+'Mu-ma' （夢魔） directly translates to 
+'dream monster'.*
+It could als be writting with the character for
+fog lke this, （霧魔）*
+The character for dream （夢） is for female forms,
+and fog （霧） is used for general monsters.
+After that, they were given the name "Mu-ma".
+So, to get to the point.
+I think the naming is very relevant.
+Dream 「夢」 and Fog 「霧」...
+If both elements are not disrupted at the same 
+time, then all attacks on them are nullified.
 
 レイ：上
-・・・・！
+...!
 
 ミツヒデ：上
-これが我々の攻撃が彼女たちに通用しなかった理由
-です。では逆に、なぜレイさんたちの攻撃が彼女たちに
-通用したのか？
-それは、おそらく弱点属性だったからです。
-夢を払うのは「光」、霧を払うのは「風」・・・。*
+That is why our attacks could not hit them.
+But on the cuntrary, why could Lord Ray's group
+attack them?
+It must be a factor of elemental weaknesses.
+Light clears dreams, and wind clears the fog...*
 「光」と「風」の属性を混合させて攻撃することが、彼女
 たちの「夢」と「霧」を同時に攻撃するために必要だった
 のでしょう。
