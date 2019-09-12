@@ -1426,7 +1426,7 @@ Wind and Light huh? I didn't even think about
 that. I guess all that study really payed off.
 
 ノブ：上
-...oh? So is divine protection rare?
+Oh... So is divine protection rare?
 
 ミツヒデ：上
 No, not particularly rare. There are many
@@ -1492,67 +1492,66 @@ change classes starting from level 5)
 And so, our meeting with the sage ended.
 
 ノブ：上
-はぁ・・・・。
+(Sigh)...
 
 ミレニア：上
-（コンコン・・・）
-\vo[mi7]入るよ、ノブくん。*
-\vo[mi8]ほら、今晩の食事。
-えへへ、うちの宿自慢のごはんだから、
-味わって食べてね。って、あれ・・・？
-\vo[mi9]・・・・。
-ノブくん、どうしたの？
-何か落ち込んでいるみたいだけど。
+(Knock knock...)
+\vo[mi7]Look! I brought you dinner.
+Teehee, this dish is our inn's pride and joy,
+so make sure to eat up okay? Huh, oh...?
+\vo[mi9]...
+Nobby, is something wrong?
+You look depressed.
 
 ノブ：上
-ああ、ミレニアちゃん。ご飯ありがとう。
-いや、何でもないんだ。
-それに宿屋の娘さんに話すことでもないから・・・。
+Aah, Mileena. Thank you for the meal.
+No, it's nothing.
+It's not something I want to talk about...
 
 ミレニア：上
-\vo[mi10]そんなこと言わないで、ノブくん。
-ほら、わたしの目を見て・・・？
+\vo[mi10]Don't say such things Nobby.
+Hora, look at me...
 
 ：スチル
-ミレニアと呼ばれた少女は
-ベッドに腰かけていたノブの隣にちょこんと座り、
-じっと彼の顔を見つめた。
+The girl named Mileena sat next to Nobus
+on the bed, and stared at him in the face.
 
 ミレニア：上
-\vo[mi11]悩んでいること、全部話してほしいな。
-わたし、ノブくんの力になりたいの。
+\vo[mi11]All those troubling things, you want to
+tell me all about them.
+I only want to help you Nobby.
 
 ノブ：上
-うっ・・・・。**
-（なんだろう。この子の目を見ていると
-吸い込まれそうな気分になってくる。
-なんてきれいな眼なんだろうか。）
+Ooh...**
+(Whoa, when I look into her eyes
+it feels like I'm being sucked in.
+I never noticed how beautiful they were.)
 
 ミレニア：上
-\vo[mi12]ほら、なんでも話して・・・。ね？
+\vo[mi12]Hora, you can tell me anything, okay?
 
 ノブ：上
-ああ、実は・・・。
+Uhh, so actually...
 
 テロップ：中央
-ノブは、最近の出来ごとについて話した。**
-レイやユミルには特別な加護があって、その加護がサキ
-ュバスの討伐に必要だったこと。それに比べて自分には
-何の加護もなかったこと。
-はじめて村でサキュバスを見たときから、彼女たちの誘
-惑に惑わされて魅了されてしまったこと。乳魔が出たと
-きも真っ先に魅了されてしまったこと。
+Nobus told Mileena everything that happened.**
+Ray and Miles having special blessings, the
+combination type needed surpress the succubus,
+and that he didn't have any special blessings.
+The first time they saw succubus at the village,
+how easily he was seduced by their charms,
+and how he was fell instantly the moment he saw
+the Boobie Succubus at the academy.
 
 ノブ：上
-なんていうか、俺、役に立ってないなぁって
-思っちゃうんだ・・・。*
-レイもユミルも幼馴染で、
-同じような立場だったはずなのに、*
-あいつらは英雄としてどんどんふさわしい働きをして、能
-力もあって・・・。それに比べて俺は、ただ二人に付いて
-いってるだけでさ。
-加護の話を聞いてさ、
-やっぱり俺は必要じゃなかったんだ、
+What do you think? Compared to them, I feel
+useless.*
+Ray and Miles are my childhood friends, 
+so I thought we'd always be on the same page.*
+But now they're becoming worthy heroes,
+with special abilies, even...
+Compared to them, I'm just following allong.
+When I heard about the story 
 あの二人さえいれば十分だったんだって余計に思った。
 だから、二人と一緒にいる資格、俺にあるのかなぁって
 ずっと考えちまって・・・。
