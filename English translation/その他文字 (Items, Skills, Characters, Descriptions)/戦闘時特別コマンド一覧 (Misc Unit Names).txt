@@ -2,7 +2,7 @@
 
 
 Magic Circle
-Open Door
+Door
 Chest
 Desk
 Enter

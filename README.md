@@ -1,6 +1,6 @@
 # Succubus-Senki-Translation
 Translations for Succubus Senki, scripts will be sent to the developer who will then patch them into the game.
-Check out our discord here! https://discord.gg/rgdAYuG
+Check out our discord here! https://discord.gg/QJppHcu
 
 
 This is an unfinished readme. All will be revealed... when I get around the finishing it.
@@ -13,11 +13,3 @@ Dialogue Box and Translation Guide:
   - "テクスト...❤" -> "Text...❤"
   - "テクスト～❤" -> "Text～❤" (IMPORTANT: Don't do "Text~❤"! The game engine won't recognise this.)
 Your branch may not be accpeted if these rules aren't followed!
-
------------
-Proofreading/Writing Guide:
-TBA
-
------------
-Items Guide:
-TBA

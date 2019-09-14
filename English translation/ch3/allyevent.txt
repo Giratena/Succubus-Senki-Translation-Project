@@ -2,12 +2,12 @@
 
 <(262144)ミツヒデ0>
 ミツヒデ：上
-回復でサポートします！
+I lend you my support!
 
 <(262144)ミツヒデ1>
 ミツヒデ：上
-少しでも力になれればっ！
+If I can just help even a little!
 
 <(262144)ミツヒデ2>
 ミツヒデ：上
-負けないでください！
+Don't give up!
