@@ -1151,7 +1151,7 @@ fighting those rare enemies!
 ...!
 
 ユミル：上
-We need to report this to the Knight Order right 
+We need to report this to the Knights of Order right 
 away.* 
 We'll make a new demon counterplan with the Order,
 and while doing so, create a name for 
@@ -3463,9 +3463,9 @@ Um, excuse me.
 ...?
 
 イエヤス：上
-Are you, perhaps, 
-the one who defended the town against the demon 
-attack, Lord \pdb[0]?
+Are you, perhaps Lord \pdb[0]?
+The one who defended the 
+town against the demon attack?
 Actually, I am quite confident 
 on the battlefield myself.*
 My specialty is healing allies. If it is alright,
@@ -3475,7 +3475,7 @@ may I accompany you?
 ...
 
 イエヤス：上
-Truly!? Many thanks...!**
+Truly!? My thanks...!**
 Well then, I hope we make a solid team.
 
 テロップ：中央
@@ -3547,9 +3547,9 @@ location menu.
 
 <CM6>
 兵隊：上
-As a commander, it's important to know your 
-allies.
-But, know your enemies even more.*
+As a commander, it's important to keep your 
+allies close.
+But keep your enemies closer.
 You seem to have a keen eye for 
 observing both enemies and allies.*
 Know your allies, but don't forget about your 
@@ -3619,7 +3619,7 @@ Could Nobus be staying here?
 
 ミレニア：上
 \vo[mi1]Welcome to the Moonlight Inn!**
-\vo[mi2]Oh! Could you be the Lord that Nobus mentioned?
+\vo[mi2]Oh! Could you be Ray? Nobus was talking about you.
 Nice to meet you. I'm Mileena. 
 
 ノブ：上
@@ -3629,7 +3629,7 @@ Mileena, invited me while I was out drinking.
 
 ミレニア：上
 \vo[mi3]I saw Nobus tired out and drinking alone 
-at his own party.
+at his own party.*
 \vo[mi4]So, I started to chat with him.**
 \vo[mi5]When it's only two people,
 you can talk for ages and ages...
@@ -3639,8 +3639,8 @@ It was a fun evening.
 She's the innkeeper here.
 After we finished drinking, I was asked
 if I would like to stay here for the night.
-The meals here are delicious,
-and it's a good place.
+It's a good place, and the meals are 
+delicious.* 
 It will be a while before we make our
 way to the capital, so I was thinking of
 setting up base here in the meantime.
@@ -3727,7 +3727,7 @@ But, they're demons right?
 I heard they're monsters who take the forms of
 sexy women.*
 I recall one time I saw a drop dead sexy woman,
-and she tried to beckon me closer.
+and she tried to beckon me closer.*
 If I wasn't with my daughter at the time, I might
 have been swayed, but I think I could withstand
 her seduction.
@@ -3785,8 +3785,8 @@ wrapping them around someone's arm is easy.*
 I bet it'd feel really good to have your face 
 buried between them.*
 Hora, just imagine it...❤
-Her soft breasts, wrapping around your various 
-body parts...*
+Her soft breasts, wrapping around various 
+body parts...
 Feeling so good, your mind becoming blank with
 pleasure...
 

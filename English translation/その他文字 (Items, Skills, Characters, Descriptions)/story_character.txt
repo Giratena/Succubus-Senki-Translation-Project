@@ -5,6 +5,16 @@
 イエヤス -> Lyon
 ミツヒデ　-> Mizuhide
 
+クラス：
+見習いリーダー -> Lord
+見習いシ-フ -> Thief
+見習い守護者 -> Knight
+下級スライム -> Lesser Slime
+スケルトン -> Skeleton 
+守護兵 -> Guard
+スライム -> Slime
+スケルトン -> Skeleton 
+
 Others:
 ルミーネ -> Luminara
 ミレニア -> Mileena
@@ -23,15 +33,7 @@ Classes:
 乳魔 -> Boobie Succubus
 高等部生徒 -> High School Girl
 
-クラス：
-見習いリーダー -> Lord
-見習いシ-フ -> Thief
-見習い守護者 -> Knight
-下級スライム -> Lesser Slime
-スケルトン -> Skeleton 
-守護兵 -> Guard
-スライム -> Slime
-スケルトン -> Skeleton 
+
 
 Others:
 男 -> Man
