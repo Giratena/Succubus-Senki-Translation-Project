@@ -19,6 +19,7 @@ Others:
 ルミーネ -> Luminara
 ミレニア -> Mileena
 モルジア -> Moumei
+シスター -> Priestess
 
 Classes:
 勝ち気むすめ -> Determined Girl
@@ -32,7 +33,7 @@ Classes:
 中等部生徒 -> Middle Schoolgirl
 乳魔 -> Breast Succubus
 高等部生徒 -> Highschool Girl
-
+敬虔な少女 -> Devout Girl
 
 
 Others:
