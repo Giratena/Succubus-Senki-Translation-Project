@@ -1327,9 +1327,9 @@ Firstly, let me express my thanks for putting
 your lives on the line for rescuing me.
 I cannot thank you enough.
 I owe you a great deal of debt, so I request
-you make use of any knowlege I have.
-I will stand for these demons do as they please 
-with our country.
+you make use of any knowlege I have.*
+I will no stand for these demons to do as they 
+please with our country.
 
 レイ：上
 ...♪
@@ -1346,12 +1346,14 @@ Ray, Miles, Nobus... Could you touch this crystal
 analyser please?
 
 ユミル：上
-Hm? What, this crystal ball?
+Hm? 
+What, this crystal ball?
 
 ：スチル
 When Ray touched the crystal analyser it shone with
 a bright while light, and flashed green when Miles 
-touched it. There was no particular reaction
+touched it. 
+There was no particular reaction
 when Nobus touched it.
 
 ミツヒデ：上
@@ -1391,11 +1393,11 @@ Muma...? So what does that mean?
 'Mu-ma' （夢魔） directly translates to 
 'dream monster'.*
 It could als be written with the character for
-fog lke this, （霧魔）*
+'Fog' lke this, （霧魔）*
 So, to get to the point.
 Succubus are of both elemental types Dream （夢） 
-and Fog （霧）, which both cause attack immunity.
-If you don't cancel both of these elements,
+and Fog （霧）. These cause attack immunity.
+If you don't cancel both of these elements-
 Dream 「夢」 and Fog 「霧」, at the same time,
 regular attacks will have no effect.
 
@@ -1415,15 +1417,17 @@ attributes of Dream and Fog.
 Now that I have confirmed you two posssess the 
 divine protection of Light and Wind, I'm 
 confident my theory is correct.
-The divine protection extends across all of 
-your allies as well. That's why your forces
-can attack them, because of the combination
-of Ray's and Miles' attributes.
+This divine protection extends across all of 
+your allies as well.*
+That's why your forces can attack them, 
+due to the combination of Ray's and Miles' 
+attributes.
 
 ユミル：上
 ...aah. I see.
-Wind and Light huh? I didn't even think about
-that. I guess all that study really payed off.
+Wind and Light huh?*
+I didn't even think about that. I guess 
+all of your studying really payed off Mizuhide.
 
 ノブ：上
 Oh... So is divine protection rare?
@@ -1432,9 +1436,9 @@ Oh... So is divine protection rare?
 No, not particularly rare. There are many
 who come to posess divine protection.*
 It is slightly curious though about the
-divine protection of light. It's quite rare...
+divine protection of light. It's quite rare...*
 But yes, some of the Knights of Order have 
-blessings, for example.*
+blessings, for example.
 
 レイ：上
 ...?
@@ -1445,7 +1449,7 @@ why can't they attack them?
 
 ミツヒデ：上
 That's because blessings are most effective when 
-both our commanders have compatible protection.*
+our commanders have the same protection elemt.*
 Although they are common here, the divine 
 protection others have varies a lot.*
 Therefore, we try to arrange comanders from 
@@ -1478,8 +1482,8 @@ Thank you, truely.
 
 テロップ：中央
 After a discussion on tactics,
-word was relayed to the councellor, who mentioned 
-he would get on it as soon as possible.
+word was relayed to the councellor, who promptly
+put the plan into action.
 As a result of our efforts, we were permitted 
 access to the treasury and other special items.
 
@@ -1495,7 +1499,7 @@ And so, our meeting with the sage ended.
 (Sigh)...
 
 ミレニア：上
-(Knock knock...)
+(Knock knock...)*
 \vo[mi7]Look! I brought you dinner.
 Teehee, this dish is our inn's pride and joy,
 so make sure to eat up okay? Huh, oh...?
@@ -1539,7 +1543,7 @@ Ray and Miles having special blessings, the
 combination type needed surpress the succubus,
 and that he didn't have any special blessings.
 The first time they saw succubus at the village,
-how easily he was seduced by their charms,
+how easily he was seduced by their charms,*
 and how he was fell instantly the moment he saw
 the Boobie Succubus at the academy.
 
@@ -1552,9 +1556,9 @@ But now they're becoming worthy heroes,
 with special abilies, even...
 Compared to them, I'm just a regular guy.
 Before I heard about the divine protection,
-I thought I was enough to be with them,
-but now I wonder if I'm even qualified
-to be with them...
+I thought I was enough to be with them.*
+But now I wonder if I'm even qualified
+to be their friend...
 
 ミレニア：上
 \vo[mi13]Oh Nobby...**
@@ -1570,14 +1574,14 @@ Ah, Mileena...
 so you can let me take care of you...*
 \vo[mi16]You can do that, right?
 Those two people aren't here right now.
-You can melt all your worries away with my chest.
+You can melt all your worries away in my chest.
 
 ノブ：上
 Uaahh...❤
 
 ミレニア：上
 \vo[mi17]Just relax Nobby...
-That's it... There's no need to think-❤
+That's it... There's no need to think-❤*
 \vo[mi18]Let my body squeeze out all those bad things
 in your mind...❤
 
@@ -4643,20 +4647,21 @@ the left and right keys again to revert back.
 
 <CM18>
 兵隊：上
-なになに・・・。
-「技」は命中率とクリティカル率を上げる。ふむふむ。*
-「速さ」は回避率に、
-「幸運」はクリティカル回避率に関わる。*
-速さが高いほど敵の攻撃を避けれるし、
-幸運が高いほど急所に当たりにくい、と。
-なるほどなぁ。
-つまり、武器の命中率の高さだけじゃなく、技の高さも
-大事なんだな。素早くて攻撃が当たりにくい敵は、
-技の高い味方に頼るのもありかもしれない。ふむふむ。
+What to do what to do...
+So 'Skill' raises accuracy and crit rates...*
+'Speed' increases evasion,
+but 'luck' increases crit and evasion...*
+So you can avoid enemy attacks with high speed,
+and unleash fatal strikes with high luck,
+I see...
+In other words, high skill is just as important
+as the weapon accuracy rates. I might need to
+rely on allies with high skill when fighting
+faster units. Hmm....
 
 兵隊：上
-ん、君も勉強中かい？
-それならこれをあげるよ。
+Oh? Are you studying too?
+If that's the case I'll give you this.
 
 <CM27>
 ミツヒデ：上
@@ -4685,15 +4690,16 @@ Aah, please get rid of those demons quickly.
 男：上
 Did you hear?
 The princess came to visit one of the shops around
-here.*
+here.
 The many royal families in this country has 
 excelled at creating magical artifacts for 
 generations.
 But now, it seems you can come here buy the 
-resources for these magical artifacts.
+resources for these magical artifacts.*
 I wanted to see it for myself,
-so I came to the shops downtown, no,
-I don't think Princess would take pride 
+so I came to the shops downtown...
+Actually maybe not.
+I don't think Princess would be that prideful  
 in her work.
 
 <CM33>
@@ -4714,9 +4720,9 @@ Here, these are some trial goods. Have fun.
 <CM20>
 おばあさん：上
 During times like these, we can't have the food
-be at high prices.*
+be at high prices.
 During the war, prices rise of cause.
-Because only the rural areas of the country have
+As only the rural areas of the country have
 been attacked, this years harvest will be taking
 a significant impact.
 Oh, what to do...
@@ -5001,7 +5007,7 @@ You lost 1000 renown...
 Iyaah-!
 
 女の子：上
-No way!He didn't fall for Micah-chan's 
+No way! He didn't fall for Micah-chan's 
 techniques...
 
 レイ：上
@@ -5015,7 +5021,7 @@ I'm gonna humiliate you if it's the last thing
 I do. THBPBPTHPT-!
 
 テロップ：中央
-With that parting shot, the girls left.
+And with that parting shot, the girls left.
 
 男の子：上
 Thanks big brother.**
@@ -5049,8 +5055,8 @@ Over here big sister!
 This is the guy I told you about! Hora!
 
 お姉さん：上
-Aah, really?
-He'll fall just like any other man.*
+Ugh, good grief. This is the guy you wanted 
+me to try and humiliate?*
 Mm, nice to meet you.
 I'm this girl's elder sister.
 It sounds like you were bothering her awhile ago.
@@ -5189,7 +5195,7 @@ It's gonna be tough for you if you can't resist-❤
 Oah! Ha!-❤
 
 お姉さん：上
-Ahuhuhu-❤ Endurance is impossible...
+Ahuhuhu-❤ It's impossible to resist...
 Those eyes are of someone who has completely
 fallen-❤
 Confused by the stimulation of her feet, Mmph-❤
@@ -5316,7 +5322,7 @@ sighted in the forest.
 Those who are with the Knights of Order,
 please take care when you venture into the forest...*
 OOoh...
-Aah. The reward, quickly...❤
+Aah. My reward, where's my reward...?❤
 
 <CM24>
 男の子：上
@@ -5347,7 +5353,7 @@ I've been making sure I get a good nights' sleep
 every day, but I just can't seem to shake my
 tiredness...
 I've been like this since that school event...
-Huh? Am I getting weaker?
+Huh? Maybe I'm just tired?
 I wonder...
 
 <CM29>
@@ -10572,9 +10578,8 @@ Aah, aaah...❤❤
 
 <CM125>
 テロップ：中央
-宝物庫で手に入れたものを荷物袋に入れて
-街角を歩いていると、
-後ろから足音が聞こえてきた。
+While walking down the street with a bag of items
+from the treasury, I hear footsteeps behind me.
 
 お姉さん：上
 きゃ！**

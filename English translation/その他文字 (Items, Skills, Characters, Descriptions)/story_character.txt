@@ -40,6 +40,8 @@ Others:
 男 -> Man
 兵隊 -> Soldier
 大臣 -> Chancellor
+第三騎士団団長 -> Commander
+お姉さん -> Lady
 
 
 キャラクター：
