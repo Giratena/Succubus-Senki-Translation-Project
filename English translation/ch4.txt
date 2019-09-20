@@ -4912,24 +4912,25 @@ OPをスキップしますか？
 
 <OP0>
 大臣：上
-この度は賢者どのの救出まことにご苦労であった。**
-この勲功をねぎらうために、
-王様から君たちに直々のお話があるそうだ。
-こちらへ来てもらえるかな。
+And now, for going through the trouble of 
+rescusing our wise sage,**
+The king himself would like to speak with you all
+to personally thank you for your efforts.
+Please come right this way.
 
 レイ：上
-・・・・！
+...!
 
 王様：上
-ふむ。よく来てくれた。
-こうして直接顔を合わせるのは初めてだな。
-わたしがこの国の王だ。
-この王都を守り、賢者殿を救い出した君たちに
-それにふさわしい褒章を与えよう。*
-まず、これは少ないが報奨金だ。受け取り給え。
+Ah, you have arrived.
+This appears to be the first time we have met,
+I am the governing king of this country.
+For rescusing the sage and defending our capital,
+I shall present you with this medal of honour.*
+But first, a small token of our grattitude.
 
 兵隊：上
-これをどうぞ。
+Please, take this.
 
 王様：上
 そして、さらに別の褒章がある。
