@@ -5035,53 +5035,58 @@ We'd like you to carry out.
 ...?
 
 ミツヒデ：上
-みなさんに依頼したいのは、「聖剣」の捜索です。**
-夢魔について記された古文書を解読していると、そこに
-かつて夢魔の女王を封じた聖剣についての記述を見つ
-けました。
-その封印の地が、どうやらレイさんたちの赴任地の近く
-にあるようなのです。
+We request that you search for the "holy sword"
+of legend.**
+While I was deciphering an ancient document about 
+succubui, I discovered a description of an holy
+sword used to deal the succubus queen.
+Sealed beneath the ground, which is apparently
+located where Lord Ray's group will be posted.
 
 ミツヒデ：上
-古文書には「女王を討ちし聖なる剣、ムマのけがれを
-その身に負えり。ゆえに泉に封ず。心弱きものは決して
-触るるべからず」と書かれています。
-不穏な文章ですが、
-夢魔を倒してきたレイさんたちならば、
-少なくとも「心弱きもの」ではないはずです。
-大まかな位置を古文書から割り出したので、
-その地図をお渡ししますね。後で僕も合流します。
-ぜひ聖剣を見つけ出してきてください！
+The text says...
+"The sword which thwarted the queen and defeated
+the succubus, was sealed away in a fountain, 
+never to be touched by the weak of heart..."
+It is a disturbing sentence, but if Lord Ray's 
+group were able to defeat those succubus earlier, 
+I certainly believe he is not weak of heart.
+We have discovered the original location of this
+document. I'll transfer the map of it's location
+to you. I will join you later.
+But for now, please seak out the holy sword,
+it may be our only hope.
 
 大臣：上
-今はまだ極秘の段階だが、
-我々はサキュバスどもの根城への攻撃を、
-着々と準備している。
-いずれ近いうちに敵の本拠地を探り出し、
-そこを一気にたたくつもりだ。*
-その準備期間の間に、
-第九騎士団の面々には、戦力を強化してもらいたい。
-それこそ、敵の女王を倒せるほどに。
-聖剣捜索の任務、期待しているよ。
+It's currently still being planned in secret,
+but we've also been steadily making preperations 
+to attack the succubus castle.
+We intend to stake out the enemy stronghold,
+and sift them out in one swift movement.*
+While we prepare for that,
+I want you to strengthen your forces as part of
+the 9th order of knights.
+As soon as we are all ready, we will launch an
+attack on the enemy queen.
 
 ユミル：上
-聖剣ねぇ。ちょっと眉唾な話だが、
-子供のころ聞いた物語みたいで
-ワクワクしちまうな。
+The holy sword huh? It sounds like an old myth
+to me, but just hearing it reminds me of the
+thrilling stories I'd hear as a child.
 
 レイ：上
-・・・♪
+...♪
 
 ノブ：上
-心弱きものは触れてはいけない・・・か。
-どんな封印がされているんだろうな。
+...Those faint of heart should not touch?
+What kind of seal could it be...
 
 テロップ：中央
-それから数日。
-僕たちは、赴任先の村にたどり着いた。*
-ここを拠点にして、
-周囲のサキュバスを倒しつつ、
-聖剣を探していくことになる。
+Several days pass, and we finally arrive 
+at a village before our new mission.
+From this point onwards, we'll not only continue 
+to exterminate the surrouding succubus, 
+but also search for the "holy sword".
 まずは周囲の村人から情報を集めることにしよう。
 
 男：上
