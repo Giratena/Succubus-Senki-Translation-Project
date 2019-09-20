@@ -4912,7 +4912,7 @@ OPをスキップしますか？
 
 <OP0>
 大臣：上
-And now, for going through the trouble of 
+And so, for going through the trouble of 
 rescusing our wise sage,**
 The king himself would like to speak with you all
 to personally thank you for your efforts.
@@ -4923,7 +4923,7 @@ Please come right this way.
 
 王様：上
 Ah, you have arrived.
-This appears to be the first time we have met,
+I believe this is the first time we have met,
 I am the governing king of this country.
 For rescusing the sage and defending our capital,
 I shall present you with this medal of honour.*
@@ -4934,7 +4934,7 @@ Please, take this.
 
 王様：上
 And here is your medal of honour.
-After evaluating your moments,*
+After evaluating your movements...*
 I have thought to formally appoint all of you as
 commands in the Knights of Order, 
 as defenders of our country.
