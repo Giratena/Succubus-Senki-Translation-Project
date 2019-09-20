@@ -4933,9 +4933,11 @@ But first, a small token of our grattitude.
 Please, take this.
 
 王様：上
-そして、さらに別の褒章がある。
-この度の働きを評して、君たちを正式に
-我が国の騎士団として登用しようと思う。
+And here is your medal of honour.
+After evaluating your moments,*
+I have thought to formally appoint all of you as
+commands in the Knights of Order, 
+as defenders of our country.
 普通ならどこかの騎士団の副団長にでもあてがって、
 少しずつ昇格させていくのが筋だが、今は火急の時だ。*
 新たに騎士団を創設し、
@@ -5003,7 +5005,7 @@ Please, take this.
 これからは第九騎士団の団長と副団長ですね。
 
 ユミル：上
-（いかん、ニヤニヤが止まらねぇ・・・。）
+(Must, resist the urge to continue smilling...)
 
 ミツヒデ：上
 ふふっ、お喜びになるのも当然です。これはすごいことで
