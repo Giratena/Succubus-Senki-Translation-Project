@@ -4669,21 +4669,23 @@ Ufufu-❤
 
 <OP3>
 テロップ：中央
-OPをスキップしますか？
+Skip the opening?
 
 <OP1>
 テロップ：中央
-この村に到着して数日たったころ、
-賢者のミツヒデが僕たちに合流した。
+Mizuhide shortly joined up with us
+within a few short days of arriving 
+in the village.
+
 
 ミツヒデ：上
-レイさんたち、お久しぶりです！
-古文書の解読がひと段落ついたので、
-こちらに合流しにきました。
-それで現在どうなっていますか？
+It has been awhile, Lord Ray!
+I came here to join you as I have completed 
+deciphering the ancient script.
+What have I missed?
 
 レイ：上
-・・・・・。
+...
 
 ユミル：上
 聞き込みをしたんだが、
@@ -4717,7 +4719,7 @@ OPをスキップしますか？
 そこでゆっくりしていてください。
 
 ノブ：上
-すごくいい匂いの紅茶だ。
+This tea smells really nice!
 
 ユミル：上
 ああ、それになんだかこの教会の中も
@@ -5087,27 +5089,30 @@ at a village before our new mission.
 From this point onwards, we'll not only continue 
 to exterminate the surrouding succubus, 
 but also search for the "holy sword".
-まずは周囲の村人から情報を集めることにしよう。
+Our first step will be to gather information 
+from the villagers.
 
 男：上
-騎士団様！
-おお、いいところに来てくださいました！！*
-実は隣村がサキュバスたちの手に堕ちたらしいのです。**
-隣村にはこの村の住民の親族たちも、
-たくさん住んでおります。*
-今ならまだ何人かは助かるかもしれません。
-どうかお助けください！！
+The Knights of Order!
+Ohh, thank the gods you are here!!*
+To be honest, we fear our neighbouring village has
+fallen into the hands of succubi.*
+Many others live in that village, even our
+relatives.*
+But now that you're here, there is still hope.
+Please help us!!
 
 レイ：上
-・・・・！！
+...!!
 
 ノブ：上
-聖剣探しの前に、
-まずは目の前の人たちを助けないとな！
+The holy sword can wait.
+We gotta help those people out!
 
 ユミル：上
-俺たちの騎士団初任務ってわけか！
-よし、気張っていこうぜ。
+This will be our first mission as 
+Knights of Order!
+Right, look lively everyone!
 
 <CM0>
 ユミル：上
