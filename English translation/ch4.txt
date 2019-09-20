@@ -4936,89 +4936,103 @@ Please, take this.
 And here is your medal of honour.
 After evaluating your movements...*
 I have thought to formally appoint all of you as
-commands in the Knights of Order, 
+head commanders in the Knights of Order, 
 as defenders of our country.
-普通ならどこかの騎士団の副団長にでもあてがって、
-少しずつ昇格させていくのが筋だが、今は火急の時だ。*
-新たに騎士団を創設し、
-君たち自警団を、そのままそのメンバーとしたい。
-異存はないかね。
-
+Normally, I would promote you to vice commanders
+first, but these are desperate times.*
+I'd like to promote your mercenary group into
+newly founded commanders of the Knights of Order.
+I trust that there are no objections?
+ 
 レイ：上
-・・・・！
+...!
 
 王様：上
-ふむ、無いようだね。**
-ならば、君たちは今から我が王国の第九騎士団だ。**
-働きに応じて、十分な名誉と財産を約束しよう。
-他の八つの騎士団に劣らぬよう、
-存分にその力を王国のためにふるってくれたまえ。
+Hmm, it seems not.**
+In that case, I hereby promote you all to head**
+commanders of the Knights of Order.
+Work hard, and I will make efforts to ensure that
+you are rewarded accordingly.
+So that you won't interferre with our other eight
+squadrons, I will allow you to act freely
+amoungst the kingdom.
 
 レイ：上
-・・・・。
+...
 
 ユミル：上
-ありがたいお言葉です・・・・！
+Thank you for those words...!
 
 王様：上
-さて、諸君らには、
-まずは南方の警護を命じるつもりだ。
-詳しい話は大臣と賢者から聞くとよい。
+Now then, first of all I'd like to position you
+as guards in the south.
+You should speak with the sage and chancellor.
 
 エスナ姫：上
-お父様、お話は終わりましたか？
-わたしからも英雄さまと直接お話させてくださいませ。
+Father, have you finished talking?
+Please let me speak with the Hero of valour.
 
 王様：上
-おお、エスナよ。よかろう。
-お前からも直々にねぎらってやりなさい。
+Ah, Esuna. Go ahead.
+I would appreciate that very much.
 
 エスナ姫：上
-ありがとうございます。お父様。**
-初めまして。わたしはエスナ。この国の第一王女です。
-この度はわが国のために尽力していただき
-ありがとうございました。
-これから南方へ赴いて、
-悪しき魔物たちと戦うみなさまに、
-どうぞ、このペンダントを差し上げます。
+Thank you very much, father.**
+It is nice to meet you. My name is Esuna,
+the kingdom's only princess.
+I'd like to experess my grattitude for assisting
+our kingdom.
+As you approach to the south,
+you may fight many dreadful monsters.
+So please, take this pendant.
 
 エスナ姫：上
-持つ者の心を静める、特別なお守りです。**
-今騒ぎになっている魔物は、心を惑わし生気を吸い取
-る魔物だとか・・・。*
-少しでもその魔物に抗う力となればと思って、
-わたくしの魔力を込めて作りましたの。
+Hold this pendant close to your chest,
+and it will calm and protect your heart.*
+The monsters currently attacking, 
+aim to deceive your heart and drain
+your life.
+So I made this and infused it with my magic, it 
+is my hope that it's power will help you resist 
+the monsters influence, even if just a little. 
 
 レイ：上
-・・・・。
+...
 
 エスナ姫：上
-ふふっ。力強い目をした方ですね。
-あなたが率いる団だからこそ、
-悪魔たちを打ち払うことができたのでしょうか。
-この先の働きに期待しています。
-存分にその力をふるい、この国を守ってください。
+Teehee- Your eyes are full of determination.
+But it is because of the group you lead that
+you were able to drive away the monsters?
+I will anxiously await your return.
+Muster all your might and please,
+protect our kingdom.
 
 ミツヒデ：上
-レイさん、ユミルさん、ノブさん。
-騎士団への正式任命、おめでとうございます！
-これからは第九騎士団の団長と副団長ですね。
+Ray, Miles, Nobus...**
+Congradulations! From this point onwards, you
+are now officially recognised members of the
+Knights of Order.
+From now on,
+you are now leaders and vice commanders
+of the 9th Order!
 
 ユミル：上
-(Must, resist the urge to continue smilling...)
+(Damn, I literally cannot stop smiling...)
 
 ミツヒデ：上
-ふふっ、お喜びになるのも当然です。これはすごいことで
-すよ！いくら戦時とはいえ、一地方の自警団が正式に
-騎士団として取り上げられたのですから。
+Heheh, it's only natural to be so pleased.
+This is spectacular!* 
+Even during war, you were able to join 
+the Knights of Order as mercenaries.
 
 大臣：上
-さて、これからの任務だが、君たちには表向きは南方地
-方の警護に当たってもらう。しかし、一方で秘密裏に
-別の任務をこなしてもらいたい。
+Now, from this point onwards you will be 
+stationed at the southern gate as guards.*
+However, there is another, secret mission 
+We'd like you to carry out.
 
 レイ：上
-・・・？
+...?
 
 ミツヒデ：上
 みなさんに依頼したいのは、「聖剣」の捜索です。**
