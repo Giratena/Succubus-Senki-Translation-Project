@@ -5180,33 +5180,38 @@ the healing circles.
 <CM1>
 村の少女：中央
 Village Girl**
-見た目のわりに、ちょっと大人びた女の子。
-ませたところがあり、
-大人の男をたまにからかったりしていた。
-淫魔化してからは、色っぽさに磨きがかかり、
-巧みなテクを駆使して男を骨抜きするようになった。*
-手コキ、フェラ、足コキなど、
-さまざまな技で快感を与えてくる。*
-HPは高くないが攻撃力が高いので、
-誘惑に負けて搾り取られないよう、注意が必要である
+A girl who appears to be in her teens.
+She occasionally enjoyed teasing men before
+she got older.
+But after becoming succubus, her sexiness has
+been amped up, able to mutilate men with her
+skillfull techniques.
+Footjobs, blowjobs, and handjobs...
+She's capable of bestowing pleasure with 
+many kinds of skills such as these.
+Although she has low attack power and HP,
+take caution you are not seduced and squeezed
+dry.
 
 <CM2>
 敬虔な少女：中央
-敬虔な少女**
-教会によく通っていた敬虔な少女。
-たまに掃除などを手伝い、
-小間使いのような役割を果たしていた。
-前任の神父さんからシスターに管理人が変わったとき、
-彼女によってサキュバス化された。*
-もともとはとても純真な子であったが、
-今や男を吸い殺すことにすっかり慣れてしまった。*
-大きな胸を使った責めが得意。
-胸の谷間に男を抱いて、
-甘やかしながら理性をとろけさせてくる。
+Devout Girl**
+A devout believer who regularly attended church.
+She often lended a hand helping around with the
+cleaning and chores, not unlike a maid.
+But when the former priest was replaced by the
+priestess, she was quickly converted 
+into a succubus.
+She was once a very pure child, 
+but now she's exceptionally adept at
+killing men by sucking them dry.
+Her breasts are her greatest assets.
+Once her clevage embraces a man, she'll pamper 
+them until their reasoning power melts.
 
 <CM3>
 フェラ盗賊：中央
-フェラ盗賊**
+Blowjob Bandit**
 元盗賊の女性。村で悪さをしていたところを捕まり、
 反省を促すために、教会の地下牢に入れられていた。*
 シスターがこの教会に就任した後、
