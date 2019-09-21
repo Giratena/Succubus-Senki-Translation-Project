@@ -1,21 +1,22 @@
 [ch1]
 <<<<<<<
-・矢印キーでユニット選択
-・エンターキーで決定
-・xキーでキャンセル
-・青マスは移動可能範囲
-・赤マスは攻撃可能範囲
-・左ctlキーでスキップ
-・F4キーでフルスクリーン
-・マウスでも操作可能
-（この説明は同梱のRead meにもあります）
+- Arrow Keys: Select Units
+- Enter: Confirm
+- X: Cancel
+- Blue Tiles indicate spaces units may move
+- Red Tiles indicate spaces units may attack
+- Left Ctl Key: Skip Dialogue
+- Right Click/Space Bar: Skip Events
+- F4 Key: Full Screen
+- The Mouse is also compatible
+(See more details in the 'Read Me' file)
 <<<<<<<<
-基本的な流れ
-１．ユニットを選択
-２．移動先を選択
-３．敵に攻撃
-味方ユニット全員が行動すると
-ターンが敵のターンに移ります。
+How to play:
+1. Select a Unit
+2. Choose where to move
+3. Attack an enemy
+The enemys turn follows when 
+all ally units have acted.
 <<<<<<<<
 ・空地で決定ボタンを押すと、メニューが開けます。
 ・自軍ターンの開始時にはメニューでセーブができます
