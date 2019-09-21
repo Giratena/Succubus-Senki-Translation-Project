@@ -1,28 +1,28 @@
 <PL0>
 テロップ：中央
-魔力のコアを破壊した！
+The magic generator was destroyed!
 
 <PL1>
 テロップ：中央
-魔力のコアを破壊した！
+The magic generator was destroyed!
 
 <PL2>
 テロップ：中央
-魔力のコアを破壊した！
+The magic generator was destroyed!
 
 <PL3>
 テロップ：中央
-魔力のコアを破壊した！
+The magic generator was destroyed!
 
 <PL4>
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
 
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
-（ヒーラーが使用したため効果範囲がアップ！）
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+(Healers boost the effect!)
 
 <PL7>
 テロップ：中央
