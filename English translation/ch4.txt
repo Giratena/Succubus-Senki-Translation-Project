@@ -5128,51 +5128,54 @@ Right, look lively everyone!
 
 <CM0>
 ユミル：上
-戦術についての意見が聞きたいのか？**
-この戦いは敵のリーダーであるシスターサキュバスを倒
-すのが目的だ。ただしシスターサキュバスは結界の中に
-閉じこもっちまった。
-俺は魔術についてはしろうとだから、
-結界に関してはミツヒデの意見を聞いてみよう。
+Hey Ray! Would you like to discuss tactics?**
+The aim of this fight is to overthrow the 
+priestess succubus, but she's locked herself away
+behind a magical barrier.
+I'm an amateur when it comes to magic though,
+so we should probabally listen to what Mizuhide
+has to say on the matter.
 
 ミツヒデ：上
-結界魔術は非常に消費魔力が大きな魔術なので、
-簡単に維持することはできません。*
-どこか近くに、
-魔力をためた結晶が用意されているはずです。*
-今回の場合、4か所に結晶が確認できますね。
+Well, a barrier this big 
+would require a large amount of magic, 
+so it won't be easy to maintain.
+I expect there might be crystals
+around here that power its magic.*
+I think I can identify four crystals right now.
 
 ミツヒデ：上
-これらをすべて破壊すれば、
-結界を突破できるはずです。
+If you destroy these, 
+the barrier should break down.
 
 ユミル：上
-なるほどな。
-というわけで、まずは魔力結晶を壊すのが
-第一の目標になるだろう。
-とはいえ、むやみに焦って壊すよりも
-先に敵のしたっぱを倒して安全を確保してから、
-結晶を壊してもいいと思うぜ。
-さて、今回、注意しておきたいのが、
-この空間に漂っているサキュバスのフェロモンだな。*
-これを嗅いでいると、
-異常なほど誘惑に弱くなっちまうみたいだ。
-俺もさっきは危なかったぜ・・・。
-味方がフェロモンの影響を受けたら、
-適宜エスナ姫のお守りの力を使って
-回復させた方がいいかもしれねえな。
+Gotcha.
+So in that case, breaking those magic crystals
+should be our first goal.
+On the otherhand, it might be saver to route out
+the enemies first, and then break the crystals.
+Ah yeah, and this time you'll also want to be 
+careful of the succubus pheromones around here.*
+One smell of that, and you'll be weaker to 
+tempation than normal, just like how we were
+awhile back.
+If an ally is under the effect of enemy 
+pheromones, you should protect them with
+Princess Esuna's pendant and cure them.
 
 ユミル：上
-最後に、魔力が湧いているところを確認しておこう。
+And finally, I'll show you where the healing
+circles are.
 
 ユミル：上
-今回は敵陣の中に入り込まないと、
-回復ポイントが確保できないみたいだな。*
-速攻で回復ポイントを押さえるのもありだが、
-そうすると敵に囲まれちまう。*
-俺としては順次敵を始末して数を減らしながら、
-徐々に回復ポイントに向けて進軍するのを
-おススメするぜ。
+If we don't quickly breach enemy lines,
+there's no guarantee we'll be able to make use
+of the recovery points.
+And even if we take and hold down the recovery
+points, we'd be quickly surrouded by enemies.*
+I would recomend taking down each enemy one
+by one while making our way towards the 
+the healing circles.
 
 <CM1>
 村の少女：中央
