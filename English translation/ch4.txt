@@ -26,29 +26,32 @@ The HP of surrounding allies has been restored!
 
 <PL7>
 テロップ：中央
-扉は外側からかんぬきをかけられて、
-固く閉ざされている！
+The door has been bolted from the outside.
+It's closed shut!
 
 <PL5>
 シスター：上
-あらあら、結界の前で何をしているのですか？**
-うふふ。まさか、興奮して我慢できなくなったとか？
-ずいぶん可愛らしい敗北ですね。
+Ara ara, what are you doing behind the
+magical barrier?*
+Ufufu, 
+not giving in to your arousal, are you?
+Although, that would be a very cute 
+way to be defeated-
 
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 村の少女：上
-あは❤
+Aha-❤
 小っちゃい女の子を前に自分でシコシコしちゃうの？
 変態さんだね❤
 いいよ。シコシコして。
@@ -2987,16 +2990,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK0>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 村の少女：上
 あは❤
@@ -3050,16 +3053,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK4>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 村の少女：上
 あは❤
@@ -3115,16 +3118,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK1>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 村の少女：上
 あは❤
@@ -3178,16 +3181,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK5>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 村の少女：上
 あは❤
@@ -3243,16 +3246,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK14>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 村の少女：上
 あは❤
@@ -3306,16 +3309,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK15>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 村の少女：上
 あは❤
@@ -3371,16 +3374,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK2>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 敬虔な少女：上
 ふふっ、ついに我慢できずに、
@@ -3456,13 +3459,13 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK10>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
 ああ・・・❤
@@ -3548,16 +3551,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK3>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 敬虔な少女：上
 ふふっ、ついに我慢できずに、
@@ -3633,13 +3636,13 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK11>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
 ああ・・・❤
@@ -3725,16 +3728,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK12>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 敬虔な少女：上
 ふふっ、ついに我慢できずに、
@@ -3810,13 +3813,13 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK13>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
 ああ・・・❤
@@ -3902,16 +3905,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK28>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 敬虔な少女：上
 ふふっ、ついに我慢できずに、
@@ -3984,13 +3987,13 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK29>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
 ああ・・・❤
@@ -4074,16 +4077,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK6>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 フェラ盗賊：上
 あらら、敵の前でオナニーはじめちゃうの？
@@ -4113,16 +4116,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK7>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 フェラ盗賊：上
 あは。あなたもキスマークつけてほしくなっちゃった？
@@ -4150,16 +4153,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK8>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 フェラ盗賊：上
 あらら、敵の前でオナニーはじめちゃうの？
@@ -4189,16 +4192,16 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK9>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
 フェラ盗賊：上
 あは。あなたもキスマークつけてほしくなっちゃった？
@@ -4226,14 +4229,14 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK16>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 もっと、もっと嗅ぎたい・・・❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 この香りっ、ああっ、頭が溶けそうだ・・・❤
 
 アクティブ：上
@@ -4286,14 +4289,14 @@ Please defeat your allies for me. Hehehe-❤
 
 <TK17>
 レイ：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 ユミル：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Dammit...❤
 もっと、もっと嗅ぎたい・・・❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 この香りっ、ああっ、頭が溶けそうだ・・・❤
 
 アクティブ：上
@@ -4360,7 +4363,7 @@ Please defeat your allies for me. Hehehe-❤
 もう我慢できねぇ・・・❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 うううっ、お願いします・・・❤
 
 アクティブ：上
@@ -4509,7 +4512,7 @@ Ufufu-❤
 もう我慢できねぇ・・・❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 うううっ、お願いします・・・❤
 
 アクティブ：上
@@ -4534,7 +4537,7 @@ Ufufu-❤
 もう我慢できねぇ・・・❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 うううっ、お願いします・・・❤
 
 アクティブ：上
@@ -4561,7 +4564,7 @@ Ufufu-❤
 もう我慢できねぇ・・・❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 うううっ、お願いします・・・❤
 
 アクティブ：上
@@ -4587,7 +4590,7 @@ Ufufu-❤
 もう我慢できねぇ・・・❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 うううっ、お願いします・・・❤
 
 アクティブ：上
@@ -4613,7 +4616,7 @@ Ufufu-❤
 もう我慢できねぇ・・・❤
 
 ノブ：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 うううっ、お願いします・・・❤
 
 アクティブ：上

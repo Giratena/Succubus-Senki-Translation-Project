@@ -1,8 +1,3 @@
-Chp1 ダイアログオプション
-よし、 やろう　-> Right! Let's do this.
-うう、不安だ・・・。-> Urgh, I'm not ready...
-
-
 ユニッ卜メニュ／ウィンドウ：
 Masturbation -> Masturbate
 beg -> Beg
@@ -10,27 +5,20 @@ Stock -> Convoy
 Option -> Options
 待機 -> Wait
 ユニッ卜メニュ -> Unit Status
-MIND -> WIL
-MOVE -> MOV
 Attack (ユニッ卜メニュ中）　－＞ Atk
-回避 -> Avoid
 付加 -> Debuff
 特効 -> Eff.
 
-情報収集 -> Gather Information
+情報収集 -> Investigate
 ショップ -> Shop
 酒場 -> Tavern
 My Units -> Units
 
-
 Ch2:
-
 情報収集/前にバトル:
 ローブ姿の男【！】 -> Robed Man 【！】
-仲間に入れる -> Let him join
-仲間に入れない -> Don't let him join
-せっかち商人（スキップ機能） -> Hasty Merchant (Dialogue Skip)
-兵隊 (仲間の雇用) -> Soldier (Hired Units)
+せっかち商人（スキップ機能） -> Hasty Merchant (Skip)
+兵隊 (仲間の雇用) -> Soldier (Hire Units)
 兵隊 (敵味方の情報) -> Soldier (Unit Status)
 村人A -> Villager A
 村人B -> Villager B
