@@ -1,4 +1,4 @@
-ユニッ卜メニュ／ウィンドウ：
+﻿ユニッ卜メニュ／ウィンドウ：
 Masturbation -> Masturbate
 beg -> Beg
 Stock -> Convoy
@@ -13,20 +13,3 @@ Attack (ユニッ卜メニュ中）　－＞ Atk
 ショップ -> Shop
 酒場 -> Tavern
 My Units -> Units
-
-Ch2:
-情報収集/前にバトル:
-ローブ姿の男【！】 -> Robed Man 【！】
-せっかち商人（スキップ機能） -> Hasty Merchant (Skip)
-兵隊 (仲間の雇用) -> Soldier (Hire Units)
-兵隊 (敵味方の情報) -> Soldier (Unit Status)
-村人A -> Villager A
-村人B -> Villager B
-おばあさん -> Elderly Lady
-
-バトル：
-戦術アドバイス　－＞　Battle Tactics
-敵情報1：　足コキ淫魔　-> Enemy Type 1: Footjob Succubus
-敵情報2：　巨乳少女　-> Enemy Type 2: Big Breasted Girl
-敵情報3：　ちぴっこ淫魔　-> Enemy Type 3: Loli　Succubus
-敵情報4：　ルミ一ネ　-> Enemy Type 4: Luminara
