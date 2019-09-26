@@ -2043,39 +2043,40 @@ How prideless-❤
 
 <AT27>
 シスター：上
-くっ、なかなかやりますね。
-こうなれば・・・。
+Ugh, you're really doing me in aren't you?
+So it's come to this...
 
 テロップ：中央
-シスターは妖しい呪文を唱えた！
+The priestess chanted an suspicious spell!
 
 シスター：上
-くすくす。
-特製のフェロモンで、
-みなさんをわたしの操り人形にしてあげます❤
+(Giggle)
+I'll turn everyone into my puppets
+with these special pheromones-❤
 
 テロップ：中央
-シスターの周りに怪しいオーラが漂っている。
-近づくのは危険そうだ！
-オーラが落ち着くまで距離を置こう。
+A suspicious aura surrounds the priestess. It
+could be dangerous to approach her in this state!
+Keep your distance until the aura subsides.
 
 <AT30>
 ユミル：上
-た、倒したのか・・・？
+D, did we do it...?
 
 ノブ：上
-見ろ。ピンク色の空気が晴れていく。
-サキュバスの魔力が消えているんだ。
+Look! The pink mist is clearing up.
+The succubus magic must be disappearing.
 
 ユミル：上
-いよっし！
-危なかったが今回も勝利！
-さすがは第九騎士団だぜ！
+Alright!
+It was dangerous, but we won!
+As expected from the knights of the ninth order!
 
 <AT29>
 テロップ：中央
-フェロモンの中でサキュバスに敗れた主人公たちは
-その後、洗脳されて彼女たちの下僕と化していた。
+Our heroes were defeated by the succubui 
+within the pheromones, and later taken to be
+brainwashed into their servants.
 
 村の少女：上
 うふふ。
