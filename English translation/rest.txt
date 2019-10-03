@@ -1157,10 +1157,10 @@ We'll make a new demon counterplan with the Order,
 and while doing so, create a name for 
 ourselves.
 They'll see our true abilities, and promote us! 
-Don't you see?
+Good plan, right? I came up with it myself.
 
 ノブ：上
-Sigh...
+Yeah...
 
 ユミル：上
 Huh? Hey hey, what's the matter Nobus? You 
@@ -1168,21 +1168,21 @@ alright? You've been sighing since we got here.
 Are you unwell?
 
 ノブ：上
-No, it's just, when they...
-It felt really nice...
+No, it's just, when they... Um...
+Well, it felt really nice...
 
 レイ：上
 ...
 
 ノブ：上
-Aah, it must be that. Yeah, I know.
+Aaagh, it must be that. Yeah, I know.
 They're evil demons. 
 But, um, when they, started to...
 The time I felt those soft breasts still lingers 
 in my mind...*
 When I'm asleep, when I'm awake, 
 it's like "I want it" even more.
-I can't help but be concerned.
+I can't help but feel concerned.
 
 レイ：上
 ・・・・。
@@ -3479,7 +3479,7 @@ may I accompany you?
 ...
 
 イエヤス：上
-Truly!? My thanks...!**
+You truly mean it!? You have my thanks...!**
 Well then, I hope we make a solid team.
 
 テロップ：中央
@@ -3500,7 +3500,8 @@ Did you reconsider?
 ...
 
 イエヤス：上
-Truly!? Many thanks...!**
+I'm so thankful you reconsidered...!
+You have my thanks...!*
 Well then, I hope we make a solid team.
 
 テロップ：中央
@@ -3538,8 +3539,8 @@ you see the glitter of something shiny.
 兵隊：上
 Hmm? You want strong allies? Well in that case, 
 why not visit the tavern?*
-If you have enough renown, 
-you would gain many followers.
+You can gain many followers,
+if you have enough renown, that is. 
 
 テロップ：中央
 Renown points are obtained depending on the 
@@ -3595,13 +3596,13 @@ The demons are a serious threat
 because they spring up suddenly, and attack the
 people of the village.
 It would seem they don't like to attack 
-in groups, so I don't think the knights would
-have any problems.
+in groups, so I don't think the Knights of Order
+would have any problems.
 But with the sudden attacks,
-by the time the order comes the damage 
+by the time the Order comes the damage 
 would have already been done.
-Now with you as our mercenary group, the town
-can finally live in peace.
+But now with you as our mercenary group, 
+the town can finally live in peace.
 
 <CM3>
 おばあさん：上
@@ -3612,7 +3613,8 @@ No need to thank me.
 It makes me dreadfully worried seeing how
 young you all are.
 Recovery items are just as important as attacking.
-Look after yourselves, and don't die on us.
+Look after yourselves, 
+and don't die on us, you hear?
 
 <CM15>
 テロップ：中央
@@ -3803,7 +3805,7 @@ Please? Just follow us okay...?
 Ahnn-❤
 Don't say such a mean things.*
 Well then,
-Hora, I'll give you my specialty puff puff-❤
+Hora, I'll give you my specialty Puff-Puff-❤
 There's no man that can resist this.
 Hora, I'll wrap my breasts around your face,
 and go rub rub...❤ Squish squish...❤
@@ -3927,7 +3929,7 @@ Yahh-❤ Your moans are adorable-❤**
 You're cute, so I'll give you some extra service.
 Ho-ra, I'll wrap my breasts around your face.
 I'll shake my hips a lot as I enchant you with my
-puff puff-❤
+Puff-Puff-❤
 
 レイ：上
 Ahh, uhhh, ahiii...❤❤
@@ -3974,7 +3976,7 @@ Ughhh...❤
 お姉さん：上
 Oh...?-❤
 You only just saw our faces,*
-and reminding yourself of the puff puff and penis 
+and reminding yourself of the Puff-Puff and penis 
 massage you got, you've become big down here yet 
 again-❤*
 Hora, can we make this big thing feel really good?**
@@ -4070,7 +4072,7 @@ Yahh-❤ Your moans are adorable-❤**
 You're cute, so I'll give you some extra service.
 Ho-ra, I'll wrap my breasts around your face.
 I'll shake my hips a lot as I enchant you with my
-puff puff-❤
+Puff-Puff-❤
 
 レイ：上
 Ahh, uhhh, ahiii...❤❤
@@ -4103,7 +4105,7 @@ shop, all my money was taken away!
 Ara, you came again?
 
 お姉さん：上
-You're here for lots and lots of puff puffs 
+You're here for lots and lots of Puff-Puffs 
 right?-❤*
 Could your penis not run away from 
 the pleasure anymore?
@@ -4183,7 +4185,7 @@ U-ummm...
 
 お姉さん：上
 Hmm? You want to have sex?**
-Since the puff puff cowgirl sex,
+Since the Puff-Puff cowgirl sex,
 you've developed a habit of coming here-❤*
 I'm really happy about that but,
 You'd need to pay more money for that-❤*
@@ -4259,10 +4261,10 @@ Uh...❤
 
 お姉さん：下
 Ahnn-❤ Don't say such a mean things.**
-Hora, I'll give you my specialty puff puff. 
+Hora, I'll give you my specialty Puff-Puff. 
 There's no man that can resist me once under 
 these.
-Puff Puff...❤ Puff Puff...❤
+Puff-Puff...❤ Puff-Puff...❤
 
 レイ：下
 ...!!
@@ -4385,7 +4387,7 @@ Oogh...❤
 お姉さん：上
 Oh...?-❤
 You only just saw our faces,*
-and reminding yourself of the puff puff and penis 
+and reminding yourself of the Puff-Puff and penis 
 massage you got, you've become big down here yet 
 again-❤*
 Hora, can we make this big thing feel really good?**
@@ -4478,7 +4480,7 @@ store, I was stripped of any money I had on hand.
 Ara, you're here again?
 
 お姉さん：上
-You're here for lots and lots of puff puffs 
+You're here for lots and lots of Puff-Puffs 
 right?-❤*
 Could your penis not run away from 
 the pleasure anymore?
@@ -4545,7 +4547,7 @@ Aah, aaah...❤❤
 
 お姉さん：上
 Hmm? You want to have sex?**
-Since the puff puff cowgirl sex,
+Since the Puff-Puff cowgirl sex,
 you've developed a habit of coming here-❤*
 I'm really happy about that but,
 You'd need to pay more money for that-❤*
