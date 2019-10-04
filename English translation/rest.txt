@@ -3670,9 +3670,10 @@ headache.*
 If you're feeling worse for wear,
 try some Panacea. It works for just about anything
 other than deadly poison.
-You can only get such medicine from the capital.
+You can only get such medicine from the capital
+though.*
 It's a tad expensive, but for the sake of my 
-duties... Oogh...
+duties... Oogh...*
 
 <CM10>
 兵隊：上
@@ -3703,7 +3704,7 @@ using it to stay out of trouble.
 
 テロップ：中央
 The ability to [Save] is enabled during the 
-investigation and investigation menus.*
+investigation and combat menus.*
 At the start of each turn, you can also open the 
 menu and [Save], provided you have not moved any 
 units. 
@@ -3727,16 +3728,16 @@ and do your best to protect this country!
 <CM11>
 男：上
 I used to live outside the castle walls,
-now I'm taking refuge inside the castle in
+but now I'm taking refuge inside the castle in
 anticipation of the next attack.
-But, they're demons right?
+They are demons though right?
 I heard they're monsters who take the forms of
-sexy women.*
+sexy women.
 I recall one time I saw a drop dead sexy woman,
 and she tried to beckon me closer.*
 If I wasn't with my daughter at the time, I might
 have been swayed, but I think I could withstand
-her seduction.
+her seduction, ho-ho.
 
 <CM12>
 男：上
@@ -3960,25 +3961,25 @@ rule of the shop, all my money was taken away!
 <CM13-2>
 ：スチル
 Even though I knew I shouldn't,
-I came back to the entrance to that alley.*
+I came back to the entrance of the alley.*
 And sure enough, 
 the women from before called out to me.
 
 お姉さん：上
-Aha-❤ As expected you came back to play.
+Aha-❤ As expected, you came back to play.
 
 お姉さん：上
-Hehe. You couldn't endure the lust inside you-❤
+Hehe. I guess you couldn't endure the lust 
+inside you after all-❤
 
 レイ：上
 Ughhh...❤
 
 お姉さん：上
 Oh...?-❤
-You only just saw our faces,*
-and reminding yourself of the Puff-Puff and penis 
-massage you got, you've become big down here yet 
-again-❤*
+You only just saw our faces, and were reminded
+yourself of the Puff-Puff and penis massage you 
+got, you've become big down here yet again-❤
 Hora, can we make this big thing feel really good?**
 We can do even better things in our shop...❤
 
@@ -4006,7 +4007,7 @@ Hn...❤ Uh...❤
 
 お姉さん：上
 Ahnn-❤ I just started stroking you,
-but you are twitching so much-❤
+and yet you're twitching so much-❤
 How cute-❤
 Hora hora-. Submit to your big sister's 
 techniques and cum-❤
@@ -4020,15 +4021,15 @@ You did great. Good boy, good boy-❤
 
 お姉さん：上
 Ufufu, next is my turn.
-I will suck on you with my mouth.
-So hora, please let out more...❤
+I'll suck on you with my mouth.
+So hora- please cum some more...❤
 
 レイ：上
 Ahh...❤
 Ahhh, amazing...❤
 
 お姉さん：上
-Ahann-❤ Our gig brother is so energeticー❤
+Ahann-❤ Our big brother is so energeticー❤
 He's still hard.*
 Ooh when you show me something like that it
 makes me want to have sex-❤*
@@ -4043,11 +4044,11 @@ Your big sister's pussy is aching so much...❤
 Ahh...❤ Uhh...❤
 
 お姉さん：上
-Looks like our big brother's member is already 
+Looks like our big brother's penis is already 
 unable to resist-❤
-Even your waist is shaking on its own...❤
+Even his waist is shaking on its own...❤
 Ho-ra, it's slowly entering her pussy-❤
-You'll be fined, but you can't resist it
+You'll be fined, but you can't resist us
 at all...❤
 
 レイ：上
@@ -4058,9 +4059,9 @@ Ahhn-❤
 It's inside me-❤*
 How does it feel having sex with your big sister?-❤
 Just being inside me is wonderful enough to make
-you melt away in pleasure-❤
-And this pussy, is now going to bounce up and
-down on big brother's penis...❤
+you melt away in pleasure, right?-❤
+And now, I'm going to use my pussy to bounce up 
+and down on big brother's penis...❤
 
 レイ：上
 Hahiii-❤ Afuuu-❤
@@ -4068,20 +4069,21 @@ Amazing, your pussy is wrapping around me-❤
 Ah, ahhh, it feels so goodddd-❤❤
 
 お姉さん：上
-Yahh-❤ Your moans are adorable-❤**
+Ahn-❤ Your moans are adorable-❤**
 You're cute, so I'll give you some extra service.
-Ho-ra, I'll wrap my breasts around your face.
-I'll shake my hips a lot as I enchant you with my
-Puff-Puff-❤
+Ho-ra, I'll wrap my breasts around your face.*
+I'll shake my hips a lot while I enchant you 
+with my Puff-Puff-❤
 
 レイ：上
 Ahh, uhhh, ahiii...❤❤
 
 お姉さん：上
 Ufufu, you came in an instant-❤**
-But it couldn't be helped. Being ridden by her as 
-she wraps her breasts around your face...❤
-When this girl does that, everyone goes mad.
+But it's not like you could help it.
+Everyone goes mad when this girl straddles 
+someone while wrapping her breasts around 
+their face...❤
 And you were a virgin, right? That's enough to get
 absolutely addicted.
 From now on, you'll be this girl's prisoner...❤
@@ -4097,8 +4099,8 @@ until your money is all gone-❤
 
 テロップ：中央
 After being milked dry by the older sisters,
-as a fine for breaking the 「No Sex」 rule of the 
-shop, all my money was taken away!
+all my money was taken away as a fine for 
+breaking the 「No Sex」 rule of the shop!
 
 <CM13-3>
 お姉さん：上
@@ -4111,7 +4113,7 @@ Could your penis not run away from
 the pleasure anymore?
 
 お姉さん：上
-But... I don't like doing it for free.
+But... I don't like doing it for free.*
 Although if big brother gave us a lot of money,
 We could even do some raw cowgirl sex like last
 time but...
@@ -4119,8 +4121,8 @@ time but...
 お姉さん：上
 Tisk- But, you're completely empty now,
 aren't you?*
-You gave into our temptations,
-and gave us all your money.
+You gave into our temptation and gave us all 
+your money.
 
 お姉さん：上
 I have no interest in the poor,
