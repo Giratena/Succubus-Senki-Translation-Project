@@ -1,9 +1,9 @@
 ﻿<PL1>
 テロップ：中央
 Nothing can be heard...**
-Investigating the unusual house,
-the dried up corpse of a man was discovered.*
-It was already too late...
+When investigating the unusual house,
+you find dried up corpse of a man.*
+It seems you were too late...
 
 <PL0>
 テロップ：中央
@@ -42,7 +42,8 @@ Aaaaa... Luminara-sama!-❤
 \vo[rumi05]Ufufu, everyone is in love with me already-❤
 
 ルミーネ：下
-\vo[rumi06]Now then, your orders, my slaves!**
+\vo[rumi06]Now then, 
+your orders, my slaves!*
 \vo[rumi07]Kill your friends, and let me into
 the castle. Please～❤
 
@@ -169,25 +170,28 @@ Just kidding!～❤
 ・・・！！
 
 足コキ淫魔：上
-Mmm? Were you surprised to be hugged from behind?
-Hehehe, I caught you off guard-❤*
+Mmm? Were you surprised that I caught you
+from behind?
+Hehehe, looks like I caught you off guard-❤
 Your big sister is a succubus, so
 all of you humans are our enemies.*
 Even if you show us mercy, we'll drain you dry 
-anyway. Ahaha! It’s useless to try and resist.
+anyway.*
+Ahaha! It’s useless to try and resist.
 After all...
 
 足コキ淫魔：上
-I can wrap my legs around you from behind, 
-and use them to stroke your most important place-❤
-Isn't this relaxing?
+I can wrap my legs around you from behind, and
+use my feet to stroke your most important place-❤
+You're already starting to relax, aren't you?
 Fufu, once a succubus catches you, it's already 
 too late.*
 Your big sister's unrivaled footwork will make 
-you spout semen until you become a mummy-❤
+you spout semen until you become a dried up
+husk-❤
 
 足コキ淫魔：上
-Haha, it came out like a water fountain-❤
+Haha, you splurt like a water fountain-❤
 Thank you for dedicating all your semen to me～❤
 
 <AT7>
@@ -262,12 +266,12 @@ Im... Impossible, you dodged it!?**
 Wa... Wait, stop! Aaah～❤
 
 巨乳少女：上
-Here it comes～ My special move,
-「Heavenly Hug of Death-❤」
+Here it comes～ My special move!
+「Heavenly Hug of Death!-❤」
 
 巨乳少女：上
-Ehehe, it's a cool name but
-it's also a magical Puff-Puff-❤*
+Ehehe, it's a cool name,
+but it's also a magical Puff-Puff-❤*
 Eh? It's no big deal?
 I see～ But then if you're saying that, then why
 are you burying your face in my breasts?
@@ -277,28 +281,29 @@ breasts～
 Puff-Puff... Puff-Puff...❤
 
 巨乳少女：上
-This technique is...
-A boobie brainwashing technique.*
-With these tits, your mind will become loose and 
-lovey dovey...*
-It's a very lovely kind of magic that makes 
+But this technique is a...
+boobie brainwashing technique.*
+Your mind will become loose and 
+lovey dovey in my boobies...*
+Drowning in the wonderful titty magic that makes 
 obedient soldiers fight for me.*
-Why didn't I use it until now?
-I only turn the kids into pawns when I can't
-deal with them.
+And if you're wondering why didn't I use it
+until now, I only turn the kids into pawns when 
+I can't hendle them.
 
 巨乳少女：上
 Ufufu.
-Those eyes are so cute! Dependent eyes that are 
-all lovey dovey over my breasts.
-Do you want to feel even more pleasure?**
+Those eyes are so cute! Dependent eyes filled
+with love for my breasts.
+You want to feel even more pleasure, right?**
 A Puff-Puff only leaves you half dead,
 but you want to be squeezed all the way, don't 
 you? Well, I could help with that～❤
 
 巨乳少女：上
-Hahaha-❤ My boobie slave is complete-❤**
-Do your best for my breasts, okay?～❤
+Hahaha-❤ 
+My boobie slave is complete-❤*
+Do your best for my tits, okay?～❤
 Ufufu...
 
 <AT9>
@@ -1428,12 +1433,13 @@ Someone please help us!!
 
 
 ユミル：上
-The female monsters!
+Those must be the female monsters we fought
+earlier!*
 Gather round everyone,
 we must strike at once!
 
 ノブ：上
-Got it. We had better be quick.
+Got it! We'd better be quick.
 
 <ED0>
 ユミル：上
@@ -1516,36 +1522,39 @@ with just a couple of light strokes.
 <CM1>
 巨乳少女：中央
 Big Breasted Girl**
-A rumored village girl given the body of a 
-succubus. Her already huge breasts got even 
-bigger, attracting the gaze of others.
+A rumored village girl who was bestowed a 
+succubus-like body.*
+This resulted in her already huge breasts getting 
+even bigger, attracting the gazes of others.*
 Captivated by her breasts, she weakens her 
-victims with either a paizuri or a Puff-Puff.*
-When hit by her signature Paizuri move, 
-ejaculation is inevitable.
+victims with either a paizuri or Puff-Puff.*
+When on the recieving end of her signature 
+paizuri move, ejaculation is inevitable.
 
 <CM3>
 ちびっこ淫魔：中央
 Loli Succubus**
 An inexperienced succubus with a small body.
-Caution is not needed when fighting this enemy.*
-Although her pussy was smooth before conversion,
-after becoming a succubus, her tits grew to the 
-point where she can fuck enemies with her breasts.
-She longed for adulthood, but now can focus on 
-pleasure. Uses no specific techniques.*
+This enemy poses little to no threat.*
+Although her pussy was already smooth prior to
+her succubus conversion, *
+it caused her tits to grow to the point where 
+she can also fuck enemies with her breasts.*
+She longed for adulthood, but now under her
+current state, focuses on pleasure.*
+Uses no specific techniques.
 Attacks with moves such as Paizuri, Fellatio, 
-Panty Flash, etc.
+Panty Flash, and the like.
 
 <CM4>
 ルミーネ：中央
 Luminara**
 An intermediate succubus and the enemy leader.**
-She specializes in kiss techniques, charming and 
-brainwashing enemies with her kisses.*
+She specializes in using her kiss techniques to
+charm and brainwash enemies.*
 Although her heart shaped kisses can be avoided,
 men cannot avoid them while being charmed by 
-enemies.
-Those who are engulfed in these hearts are said 
-to experience indescribable euphoria, and will 
-swear their allegiance to her.
+other enemies.
+Those who are engulfed in these heart kisses are 
+said to experience indescribable euphoria, and 
+will mindlessly swear their allegiance to her.
