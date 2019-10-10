@@ -1,135 +1,147 @@
 <PL5>
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
 
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
-（ヒーラーが使用したため効果範囲がアップ！）
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+(Healers increased the range of effect!)
 
 <PL6>
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
 
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
-（ヒーラーが使用したため効果範囲がアップ！）
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+(Healers increased the range of effect!)
 
 <PL10>
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
 
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
-（ヒーラーが使用したため効果範囲がアップ！）
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+(Healers increased the range of effect!)
 
 <AT0>
 ラミア：上
-ふむ、まず初めにルールを確認しておくぞ。**
-これはあくまで試しの儀じゃ。
-したがって、お互いに殺すようなことはしてはならぬ。
-相手が気絶するまでの戦いじゃ。
-わらわの部下である魔物たちは、
-夢魔ほどではないが、
-精とともにエナジーを吸い取れる。
-射精すれば死にはせんが気絶はするじゃろう。
-つまり、おぬしらはイかされたらアウトというわけじゃ。*
-さあ、わらわの部下の与える快楽に耐えて、
-この泉の最深部までたどり着き・・・。*
-見事、わらわを打ち倒して見せよ！
+Mhmm, I will first go over the rules.**
+This is simply a trial.
+Therefore we will not be fighting to the death,
+just until the enemy faints.
+Although my subordinates and I are not succubui,
+we can still suck out energy with your semen.
+If you do ejaculate, you won't die, but you will
+faint.*
+To sum up, 
+once you cum, you're out out of the trial.*
+Now then, endure the pleasure my subordinates
+give you until you finally reach the fountain...
+And show me your splendor by defeating me!
 
 巨乳エルフ：上
 Ufufu, in other words...
-何回負けても、死んだりせずに
-魔物の女の子とエッチできるってことだよ。
-試練の突破なんてあとでもいいからさ、
-今はとりあえず、私たちといっぱいエッチなことしようね♪
+Even if you submit to our charms over and over
+again, you'll never die.
+Trial or no trial, it doesn't matter.
+Let's do lots of naughty things for now-♪
 
 美脚エルフ：上
-わたしたちエルフの肌は、とってもスベスベ。
-サキュバスにだって負けていないわ。
+The skin of an elf is silky-smooth,
+we're not going to let any succubus out do us!
 
 巨乳エルフ：上
-わたしの自慢のおっぱいと・・・。
+With my prideful breast technques...
 
 美脚エルフ：上
-わたしの自慢のこの脚で・・・。
+and my superb footwork...
 
 巨乳エルフ：上
-きみたちをメロメロにしてあげるね！
+We'll make all of you fall in love with us!
 
 <AT8>
 ラミア：上
-ふむ、繰り返しになるが、ルールを確認しておくぞ。**
-これはあくまで試しの儀じゃ。
-したがって、お互いに殺すようなことはしてはならぬ。
-相手が気絶するまでの戦いじゃ。
-わらわの部下の与える快楽に耐えて、
-この泉の最深部までたどり着き、
-見事、わらわを打ち倒して見せよ！
+Mmhm, although I hate to repeat myself,
+I will explain the rules once more.**
+This is simply a trial.
+Therefore we will not be fighting to the death,
+just until the enemy faints.
+Although my subordinates and I are not succubui,
+we can still suck out energy with your semen.
+If you do ejaculate, you won't die, but you will
+faint.*
+To sum up, 
+once you cum, you're out out of the trial.*
+Now then, endure the pleasure my subordinates
+give you until you finally reach the fountain...
+And show me your splendor by defeating me!
 
 巨乳エルフ：上
-うふふ、何回やっても結果は同じだよ！
-キミたちは、わたしたち魔物娘の
-エッチな体には勝てないの。
-試練の突破なんてあとでもいいからさ、
-今日も、私たちといっぱいエッチなことしようね♪
+Ufufu. No matter what you do,
+the outcome will be the same!*
+There's no way you can win against out lewd,
+sexy monster girl bodies-*
+Trial or no trial, it doesn't matter.
+Let's do lots of naughty things today too-♪
 
 美脚エルフ：上
-前回のあなたたち無様だったわ。
-人間の理性なんて所詮この程度よね。*
-どんなに大事な使命があっても、
-目先の気持ちよさに負けちゃうの。
-(Giggle)❤
+You still look shaken up from last time,
+I guess human willpower can only get you so far-*
+No matter what kind of important mission you have,
+you'll totally submit to our seductive pleasure.
+Teehee-❤
 
 巨乳エルフ：上
-わたしの自慢のおっぱいと・・・。
+With my prideful breast technques...
 
 美脚エルフ：上
-わたしの自慢のこの脚で・・・。
+and my superb footwork...
 
-美脚エルフ：上
-あなたたちを骨抜きにしてあげるわ！
-
-アルラウネ：上
-(Giggle)❤
-今度はわたくしの香りに惑わされずに勝てるのかしら？*
-本当は、またわたくしに搾り取ってほしくて、
-ここに来たのではなくて？*
-試練に挑むふりなどやめて、
-すぐにでもわたくしのおっぱいに、
-甘えに来てもいいのですよ？
+巨乳エルフ：上
+We'll make all of you fall in love with us!
 
 アルラウネ：上
-さあ、おいで？
-この大きな胸で、
-すぐに昇天させてあげますわ❤
+Teehee-❤
+Do you think you can win without being enchanted
+by my aroma this time?
+The truth is, you came back just because you
+wanted to be squeezed again, didn't you?*
+There's no need to pretending to 
+challenge the trial.*
+You can let me pamper you with my
+bouncy boobies anytime you like, okay?
+
+アルラウネ：上
+That's it, come closer won't you?
+I'll soon send you to heaven
+with my big soft breasts-❤
 
 美乳マーメイド：上
-ふふっ、今度はわたしたち人魚の誘惑を
-突破できるのかな？*
-わたしに負けてくれれば、
-またパイズリで気持ちよくなれるよ？
-頑張ってねリーダーさん❤くすくす♪
+Ufufu, do you think you can break through
+our temptations of a mermaid this time?*
+If you give in to us, I'll make you feel good 
+with another sexy paizuri, okay?
+Do your best Mr. Leader-❤ Teehee-♪
 
 投げキッス人魚：上
-んふふ、こっちばっかりチラチラ見て。
-わたしのことが忘れられない？
-んーっちゅ❤
-また投げキッスでメロメロにしてあげるから、
-今回も負けちゃってね！
+Ehehe, you're sneaking glances over here.
+You can't forget about me can you?
+Mmmwah-❤
+I'll make you lose again by making you all 
+lovey dovey with my kisses, alright?
 
 <AT7>
 ラミア：上
-ほお、よくぞここまで参った！
-聖剣を求めるだけのことはあるようじゃ。*
-最後の試練はわらわに打ち勝つことぞ。
-さあ、おぬしらの心の強さ示してみせよ！
+Ooh, you have done well to come this far!**
+Now, I have one last request before you can take
+the holy sword.*
+For your last trial, you must overcome me!
+Now, show us the strength of your heart!
 
 <AT11>
 巨乳エルフ：上
@@ -146,7 +158,8 @@ Auu...。
 気持ちいいこといっぱいしよ？ね？
 
 テロップ：中央
-発情中のため命乞いを断ることができない！
+Temptation can't be refused while under the
+effects of arousal!
 
 巨乳エルフ：上
 うそぉ、とっても気持ちいいのになぁ・・・。
@@ -335,7 +348,8 @@ Auu...
 好きに使って、ビューって射精していいんだよ？
 
 テロップ：中央
-発情中のため命乞いを断ることができない！
+Temptation can't be refused while under the
+effects of arousal!
 
 巨乳エルフ：上
 Auu...
@@ -546,7 +560,8 @@ Giggle.力が抜けてきたね。
 おねがい❤
 
 テロップ：中央
-発情中のため命乞いを断ることができない！
+Temptation can't be refused while under the
+effects of arousal!
 
 巨乳エルフ：上
 Kyaa.
@@ -611,7 +626,8 @@ Puff puff、puff puff...♪
 脚で気持ちよーくされたいでしょ？
 
 テロップ：中央
-発情中のため命乞いを断ることができない！
+Temptation can't be refused while under the
+effects of arousal!
 
 美脚エルフ：上
 ううっ、さすがの意志の強さね・・・。
@@ -668,7 +684,8 @@ Ahaha-❤
 脚で気持ちよく、されたいでしょ？
 
 テロップ：中央
-発情中のため命乞いを断ることができない！
+Temptation can't be refused while under the
+effects of arousal!
 
 美脚エルフ：上
 ううっ、さすがの意志の強さね・・・。
@@ -1090,7 +1107,8 @@ Aha-❤
 試練はまた今度、もう一回挑めばいいから。ね❤
 
 テロップ：中央
-発情中のため命乞いを断ることができない！
+Temptation can't be refused while under the
+effects of arousal!
 
 美乳マーメイド：上
 Auu...
