@@ -1646,124 +1646,143 @@ troubling your mind...❤
 
 <OP4>
 テロップ：中央
-Ch5 start
-教会に住み着く淫魔を倒した僕たちは、
-聖剣の伝承を調べるために、
-教会の書庫にある書物をひたすらにひも解いてた。
+Defeating the succubus stowing away within 
+the church,*
+we set to work searching through 
+books in the church basement, in an attempt
+to investigate legends behind the holy sword.
 
 レイ：上
-・・・・・。
+...
 
 ノブ：上
-・・・・・。
+...
 
 ユミル：上
-うーむ・・・。
-本とにらめっこばっかりで頭が痛くなりそうだぜ。
+(Sigh...)
+If I have to look through another book,
+my head is going to explode.
 
 ミツヒデ：上
-え、そうですか？
-ぼくなんかは、本に囲まれているとわくわくしてきます。
-今もすごく楽しいです。
+R, really? Personally, I think it's exhilarating 
+to be surrounded by so many books. 
+There's nothing quite like it.
 
 ノブ：上
-ううっ。俺もユミルと同じで頭が痛いや。
-やっぱり賢者さまは違うなぁ・・・。
+Ugh... I feel your pain Miles.
+Although it seems Mizuhide feels differently...
 
 ユミル：上
-しかし、これだけひっくり返しても、
-それらしい本はないな。*
-歴史書、農業書、村長の日記・・・。
-色々あるけど、500年前の聖剣の伝承は
-見当たらねえや。
-どうも古い本が少なすぎる気がするし、
-もしかするとここを占領していた淫魔に燃やされたとか、
-そういう可能性も考えねえといけねえかもな。
+But we've turned over so many books,
+and haven't found anything.*
+History books, agricultural documents,
+village chief journals...*
+There are many things here, but about the legend
+of a holy sword five hundered years ago?
+I'm not so sure.
+I have a feeling there the older tomes here are 
+few in number.*
+Perhaps they were burnt by the succubui who were 
+hiding away here. I'd hate to think of such a
+possibility.
 
 ミツヒデ：上
-おっ、これを見てください！
-この本、かなり古いですよ！
+Oh, take a look at this!
+This tome is considerably old!
 
 レイ：上
-・・・・？
+...?
 
 ノブ：上
-ん？そうか？
-見た感じキレイな本だし、
-そんなに古そうじゃないけど・・・。
+Hm? What now?
+Seems to be in pretty good condition to me,
+it doesn't look old at all...
 
 ミツヒデ：上
-いえいえ、装丁ではなく文字を見てください。
-これは旧王国時代の文字です。
-書体から考えて500年～600年ほど前のものですね。
-夢魔との戦いがあったと考えられている時代にも、
-これと同じ文字が使われていました。
-年代的に近い文献だと考えられます。
+Not at all, look at not the cover 
+but the contents. This font and style is 
+remenicent of the old kingdom era.
+This would date it anywhere between five hundered
+to six hundered years old.
+Based on the concepts, I'd base it close to
+the era in the ongoing war with succubus.
 
 ノブ：上
-へぇ・・・。なるほど。
+Ah... I think I understand.
 
 ミツヒデ：上
-装丁がキレイなのは単に作りがいいからです。
-特殊な魔法をかけて、本を汚れにくくしてあります。
+The reason why the book is in such good condition
+is because it's been covered with a special kind 
+of magic. It won't get dirty easily.
 
 ユミル：上
-どれどれ・・・。
-んー、ミミズがはったみたいな文字だな。
-なんて書いてあるか読めねえ。
-ん？このページ。
-横にあるのは地図か。
+Let's see here...
+Hmm, this script kinda looks like squiggly 
+earth worms.
+I can't make heads of tails of it, 
+not to mention reading it.*
+Huh? On this page here,
+is that some kind of sideways map?
 
 ミツヒデ：上
-ちょっと待ってくださいね。解読してみます。**
-ええと・・・、
-書いてあるのは地名や建物の名前みたいですね。*
-この地図の時代に、すでにこの教会はあったようで、
-「書庫の教会」という名前が書かれています。*
-教会から考えると、僕らのいる村がここで・・・。**
-聖剣は村の近くの森の中にあるという話だから・・・。
+Just a moment, I'll try to decipher it.**
+Hmm...
+This seems to be the name of a place or building?*
+It appears this church was present during the
+creation of this map, you can see the faint 
+name of the church library written here.
+If this is the church, then the village should
+be here...*
+It speaks of a legendary sword within the
+forest close to the village...
 
 レイ：上
-・・・・！
+...!
 
 ミツヒデ：上
-んっ！
-レイさんが指している場所に文字が書いてありますね。
-なになに、「封印の、泉」・・・・？
+Ah! Are those letters written in the place where
+Ray is pointing?
+Some "seal, of the fountain"...?
 
 ユミル：上
-封印の泉！
-確か、聖剣が封じられているのも泉だって話だったな。
+The fountain seal!
+That's the fountain used to seal off the 
+holy sword! I'm sure of it.
 
 ミツヒデ：上
-ええ。これは調査する価値がありそうです。**
-ふむ。
-この地図だけでは曖昧な位置しか分かりませんので、
-僕が現代の地図と照らし合わせ、
-泉の正確な位置を割り出そうと思います。**
-少し時間がかかるかもしれません。**
-その間、みなさんは行軍の準備をしておいてください。
-封印の泉に何が待ち構えているかわかりません。
-十分な準備をお願いします。
+Indeed, this seems to be worthy of investigation.**
+Hmm.
+As I can't quite make out the positioning based 
+just on this map alone, I'll need to check it
+against a modern map.
+Once I do that, I should be able to caluclate
+the fountain's exact position.*
+This might take some time.**
+In the meantime, we should prepare everyone for
+the upcoming march. 
+We won't know what lies on the jouney ahead.
+Be prepared for anything.
 
 ノブ：上
-そうだな。森の中だと補給も難しいだろうし、
-兵員の募集とか道具を買いそろえるのは、
-今のうちにやっておいたほうがいいか。
+Well said.
+It will be difficult to replenish
+our resources within the forest,
+so we'd better recruit troops and buy equipment
+while we can.
 
 ユミル：上
-聖剣の探索が主な任務とはいえ、
-この地域を任された騎士団として、
-治安維持などの任務もこなしておかないとな。
-出発前に任務をこなせば、
-兵に戦闘経験を積ませられるから、
-戦力強化にもなる。一石二鳥だぜ。
+Although our main goal is to search for the 
+holy sword, as the Knights of the Order, we also
+have a duty to ensure this region's safefy.
+If we can take up any missions before we leave,
+our allies will earn battle experience and
+get stronger. We'll kill two birds with one stone.
 
 テロップ：中央
-フリークエストから、
-「騎士団任務」に行けるようになりました！*
-※さらに、特殊オプションに
-「どこでもサブクエ」が追加されました！
+The free quest "Heroic Order Beginings" 
+is now avalible!*
+Furthermore, the special "Subquest Area" option
+has now been added!
 
 <OP5>
 テロップ：中央
