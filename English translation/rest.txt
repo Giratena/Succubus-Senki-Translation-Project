@@ -5625,92 +5625,102 @@ live again...
 
 <CM35>
 男：上
-うーん、やっぱり田舎だと、
-あんまり品ぞろえがよくねえな。
-万能薬もハイポーションも扱ってねえや。
-しかし、この村でしか買えない道具もあるんだな。
-何々、ニガムシの葉？なんに使うんだこれ。
+Wowziers, for a rural area,
+they sure stock a lot of things here.*
+They've got panacea, concoctions...
+You can even get equipment that can only be bought
+here as well.
+And what's this? A sour leaf? Beats me what
+you'd use that for.
 
 <CM36>
 兵隊：上
-第九騎士団のみなさま、
-この村を救っていただいてありがとうございました。*
-魔物は追い払われて、この村に平和が戻りました。
-ううっ、しかし、彼女のことが忘れられそうにありません。*
-切り替えなければいけないとはわかっていますが・・・。
-ああ、シスター様ぁ・・・。
+Knights of the Ninth Order,
+Thank you for rescuing our village.*
+You drove away the succubus, 
+and peace has returned to the village.*
+Oooh... 
+I don't think I can ever forget her though...*
+I know I have to get her our of my head but...
+Ooooh, my priestess...
 
 <CM28>
 男の子：上
-ねえ、聞いたんだけどさ、
-お兄さんたちが、噂になっている英雄さんなの？
-ほんと！？すっげー！！
-ねえ、ねえ、ボクと握手してよ！
-いいの？ありがとう！*
-えへへ♪
-友達に自慢できるぞ！
+Hey! Are you the hero I've been just been
+hearing rumours about?*
+You are!? Whoa, that's so cool!
+Hey, can I shake your hand!?
+I can? Thanks!!
+Ehehe-♪
+I'm happy to have friends like you!
 
 <CM31>
 男：上
-なあ、聞いたか？
-この村の近辺に盗賊が出たんだってよ。*
-大将は女だそうだが、
-あちこちで被害が出ているらしい。
-俺も道中襲われないか心配だったよ。
+Hey, did you hear that?
+Thieves and bandits have been terrorizing
+our neighbouring villages.
+Even though their head general is a woman,
+they've been causing a whole bunch of damage.
+I was worried I'd get attacked on the way here.
 
 <CM26>
 ミツヒデ：上
-やあ、レイさん。こんにちは。**
-地図の照合作業は順調ですよ。**
-５００年以上昔の、古王国時代の伝説が、
-今目の前にあると思うと、わくわくしてきますね。
+Ah, greetings Ray.**
+The combinding process of the two maps 
+is going well.*
+The legend of a kingom five hundered years ago... 
+It's making me giddy just thinking about it,
+don't you?
 
 ミツヒデ：上
-夢魔の伝説についてですか。
-分かりました。お話しましょう。*
-それは、今から５００年以上前、
-古王国時代の後期のころの歴史書に
-記されている話です。
-それによれば、**
-「ムマと呼ばれる魔物が突然現れ、
-その魔物は人々から精気を奪った。*
-剣で立ち向かっても魔法で立ち向かっても
-その魔物を滅ぼすことはできなかった。*
-ムマは女性に憑りつき、みる間にその数を増やし、
-被害は国中の村落に及んだ。*
-そんなとき、名もなき平民に一人の男がいた。**
-男は両手に呪われた紋様を持つ、忌み子であったが、
-その呪いの力で、ムマに触れることができた。*
-その呪われた両手に、
-光まとう聖なる二振りの剣を持ち、
-ムマを次々に滅ぼしていった。
-しかし、その男は魔物と交わるような野蛮な男であり、
-夢魔の女王と通じているという噂もあった。*
-そこで野蛮な男を監視するため、
-一人の貴族の男が派遣され、彼とともに旅をした。*
-幾たびもの戦いを経て、
-そうして、彼らはついにムマの女王を追い詰めた。*
-しかし、ムマの女王を前に、
-呪いの子はとうとう本性を現し、
-人類に牙をむいた。
-そこで、男とともに旅をしていた貴族の男が、
-聖剣を使って裏切りものの男を滅ぼし、
-ムマの女王をも封じたのであった。
-そのとき聖なる剣は、ムマの穢れを受け、
-もはや人には使えぬものとなった。*
-その剣は南方の大樹の森の奥深く、
-清らかな泉に封じられたという。」*
-・・・・・・。**
-他にも細かい情報がいろいろと書かれているのですが、
-ざっくり言うとこのような伝承です。*
-英雄の物語にしては、いささかこの聖剣の男に対して
-蔑視のこもった内容ですね。*
-古王国時代は今と比べて身分差別が強かった時代
-ですから、おそらく平民にもかかわらず活躍した彼に対
-して風当たりが強かったのでしょう。
-救国の英雄が、
-身分のために貶められているのだとしたら、
-なんとも救われない話です。
+I know understand the legend behind the succubus.
+Allow me to explain.*
+It's a story recorded in histroy books of the
+kingdoms that existed five hundered years ago.
+According to these records...**
+"Mounsters known as succubus suddenly appeared,
+a demon who sucks the life force out of humans.*
+The succubui could not be defeated,
+even when fought with magic or swords*
+The succubui increased their numbers by posessing
+women. Their influence spreading to various
+villages all over the country.
+During this time, there was
+a commoner man who had no name.*
+He was an abstaining child,
+born with markings on both hands, and with that
+power, was able to touch the succubus.
+However, he was a uncivilised man who
+often found himself mingling with succubui.*
+There were even rumours he was conversing with 
+the succubus queen herself.*
+And so a noble was sent to montior and guide the
+man during his travels.*
+After many battles, they finally managed
+to track down the succubus queen.*
+But when before the succubus queen, the child who 
+had been born with the markings revealed his 
+true nature, and turned on human race. 
+And so, the noble who traveled with him was
+forced to destory him with the holy sword,
+and sealed away the demon queen.
+At that time, the sword had been corrupted by
+the queen, and was never able to be used again.*
+The sword was sealed away in a fountain,
+deep into the forest of the great tree in the 
+south.
+...**
+There are many other details written here,
+but this is definitely the legend we heard about.*
+For a heroic story of legend, it's full of
+contempt.*
+Compared to the kingdom that we live in now,
+there was large amount of discrimination between 
+the commoners and the rich. 
+Perhaps he was treated harshly as a commoner,
+dispite his activities. 
+A hero who was bashed by the country he tried
+to save... What a sad story.
 
 ミツヒデ：上
 結界について、ですか？
