@@ -4330,7 +4330,7 @@ Hah-❤ Aau-❤
 
 <OP5>
 テロップ：中央
-OPをスキップしますか？
+Skip the opening?
 
 <OP4>
 ラミア：上
@@ -4346,127 +4346,136 @@ OPをスキップしますか？
 
 <OP2>
 ミツヒデ：上
-教会に収蔵されていた文献によれば、
-こちらの方角に封印の泉があるようですね。*
-しかし、
-村の人たちはそのような泉は
-実際に見たことがないといいます。
-とにかく進んでみましょう。
+According to the documents stored in the church,
+the sealed fountain should be in this direction.*
+However, the villagers mention that they haven't
+seen any sort of fountain at all.*
+Curious, but we should continue at any rate.
 
 ユミル：上
-ふう。だいぶ深い森だな。
-こんだけ生い茂っていると進むのも一苦労だ。*
-・・・・・。**
-さっきからずっと同じ風景が続いていないか？
-同じところをグルグル回っているような・・・。
+Ugh, this is a considerably deep forest.
+it's getting thicker the further we go.*
+...**
+Hey, isn't that the same tree we passed not
+long ago?
+It's like we're going around in circles...
 
 ミツヒデ：上
-確かに。
-おかしいですね・・・。*
-古文書に書いてある内容が本当なら
-封印の目印として
-この模様がどこかに彫られているのだそうですが・・・。
+Verily.
+How strange...*
+If the contents of this document are true,
+there should be some sort of seal or
+mark around here...
 
 ノブ：上
-ん・・・。これは・・・。
+Hm... Maybe this...?
 
 ミツヒデ：上
-あ、たぶんそれです！
-旧王国の紋様です！*
-こんなに小さく樹に刻んであるんですね。
-これは見落とすところでした。
+Ah, perhaps this is it!
+The crest of an old kingdom!*
+And carved into such a small tree too.
+I nearly overlooked this.
 
 ユミル：上
-へー、これがね。
-確かにこれは事前に知っていないと気づかないわ。
-村人が知らないのも納得だぜ。
-で、ここからどうするんだ？
+Oh, this?*
+I certainly wouldn't have been able to tell,
+so it makes sense the villagers didn't spot it
+either.
+So, what's our plan of action now?
 
 ミツヒデ：上
-文章には、
-「風と光の加護を持つもの、
-王家の紋に手を合わせよ。」とありますね。
-レイさんとユミルさん、やってみてください。
+The setence here says-
+"Those with the blessing of wind and light,
+place your hands on the crest of the royal family"
+Well then, Ray, Miles, 
+if you would do the honours.
 
 レイ：上
-・・・・。
+...
 
 ノブ：上
-・・・・？
+...?
 
 レイ：上
-・・・・！
+...!
 
 ノブ：上
-さっきまで森の中だったのに・・・・。**
-ここが「封印の泉」なのか？
+It's been nothing but forest until now and yet...**
+Is this where the sealed fountain is?
 
 ラミア：上
-む、おぬしたち何者じゃ？
+Oh, who might you be?
 
 レイ：上
-・・・・！
+...!
 
 ユミル：上
-で、でけぇ・・・！
-俺たちの身長の何倍もある大蛇だぜ！
+Sh, she's huge...!
+A huge snake twice as tall as us!
 
 ラミア：上
-ほお、おぬしら、光の加護と風の加護の持ち主か。
-それなら、聖剣の封印を解きに、
-ここに来たというわけじゃな。
+Oho, so you must be the holders of the
+divine protection of light and wind.*
+If that is the case, I presume you are here
+to break the seal of the holy sword.
 
 ミツヒデ：上
-そうです。
-今、我々の国では夢魔が暴れていて、
-彼女たちを倒すために聖剣の力が必要なのです。
-あなは、
-見たところ我々に敵意があるわけではなさそうです。
-いったい何者なのでしょうか。
+That is correct.**
+Succubus are currently raging havoc in our
+country, and only the power of the holy sword
+can defeat them.
+But you... 
+You have not provoked us in the slighest.
+Could you tell us who you are?
 
 ラミア：上
-わらわは、この地を守る守護者じゃ。
-ラミア、あるいは蛇神などと呼ばれておる。
+I am the protector and guardian of this place.
+You may reffer to me as Lamia, or the Snake Deity.
 
 ノブ：上
-守護者・・・？
+Guardian...?
 
 ラミア：上
-そうじゃ。守護者じゃ。**
-聖剣は500年前の戦いで
-夢魔の女王を倒したときに、
-「けがれ」を背負ってしまったのじゃ。
-そして、今なお
-聖剣にはその時の夢魔の魔力がとりついておる。*
-もし、並の人間が聖剣に触れれば、
-精神をむしばまれ夢魔の女王の虜となるやもしれぬ。*
-じゃから、わしらこの泉を守る魔物は、
-かつての勇者との盟約により、
-聖剣に近づくものを試す役割をもっておるのじゃ。
+Indeed, a guadian.**
+When the holy sword was used to fell the 
+succubus queen five hundered years ago,
+it was afflicted with a great corruption.
+To this day, the holy sword is still
+tainted by succubus magic.*
+If an ordinary human were to touch the holy sword,
+it's likely their spirit would break become a
+prisoner to the succubus queen herself.
+So we monsters protect the fountain, and swore
+an oath to test any heroes who would try to
+touch the holy sword.
 
 ユミル：上
-試す、だと？
+A test? As in some sort of trial?
 
 ラミア：上
-ふふ、なに痛いことはせぬよ。夢魔の力は快楽の力。
-我々が試すのも、
-おぬしらが快楽に呑まれぬかをはかるのじゃ。
-そう、この体を使ってな・・・。
+Ufu- Yes, but not one of pain. 
+The power of a succubus is the power of pleasure. 
+That is what we will test.
+I'll use my body to engulf your very being
+in pleasure...
 
 レイ：上
-・・・・！
+...!
 
 ラミア：上
-さあ、魔物どもの誘惑を振り切り、
-一番奥にいる我を打ち倒してみよ！
-さすれば聖剣への道が汝らに開かれるであろう！
+Now, overcome the seduction of my subordinates,
+and try to defeat me at the very end!*
+Only then will the path to the holy sword
+open before you!
 
 <CM0>
 ユミル：上
-戦術についての意見が聞きたいのか？**
-この戦いは、敵のリーダーであるラミアを倒して聖剣の
-試練をクリアするのが目的だ。*
-ラミアがいるのはここ。湖の奥の、島の上だな。
+You want to hear my opinon on battle tactics?**
+The aim of this fight is to clear 
+the trial of the holy sword by defeating 
+the enemy commander, Lamia.
+Lamia is here with in the lake,
+on the small island.
 
 ユミル：上
 この小島に行くまでに、いくつか障害があるみたいだ。**
