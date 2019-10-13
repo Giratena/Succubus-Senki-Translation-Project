@@ -4478,53 +4478,61 @@ Lamia is here with in the lake,
 on the small island.
 
 ユミル：上
-この小島に行くまでに、いくつか障害があるみたいだ。**
-まず手前の、
-エルフたちがいる島を突破する必要がある。
+We might run into some problems on the way though.**
+First of all, we need to get past the main 
+island, where all the elves are.
 
 ユミル：上
-このエルフの島にある回復の魔法陣だが、
-開戦早々、一気に制圧するのは危険だと思うぜ。*
-というのも、エルフの島の横に、
-花の姿をした魔物、アルラウネがいる小島がある。
+There are some magic circles on the island the
+elves occupy, but I think it would be unwise
+to take it as soon as we can.
+I say that because next to that island, is an
+alruane, a monster girl that takes apparence of
+a flower.
 
 ユミル：上
-アルラウネは花粉を風に乗せて飛ばし、
-生き物を惑わす、そんな話を聞いたことがある。*
-おそらく、回復の魔法陣を取りに行ったところを
-横の小島から狙い撃ちされることになるだろう。*
-だから、戦略としては、
-先に向こうの小島を攻めてアルラウネを倒しちまうか、
-あるいは、
-開始地点すぐの回復の魔法陣に陣取って、
-アルラウネの射程外でエルフと戦うのがいいと思うぜ。*
-前半戦は敵の特性をよく理解し、
-うまく敵の射程を見極めるのが重要になるな。
+Alruances can carry their pollen across the wind.
+I've heard stories about them using it to confuse
+and bewilder animals.
+If we took the magicl circle early on, she would
+certainly try to snipe us from that side.*
+Therefore, our stratergy should be to take down
+the alruane first,*
+or take the magic circle point immediately 
+and fight the elves while staying outside of 
+the alruane's range.
+We should have the experience to know what to
+expect, but we mustn't forget to take into account
+the enemies range as well.
 
 ユミル：上
-次の障害は、人魚の魔物が守っている橋だ。
+Following that, 
+is the bridge where the mermaids reside.
 
 ユミル：上
-ここでは必然的に１対１の戦いを強いられる。
-だからと言って、橋の上にいるのは1人だけってのは
-避けたほうがいいな。
-というのも、もし一人だけにすると、
-湖の中にいる人魚に
-その一人が集中的に攻撃される危険性があるからだ。
-攻撃に参加できなくても、
-おとり役として橋の上に味方を置くといいと思うぜ。*
-長期戦にならないように攻撃力の高い味方で、
-早めに橋をふさいでいる人魚を倒したいところだ。
+While we'll be forced to fight one on one here,
+we should probabally avoid leaving units there
+by themselves.
+If we do, we leave them open up to multiple
+attacks from the mermaids who are 
+positioned there.
+Although we won't be able to fight back,
+I reccomend stationing multiple allies there 
+to act as decoys.
+With allies to sustain attacks, we should
+take our the mermaid blocking the bridge as soon
+as we can.
 
 ユミル：上
-こうして二つの難所を突破してようやくラミアに挑める。
+If we get past these two points. We can challenge
+Lamia.
 
 ユミル：上
-ラミアとの戦いでは、
-ここの魔法陣をいかに確保できるかが肝心だ。*
-素早く立ち回ってラミアを包囲して、
-安全に回復の魔法陣を使えるようにすれば、
-ずいぶん戦いやすくなると思うぜ。
+When fighting Lamia, you'll need to make as much
+use of the magic circles as you can.*
+If we can encircle around her, 
+we'll be able to use the magic circles safely, 
+and I think it'll make the fight easier. 
 
 <CM2>
 巨乳エルフ：中央
