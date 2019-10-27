@@ -2002,23 +2002,25 @@ So rest for today. Come tomorrow, you will be
 ready to liberate the seal of the sword.
 
 巨乳エルフ：上
-蛇神さま！それじゃあ、今日は宴にしようよ。
-せっかくこの森に来てくれたんだもん。お祝いしなくちゃ。*
-わたしたちみんなでごちそう作るから、
-さあ、ほら私たちの村でわいわいしよう！
-こっち、こっち。
+Oh snake deity! 
+We should have a feast to congradulate
+everyone for making it this far!
+We'll treat you all to our specialty dishes,
+so lets just all have a good time-*
+Well? What are we waiting for? Come on!
 
 ミツヒデ：上
-うわっ、ちょっと手を引っ張らないでください。
+Ah, I would apreciate it if you didn't
+pull so hard on my arm...
 
 レイ：上
-・・・・・♪
+...♪
 
 <AT26>
 テロップ：中央
-聖剣の試練を突破できず、
-胸の大きなエルフに敗れた主人公は、
-森の中にある一つの小屋に連れてこられていた。
+Unable to overcome the trial of the holy sword,
+the hero who was defeated by the elf with huge
+breasts was brought to a hut in the forest.
 
 巨乳エルフ：上
 えへへ。試練突破できなかったね。
@@ -3328,7 +3330,7 @@ Hah-❤ Aau-❤
 体中がキスマークまみれだったという。
 
 テロップ：中央
-～後日～
+～A couple of days later～
 
 投げキッス人魚：上
 あっれー、また来たの？
