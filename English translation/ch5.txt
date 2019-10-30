@@ -3425,8 +3425,8 @@ ever she went, and my story came to a close.
 
 <AT26-7>
 テロップ：中央
-The hero, defeated in the middle of the trial
-by the mermaid, was brought into the water's edge.
+The hero defeated by the mermaid in the middle of
+the trial was brought into the water's edge.
 
 投げキッス人魚：上
 Ufufu-
@@ -3502,10 +3502,10 @@ Mmm-wah-❤ Mwah-❤ Mwah-❤
 テロップ：中央
 Beguiled by the mermaid's blown kisses,
 I was no longer capiable of clearing the trial.*
-何度も試練に通い、
-投げキッスでメロメロにされては敗北する日々。*
-こうして僕らの物語は人魚の虜となって、
-その幕を閉じたのだった。
+Though I tried many times, I lost every single
+day, infacuated by her blown kisses.*
+And so, my story ended as a slave to the
+mermaids...
 
 <AT26-8>
 ラミア：上
