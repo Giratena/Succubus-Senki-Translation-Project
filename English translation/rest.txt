@@ -1742,12 +1742,12 @@ forest close to the village...
 ミツヒデ：上
 Ah! Are those letters written in the place where
 Ray is pointing?
-Some "seal, of the fountain"...?
+Some "seal, spring"...?
 
 ユミル：上
-The fountain seal!
-That's the fountain used to seal off the 
-holy sword! I'm sure of it.
+The seal of the spring!
+That's the spring where the holy sword was
+to sealed off! I'm sure of it.
 
 ミツヒデ：上
 Indeed, this seems to be worthy of investigation.**
@@ -1756,7 +1756,7 @@ As I can't quite make out the positioning based
 just on this map alone, I'll need to check it
 against a modern map.
 Once I do that, I should be able to caluclate
-the fountain's exact position.*
+the secret spring's exact position.*
 This might take some time.**
 In the meantime, we should prepare everyone for
 the upcoming march. 
@@ -5706,7 +5706,7 @@ forced to destroys him with the holy sword,
 and sealed away the demon queen.
 At that time, the sword had been corrupted by
 the queen, and was never able to be used again.*
-The sword was sealed away in a fountain,
+The sword was sealed away in a sacred spring,
 deep into the forest of the great tree in the 
 south.
 ...**
