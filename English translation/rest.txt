@@ -1755,7 +1755,7 @@ Hmm.
 As I can't quite make out the positioning based 
 just on this map alone, I'll need to check it
 against a modern map.
-Once I do that, I should be able to caluclate
+But once I do that, I should be able to caluclate
 the secret spring's exact position.*
 This might take some time.**
 In the meantime, we should prepare everyone for
@@ -1786,75 +1786,75 @@ has now been added!
 
 <OP5>
 テロップ：中央
-試練の突破後、
-僕たちはエルフ族の村に招かれて、
-そこでごちそうとお酒をふるまわれていた。
+After clearing the trial,
+we were invited to the Elf village for a
+big celebrational feast.
 
 エルフ：上
-かんぱーい！
+A toast to our new heroes!
 
 ユミル：上
-うはぁ、エルフ族の酒はうまいなぁ！
-なんだこりゃ、ほっぺが落ちそうだぜ。
+Whoa, this Elf liquor is great!
+I feel like my cheeks are about to fall off.
 
 レイ：上
-・・・・♪
+...♪
 
 エルフ：上
-ふふん。そうでしょ？
-わたしたち一族の特製のお酒なのよ。
-アルラウネさんの蜜が少し混ぜてあるのがポイントね。
-しかし、この味が分かるなんて、
-ふふっ、人間もなかなかよくわかっているじゃない。
+(Giggle) You think so?
+This is our village's specialty made fine wine.
+It even has a bit of Alruane honey mixed in-
+I didn't think humans could comprehend such 
+tastes, I guess I have much to learn-
 
 ノブ：上
-こうして宴会をしていると、
-王都を救出したときのことを思い出すな。
+A feast like this reminds me of the one we had
+when we rescued the capital.
 
 エルフ：上
-えー、なになに？冒険譚？
-聞かせて！興味ある♪
+Whoa, say what now? An adventure story?
+Tell us tell us! Sounds interesting-♪
 
 ノブ：上
-え、えっとその・・・。
-どうやって説明したらいいか・・・。
-ごめん、ユミル任せた！
+Err, well we, umm...
+How should I explain this...*
+Sorry Miles, I'll let you take this one!
 
 ユミル：上
-へへん、よくぞ聞いてくれた！
-俺たちがここに来るまでどんな活躍をしたのか・・・！*
-それはそう、
-突然俺たちの故郷の村から始まったんだ・・・！
+Eheh. Alright, listen up!
+How did we get here, you may ask...?*
+It all started in our humble hometown village...!
 
 エルフ：上
-へぇー、あんたたち、結構すごいのね。
-英雄なんて呼ばれているんだ。*
-それにしても、ふふっ、あなた話上手ね。
-聞いてて面白い。
+Whoa- You guys are amazing!
+So that's why you're called heroes.*
+And not only that, you're a good talker as well-
+You're interesting to listen to.
 
 ユミル：上
-そうだろう！
-俺は物語を聞くのも話すのも大好きだからな！*
-ほら、まだ続きがあるんだ。聞いてくれよ。
-賢者を救出した俺たちはな、
-そこから王様に会ったんだ・・・。
+You bet I am!
+I love talking about grand stories and tales!*
+And! it gets even better.
+Let me tell you about the time we saved the 
+kingdom's greatest sage, and met the king...
 
 テロップ：中央
-エルフたちは外界とあまり交渉がないからか、
-僕らのことに興味津々のようだった。*
-ユミルのおおげさな話を肴に、
-みんな楽しそうに酒を飲んでいる。
+Because the Elves had been isolated from the
+outside world, they seemed to take a big 
+interest in us.
+Everyone feasted and drunk merrily 
+to Miles' stand up exagerrated stories and tales.
 
 <OP6>
 ユミル：上
-あいてて・・・。
-体が動かねぇ・・・・。
+Uuugh...
+I can't move my limbs...
 
 レイ：上
-ううっ・・・・。
+Oogh...
 
 エルフ：上
-お疲れ、英雄さんたち。**
+You did well, Heroes-**
 ごめんね。わたしたちも助けに行きたかったけど、
 女の人が近づくと淫魔化するかもしれないからって、
 蛇神様に止められていたの。
@@ -1877,7 +1877,7 @@ has now been added!
 サポートしていく必要がありそうです。
 
 アルラウネ：上
-あら、ダメですよ。賢者くんもちゃんと寝てないと。
+Ara- That won't do at all- 賢者くんもちゃんと寝てないと。
 あの淫魔にやられて、
 まだ後遺症が残っているのですから。
 ほら、わたしの胸を見てごらんなさい？
