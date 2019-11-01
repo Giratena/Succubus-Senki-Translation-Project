@@ -1627,7 +1627,7 @@ Ah, Mileena...
 \vo[mi15]I'll give you lots of hugs,
 so you can let me take care of you...*
 \vo[mi16]You can do that, right?
-Those two people aren't here right now.
+Your companions aren't here right now.
 You can melt all your worries away in my chest.
 
 ノブ：上
@@ -1636,7 +1636,7 @@ Uaahh...❤
 ミレニア：上
 \vo[mi17]Just relax Nobby...
 That's it... There's no need to think-❤*
-\vo[mi18]Let my body squeeze out all those bad things
+\vo[mi18]Let my body squeeze out all the bad things
 troubling your mind...❤
 
 <OP3>
