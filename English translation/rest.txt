@@ -1382,7 +1382,7 @@ your lives on the line for rescuing me.
 I cannot thank you enough.
 I owe you a great deal of debt, so I request
 you make use of any knowlege I have.*
-I will no stand for these demons to do as they 
+I will not stand for these demons to do as they 
 please with our country.
 
 レイ：上
@@ -1392,9 +1392,9 @@ please with our country.
 Heh, reliable as ever, aren't you Mizuhide?
 
 ミツヒデ：上
-Well, I did call everyone here to express
-my grattitude...*
-But I also wanted to check my hypothesis on why 
+Well, while it's true I called everyone here to 
+express my grattitude...*
+I also wanted to check my hypothesis on why 
 the knights weren't able to attack those demons.*
 Ray, Miles, Nobus... Could you touch this crystal
 analyser please?
@@ -1447,7 +1447,7 @@ Muma...? So what does that mean?
 'Mu-ma' （夢魔） directly translates to 
 'dream monster'.*
 It could als be written with the character for
-'Fog' lke this, （霧魔）*
+'Fog' like this, （霧魔）*
 So, to get to the point.
 Succubus are of both elemental types Dream （夢） 
 and Fog （霧）. These cause attack immunity.
@@ -1503,14 +1503,14 @@ why can't they attack them?
 
 ミツヒデ：上
 That's because blessings are most effective when 
-our commanders have the same protection elemt.*
+our commanders have the same protection element.*
 Although they are common here, the divine 
 protection others have varies a lot.*
 Therefore, we try to arrange comanders from 
 different countries with compatible protection.*
 For example, if the comander has the blessing
 of light, they would be paired with others
-who have the same blessing.
+who have the same.
 
 ユミル：上
 So in other words, if we didn't happen to
@@ -1522,7 +1522,7 @@ That is correct.**
 As you are only local mercinaries, I wouldn't
 have expected you to know, but you happened to
 come across a potent combination.
-I'll inform the knights so they can reorgainise 
+I'll inform the knights so they can re-orgainise 
 their chain of comand to match this new 
 combination.
 We were only able to retreat, but with this,
@@ -4745,13 +4745,13 @@ If that's the case I'll give you this.
 ミツヒデ：上
 Oh, hello Mr. Ray!**
 I may be frail, but I've been said to be quite
-knowlegeable.
-If there's anything you don't understand
-please feel free to ask.*
+knowlegeable.*
+So if there's anything you don't understand,
+please feel free to ask!*
 I even have information on things concerning 
-succubui and the like as well.
-It would make me very happy if I could think I
-helped the heroes who saved this country.
+succubui and the like as well.*
+Helping heroes like you save our country 
+couldn't make me happier.
 
 <CM19>
 男：上
@@ -4767,28 +4767,27 @@ Aah, please get rid of those demons quickly.
 <CM22>
 男：上
 Did you hear?
-The princess came to visit one of the shops around
-here.
-The many royal families in this country has 
-excelled at creating magical artifacts for 
-generations.
-But now, it seems you can come here buy the 
-resources for these magical artifacts.*
-I wanted to see it for myself,
-so I came to the shops downtown...
+The princess recently came to visit one of the 
+shops around here.
+The royal lineage in this region is known 
+for their exceptional ability to create
+various magical artifacts. 
+And now, it seems you can buy the resources used
+for said magical artifacts in this very district.*
+I wanted to see them for myself,
+so I came to the shops downtown...*
 Actually maybe not.
-I don't think Princess would be that prideful  
-in her work.
+As if the Princess would disclose the secrets
+of her work to me...
 
 <CM33>
 男：上
-Hey, you. Want some drugs?**
+Hey, yeah you. Want some drugs?**
 What? No! Not the dubious kind, I mean general
 recovery medicine.*
 The truth is, one of the companions is an 
-alchemist.
-Mixing medicine is his specialty.
-I got a share of what he makes.
+alchemist. Mixing medicine is his specialty, 
+so I get a share of what he makes.
 If you had an alchemist in your party, I bet 
 you'd get a lot of medicine easily too!
 
@@ -4797,9 +4796,9 @@ Here, these are some trial goods. Have fun.
 
 <CM20>
 おばあさん：上
-During times like these, we can't have the food
-be at high prices.
-During the war, prices rise of cause.
+I ought to think the price of food should be
+kept as low as possible in times like these.
+But during the war, prices just continue to rise.
 As only the rural areas of the country have
 been attacked, this years harvest will be taking
 a significant impact.
@@ -4815,16 +4814,17 @@ you hear the voice of a child.
 Awww... Stop it...!
 
 女の子：上
-Kyahaha! What? Your voice is so laame-
+Kyahaha! What was that? 
+I'll I can hear is your pathetic whining-*
 Hora, that thing in your hands, hand it over.
-Give it to me, hurry up!
+Give it to me. Come on, hurry up!
 
 男の子：上
 Bu, but. My mum worked hard her whole life to get 
-gold, so...
+this money, so...
 
 女の子：上
-So, what?
+So? So what?
 Do you want me to beat you up? Hmm?
 
 女の子：上
@@ -4845,13 +4845,13 @@ You got something to say, big brother?
 ...!
 
 女の子：上
-Kyaa!!
-Hey, release me! Let go of my arm will you?*
-Really, this doesn't concern you big brother!
+Kyaah!!
+Hey, release me! Let go of my arm will you?
+This doesn't concern you big brother, really!
 Why do you have poke your nose in things?
-you want to look cool? Trying to help this boy?
-Hmph, well in that case, let's do this.
-Hora, Micah, get him-❤
+You think you're cool by trying to help this boy?
+Hmph, well in that case, what if we do this?
+Hora- Get him Micah-❤
 
 女の子：上
 Ufufu. Okie dokie-.
@@ -4874,7 +4874,7 @@ she can shatter even someone like you in a matter
 of seconds.
 
 女の子：上
-Hey, doesn't it feel good when I trace my smooth- 
+Hey- Doesn't it feel good when I trace my smooth- 
 fingers down the back muscle of your penis?*
 I'll massage Mr. Penis and give him a big
 hug with my fingers-❤
@@ -4892,12 +4892,12 @@ Okay?
 Th, that's...❤
 
 女の子：上
-Huh? Isn't this good though?
+Huh? Don't you like it?
 You are a boy, right?*
 And the only thing boys want to feel is lots and 
 lots of pleasure-❤*
-Like when my fingers crawl around you and...
-Stroke stroke stroke-❤
+Like when my fingers crawl around your penis
+and... Stroke stroke stroke-❤
 
 レイ：上
 Ah, wait just a, aaah-❤ No, sto-❤ Oooaah-❤
@@ -4933,9 +4933,9 @@ Aah-❤ Aah-❤ No more-❤
 Uuugh-❤ It's feels so good-❤ Aaah-❤
 
 女の子：上
-Ho-ra, men are easily defeated my girls.
-Nothing else matters if you're gonna lose to girls 
-anyway. Teehee- Do you understand?
+Ho-ra- men are easily by defeated by girls.
+It's not like it matters if you're gonna lose to 
+us girls anyway. Teehee- You realise that right?
 
 レイ：上
 Agh-❤ Aiee-❤
@@ -4943,7 +4943,7 @@ Don't rub there with your fingers-❤
 Aah!-❤
 
 女の子：上
-Teehee. Too easy-❤**
+Teehee- Too easy-❤**
 Well then, even the big brother who came to save
 you fell to our charms.*
 Now, give us the money.
@@ -4964,7 +4964,7 @@ for this! I'll have my revenge!
 女の子：上
 Ooh, all talk and no trousers-❤
 And speaking of which, hora.
-Your thing has become quite big too hasn't it?-❤
+Your penis has become quite big too hasn't it?-❤
 
 男の子：上
 Ooaah-❤
@@ -4974,15 +4974,15 @@ I'm not like those adults-❤ Aaah-❤
 女の子：上
 I only just gave you a little massage and it's
 already becoing hard for you to think-❤
-Pfft, are you sure you're no different?
+Pfft- are you sure you're no different?
 
 男の子：上
 Ooh oooh-❤ I..❤
 
 女の子：上
-Aha. You're shaking your hips too aren't you?
+Aha- You're shaking your hips too aren't you?
 Are you okay with that? You're going to submit,
-being massaged my a girl's hand. 
+being massaged by a girl's hand. 
 Are you gonna ejaculate and go pew pew?
 
 男の子：上
@@ -4990,15 +4990,15 @@ Aah, aah-❤ Aah-❤
 
 女の子：上
 ...as if I'd let that happen. Idiot-❤
-Hora, I'm already done with massaging your balls.
-Now run off someone like a good boy.
+Hora- I'm already done with massaging your balls.
+Now run off somewhere like a good boy.
 
 男の子：上
 Aah, aah. Why you... Ooh...
 You stupid, dumb loser...
 
 女の子：上
-Tee-hee. Yes, run off clutching your groin,
+Tee-hee- Yes, run off while clutching your groin,
 how pathetic-❤
 
 女の子：上
@@ -5046,27 +5046,27 @@ That's too quick-❤ Aah-❤ Aiee-❤
 Aiee-❤ Aah.... It feels soo good!-❤
 
 女の子：上
-Tee-hee. You feel down on your knees-
-Does it feel so good you can't stand?
+Tee-hee- You collapsed and feel to your knees-
+Couldn't you endure the pleasure?
 
 女の子：上
-Ahaha. How pathetic- You should have stood up for
+Ahaha- How pathetic- You should have stood up for
 justice, but now you're surrendering yourself to
 some girls handjob-❤
-It's good isn't it? Experiencing Micah's heavenly
-handjob?
-You'd normally need to pay a lot of gold
-to get this you know? But you're getting it for
-free. What a great deal-
+Micah's heavenly handjob feels great doesn't it?
+You'd normally need to pay a lot of gold to get 
+this kind of service you know? 
+But now you're getting it for free. 
+What a great deal-
 
 女の子：上
-But what if,
-Big brother was to become a regular customer?
-Tee-hee...
-But, make sure you bring a lot of money okay?-❤
-Because we won't do it for free.*
-Now then, let's say good bye to Mr. Penis okay?-
-Pushing our palms against him... Bye bye!-❤
+But what if...
+Big brother here was to become a regular customer?*
+Tee-hee... But you'd better make sure you bring a 
+lot of money then-❤
+Because we won't do it for free-
+Now, let's say good bye to Mr. Penis by
+rubbing our palms against him... Bye bye!-❤
 Lets meet again soon-❤ Pat pat- Rub rub-❤
 
 レイ：上
@@ -5082,7 +5082,7 @@ While laughing away, the girls left.**
 You lost 1000 renown...
 
 女の子：上
-Iyaah-!
+Aaaaah-!
 
 女の子：上
 No way! He didn't fall for Micah-chan's 
@@ -5361,12 +5361,12 @@ If any books on that exist, they'll be there.
 <CM23>
 男：上
 There was a parent and child living next to me,
-but I have not seen them for several days.*
-As for what the soldiers told me, there are
-monsters lurking in the forest,
-so I can only concluse they were attacked there...
-Oh leader of the Knights, please take care of the
-monsters quickly. I beg of you.
+but I haven't seen them for several days.*
+The soldiers told me there are monsters lurking 
+in the forest, so I can only conclude they were 
+attacked there...
+Oh, leader of the Knights, please ensure the
+monsters meet a swift end. I beg of you.
 
 <CM30>
 おばあさん：上
