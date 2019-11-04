@@ -6439,9 +6439,9 @@ those weird succubus type attacks any day!
 
 <CM38>
 エルフ：上
-カンパーイ♪
-試練の突破、おめでとー！*
-さっき聞いたよー。
+Congratulations!-♪
+Here's to clearing our trial!-*
+I heard about what you 
 お兄さんたち、世間では英雄なんて呼ばれている
 んでしょ？すごいんだねー。
 んふふ♪
@@ -6478,7 +6478,7 @@ those weird succubus type attacks any day!
 楽しみにしててね♪
 
 エルフ：上
-ううっ、お酒の飲みすぎでクラクラしてきたよぉ・・・。
+Oogh, my head's spinning from drinking too much...
 
 <CM39>
 エルフ：上
