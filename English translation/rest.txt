@@ -1649,7 +1649,7 @@ Defeating the succubus stowing away within
 the church,*
 we set to work searching through 
 books in the church basement, in an attempt
-to investigate legends behind the holy sword.
+to investigate the legends behind the holy sword.
 
 レイ：上
 ...
@@ -1679,8 +1679,8 @@ village chief journals...*
 There are many things here, but about the legend
 of a holy sword five hundered years ago?
 I'm not so sure.
-I have a feeling there the older tomes here are 
-few in number.*
+I get the feeling there aren't many older tomes
+here.*
 Perhaps they were burnt by the succubui who were 
 hiding away here. I'd hate to think of such a
 possibility.
@@ -1700,9 +1700,9 @@ it doesn't look old at all...
 ミツヒデ：上
 Not at all, look at not the cover 
 but the contents. This font and style is 
-remenicent of the old kingdom era.
+reminiscent of the old kingdom era.
 This would date it anywhere between five hundered
-to six hundered years old.
+to six hundered years old.*
 Based on the concepts, I'd base it close to
 the era in the ongoing war with succubus.
 
@@ -1715,9 +1715,9 @@ is because it's been covered with a special kind
 of magic. It won't get dirty easily.
 
 ユミル：上
-Let's see here...
+Let's see here...**
 Hmm, this script kinda looks like squiggly 
-earth worms.
+earth worms.*
 I can't make heads of tails of it, 
 not to mention reading it.*
 Huh? On this page here,
@@ -1746,15 +1746,15 @@ Some "seal, spring"...?
 ユミル：上
 The seal of the spring!
 That's the spring where the holy sword was
-to sealed off! I'm sure of it.
+to sealed off! I'd bet good money on it!
 
 ミツヒデ：上
 Indeed, this seems to be worthy of investigation.**
-Hmm.
+Hmm...**
 As I can't quite make out the positioning based 
 just on this map alone, I'll need to check it
 against a modern map.
-But once I do that, I should be able to caluclate
+But once I do that, I should be able to calculate
 the secret spring's exact position.*
 This might take some time.**
 In the meantime, we should prepare everyone for
@@ -4815,7 +4815,7 @@ Awww... Stop it...!
 
 女の子：上
 Kyahaha! What was that? 
-I'll I can hear is your pathetic whining-*
+All I can hear is your pathetic whining-*
 Hora, that thing in your hands, hand it over.
 Give it to me. Come on, hurry up!
 
@@ -4831,8 +4831,7 @@ Do you want me to beat you up? Hmm?
 Hora hora, give it to us now-
 
 テロップ：中央
-It looks as if those girls are bullying that 
-boy.
+It looks like some girls are bullying a boy.
 
 レイ：上
 ...
@@ -4866,7 +4865,7 @@ fingers to stroke and rub between my groin.
 Aah-❤ Ah-❤
 
 女の子：上
-What about this? Does it feel good?
+Ooh- You like this? Does it feel good?
 
 女の子：上
 Ehehe- Micah's techniques are unmatched.
@@ -5111,7 +5110,7 @@ it's not much but here, you can have it!
 
 <CM21>
 女の子：上
-Ah, he's here he's here!
+Ah-! He's here he's here!
 He came!
 
 テロップ：中央
@@ -5123,7 +5122,7 @@ The girl from before called out for me.
 
 女の子：上
 How dare you embarrass me in front of everyone!
-It's not going to work this time!
+But it's not going to work this time!
 
 レイ：上
 ...
@@ -5159,8 +5158,8 @@ Oomph...❤❤❤❤❤
 
 お姉さん：上
 Om-❤ Mmm-❤ Mmph-❤
-How are my kiss techniques?-❤
-Coiling around your tongue...❤ Mm-❤
+How are my kiss techniques?-❤ I can use them to 
+coil around your tongue...❤ Mm-❤
 Fufu, has your body lost it's strength?
 You've already become limp and floppy-*
 And now, to grasp your penis as well...**
@@ -5178,18 +5177,18 @@ Oooph-❤
 Aaaooh-❤❤❤❤
 
 お姉さん：上
-Aha. That was quick-❤
+Aha- That was quick-❤
 You came already-❤
-Was my kiss masturbation technique that good?
+Was my kissing masturbation techniques that good?
 
 レイ：上
 Haah... Aahh...
 
 お姉さん：上
-He's already out of strength-**
+Ah- Out of strength already-**
 On his butt, 
 looking up at me with glazed, empty eyes...
-Fufu, is there anything else I should do?
+Fufu- Anything else you want me to do?
 
 女の子：上
 That was amazing big sister!-
@@ -5206,7 +5205,8 @@ Ara ara. He may be a fool, but his mind is totally
 empty, he won't be able to understand you-❤
 Completely lovely dovey, and cute-❤
 Now then.
-Hora, show this guy what you're capable of too.*
+Hora- You need to show this guy what you're 
+capable of too.
 If you don't teach him that "there's no way I can
 win against this girl", he'll hold a grudge
 against you and cause trouble later.
@@ -5311,7 +5311,7 @@ Aah-❤ Stop it-❤ Aah-❤
 
 女の子：上
 Hora- Cum! Cum!
-spurt it all out, as my feet trample your penis-❤
+Spurt it all out, as my feet trample your penis-❤
 
 女の子：上
 Owaah- Now my feet are all sticky.
@@ -5320,8 +5320,8 @@ yourself from ejaculating? Tee-hee-❤
 
 女の子：上
 Aha-❤ He felt so good going pew pew, 
-it looked　like he was about to die-❤*
-Even passing out smearing semen on the road,
+it looked like he was about to die-❤*
+He even passed out and smeared semen on the road,
 what a truly pathetic guy-❤
 
 お姉さん：上
@@ -5433,7 +5433,7 @@ I've been making sure I get a good nights' sleep
 every day, but I just can't seem to shake my
 tiredness...
 I've been like this since that school event...
-Huh? Maybe I'm just tired?
+Huh? Maybe I've been overworking myself?
 I wonder...
 
 <CM29>
@@ -5670,7 +5670,7 @@ I was worried I'd get attacked on the way here.
 Ah, greetings Ray.**
 The combinding process of the two maps 
 is going well.*
-The legend of a kingom five hundered years ago... 
+The legend of a kingdom five hundered years ago... 
 It's making me giddy just thinking about it,
 don't you feel the same?
 
@@ -5679,7 +5679,7 @@ I now understand the legend behind the succubus.
 Allow me to explain.*
 It's a story recorded in history books of the
 kingdoms that existed five hundred years ago.
-According to these records...**
+According to these records...
 "Monsters known as succubus suddenly appeared,
 a demon who sucks the life force out of humans.*
 The succubus could not be defeated,
@@ -5726,11 +5726,11 @@ to save... What a sad story.
 
 ミツヒデ：上
 You want to ask about the magical barrier?
-What's promted you to ask about that?*
+What's prompted you to ask about that?*
 Ah I see, you're wounding why didn't the succubui
 place the magical crystals from within
 the barrier instead, right?
-Of cause, placing the crystals within the barrier
+Of course, placing the crystals within the barrier
 that they power may seem easy, but it's actually
 quite difficult, for technical reasons.
 I'll spare you the details, but essentially,
@@ -5789,16 +5789,16 @@ Oh, Ray!
 I was just cutting Nobus' hair.
 
 ノブ：上
-With all the fighting has made my hair all messy
+All this fighting has left my hair all messy
 and unkempt.*
 I thought I'd get it a little shorter.
 
 ユミル：上
 Want me to cut your hair too, Ray?
-Your hair is growing too,* 
+Your hair is growing too.* 
 It can get hot with too much hair,
 and this is the only village 
-in the southern terriroty.
+in the southern territory.
 
 ミツヒデ：上
 Hello there.
@@ -5814,8 +5814,8 @@ so he's great at doing hair cuts.
 
 ユミル：上
 I had a bunch of livestock and sheep back at home.
-It's important to keep your hair or fur in good
-care!
+Hair, fur or wool, it's important to keep your it
+in good condition!
 
 ミツヒデ：上
 Really! is that so?**
@@ -5830,11 +5830,11 @@ weapons dealership.
 
 ノブ：上
 Well, they call it a weapons dealership,
-but we sold farming tools,
-and just about everything
+but we also sold farming tools
+and just about everything else.
 We only sold weapons because my father 
 used them for his hobbies.
-Few people needed weapons at the time.
+At the time, few people needed weapons.
 
 ユミル：上
 We would borrow weapons and pretend
@@ -5851,10 +5851,11 @@ You're not writing down what I'm saying, are you?
 
 ミツヒデ：上
 Ah, well... All your activites have been nothing
-short of impressive, and someday,*
-I'd like to document the war of the succubus
-and all your efforts into the history books.
-So I want to gather as much information as I
+short of impressive.
+Someday, I'd like to document the war of the 
+succubus and all your efforts into the books
+of history.
+So, I want to gather as much information as I
 can.
 
 ノブ：上
@@ -5870,12 +5871,12 @@ a bit of a bump on your head here.
 ノブ：上
 Huh? You're right.
 It hurts like crazy when you touch it...*
-Did I get hit at somepoint during the fight?
+Did I get hit at some point during the fight?
 I had no idea.
 
 ユミル：上
-Hurt like that while fighting succubus?
-You can be so reckless at times.*
+You hurt yourself like that while fighting 
+succubus? You can be so reckless at times.*
 If you don't take care of your head injuries,
 it could get worse. 
 You should try to be more careful.
