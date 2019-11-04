@@ -1518,7 +1518,7 @@ we wouldn't be able to attack them either?
 
 ミツヒデ：上
 That is correct.**
-As you are only local mercinaries, I wouldn't
+As you are only local mercenaries, I wouldn't
 have expected you to know, but you happened to
 come across a potent combination.
 I'll inform the knights so they can re-orgainise 
@@ -1718,7 +1718,7 @@ of magic. It won't get dirty easily.
 Let's see here...**
 Hmm, this script kinda looks like squiggly 
 earth worms.*
-I can't make heads of tails of it, 
+I can't make heads or tails of it, 
 not to mention reading it.*
 Huh? On this page here,
 is that some kind of sideways map?
@@ -5614,20 +5614,20 @@ Take care alright? Mr. Weak weak hero-❤
 
 <CM37>
 男：上
-Because of the succubus, the missing villagers
+Because of the succubui, the missing villagers
 were found in the underground church prison.*
-Although severly weakened,
+Although severely weakened,
 they are lucky to be alive.*
-The children who would be normally happy to 
+The children who normally would be happy to 
 see their parents again are constantly muttering
 "I have to see the priestess again".
-The scar the the demons left them is deep.*
+The scar that the demons left them is deep.*
 I wonder if they'll ever be able to live a normal
 live again...
 
 <CM35>
 男：上
-Wowziers, for a rural area,
+wowzers, for a rural area,
 they sure stock a lot of things here.*
 They've got panacea, concoctions...
 You can even get equipment that can only be bought
@@ -5639,7 +5639,7 @@ you'd use that for.
 兵隊：上
 Knights of the Ninth Order,
 Thank you for rescuing our village.*
-You drove away the succubus, 
+You drove away the succubui, 
 and peace has returned to the village.*
 Oooh... 
 I don't think I can ever forget her though...*
@@ -5648,7 +5648,7 @@ Ooooh, my priestess...
 
 <CM28>
 男の子：上
-Hey! Are you the hero I've been just been
+Hey! Are you the hero I've been
 hearing rumours about?*
 You are!? Whoa, that's so cool!
 Hey, can I shake your hand!?
@@ -5704,7 +5704,7 @@ But when before the succubus queen, the child who
 had been born with the markings revealed his 
 true nature, and turned on human race. 
 And so, the noble who traveled with him was
-forced to destroys him with the holy sword,
+forced to destroy him with the holy sword,
 and sealed away the demon queen.
 At that time, the sword had been corrupted by
 the queen, and was never able to be used again.*
@@ -5743,8 +5743,8 @@ barrier I was generating at the Royal Acadamy,
 you say?
 Ahh, you have a good memory.**
 The truth is, that was a newly developed magical
-generator created my Princess Esuna herself.
-I was actually planing to use it for my studies.
+generator created by Princess Esuna herself.
+I was actually planning to use it for my studies.
 Up until now, creating a barrier with a 
 magical crystal within was a difficult matter,*
 I was fortunate to be able to use such ground
@@ -5772,7 +5772,7 @@ From commanders to lower class soliders,
 it's essentially identical.*
 The middle class succubui take the place of
 commanders,*
-the lesser succubui take the the place of 
+the lesser succubui take the place of 
 footsoldiers,*
 And lastly, the greater succubui take the place
 of generals.
@@ -5810,7 +5810,7 @@ Haircuts! Haircuts.
 
 ノブ：上
 Miles has pretty dexterous fingers.
-so he's great at doing hair cuts.
+so he's great at giving haircuts.
 
 ユミル：上
 I had a bunch of livestock and sheep back at home.
@@ -5839,7 +5839,7 @@ At the time, few people needed weapons.
 ユミル：上
 We would borrow weapons and pretend
 to be soldiers, but we also traind hard.*
-As a band of mercinaries, Nobus's
+As a band of mercenaries, Nobus's
 weapons dealership was indispensable.
 
 ミツヒデ：上
@@ -5850,7 +5850,7 @@ Hm...? Are you, taking notes?
 You're not writing down what I'm saying, are you?
 
 ミツヒデ：上
-Ah, well... All your activites have been nothing
+Ah, well... All your activities have been nothing
 short of impressive.
 Someday, I'd like to document the war of the 
 succubus and all your efforts into the books
