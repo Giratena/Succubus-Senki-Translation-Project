@@ -1,0 +1,335 @@
+
+var StringTable = {
+	LoadSave_SaveQuestion: 'Save to this file?',
+	LoadSave_NoLoad: 'No data to be loaded',
+	LoadSave_NoData: 'No data',
+	LoadSave_Chapter: 'Chapter',
+	LoadSave_SaveFileMark: 'File',
+	LoadSave_Rest: 'Location',
+	
+	Communication_NoData: 'No Data',
+	
+	GameStart_DifficultySelect: 'Please select the game difficult',
+	GameStart_ClearPointDescription: 'Clear points can be exchanged for items.\nRecommended for players who want a strength boost at the start of the game.\n\nCurrent Clear Points:',
+	GameStart_ClearPointQuestion: 'Part with this item?',
+	
+	UnitSortie_Start: 'Press Space',
+	UnitSortie_Max: 'Max Number Of Units',
+	UnitSortie_Question: 'Start Unit Sortie?',
+	
+	Stock_Extract: 'Take items from the convoy',
+	Stock_Store: 'Store items in the convoy',
+	Stock_AllStore: 'Store all items in the convoy',
+	
+	Marshal_StockOperation: 'Switch units with the up and down key',
+	Marshal_StockTrade: 'Retrieve items from the convoy',
+	Marshal_ItemTrade: 'Swap items between units',
+	Marshal_UnitSort: 'Reorganise unit positions',
+	Marshal_UnitStatus: 'Check unit statuses',
+	Marshal_Shop: 'Buy items',
+	Marshal_Bonus: 'Exchange renown for items',
+	Marshal_ItemUse: 'Use items',
+	Marshal_ClassChange: 'Change unit classes',
+	
+	ItemUse_Unit: 'Ally',
+	ItemUse_Stock: 'Convoy',
+	ItemUse_Question: 'Use this item?',
+	
+	ExperienceDistribution_CannotLevelup: 'Unit is at max level',
+	ExperienceDistribution_BonusShortage: 'You don't have enough Renown',
+	
+	Extra_Character: 'ゲーム中に登場した人物が記録されています',
+	Extra_Word: 'ゲーム中に登場した専門用語が記録されています',
+	Extra_Gallery: 'ゲーム中に表示した画像が記録されています',
+	Extra_SoundRoom: 'ゲーム中に再生した音楽が記録されています',
+	Extra_Recollection: 'ゲーム中に一度見たシーンが記録されています',
+
+	Config_MusicPlay: 'BGM Volume',
+	Config_MusicPlayDescription: 'Set the background music volume',
+	Config_SoundEffect: 'SE Volume',
+	Config_SoundEffectDescription: 'Set the volume of sound effects',
+	Config_RealBattle: 'Combat Animations',
+	Config_RealBattleDescription: 'Set the display of combat animations during fights',
+	Config_AutoTurnEnd: 'Auto-turn End',
+	Config_AutoTurnEndDescription: 'The turn will automatically end after all units have moved',
+	Config_AutoTurnSkip: 'Enemy phase skip',
+	Config_AutoTurnSkipDescription: 'The enemy phase will be skipped',
+	Config_MapGrid: 'Map Grid',
+	Config_MapGridDescription: 'Toggle the grid display on the map',
+	Config_UnitSpeed: 'Unit speed',
+	Config_UnitSpeedDescription: 'Toggle the speed at which units move',
+	Config_MessageSpeed: 'Message Speed',
+	Config_MessageSpeedDescription: 'Toggle the message speed',
+	Config_MapUnitWindow: 'Map Unit Window',
+	Config_MapUnitWindowDescription: 'Set the unit window display',
+	Config_LoadCommand: 'Load Command',
+	Config_LoadCommandDescription: 'Set the ability to load during combat',
+	Config_AutoCursor: 'Auto Cursor',
+	Config_AutoCursorDescription: 'Set the curser over the leader at the start of player phase',
+	Config_MouseOperation: 'Mouse Functionality',
+	Config_MouseOperationDescription: 'Toggle mouse support',
+	Config_MouseCursorTracking: 'Mouse Cursor',
+	Config_MouseCursorTrackingDescription: 'Set the cursor to pursue the mouse movements',
+	Config_Voice: 'Voice Volume',
+	Config_VoiceDescription: 'Set the voice volume',
+	Config_RealBattleScaling: 'Magnified combat screen',
+	Config_RealBattleScalingDescription: 'Enlarge the screen during combat',
+	Config_ScrollSpeed: 'Scroll speed',
+	Config_ScrollSpeedDescription:  'Set the scroll speed during unit commands',
+	Config_EnemyMarking: 'Display enemy danger area',
+	Config_EnemyMarkingDescription:  'Toggle enemy range visability',
+	Config_MapUnitHpVisible: 'Unit HP display',
+	Config_MapUnitHpVisibleDescription:  'Display units HP on the map',
+	Config_MapUnitSymbol: 'Unit map statuses',
+	Config_MapUnitSymbolDescription:  'Display unit statuses on the map',
+	Config_DamagePopup: 'Damage Popup',
+	Config_DamagePopupDescription: 'Display damage recieved and taken during combat',
+	Config_SkipControl: 'Skip Disable',
+	Config_SkipControlDescription: 'Disable the ability to skip events',
+	
+	ItemChange_UnitItemFull: 'Unit cannot hold any more items.\nPlease the cancel or confirm key.',
+	ItemChange_TradeTitle: 'Exchange with this item?',
+	ItemChange_StockSendTitle: 'Sent this item to the convoy?',
+	ItemChange_StockThrowTitle: 'Discard this item?',
+	ItemChange_StockItemFull: 'The convoy is full.\nPlease exchange or discard.',
+	ItemChange_TargetItem: 'Target Item',
+	
+	BattleSetup_NoPlayer: 'Because there is no player,\nthe game will end.',
+	
+	BattleResult_GetGold: 'Obtained Gold:',
+	BattleResult_GetBonus: 'Obtained Renown:',
+	BattleResult_GetItem: 'Obtained item(s):',
+	
+	Rest_Next: 'Are you done with this location?',
+	
+	Quest_Select: 'Advance to this map?',
+	Quest_EnemyTotal: 'Enemy Total:',
+	Quest_AverageLevel: 'Average Enemy Level:',
+	Quest_GetGold: 'Obtained Gold:',
+	Quest_GetBonus: 'Obtained Renown:',
+	Quest_GetItem: 'Obtained:',
+	
+	ClassChange_UnitClassChange: 'Change to this class?',
+	ClassChange_UnableClassChange: 'Unit cannot change to this class',
+	ClassChange_UnableClassChangeMore: 'Unit cannot change classes any further',
+	ClassChange_UnableClassChangeItem: 'Unit cannot change classes with this item',
+	
+	Metamorphoze_Change: 'Confirm changes?',
+	
+	ShopLayout_SelectBuy: 'Buy',
+	ShopLayout_SelectSell: 'Sell',
+	ShopLayout_Unit: 'Units',
+	ShopLayout_Stock: 'Convoy',
+	
+	ResurrectionLayout_Empty: 'No units can be revived.',
+	ResurrectionLayout_Question: 'Revive this unit?',
+	
+	UnitSummary_Alive: 'Living',
+	UnitSummary_Death: 'Dead',
+	UnitSummary_Injury: 'Injured',
+	UnitSummary_Erase: 'Removed',
+	UnitSummary_Immortal: 'Immortal',
+	
+	SkillList_Owner: 'Skill Owner:',
+	
+	EventTest_End: '回想が終了しました',
+	EventTest_Key: '決定またはキャンセルで終了します',
+	
+	QuestionWindow_DefaultCase1: 'はい',
+	QuestionWindow_DefaultCase2: 'いいえ',
+	
+	InfoWindow_Information: '- Notice -',
+	InfoWindow_Warning: '- Warning -',
+	
+	ReverseWeapon_Magic: '魔法の武器',
+	ReverseWeapon_Physics: '物理の武器',
+	
+	MapPosChoose_Unit: 'このユニットでよろしいですか？',
+	MapPosChoose_Pos: 'この位置でよろしいですか？',
+	
+	Discard_Warning: 'このアイテムは捨てることができません',
+	
+	StockItem_ItemDiscard: 'このアイテムを捨てますか？',
+	StockItem_Extract: '取り出す',
+	StockItem_Store: '預ける',
+	StockItem_AllStore: '全預け',
+	
+	ItemWork_Equipment: '装備',
+	ItemWork_Use: '使用',
+	ItemWork_Discard: '捨てる',
+	
+	ItemInfo_Recovery: '回復',
+	ItemInfo_EntireRecovery: '全体回復',
+	ItemInfo_Damage: 'ダメージ',
+	ItemInfo_ClassChange: 'クラスチェンジ',
+	ItemInfo_Doping: 'ドーピング',
+	ItemInfo_Resurrection: '蘇生',
+	ItemInfo_SkillChange: 'スキル習得',
+	ItemInfo_Quick: '行動回復',
+	ItemInfo_Teleportation: '瞬間移動',
+	ItemInfo_Rescue: '救出',
+	ItemInfo_Key: '鍵開け',
+	ItemInfo_Durability: '耐久変化',
+	ItemInfo_Steal: '奪取',
+	ItemInfo_State: 'ステート付加',
+	ItemInfo_StateRecovery: 'ステート回復',
+	ItemInfo_Switch: '特殊',
+	ItemInfo_Fusion: 'フュージョン',
+	ItemInfo_Metamorphoze: '形態変化',
+	ItemInfo_Unusable: '使用不可',
+	ItemInfo_Custom: 'カスタム',
+	
+	ItemWord_SuffixItem: 'アイテム',
+	ItemWord_SuffixWand: 'の杖',
+	ItemWord_MultiAttack: '回攻撃',
+	
+	SkillWord_Less: '％以下',
+	SkillWord_Invocation: '発動率',
+	FusionWord_Success: '成功率',
+	
+	UnitSentence_Support: '-支援相手-',
+	
+	UnitType_Player: 'PLAYER',
+	UnitType_Enemy: 'ENEMY',
+	UnitType_Ally: 'ALLY',
+	
+	WeaponOption_HpAbsorb: 'HP吸収',
+	WeaponOption_NoGuard: '防御無視',
+	WeaponOption_HpMinimum: 'HPを1にする',
+	WeaponOption_HalveAttack: '攻撃半減',
+	WeaponOption_HalveAttackBreak: '攻撃半減破り',
+	WeaponOption_SealAttack: '攻撃封じ',
+	WeaponOption_SealAttackBreak: '攻撃封じ破り',
+	
+	DamageType_Fixed: '固定',
+	DamageType_Physics: '物理',
+	DamageType_Magic: '魔法',
+	DamageType_Name: '属性',
+	
+	DurabilityType_Max: '全回復',
+	DurabilityType_Half: '半減',
+	DurabilityType_Break: '破壊',
+	
+	Chapter_Header: '第',
+	Chapter_Footer: '章',
+	Chapter_SideStory: '外伝',
+	Chapter_First: '序章',
+	Chapter_Last: '終章',
+	Chapter_Rest: '★',
+	Chapter_Quest: 'QA',
+	
+	Spped_Direct: '瞬時',
+	Speed_High: '高速',
+	Speed_Normal: '普通',
+	Speed_Low: '低速',
+	
+	AutoTurnSkip_Direct: '瞬時',
+	AutoTurnSkip_Quick: '早送り',
+	AutoTurnSkip_None: 'なし',
+	
+	SkipControl_AllInput: '全入力',
+	SkipControl_Mouse: 'マウス',
+	SkipControl_None: 'なし',
+	
+	MapUnitHp_Number: '数値',
+	MapUnitHp_Gauge: 'ゲージ',
+	MapUnitHp_None: 'なし',
+	
+	Objective_Victory: '勝利条件',
+	Objective_Defeat: '敗北条件',
+	
+	Select_On: 'オン',
+	Select_Off: 'オフ',
+	
+	Range_Self: '単体',
+	Range_All: '全域',
+	
+	Recovery_Value: '回復値',
+	Recovery_All: '全回復',
+	
+	Aggregation_SuffixEquipment: ' 装備',
+	Aggregation_SuffixPossession: ' 所持',
+	Aggregation_SuffixAddition: ' 付加',
+	Aggregation_Match: '対象',
+	Aggregation_Mismatch: '対象外',
+	Aggregation_MatchAll: '全対象',
+	Aggregation_MismatchAll: '全対象外',
+	
+	Key_Target: '対象',
+	Key_Gate: '扉',
+	Key_Treasure: '宝箱',
+	
+	ItemLost: 'が壊れました',
+	ItemSteal: 'を奪われました',
+	
+	ClassChangeInfo_Target: '対象',
+	
+	Teleportation_Range: '範囲',
+	
+	SkillCategory_BattleAttack: '戦闘攻撃系',
+	SkillCategory_BattleDefence: '戦闘防御系',
+	SkillCategory_BattleAllowed: '戦闘許可系',
+	SkillCategory_Allowed: '許可系',
+	SkillCategory_Command: 'コマンド系',
+	SkillCategory_Action: '動作系',
+	SkillCategory_Custom: 'カスタム',
+	
+	GetTitle_ItemChange: 'ItemGet!……',
+	GetTitle_SkillChange: 'SkillGet!……',
+	GetTitle_GoldChange: 'GoldGet!……',
+	GetTitle_BonusChange: 'BonusGet!……',
+	
+	LostTitle_ItemChange: 'ItemLost……',
+	LostTitle_SkillChange: 'SkillLost……',
+	LostTitle_GoldChange: 'GoldLost……',
+	LostTitle_BonusChange: 'BonusLost……',
+	
+	GetTitle_ExperiencePlus: 'Exp Get!',
+	GetTitle_NewSkill: 'NewSkill!……',
+	GetTitle_PowerupSkill: 'PowerUp!……',
+	
+	UnitSimple_Target: 'Target……',
+	
+	State_Addition: '付加',
+	State_Recovery: '回復',
+	State_Regist: '耐性',
+	State_AllBadState: '全バッドステート',
+	
+	HideData_Secret: '-secret-',
+	HideData_Question: '???',
+	HideData_Unknown: 'Unknown',
+	
+	AttackMenu_AttackCount: '攻撃回数',
+	
+	PlayerActive: '自軍ユニット',
+	
+	SkipProgress: 'スキップ中…',
+	
+	PlayTime: 'Play Time',
+	
+	Status_Level: 'Lv',
+	Status_Experience: 'Ex',
+	
+	Signal_Turn: 'TURN',
+	Signal_Gold: 'GOLD',
+	Signal_Bonus: 'BONUS',
+	
+	CurrencySign_Gold: 'G',
+	CurrencySign_Bonus: 'B',
+	CurrencySign_Point: 'P',
+	
+	SignWord_Multiple: '×',
+	SignWord_Percent: '％',
+	SignWord_WaveDash: '～',
+	SignWord_Limitless: '--'
+};
+
+var ContentLayout = {
+	ITEM_SPACE: 60,
+	KEYWORD_HEIGHT: 5
+};
+
+var HorizontalLayout = {
+	OBJECT_SPACE: 0,
+	OBJECT_WIDTH: 0
+};

@@ -6468,8 +6468,8 @@ You're supposed to be preparing for tomorrow,
 not wearing down our friends!
 
 エルフ：上
-Waaah!-**
-Oogh, I got Lamia-sama angry...**
+Aaaaah!-**
+Oop- I got Lamia-sama angry...**
 Alright then-
 Break the seal of the holy sword first, okay?
 We can do lots of naughty stuff after that-❤
@@ -6482,13 +6482,11 @@ Oogh, my head's spinning from drinking too much...
 
 <CM39>
 エルフ：上
-んー。お酒おいしいー♪**
-村の特製のお酒、
-なかなかおいしいでしょ？
-あなたたちの口にもちゃんと合う？
-わたしたち、普段、
-人間の男と会うことなんてないからね。
-みんなハイになっているわ。
+Mmm- This Sake is the best-♪**
+Our village sake is pretty tasty, right?
+Is it to your liking?*
+We don't normally get to meet with humans,
+you know. Everyone's got so high-
 ま、わたしはおいしいお酒が飲めればそれで満足♪
 別に男なんてどっちでもいいの。*
 でも、もし相手してほしいっていうなら、
