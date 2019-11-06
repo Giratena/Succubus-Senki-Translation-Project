@@ -1,9 +1,9 @@
 ﻿<PL1>
 テロップ：中央
 Nothing can be heard...**
-Investigating the unusual house,
-the dried up corpse of a man was discovered.*
-It was already too late...
+When investigating the unusual house,
+you find dried up corpse of a man.*
+It seems you were too late...
 
 <PL0>
 テロップ：中央
@@ -26,14 +26,14 @@ castle walls!
 \vo[rumi01]Kyahaha-❤
 Is this wall really all that?*
 \vo[rumi02]Oh, Mr. Guard～❤ Look here～❤**
-\vo[rumi03]Mm～ Chu～❤
+\vo[rumi03]Mm～ Mwah～❤
 
 守護兵：下
 Haaa... Aaah...❤
 
 ルミーネ：下
 \vo[rumi04]Hora, and you too～❤
-Mm, chu～❤
+Mm, mwah～❤
 
 守護兵：下
 Aaaaa... Luminara-sama!-❤
@@ -42,7 +42,8 @@ Aaaaa... Luminara-sama!-❤
 \vo[rumi05]Ufufu, everyone is in love with me already-❤
 
 ルミーネ：下
-\vo[rumi06]Now then, your orders, my slaves!**
+\vo[rumi06]Now then, 
+your orders, my slaves!*
 \vo[rumi07]Kill your friends, and let me into
 the castle. Please～❤
 
@@ -169,25 +170,28 @@ Just kidding!～❤
 ・・・！！
 
 足コキ淫魔：上
-Mmm? Were you surprised to be hugged from behind?
-Hehehe, I caught you off guard-❤*
+Mmm? Were you surprised that I caught you
+from behind?
+Hehehe, looks like I caught you off guard-❤
 Your big sister is a succubus, so
 all of you humans are our enemies.*
 Even if you show us mercy, we'll drain you dry 
-anyway. Ahaha! It’s useless to try and resist.
+anyway.*
+Ahaha! It’s useless to try and resist.
 After all...
 
 足コキ淫魔：上
-I can wrap my legs around you from behind, 
-and use them to stroke your most important place-❤
-Isn't this relaxing?
+I can wrap my legs around you from behind, and
+use my feet to stroke your most important place-❤
+You're already starting to relax, aren't you?
 Fufu, once a succubus catches you, it's already 
 too late.*
 Your big sister's unrivaled footwork will make 
-you spout semen until you become a mummy-❤
+you spout semen until you become a dried up
+husk-❤
 
 足コキ淫魔：上
-Haha, it came out like a water fountain-❤
+Haha, you spurt like a water fountain-❤
 Thank you for dedicating all your semen to me～❤
 
 <AT7>
@@ -239,7 +243,7 @@ This is a succubus mind melting paizuri-❤*
 The pleasure is so good that your body's starting 
 to throb, right? But, you aren't going anywhere-❤*
 Will you keep getting fluffy paizuri until you 
-die? Are you going to go "pew pew" and have the 
+die? Are you going to go pew pew and have the 
 most pleasurable ejaculation ever?
 
 巨乳少女：下
@@ -262,43 +266,44 @@ Im... Impossible, you dodged it!?**
 Wa... Wait, stop! Aaah～❤
 
 巨乳少女：上
-Here it comes～ My special move,
-「Heavenly Hug of Death-❤」
+Here it comes～ My special move!
+「Heavenly Hug of Death!-❤」
 
 巨乳少女：上
-Ehehe, it's a cool name but
-it's also a magical Puff Puff-❤*
+Ehehe, it's a cool name,
+but it's also a magical Puff-Puff-❤*
 Eh? It's no big deal?
 I see～ But then if you're saying that, then why
 are you burying your face in my breasts?
 Fufu, your mind is all fluffy, isn't it?**
 Nothing matters when you're between these 
 breasts～ 
-Puff Puff... Puff Puff...❤
+Puff-Puff... Puff-Puff...❤
 
 巨乳少女：上
-This technique is...
-A boobie brainwashing technique.*
-With these tits, your mind will become loose and 
-lovey dovey...*
-It's a very lovely kind of magic that makes 
+But this technique is a...
+boobie brainwashing technique.*
+Your mind will become loose and 
+lovey dovey in my boobies...*
+Drowning in the wonderful titty magic that makes 
 obedient soldiers fight for me.*
-Why didn't I use it until now?
-I only turn the kids into pawns when I can't
-deal with them.
+And if you're wondering why didn't I use it
+until now, I only turn the kids into pawns when 
+I can't hendle them.
 
 巨乳少女：上
 Ufufu.
-Those eyes are so cute! Dependent eyes that are 
-all lovey dovey over my breasts.
-Do you want to feel even more pleasure?**
-A Puff Puff only leaves you half dead,
+Those eyes are so cute! Dependent eyes filled
+with love for my breasts.
+You want to feel even more pleasure, right?**
+A Puff-Puff only leaves you half dead,
 but you want to be squeezed all the way, don't 
 you? Well, I could help with that～❤
 
 巨乳少女：上
-Hahaha-❤ My boobie slave is complete-❤**
-Do your best for my breasts, okay?～❤
+Hahaha-❤ 
+My boobie slave is complete-❤*
+Do your best for my tits, okay?～❤
 Ufufu...
 
 <AT9>
@@ -366,8 +371,8 @@ You were too aroused to refuse her temptation!
 A normal man would have become lovestruck ages 
 ago-❤
 \vo[rumi48]Oh well, it's been fun! 
-"He who flees lives to fight again", right?
-Bye bye～♪ Mm, chu～❤
+He who flees lives to fight again, right?
+Bye bye～♪ Mm, mwah～❤
 
 レイ：上
 ...!!
@@ -386,7 +391,7 @@ mind, doesn't it?
 But... From now on, the real fun begins...**
 \vo[rumi52]While rubbing it with my breasts,
 my lips approach the tip and...
-Mmm, chu～♥
+Mmm, mwah～♥
 
 ルミーネ：上
 \vo[rumi53]This is my heaven paizuri fellatio～❤
@@ -412,8 +417,8 @@ Oooh, your willpower is strong.
 A normal man would have become lovestruck ages 
 ago-❤
 Oh well, it's been fun! 
-"He who flees lives to fight again", right?
-Bye bye～♪ Mm, chu～❤
+He who flees lives to fight again, right?
+Bye bye～♪ Mm, mwah～❤
 
 レイ：上
 ...!!
@@ -438,8 +443,8 @@ Oooh, your willpower is strong.
 A normal man would have become lovestruck ages 
 ago～❤
 Oh well, it's been fun! 
-"He who flees lives to fight again", right?
-Bye bye～♪ Mm, chu～❤
+He who flees lives to fight again, right?
+Bye bye～♪ Mm, mwah～❤
 
 レイ：上
 ...!!
@@ -461,7 +466,7 @@ But... The real thing is just beginning...
 \vo[rumi67]While rubbing it with my slippery 
 breasts...*
 \vo[rumi68]My lips approach the tip and...
-Mmm, chu～♥
+Mmm, mwah～♥
 
 ルミーネ：上
 \vo[rumi69]Heaven paizuri fellatio-❤
@@ -488,8 +493,8 @@ Oooh, your willpower is strong.
 A normal man would have become lovestruck ages 
 ago-❤
 Oh well, it's been fun! 
-"He who flees lives to fight again", right?
-Bye bye～♪ Mm, chu～❤
+He who flees lives to fight again, right?
+Bye bye～♪ Mm, mwah～❤
 
 
 レイ：上
@@ -501,8 +506,8 @@ Oooh, your willpower is strong.
 A normal man would have become lovestruck ages 
 ago-❤
 Oh well, it's been fun! 
-"He who flees lives to fight again", right?
-Bye bye～♪ Mm, chu～❤
+He who flees lives to fight again, right?
+Bye bye～♪ Mm, mwah～❤
 
 レイ：上
 ...!!
@@ -529,8 +534,8 @@ Aah, aaah...
 Pah, you're so weak-❤**
 Just from the touch of my foot and going up and 
 down? This is why it's so easy to make you cum-❤*
-Eh? "It's because big sister is so skilled at 
-footjobs"? Ufufu... I'm so happy but... 
+Eh? It's because big sister is so skilled at 
+footjobs? Ufufu... I'm so happy but... 
 Should you really be praising the enemy?
 Even though the capital is being attacked,
 is pleasuring yourself with my feet more 
@@ -541,7 +546,7 @@ Gh... Ahh...❤
 
 足コキ淫魔：上
 Hora. You nearly came again.**
-The strokes of my feet are so "good," 
+The strokes of my feet are so go-od,
 aren't they?～❤
 
 レイ：上
@@ -555,11 +560,11 @@ feet～❤*
 You didn't come to help, you came because you 
 heard there were succubi, didn't you?*
 Fufu, even when I abuse you, when I tease you 
-going "gyuchu gyuchu" with my feet, you can't 
+going squuiish squuiish with my feet, you can't 
 help but moan, can you?
 
 足コキ淫魔：上
-Hora, "gyuchu gyuchu"❤
+Hora, squuiish squuiish❤
 
 レイ：上
 Ah-❤ Ah-❤ Aiee...❤
@@ -633,7 +638,7 @@ He was a complete monkey, halfway through
 he couldn't even talk...
 Now your dried up face is frozen in pleasure. 
 It was fun while it lasted. Bye bye～♪*
-Chu～♥
+Mwah～♥
 
 <AT6-3>
 テロップ：中央
@@ -646,7 +651,7 @@ Teeheehee～❤
 Getting beaten up by a small child like me,
 big brother must be a lolicon, right?～❤
 Even now, your penis is twitching in my hands
-isn't it? "Stroke stroke, stroke stroke".
+isn't it? Stroke stroke, stroke stroke.
 Does it feel good?～❤
 
 レイ：上
@@ -655,7 +660,7 @@ Ghu, ahhh...❤
 ちびっこ淫魔：上
 It does feel good～♪
 I'm so happy～❤*
-Hora hora, "stroke stroke, stroke stroke"♪
+Hora hora, stroke stroke, stroke stroke♪
 Huh? The precum isn't stopping...?*
 Big brother's penis lost to the palm of a 
 little girl～*
@@ -671,7 +676,7 @@ Big brother's life energy was flushed out,
 squeezed with my hands.*
 Did it feel good?
 Don't resist, cum and die-❤*
-Hora hora, "Stroke stroke"♪ "Stroke stroke"-❤
+Hora hora, Stroke stroke♪ Stroke stroke-❤
 
 レイ：上
 Hyaah-❤ More... More...❤
@@ -680,13 +685,13 @@ Hyaah-❤ More... More...❤
 Already? You shouldn't be begging like that～❤**
 But, but! It's so cute when you say it!
 With my hand, I'll make you feel so good
-and go "pew pew" so much you die～.
+and go pew pew so much you die～.
 
 レイ：上
 Aah...❤ Aaah...❤❤❤
 
 ちびっこ淫魔：上
-That's it-❤　"Pew pew pew"～❤
+That's it-❤　Pew pew pew～❤
 Your penis is soo weak～❤*
 Hmmm, I wonder if you'll die soon～.**
 Oh yeah! Now that I've turned into a succubus,
@@ -694,8 +699,8 @@ my breasts got really big. I can rub you
 with them too, right?-❤
 
 ちびっこ淫魔：上
-Hora, with my breasts... "Squeeze"～❤**
-And going up and down... "Rub, rub, rub"～♪
+Hora, with my breasts... Squeeze～❤**
+And going up and down... Rub, rub, rub～♪
 
 レイ：上
 Ooh, oooh...❤
@@ -716,7 +721,7 @@ Fwaaah...❤❤❤ Al, already...❤
 Can't you endure my perky breasts?
 It's okay-❤ Let it all out～❤*
 Hora, the finishing blow-❤
-"Rub rub rub"～❤
+Rub rub rub～❤
 
 レイ：上
 Aaaaaaah...❤❤❤
@@ -794,7 +799,7 @@ What could the soldiers be thinking?
 Those looks...❤ Could you all be envious?
 \vo[rumi24]All of you will get this later.
 But for now, this'll do right?
-Mm～chu～♥
+Mm～ Mwah～♥
 
 守護兵：上
 Haah...❤
@@ -818,7 +823,7 @@ You must be so pent up～
 
 ルミーネ：上
 \vo[rumi29]Now, time for me to take you to heaven-❤**
-\vo[rumi30]Mmm chu, chu～❤
+\vo[rumi30]Mmmmwah, mwah～❤
 
 レイ：上
 Hyaah... Aah...❤❤
@@ -827,7 +832,7 @@ Hyaah... Aah...❤❤
 \vo[rumi31]Kehehe♪ You look so nice-❤
 Hora, I'll suck you even more-♥*
 \vo[rumi32]Mm～❤
-Chupa, slurp-❤　Mmph, mphm, mmph-❤
+Smooch, slurp-❤　Mmph, mphm, mmph-❤
 
 レイ：上
 Luminara-sama-❤ Luminara-sama-❤
@@ -973,7 +978,7 @@ I'll sway my breasts, just like this...❤**
 Fufu, it's like your eyes are glued to them-❤
 It feels good to stroke yourself into submission
 as my breasts rock your mind, doesn't it?～
-Not to my paizuri or Puff Puff,
+Not to my paizuri or Puff-Puff,
 but you gave in... Just to the sway 
 of my breasts... 
 Fufu, it's the best-❤
@@ -1011,7 +1016,7 @@ I'll sway my breasts, just like this...❤**
 Fufu, it's like your eyes are glued to them-❤
 It feels good to stroke yourself into submission
 as my breasts rock your mind doesn't it?～
-Not to my paizuri or Puff Puff,
+Not to my paizuri or Puff-Puff,
 but you gave in... Just to the sway 
 of my breasts...
 Fufu, it's the best-❤
@@ -1049,7 +1054,7 @@ I'll sway my breasts, just like this...❤**
 Fufu, it's like your eyes are glued to them-❤
 It feels good to stroke yourself into submission
 as my breasts rock your mind, doesn't it?～
-Not to my paizuri or Puff Puff,
+Not to my paizuri or Puff-Puff,
 but you gave in... Just to the sway 
 of my breasts...
 Fufu, it's the best-❤
@@ -1087,7 +1092,7 @@ I'll sway my breasts, just like this...❤**
 Fufu, it's like your eyes are glued to them-❤
 It feels good to stroke your self into submission
 as my breasts rock your mind doesn't it?～
-Not to my paizuri or Puff Puff,
+Not to my paizuri or Puff-Puff,
 but you gave in... Just to the sway 
 of my breasts...
 Fufu, it's the best-❤
@@ -1191,7 +1196,7 @@ Aaah...❤
 Couldn't you resist my charms from earlier?*
 \vo[rumi76]It's no use. No matter how hard 
 you stroke, I won't let you cum. 
-Mm, chu-❤
+Mm, mwah-❤
 
 アクティブ：下
 Oooaaghh...❤ It feels so good...❤
@@ -1322,7 +1327,7 @@ You're already so aroused by my breasts, I bet I
 can make you cum on the spot just like this～❤
 
 巨乳少女：上
-Ahahaha-❤ "Pew pew pew"～♪
+Ahahaha-❤ Pew pew pew～♪
 I didn't even touch your penis, 
 but you came anyway～
 
@@ -1353,7 +1358,7 @@ You're already so aroused by my breasts, I bet I
 can make you cum on the spot just like this～❤
 
 巨乳少女：上
-Ahahaha-❤ "Pew pew pew"～♪
+Ahahaha-❤ Pew pew pew～♪
 I didn't even touch your penis, 
 but you came anyway～
 
@@ -1428,12 +1433,13 @@ Someone please help us!!
 
 
 ユミル：上
-The female monsters!
+Those must be the female monsters we fought
+earlier!*
 Gather round everyone,
 we must strike at once!
 
 ノブ：上
-Got it. We had better be quick.
+Got it! We'd better be quick.
 
 <ED0>
 ユミル：上
@@ -1516,36 +1522,39 @@ with just a couple of light strokes.
 <CM1>
 巨乳少女：中央
 Big Breasted Girl**
-A rumored village girl given the body of a 
-succubus. Her already huge breasts got even 
-bigger, attracting the gaze of others.
+A rumored village girl who was bestowed a 
+succubus-like body.*
+This resulted in her already huge breasts getting 
+even bigger, attracting the gazes of others.*
 Captivated by her breasts, she weakens her 
-victims with either a paizuri or a Puff Puff.*
-When hit by her signature Paizuri move, 
-ejaculation is inevitable.
+victims with either a paizuri or Puff-Puff.*
+When on the recieving end of her signature 
+paizuri move, ejaculation is inevitable.
 
 <CM3>
 ちびっこ淫魔：中央
 Loli Succubus**
 An inexperienced succubus with a small body.
-Caution is not needed when fighting this enemy.*
-Although her pussy was smooth before conversion,
-after becoming a succubus, her tits grew to the 
-point where she can fuck enemies with her breasts.
-She longed for adulthood, but now can focus on 
-pleasure. Uses no specific techniques.*
+This enemy poses little to no threat.*
+Although her pussy was already smooth prior to
+her succubus conversion, *
+it caused her tits to grow to the point where 
+she can also fuck enemies with her breasts.*
+She longed for adulthood, but now under her
+current state, focuses on pleasure.*
+Uses no specific techniques.
 Attacks with moves such as Paizuri, Fellatio, 
-Panty Flash, etc.
+Panty Flash, and the like.
 
 <CM4>
 ルミーネ：中央
 Luminara**
 An intermediate succubus and the enemy leader.**
-She specializes in kiss techniques, charming and 
-brainwashing enemies with her kisses.*
+She specializes in using her kiss techniques to
+charm and brainwash enemies.*
 Although her heart shaped kisses can be avoided,
 men cannot avoid them while being charmed by 
-enemies.
-Those who are engulfed in these hearts are said 
-to experience indescribable euphoria, and will 
-swear their allegiance to her.
+other enemies.
+Those who are engulfed in these heart kisses are 
+said to experience indescribable euphoria, and 
+will mindlessly swear their allegiance to her.

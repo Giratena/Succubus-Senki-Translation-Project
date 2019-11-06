@@ -2,254 +2,285 @@
 
 ch1
 AT5
-Want it.
-Don't want it.
+Do it
 
 AT6
-Want it
-Don't want it.
+Do it
+Don't do it
 
 AT7
-Want it
-Don't want it.
+Do it
+Don't do it
 
 AT8
-Let her do it.
-Don't let her do it.
+Let her do it
+Don't let her do it
 
 AT9
-Nod silently.
-Resist her advances.
+Nod silently
+Resist her advances
 
 AT11
-Wait and see what happens.
-Deliver the final blow.
+Wait and see what happens
+Deliver the final blow
 
 ch2
 AT4
-Sit down and spread your legs apart.
-Stand up and put an end to her.
+Sit down and spread your legs apart
+Stand up and put an end to her
 
 AT5
-Turn a blind eye to her actions.
-Don't turn a blind eye.
+Turn a blind eye to her actions
+Don't turn a blind eye
 
 AT7
-Stare longingly at her breasts.
-Stab at her, disregarding temptation.
+Stare longingly at her breasts
+Stab at her, disregarding temptation
 
 AT8
-Inspect her appearance.
-Disregard it.
+Inspect her appearance
+Disregard it
 
 AT9
-Stare longingly at her breasts.
-Stab at her, disregarding temptation.
+Stare longingly at her breasts
+Stab at her, disregarding temptation
 
 AT10
-Wait and see what happens.
-Ignore her seduction.
+Wait and see what happens
+Ignore her seduction
 
 AT11
-Wait and see what happens.
-Ignore her seduction.
+Wait and see what happens
+Ignore her seduction
 
 ch3
 AT3
-Stare longingly at her breasts.
-Stab at her, disregarding temptation.
+Stare longingly at her breasts
+Stab at her, disregarding temptation
 
 AT4
-Stare longingly at her breasts.
-Stab at her, disregarding temptation.
+Stare longingly at her breasts
+Stab at her, disregarding temptation
 
 AT9
-Wait and see what happens.
-Shake her off.
+Wait and see what happens
+Shake her off
 
 AT5
-Look into her eyes.
-Close your eyes.
+Look into her eyes
+Close your eyes
 
 AT10
-Stare longingly.
-Finish her.
+Stare longingly
+Finish her
 
 AT7
-Wait and see what happens.
-Stab at her, disregarding temptation.
+Wait and see what happens
+Stab at her, disregarding temptation
 
 AT13
-Wait and see what happens.
-Finish her, disregarding temptation.
+Wait and see what happens
+Finish her, disregarding temptation
 
 AT19
-Wait and see what happens.
-Finish her, disregarding temptation.
+Wait and see what happens
+Finish her, disregarding temptation
 
 AT8
-Wait and see what happens.
-Finish her, disregarding temptation.
+Wait and see what happens
+Finish her, disregarding temptation
 
 AT15
-Wait and see what happens.
-Finish her, disregarding temptation.
+Wait and see what happens
+Finish her, disregarding temptation
 
 AT11
-Nod silently.
-Finish her, disregarding temptation.
+Nod silently
+Finish her, disregarding temptation
 
 AT17
-Wait and see what happens.
-Finish her, disregarding temptation.
+Wait and see what happens
+Finish her, disregarding temptation
 
 AT18
-Wait and see what happens.
-Finish her, disregarding temptation.
+Wait and see what happens
+Finish her, disregarding temptation
 
 AT20
-Stare longingly at her breasts.
-Finish her, disregarding temptation.
+Stare longingly at her breasts
+Finish her, disregarding temptation
 
 AT21
-Stare longingly at her breasts.
-Finish her, disregarding temptation.
+Stare longingly at her breasts
+Finish her, disregarding temptation
 
 ch4
 AT9
-誘惑されて動けない
-とどめを刺す
+Become transfixed by temptation
+Deal the finishing blow
 
 AT10
-誘惑されて動けない
-とどめを刺す
+Become transfixed by temptation
+Deliever the final blow
 
 AT16
-口を見てしまう
-とどめを刺す
+Stare at her mouth
+Deliever the final blow
 
 AT17
-口を見てしまう
-とどめを刺す
+Stare at her mouth
+Deliever the final blow
 
 AT26
-攻撃をやめてしまう
-とどめを刺す
+Stop attacking
+Deliever the final blow
 
 AT18
-胸を見てしまう
-とどめを刺す
+Stare at her chest
+Deliever the final blow
 
 AT25
-誘惑に抗えない
-とどめを刺す
+Submit to temptation
+Deliever the final blow
 
 AT19
-パイズリをされてしまう
-とどめを刺す
+Let her wrap her breasts around your penis
+Deliever the final blow
 
 AT20
-力が入らない
-力を振り絞る
+Relax
+Focus all your strength
 
 AT21
-力が入らない
-力を振り絞る
+Relax
+Focus all your strength
 
 AT22
-身動きが取れない
-とどめを刺す
+Stop moving
+Deliever the final blow
 
 AT2
-キスをする
-無視してとどめを刺す
+Kiss her
+Ignore her and deliever the final blow
 
 
 AT7
-キスをする
-無視してとどめを刺す
-
+Kiss her
+Ignore her and deliever the final blow
 
 
 【ch5】
 AT11
-誘惑に抗えない
-とどめを刺す
+Submit to temptation
+Deliever the final blow
 
 AT14
-誘惑に抗えない
-とどめを刺す
-
+Submit to temptation
+Deliever the final blow
 
 AT15
-ふらふらとおっぱいに吸い寄せられた
-妄想を振り払った
+Become mindlessly drawn into her breasts
+Clear your head of wild imaginations
 
 AT31
-ふらふらとおっぱいに吸い寄せられた
-妄想を振り払った
+Become mindlessly drawn into her breasts
+Clear your head of wild imaginations
 
 AT16
-力を入れられない
-女を振りほどく
+Struggle casually
+Shake the woman off
 
 AT32
-力を入れられない
-女を振りほどく
+Struggle casually
+Shake the woman off
 
 AT33
-力を入れられない
-女を振りほどく
+Struggle casually
+Shake the woman off
 
 AT20
-武器を手放してしまう
-とどめを刺す
+Drop your weapon
+Deliever the final blow
 
 AT21
-武器を手放してしまう
-とどめを刺す
-
+Drop your weapon
+Deliever the final blow
 
 AT22
-じっとしている
-女を振り払う
-
+Stay still
+Shake the woman off
 
 AT23
-武器を大降りするる
-確実に当てにいく
-
+Swing your weapon in a large arc
+Take the hit
 
 AT10
-誘惑に抗えない
-とどめを刺す
+Submit to temptation
+Deliever the final blow
 
 AT17
-誘惑に抗えない
-とどめを刺す
+Submit to temptation
+Deliever the final blow
 
 AT18
-胸に見とれてしまう
-とどめを刺す
+Stare lustfully at her breasts
+Deliever the final blow
 
 
 AT19
-じっとしている
-とどめを刺す
+Stay still
+Deliever the final blow
 
 AT28
-じっとしている
-とどめを刺す
+Stay still
+Deliever the final blow
 
 AT24
-体を動かすことができなかった
-振り払いとどめを刺す
+Forget about moving your body
+Shake her off and deliever the final blow
 
 
 AT27
-体を動かすことができなかった
-振り払いとどめを刺す
-
-
+Forget about moving your body
+shake her off and deliever the final blow
 
 【ch6】
+なし
+
+【ch7】
+AT31
+彼女の太ももから目が離せなかった
+目を閉じて術を避けた
+
+必死に耐えて、はねのけた
+あまりの快感に体から力が抜けた
+
+AT32
+彼女の太ももから目が離せなかった
+目を閉じて術を避けた
+
+必死に耐えて、はねのけた
+あまりの快感に体から力が抜けた
+
+AT4
+もがくのをあきらめた
+必死に抵抗した
+
+5
+無抵抗になった
+必死に抵抗した
+
+6
+ふらふらと彼女に近づいた
+とどめをさした
+
+7
+ふらふらと彼女に近づいた
+とどめをさした
+8
+おっぱいが気持ちよくて力が入らなかった
+理性を振り絞ってふりはらった
+9
+おっぱいが気持ちよくて力が入らなかった
+理性を振り絞ってふりはらった
+10
