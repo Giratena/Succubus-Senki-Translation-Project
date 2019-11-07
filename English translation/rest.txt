@@ -4811,7 +4811,7 @@ As you walk past the corner of the street,
 you hear the voice of a child.
 
 男の子：上
-Awww... Stop it...!
+Owww... Stop it...!
 
 女の子：上
 Kyahaha! What was that? 
@@ -6518,79 +6518,84 @@ so no seducing anyone-!
 エルフ：上
 Kyah!-**
 Eep- I can't believe Lamia-sama caught me-
-蛇だから温度とか匂いで、
-物陰に隠れてもバレちゃうみたい。
-んー、残念。
-けっこういじったときの表情とかかわいくて、
-楽しかったのに。
-ま、続きは封印を解いたあとね。
-そのときまだ私の気分が乗り気なら
-相手してあげるわ。
-明日は頑張ってね♪応援してるから。
+I guess being a snake, she can sense our
+body heat and smell, even from the shadows.
+Ahh- That's too bad.
+You made such an adorable face when I 
+teased you. It was really fun-
+Well, lets mingle later after the seal is broken.
+We can continue later if you still feel like it-
+All the best for tomorrow-♪ I'll do my best too.
 
 エルフ：上
-そんな、もの欲しそうな目で私の脚を見てもダメよ。**
-いい子だから、我慢我慢。
-分かった？
+Ah, don't look at my legs with those eyes...**
+Be a good boy and endure. Endure-
+Understand?
 
 <CM45>
 エルフ：上
-エルフはみんな長命だけど、
-長くても２００年ぐらいしか生きられないのよ。*
-だから、５００年以上前の
-聖剣が封印された当時のことは、
-直接には知らないの。
-もし知りたいなら蛇神様に話を聞くといいわ。
-蛇神様はわたしたちより長生きだから。
+Elves live a long life, but for only as
+as much as two hundered years.*
+So since the holy sword was sealed away
+five hundered years ago, I don't know about the
+event personally.
+If you want to know more, talk to the 
+Snake Deity. She's lived for much longer than
+we have.
 
 <CM46>
 エルフ：上
-せっかくの試練だったのに、お婿さん捕まえそこねた…。
-ううっ。ダーリンがほしいよぉ…。
+We finally held a trial, but I missed my chance
+to capture a husband... 
+No fair- Why can't I have a darling husband...
 
 <CM43>
 アルラウネ：上
-宴会、楽しんでおられますか？
-このお酒、わたくしも発酵を手伝っていますのよ。*
-せっかくですから、お土産に差し上げますわ。
-飲めば元気の出る特別なお酒です。
+Are you enjoying the feast?
+This sake also helps with my fermentaton process.*
+It's quite special, so you can have it as a
+souvenir- It's a special kind of sake which 
+restores your vigour if drunk.
 
 アルラウネ：上
-飲めばたちどころに傷が治りますわ。
-んふふ、男を惑わせるだけが、
-わたくしの力ではないのですよ。
+If you drink this, your wounds will heal in no
+time- Ufufu- I'm not just good at bewildering
+men, you know-
 
 アルラウネ：上
-わたくしのお酒、どうぞ。味わってくださいね。うふふ♪
+Be sure to taste my sake, okay? Ufufu-♪
 
 <CM42>
 人魚：上
-らん♪らん♪
-るるる～♪
+Laaa-♪ Laa-♪
+La le lu li la～♪
 
 テロップ：中央
-遠くから人魚たちの陽気な歌声が聞こえてくる。**
-彼女たちも湖の方で楽しく宴会をしているようだ。
+The mermaids' cheerful voices can be heard in
+the distance.*
+They seem to be enjoying the feast from the lake.
 
 <CM44>
 テロップ：中央
-ラミアとミツヒデが何やら話をしているようだ。**
-長くなりそうだが、どうしようか。
+Mizuhide and Lamia appear to be talking about
+something.*
+Their conversation seems quite detailed.
+What should I do?
 
 ラミア：上
-ほぉ、なるほど、
-あやつのことはそんな風に伝わっておるのか。
+Ooh, I see-
+So that is what lead you all here?
 
 ミツヒデ：上
-ええ。夢魔退治伝承の内容は
-だいたいこんな感じです。*
-忌み子と言われた名もなき平民の男が、
-二振りの聖剣を持って戦った。*
-しかし、最後に夢魔の女王に魅了されて
-人々を裏切った彼は、
-貴族の男によってとどめを刺された、と。
-ラミアさんは、どの程度、
-この当時のことについてご存知なのですか？
+Yes. My understanding of the legend of the 
+succubus threat is roughtly this much...*
+A man of unknown name and birth fought with
+two holy swords.*
+But, enraptured by the succubus queen's charms,
+he betrayed his people, and was stopped by
+a noble.
+Miss Lamia, do you know of anything else 
+about what happened during that time?
 
 ラミア：上
 ご存知もなにも、
