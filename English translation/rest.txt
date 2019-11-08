@@ -543,7 +543,7 @@ Kyah!
 Impossible! You shouldn't be able to stand up
 like that!
 As expected from the hero who waging battle
-against the succubui. 
+against the succubi. 
 You're different from other men, aren't you?
 I guess I shouldn't be taking you so lightly, huh?*
 Alright, I'll leave you alone for now.
@@ -1429,7 +1429,7 @@ So what does that have to do with the monsters
 we've been fighting?
 
 ミツヒデ：上
-Of cause, allow me to explain.**
+of couse, allow me to explain.**
 Are you familar with the name of those monsters?**
 We call them succubus, or in old Japanese terms
 'In-ma'. However, in old archaic literature, 
@@ -1528,7 +1528,7 @@ We were only able to retreat, but with this,
 we can finally strike back!*
 Thanks to you,
 we finally have a glimmer of hope.
-Thank you, truely.
+Thank you, truly.
 
 レイ：上
 ...♪
@@ -1677,11 +1677,11 @@ and haven't found anything.*
 History books, agricultural documents,
 village chief journals...*
 There are many things here, but about the legend
-of a holy sword five hundered years ago?
+of a holy sword five hundred years ago?
 I'm not so sure.
 I get the feeling there aren't many older tomes
 here.*
-Perhaps they were burnt by the succubui who were 
+Perhaps they were burnt by the succubi who were 
 hiding away here. I'd hate to think of such a
 possibility.
 
@@ -1701,8 +1701,8 @@ it doesn't look old at all...
 Not at all, look at not the cover 
 but the contents. This font and style is 
 reminiscent of the old kingdom era.
-This would date it anywhere between five hundered
-to six hundered years old.*
+This would date it anywhere between five hundred
+to six hundred years old.*
 Based on the concepts, I'd base it close to
 the era in the ongoing war with succubus.
 
@@ -4749,7 +4749,7 @@ knowlegeable.*
 So if there's anything you don't understand,
 please feel free to ask!*
 I even have information on things concerning 
-succubui and the like as well.*
+succubi and the like as well.*
 Helping heroes like you save our country 
 couldn't make me happier.
 
@@ -5614,7 +5614,7 @@ Take care alright? Mr. Weak weak hero-❤
 
 <CM37>
 男：上
-Because of the succubui, the missing villagers
+Because of the succubi, the missing villagers
 were found in the underground church prison.*
 Although severely weakened,
 they are lucky to be alive.*
@@ -5639,7 +5639,7 @@ you'd use that for.
 兵隊：上
 Knights of the Ninth Order,
 Thank you for rescuing our village.*
-You drove away the succubui, 
+You drove away the succubi, 
 and peace has returned to the village.*
 Oooh... 
 I don't think I can ever forget her though...*
@@ -5670,7 +5670,7 @@ I was worried I'd get attacked on the way here.
 Ah, greetings Ray.**
 The combinding process of the two maps 
 is going well.*
-The legend of a kingdom five hundered years ago... 
+The legend of a kingdom five hundred years ago... 
 It's making me giddy just thinking about it,
 don't you feel the same?
 
@@ -5727,7 +5727,7 @@ to save... What a sad story.
 ミツヒデ：上
 You want to ask about the magical barrier?
 What's prompted you to ask about that?*
-Ah I see, you're wounding why didn't the succubui
+Ah I see, you're wounding why didn't the succubi
 place the magical crystals from within
 the barrier instead, right?
 Of course, placing the crystals within the barrier
@@ -5770,11 +5770,11 @@ the characteristics of succubus form a
 chain of command much like us.
 From commanders to lower class soliders,
 it's essentially identical.*
-The middle class succubui take the place of
+The middle class succubi take the place of
 commanders,*
-the lesser succubui take the place of 
+the lesser succubi take the place of 
 footsoldiers,*
-And lastly, the greater succubui take the place
+And lastly, the greater succubi take the place
 of generals.
 That's what we know at the moment.**
 Although there have not been many sightings of 
@@ -6535,9 +6535,9 @@ Understand?
 <CM45>
 エルフ：上
 Elves live a long life, but for only as
-as much as two hundered years.*
+as much as two hundred years.*
 So since the holy sword was sealed away
-five hundered years ago, I don't know about the
+five hundred years ago, I don't know about the
 event personally.
 If you want to know more, talk to the 
 Snake Deity. She's lived for much longer than
