@@ -187,7 +187,7 @@ var StringTable = {
 	SkillWord_Invocation: 'Activation Rate',
 	FusionWord_Success: 'Success Rate',
 	
-	UnitSentence_Support: '-Support Partner-',
+	UnitSentence_Support: '-Support-',
 	
 	UnitType_Player: 'PLAYER',
 	UnitType_Enemy: 'ENEMY',
