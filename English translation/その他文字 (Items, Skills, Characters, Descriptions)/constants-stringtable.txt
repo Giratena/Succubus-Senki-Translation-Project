@@ -83,7 +83,7 @@ var StringTable = {
 	Config_MapUnitSymbol: 'Unit map statuses',
 	Config_MapUnitSymbolDescription:  'Display unit statuses on the map',
 	Config_DamagePopup: 'Damage Popup',
-	Config_DamagePopupDescription: 'Display damage recieved and taken during combat',
+	Config_DamagePopupDescription: 'Display damage received and taken during combat',
 	Config_SkipControl: 'Skip Disable',
 	Config_SkipControlDescription: 'Disable the ability to skip events',
 	

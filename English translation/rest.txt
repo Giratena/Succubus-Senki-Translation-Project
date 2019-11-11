@@ -1404,7 +1404,7 @@ What, this crystal ball?
 
 ：スチル
 When Ray touched the crystal analyser it shone with
-a bright while light, and flashed green when Miles 
+a bright white light, and flashed green when Miles 
 touched it. 
 There was no particular reaction
 when Nobus touched it.
@@ -1412,7 +1412,7 @@ when Nobus touched it.
 ミツヒデ：上
 As I had expected...**
 Long ago, the heroes of legend who slayed the
-dragons that threatened this world, recieved a 
+dragons that threatened this world, received a 
 blessing of 'divine protection' from the goddess.
 This protection safely warded them from the
 dragons' attacks, and allowed their blades to
@@ -1429,7 +1429,7 @@ So what does that have to do with the monsters
 we've been fighting?
 
 ミツヒデ：上
-of course, allow me to explain.**
+Of course, allow me to explain.**
 Are you familar with the name of those monsters?**
 We call them succubus, or in old Japanese terms
 'In-ma'. However, in old archaic literature, 
@@ -1445,11 +1445,11 @@ Muma...? So what does that mean?
 ミツヒデ：上
 'Mu-ma' （夢魔） directly translates to 
 'dream monster'.*
-It could als be written with the character for
+It could also be written with the character for
 'Fog' like this, （霧魔）*
 So, to get to the point.
 Succubus are of both elemental types Dream （夢） 
-and Fog （霧）. These cause attack immunity.
+and Fog （霧）. Together, they grant attack immunity.
 If you don't cancel both of these elements-
 Dream 「夢」 and Fog 「霧」, at the same time,
 regular attacks will have no effect.
@@ -1480,14 +1480,14 @@ attributes.
 ...aah. I see.
 Wind and Light huh?*
 I didn't even think about that. I guess 
-all of your studying really payed off Mizuhide.
+all of your studying really paid off Mizuhide.
 
 ノブ：上
 Oh... So is divine protection rare?
 
 ミツヒデ：上
 No, not particularly rare. There are many
-who come to posess divine protection.*
+who come to possess divine protection.*
 It is slightly curious though about the
 divine protection of light. It's quite rare...*
 But yes, some of the Knights of Order have 
@@ -1507,7 +1507,7 @@ Although they are common here, the divine
 protection others have varies a lot.*
 Therefore, we try to arrange comanders from 
 different countries with compatible protection.*
-For example, if the comander has the blessing
+For example, if the commander has the blessing
 of light, they would be paired with others
 who have the same.
 
@@ -1541,7 +1541,7 @@ As a result of our efforts, we were permitted
 access to the treasury and other special items.
 
 テロップ：中央
-Class Change and the Treasury are now avalible!
+Class Change and the Treasury are now available!
 (Spend Renown to obtain Treasures and
 change classes starting from level 5)
 
@@ -1779,7 +1779,7 @@ get stronger. We'll kill two birds with one stone.
 
 テロップ：中央
 The free quest "Heroic Order Beginings" 
-is now avalible!*
+is now available!*
 Furthermore, the special "Subquest Area" option
 has now been added!
 
@@ -4683,7 +4683,7 @@ Each unit can change classes at Lv5 or Lv15.
 With class change, other than gaining bonuses to 
 stats,* 
 their stat limits will go up, and some 
-special abilties may be avalible during combat 
+special abilties may be available during combat 
 as well.
 You can change classes at will through the
 "unit formation" option. There are no 
@@ -4758,7 +4758,7 @@ the Knights of Order have already started counter
 attacking. 
 As expected from our country's knight squadron. 
 They're quite dependable.
-But when the enemies tried to attacked the capital
+But when the enemies tried to attack the capital
 I admit I was fearing the worst.
 Aah, please get rid of those demons quickly.
 
@@ -4783,7 +4783,7 @@ of her work to me...
 Hey, yeah you. Want some drugs?**
 What? No! Not the dubious kind, I mean general
 recovery medicine.*
-The truth is, one of the companions is an 
+The truth is, one of my companions is an 
 alchemist. Mixing medicine is his specialty, 
 so I get a share of what he makes.
 If you had an alchemist in your party, I bet 
@@ -4970,7 +4970,7 @@ I'm not like those adults-❤ Aaah-❤
 
 女の子：上
 I only just gave you a little massage and it's
-already becoing hard for you to think-❤
+already becoming hard for you to think-❤
 Pfft- are you sure you're no different?
 
 男の子：上
@@ -5293,7 +5293,7 @@ Aha- Pew pew pew-! You came-❤**
 Teehee-♪
 You lost to the feet of a girl younger than you,
 and ejaculated going spurt spurt splurtー❤
-What do you feel? Misery? Happyness?
+What do you feel? Misery? Happiness?
 Fufu- Well, you don't seem miserable at all-❤*
 It's clear the pleasure is way to much for you, 
 even your melted face is screaming
@@ -5580,7 +5580,7 @@ You're cumming just with one flick of my fingers.
 Aah-❤*
 Even this semen is starting to wear out, and 
 your once strong body is already growing thin.*
-You would have made a great comander,
+You would have made a great commander,
 but now you're just a weakling-❤*
 But but! I've already got this far with you
 so I'm not gonna stop!-❤*
