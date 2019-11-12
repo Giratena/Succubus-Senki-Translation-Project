@@ -6592,80 +6592,82 @@ two holy swords.*
 But, enraptured by the succubus queen's charms,
 he betrayed his people, and was stopped by
 a noble.
-Miss Lamia, do you know of anything else 
+Miss Lamia, do you know of anything
 about what happened during that time?
 
 ラミア：上
-There is nothing I don't know,
-You see, I was the one who traveled with that man.
+There is nothing I don't know, for you see, 
+I was the one who traveled with that man.
 
 ミツヒデ：上
 Inconceivable! 
 
 ラミア：上
-いったいどれほど昔のことか、
-きちんと数えておらんから分からんが、
-もう五百年以上は昔の話じゃ。
-わらわとあやつ、それにもう一人貴族の娘がおって
-三人で夢魔退治の旅をしたのじゃ。*
-あやつから、そのとき直接聞いた話によると、**
-あやつは貧しい田舎の村に、
-呪われた子、として生まれたのだそうじゃ。*
-なんでも、
-生まれつき両手に不思議な文様があったそうでな。
-その紋がまた不気味な見た目だったせいで、
-村人からは「呪われた子」「悪魔の子」などと、
-ずっと呼ばれておったらしい。
+How long has it been since then...?
+I haven't been counting, but it's
+been more than five hundred years.
+We traveled together along with that noble as
+a party of three, journeying to defeat the
+succubus.
+According to what I heard from him,
+he lived in a poor rural village as a cursed 
+child.
+He told me he was born with two 
+mysterious patterns on his hands.
+The patterns were rather creepy in appearance,
+so the villages called him things such as 
+"cursed child" or "the demon spawn".
 
 ラミア：上
-親兄弟からも疎まれて、男はいつも独りぼっちじゃった。**
-「こんな子はいずれ兵隊に出してしまおう」、
-などと言われて育ち、*
-きつい労役や危険な作業を子供のころから
-やらされたそうじゃ。
+Shunned and neglected by his family, 
+he lived in a life of solitude.*
+They'd say things to him such as,
+"A children like you are only good as soliders"*
+And so, he was made to do intense labour and 
+dangerous activities since he was a child.
 
 ミツヒデ：上
-ふむふむ。
+I see, that must have been tough for him...
 
 ラミア：上
-その男が青年になったころ、
-その村が突然、新種の魔物、夢魔に襲われた。*
-村には腕利きの男たちもいたが、
-夢魔を斬りつけても、
-剣が体をすりぬけてどうしようもなかった。
-必然、男たちは次々に吸い殺されていった。
-あわや村が壊滅するかと思われたが、*
-しかし、その男が振った剣だけは、
-なぜか夢魔を切り裂くことができた。*
-そうして初めての戦いながら、
-必死に何体もの夢魔を相手取り、
-見事、あやつは夢魔を退けることに成功した。
-このままでは村ごと
-魔物の餌となるところじゃったからの。
-村人たちはあやつに大変感謝した。
-人に感謝などされたことがなかったあやつは、
-たいそうこれを喜んだ。そして、この戦いをきっかけに、
-あやつは夢魔退治の旅を始めたのじゃ。
+Shortly after his adulthood,
+the village was attacked by 
+a new kind of monster, succubus.
+Though there were some skilled men in the village,
+even when slashing at the succubus, their swords
+would simply pass through their body.
+Inevitably, men were drained and killed one after
+the other. The villlage would have been done for,*
+but for some reason, when that man swung his
+sword, he was able to strike down the succubus 
+clean and true.
+And so, while fighting for the first time in his
+life, he desperately fought to take down the 
+succubus, and single handedly repelled the attack.
+The villages thought they would be turned into 
+monster feed, and were very grateful.
+Having not been thanked for anything in his life,
+he was ecstatic. And from that fight onwards,
+he set out on an adventure to defeat the succubus.
 
 ミツヒデ：上
-ふむ・・・。
-その人は1人で戦ったにもかかわらず、
-夢魔に攻撃できたのですね。
-ということは・・・。**
-もしかしたらその男の「両手の紋様」は、
-複数の属性加護持ちの証だったのかもしれません。*
-非常に珍しい例ですが、まれに1人で複数の加護を
-身に宿す人間がいて、その者には体に何らかの証が
-現れると聞いたことがあります。
-偶然のことですが、
-彼は風と光の加護を同時に持っていたから、
-夢魔に攻撃が通じたのでしょう。
+I see I see...
+Though he fought on his own, he was able to 
+attack the succubus, wasn't he?
+That means...**
+Maybe the "patterns on both hands" might be
+proof of multiple divine blessings.*
+It's a very rare example, but in some cases I've
+heard people may be born with two blessings.
+Although it was pure coincidence, he was able to
+attack the succubus because he had both the
+blessing of wind, and light.
 
 ラミア：上
-ふむ。おそらくそうじゃろうな。**
-ただあやつ自身は
-「自分が魔に近い呪われた存在だから、
-剣が夢魔をすり抜けないのだろう」とよく言っておったわ
+Mm. That must have been it.**
+He himself said that,
+"I must be able to attact the succubus
+because of my cursed existance."
 とにかくそれ以来、
 呪われた自分にしか夢魔を倒すことはできぬ、と思い、
 あやつはあちこちを旅して夢魔を倒して回った。
