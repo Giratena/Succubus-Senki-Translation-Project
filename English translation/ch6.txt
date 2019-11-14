@@ -36,8 +36,8 @@ Now, listen carefully.**
 If you are engulfed by the Queen's curse,
 I will have no choice but to abandon you.*
 The magic incantation will be cancelled, sealing
-you from the base of the sword's pedestal,
-imprisoning you in the magical barrier.
+you from the base of the altar,
+and imprisoning you in the magical barrier.
 You'll be forever left, trapped until you die
 of starvation.
 If you fail, I won't let you survive.
@@ -143,7 +143,7 @@ Break the seal as fast as you can, you two!
 乳魔アリス：上
 \vo[a13]What now?
 Alice's big brothers want to play? Teehee-♪
-Alice's boobies are gonna drain you dry-❤
+Her boobies are gonna drain you dry-❤
 
 ユミル：上
 Don't get cursed now Ray!
@@ -781,38 +781,40 @@ timing, and use them wisely.
 
 <AT4>
 テロップ：中央
-聖剣を解放する前に、
-上級淫魔に敗れた主人公たちは、
-聖剣の台座の上で乳魔になぶられていた。
+Before releasing the holy sword,
+the heroes defeated by the advanced level succubus
+were rediculed by the Breast Succubus from above
+the alter of the holy sword.
 
 乳魔アリス：上
-\vo[a136]うふふ。お兄さんたちも結局、
-アリスのおっぱいに負けちゃったね。*
-\vo[a137]男の人ってすぐアリスのおっぱいに
-負けちゃうんだもん。つまんない。
-もっと頑張ってほしいなぁ。
+\vo[a136]Ufufu- Looks like Alice's big brothers 
+lost to her boobies in the end after all-*
+\vo[a137]Even for a man, you lost to Alice's
+boobies right away- How boring.
+I really wanted you to at least try-
 
 レイ：上
-くっ・・・・。
+Ugh...
 
 乳魔アリス：上
-\vo[a138]んふふ。反抗的な目をしても無駄だよ。**
-\vo[a139]見て？
-アリスが立つと、
-おっぱいがちょうどお兄さんの腰の高さでしょ？
-\vo[a140]このまままっすぐ前に進めば・・・。
-ほおら。にゅぷにゅぷー♪
+\vo[a138]Ufufu- It's no use trying to act rebelious-**
+\vo[a139]See this? When Alice stands, her breasts end up 
+just right height of her big brother's waist,
+don't they?
+\vo[a140]And if she were to just lean forward like this...
+Ho-ra- Squishy squishy squishy-♪
 
 レイ：上
-あひぃっ❤
+Ahieee!-❤
 
 乳魔アリス：上
-\vo[a141]くすくす♪
-先っぽ入れただけなのに、その反応。*
-\vo[a142]アリスのおっぱい、
-わけわかんなくなるくらい気持ちいいでしょ？*
-\vo[a143]これが上級淫魔のおっぱいの味だよー。
-最高だよねー❤*
+\vo[a141]Teehee-♪
+Only the tip was inserted, but that reaction-*
+\vo[a142]You can't comprehend how amazing
+Alice's boobies feel, can you?*
+\vo[a143]This is the taste of an advanced level
+Breast Succubus' boobies-
+It's the greatest feeling ever, isn't it?-❤
 \vo[a144]さあて、先っぽだけでもとろけちゃうおっぱいに
 このままズップンって奥まで入れたら、
 どうなっちゃうのかなー。
@@ -1386,19 +1388,20 @@ Aaah...❤
 <TK5>
 レイ：上
 Haah...❤ Haah...❤
-おっぱいがぁ・・。ううっ、お願いします・・・❤
+Those breasts... Oogh, oh please...❤
 
 ユミル：上
-ううっ・・・❤たのむ・・・❤
-なんておっぱいだ。もう我慢できねぇよ・・・❤
+Uuugh...❤ I'm begging you...❤
+Those breasts, I can't resist them anymore...❤
 
 ノブ：上
-Not good..., I'm, already...❤見ているだけで・・・❤
-うううっ、お願いします・・・❤
+Not good..., I'm, already...❤ 
+I'm only looking at them but...❤
+Oooh, please... Please-❤
 
 アクティブ：上
-ううっ、気持ちよくしてください・・・❤
-お願いします・・・❤
+Oooh, please make me feel good...❤
+I'm begging you...❤
 
 乳魔アリス：上
 \vo[a132]あは♪
@@ -1407,7 +1410,7 @@ Not good..., I'm, already...❤見ているだけで・・・❤
 搾り取ってあげるね❤
 
 乳魔アリス：上
-\vo[a134]あん❤速攻射精❤
-はやかったねー。*
-\vo[a135]アリスのおっぱい、そんなによかった？
-くすくす♪
+\vo[a134]Ahn-❤ A swift ejaculation-❤
+that was quick-*
+\vo[a135]Were you that pleased with Alice's boobies?
+Teehee-♪
