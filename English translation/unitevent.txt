@@ -1,35 +1,37 @@
 <レイ0>
 レイ：下
-はひぃ・・・❤
+Ahiee...❤
 
 レイ：下
-はひぃ・・・❤
+Ahiee...❤
 
 レイ：下
-うわー！！！
+Uaaah-!!!
 
 <レイ2>
 レイ：上
 ...!!
 
 乳魔アリス：上
-\vo[a83]うわわっ、体がしびれる！
-なにこれ。淫気がうまく出せない・・・？
+\vo[a83]Uwawawah, I can't feel my body!
+What's going on? My sexy aura won't work...!
 
 テロップ：中央
-光の聖剣は解放することで、
-初めて武器として使用可能になります。*
-解放のさいに、敵淫魔に
-状態異常「光の封印」を付与します。*
-「光の封印」は敵の強力なスキルを封印するほか、
-ステータスを減少させることができます。*
-「光の封印」の効果は上級の淫魔であるほど
-強力なステータスダウン効果を発揮します。
+When the holy sword of light is released,
+it can be used as a weapon.*
+In it's wake, enemy succubus will be inflicted
+with the "Light Seal" status.*
+The "Light Seal" status prevents enemies from 
+using stronger skills, and decreases their stats.*
+The "Light Seal" is so advanced it can even 
+effect advanced level succubus, and power them
+down.
 
 <レイ7>
 テロップ：中央
-現在のレベルではこれ以上、聖剣を解放できない！
-（聖剣解放可能数\va1[0]回、現在\va4[9]回）
+The holy sword can no longer be activated
+at this level!
+(No. Times activated-\va1[0], Currently-\va4[9]）
 
 レイ：上
 ...!!
@@ -68,51 +70,57 @@
 
 <ユミル2>
 ユミル：上
-風の聖剣よ！俺に力を貸してくれ！
-邪気払う大いなる風をここに！
+O'holy wind sword! Lend me your power!
+Distill all evil and cast it to the wind!
 
 ユミル：上
-なんだこりゃ・・・。
-聖剣から力があふれてくる！
-それに風のバリアが体中を覆って・・・。
+What on earth...? 
+I feel the holy sword's power flowing through me!*
+It's as if my whole body is being 
+protected by the wind...
 
 テロップ：中央
-風の聖剣は、解放することで初めて、
-武器として使用可能になります。*
-解放のさいに味方全体に「風の加護」を付与します。
-「風の加護」がある限り、基本的な状態異常を
-防ぐことができます。3ターンの間有効です。
-一部の敵の強力な攻撃は、
-「風の加護」でしか防ぐことができません。*
-※注意※
-風の加護は既にある状態異常には効果がなく、
-それらを解除するわけではありません。
+When the holy sword of wind is released,
+it can be used as a weapon.*
+In it's wake, allies will recieve the 
+"Wind Blessing" status for three turns.
+As long as the "Wind Blessing" is active, allies
+will not recieve abnormal states.
+Some powerful enemy attacks can only be prevented
+via the "Wind Blessing" status.*
+※Caution※
+If an ally is already under an abnormal state,
+they won't be cured when the blessing is applied.
 
 <ユミル4>
 テロップ：中央
-現在のレベルではこれ以上、聖剣を解放できない！
-（聖剣解放可能数\va1[0]回、現在\va4[10]回）
+The holy sword can no longer be activated
+at this level!
+(No. Times activated-\va1[0], Currently-\va4[10]）
 
 ユミル：上
-風の聖剣よ！俺に力を貸してくれ！
-邪気払う大いなる風をここに！
+O'holy wind sword! Lend me your power!
+Distill all evil and cast it to the wind!
 
 ユミル：上
-なんだこりゃ・・・。
-聖剣から力があふれてくる！
-それに風のバリアが体中を覆って・・・。
+What on earth...? 
+I feel the holy sword's power flowing through me!*
+It's as if my whole body is being 
+protected by the wind...
 
 テロップ：中央
-風の聖剣は、解放することで初めて、
-武器として使用可能になります。*
-解放のさいに味方全体に「風の加護」を付与します。
-「風の加護」がある限り、基本的な状態異常を
-防ぐことができます。3ターンの間有効です。
-一部の敵の強力な攻撃は、
-「風の加護」でしか防ぐことができません。*
-※注意※
-風の加護は既にある状態異常には効果がなく、
-それらを解除するわけではありません。
+When the holy sword is released,
+it can be used as a weapon.*
+In it's wake, allies will recieve the 
+"Wind Blessing" status for three turns.
+As long as the "Wind Blessing" is active, allies
+will not recieve abnormal states.
+Some powerful enemy attacks can only be prevented
+via the "Wind Blessing" status.*
+※Caution※
+If an ally is already under an abnormal state,
+they won't be cured when the blessing is applied.
+
 
 <ノブ0>
 ノブ：下
@@ -126,7 +134,7 @@ Aah, aaah...❤
 
 <ノブ1>
 ノブ：上
-味方は俺が守る！
+I'll protect you!
 
 <イエヤス0>
 イエヤス：下
@@ -158,158 +166,158 @@ Aah, aaah...❤
 
 <ミツヒデ1>
 アクティブ：上
-はあぁー・・・！！
+Haaa-...!!
 
 <ミツヒデ2>
 アクティブ：上
-はあぁー・・・！！
+Haaa-...!!
 
 <凡骨雑兵 A0>
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
 ぐふっ・・・。
 
 <凡骨雑兵 B0>
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
 ぐふっ・・・。
 
 <凡骨雑兵 C0>
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
 ぐふっ・・・。
 
 <凡骨雑兵 D0>
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
 ぐふっ・・・。
 
 <凡骨雑兵 E0>
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
 ぐふっ・・・。
 
 <凡骨雑兵 F0>
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
 ぐふっ・・・。
 
 <凡骨雑兵 G0>
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 凡骨雑兵 A：下
 ぐふっ・・・。
 
 <エリート雑兵 A0>
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
 ぐふっ・・・。
 
 <エリート雑兵 B0>
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
 ぐふっ・・・。
 
 <エリート雑兵 C0>
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
 ぐふっ・・・。
 
 <エリート雑兵 D0>
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
 ぐふっ・・・。
 
 <エリート雑兵 E0>
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
 ぐふっ・・・。
 
 <エリート雑兵 F0>
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
 ぐふっ・・・。
 
 <エリート雑兵 G0>
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 エリート雑兵 A：下
 ぐふっ・・・。
 
 <教官 A2>
 アクティブ：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 アクティブ：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 アクティブ：下
 ぐふっ・・・。
@@ -335,10 +343,10 @@ Aah, aaah...❤
 
 <発掘家 A2>
 アクティブ：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 アクティブ：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 アクティブ：下
 ぐふっ・・・。
@@ -426,10 +434,10 @@ Aah, aaah...❤
 
 <アルケミスト A0>
 アクティブ：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 アクティブ：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 アクティブ：下
 ぐふっ・・・。
@@ -519,10 +527,10 @@ Aah, aaah...❤
 
 <アルケミスト B0>
 アクティブ：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 アクティブ：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 アクティブ：下
 ぐふっ・・・。
@@ -612,10 +620,10 @@ Aah, aaah...❤
 
 <アルケミスト C0>
 アクティブ：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 アクティブ：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 アクティブ：下
 ぐふっ・・・。
@@ -708,7 +716,7 @@ Aah, aaah...❤
 あっ、ううっ・・・❤
 
 アクティブ：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 アクティブ：下
 ぐふっ・・・。
@@ -746,7 +754,7 @@ Aah, aaah...❤
 あっ、ううっ・・・❤
 
 アクティブ：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 アクティブ：下
 ぐふっ・・・。
@@ -784,7 +792,7 @@ Aah, aaah...❤
 あっ、ううっ・・・❤
 
 アクティブ：下
-はあっ、うっ・・・❤
+Haah, aaah...❤
 
 アクティブ：下
 ぐふっ・・・。
