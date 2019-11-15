@@ -6925,8 +6925,9 @@ I didn't really think much of humans at first,
 but you're not like anything I've ever seen.
 
 エルフ：上
-これあげるから、体の疲れをとって。**
-頑張って、サキュバスとかいう悪魔を倒してきなさいよ。
+Take this, 
+I'll help with the fatigue of your body.*
+Good luck defeating the succubus. Do your best!
 
 <CM49>
 エルフ：上
