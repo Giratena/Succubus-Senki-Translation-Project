@@ -37,36 +37,37 @@ at this level!
 ...!!
 
 乳魔アリス：上
-\vo[a83]うわわっ、体がしびれる！
-なにこれ。淫気がうまく出せない・・・？
+\vo[a83]Uwawawah, I can't feel my body!
+What's going on? My sexy aura won't work...!
 
 テロップ：中央
-光の聖剣は解放することで、
-初めて武器として使用可能になります。*
-解放のさいに、敵淫魔に
-状態異常「光の封印」を付与します。*
-「光の封印」は敵の強力なスキルを封印するほか、
-ステータスを減少させることができます。*
-「光の封印」の効果は上級の淫魔であるほど
-強力なステータスダウン効果を発揮します。
+When the holy sword of light is released,
+it can be used as a weapon.*
+In it's wake, enemy succubus will be inflicted
+with the "Light Seal" status.*
+The "Light Seal" status prevents enemies from 
+using stronger skills, and decreases their stats.*
+The "Light Seal" is so advanced it can even 
+effect advanced level succubus, and power them
+down.
 
 <ユミル0>
 ユミル：下
-うはぁ・・・❤
+Uwahh...❤
 
 ユミル：下
-うはぁ・・・❤
+Uwahh...❤
 
 ユミル：下
-ちくしょう・・・。
+Damn it...
 
 <ユミル1>
 ユミル：上
-おっしゃあ、行くぜぇ！
+Alright! It's go time!
 
 <ユミル3>
 ユミル：上
-おっしゃあ、行くぜぇ！
+Alright! It's go time!
 
 <ユミル2>
 ユミル：上
@@ -138,31 +139,31 @@ I'll protect you!
 
 <イエヤス0>
 イエヤス：下
-うっ、ああっ・・・❤
+Ooh, aaaah...❤
 
 イエヤス：下
-うっ、ああっ・・・❤
+Ooh, aaaah...❤
 
 イエヤス：下
-ぐっ・・・。
+Ugh...
 
 <イエヤス1>
 アクティブ：上
-傷をいやす祈りを・・・！
+I'll pray for your wounds...!
 
 <イエヤス2>
 アクティブ：上
-傷をいやす奇跡を・・・！
+For your wounds, I pray for a miracle...!
 
 <ミツヒデ0>
 ミツヒデ：下
-はうぅっ・・・❤
+Haaaagh...❤
 
 ミツヒデ：下
-はうぅっ・・・❤
+Haaaagh...❤
 
 ミツヒデ：下
-くっ・・・。
+Ugh...
 
 <ミツヒデ1>
 アクティブ：上
@@ -180,7 +181,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 凡骨雑兵 A：下
-ぐふっ・・・。
+Gugh...
 
 <凡骨雑兵 B0>
 凡骨雑兵 A：下
@@ -190,8 +191,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 凡骨雑兵 A：下
-ぐふっ・・・。
-
+Gugh...
 <凡骨雑兵 C0>
 凡骨雑兵 A：下
 Haah, aaah...❤
@@ -200,7 +200,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 凡骨雑兵 A：下
-ぐふっ・・・。
+Gugh...
 
 <凡骨雑兵 D0>
 凡骨雑兵 A：下
@@ -210,7 +210,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 凡骨雑兵 A：下
-ぐふっ・・・。
+Gugh...
 
 <凡骨雑兵 E0>
 凡骨雑兵 A：下
@@ -220,7 +220,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 凡骨雑兵 A：下
-ぐふっ・・・。
+Gugh...
 
 <凡骨雑兵 F0>
 凡骨雑兵 A：下
@@ -230,7 +230,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 凡骨雑兵 A：下
-ぐふっ・・・。
+Gugh...
 
 <凡骨雑兵 G0>
 凡骨雑兵 A：下
@@ -240,7 +240,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 凡骨雑兵 A：下
-ぐふっ・・・。
+Gugh...
 
 <エリート雑兵 A0>
 エリート雑兵 A：下
@@ -250,7 +250,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 エリート雑兵 A：下
-ぐふっ・・・。
+Gugh...
 
 <エリート雑兵 B0>
 エリート雑兵 A：下
@@ -260,8 +260,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 エリート雑兵 A：下
-ぐふっ・・・。
-
+Gugh...
 <エリート雑兵 C0>
 エリート雑兵 A：下
 Haah, aaah...❤
@@ -270,7 +269,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 エリート雑兵 A：下
-ぐふっ・・・。
+Gugh...
 
 <エリート雑兵 D0>
 エリート雑兵 A：下
@@ -280,7 +279,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 エリート雑兵 A：下
-ぐふっ・・・。
+Gugh...
 
 <エリート雑兵 E0>
 エリート雑兵 A：下
@@ -290,7 +289,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 エリート雑兵 A：下
-ぐふっ・・・。
+Gugh...
 
 <エリート雑兵 F0>
 エリート雑兵 A：下
@@ -300,7 +299,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 エリート雑兵 A：下
-ぐふっ・・・。
+Gugh...
 
 <エリート雑兵 G0>
 エリート雑兵 A：下
@@ -310,7 +309,7 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 エリート雑兵 A：下
-ぐふっ・・・。
+Gugh...
 
 <教官 A2>
 アクティブ：下
@@ -320,26 +319,26 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <教官 A0>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 <教官 A3>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 <教官 A4>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 <教官 A1>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 テロップ：中央
-1500Gを持っていない！
+Obtained 1500G!
 
 <発掘家 A2>
 アクティブ：下
@@ -349,88 +348,88 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <発掘家 A0>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 テロップ：中央
-ゴールドを発見した！
+Obtained some gold!
 
 <発掘家 A1>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 テロップ：中央
-ゴールドを発見した！
+Obtained some gold!
 
 <発掘家 A3>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 テロップ：中央
-ゴールドを発見した！
+Obtained some gold!
 
 <ランサー A0>
 アクティブ：下
-くあっ、うっ・・・❤
+Agh, oooh...❤
 
 アクティブ：下
-くあっ、うっ・・・❤
+Agh, oooh...❤
 
 アクティブ：下
-げふっ・・・。
+Ugggh...
 
 <ランサー B0>
 アクティブ：下
-くあっ、うっ・・・❤
+Agh, oooh...❤
 
 アクティブ：下
-くあっ、うっ・・・❤
+Agh, oooh...❤
 
 アクティブ：下
-げふっ・・・。
+Ugggh...
 
 <ランサー C0>
 アクティブ：下
-くあっ、うっ・・・❤
+Agh, oooh...❤
 
 アクティブ：下
-くあっ、うっ・・・❤
+Agh, oooh...❤
 
 アクティブ：下
-げふっ・・・。
+Ugggh...
 
 <ヒーラー A0>
 アクティブ：下
-うっ、ああっ・・・❤
+Ooh, aaaah...❤
 
 アクティブ：下
-うっ、ああっ・・・❤
+Ooh, aaaah...❤
 
 アクティブ：下
-ぐっ・・・。
+Ugh...
 
 <ヒーラー B0>
 アクティブ：下
-うっ、ああっ・・・❤
+Ooh, aaaah...❤
 
 アクティブ：下
-うっ、ああっ・・・❤
+Ooh, aaaah...❤
 
 アクティブ：下
-ぐっ・・・。
+Ugh...
 
 <ヒーラー C0>
 アクティブ：下
-うっ、ああっ・・・❤
+Ooh, aaaah...❤
 
 アクティブ：下
-うっ、ああっ・・・❤
+Ooh, aaaah...❤
 
 アクティブ：下
-ぐっ・・・。
+Ugh...
 
 <アルケミスト A0>
 アクティブ：下
@@ -440,90 +439,90 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <アルケミスト A1>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 アクティブ：上
-くっ、微妙な出来だな・・・。
+Ugh, not my best work...
 
 アクティブ：上
-ふむ、成功だ。
+Ha! Success!
 
 アクティブ：上
-ふはは、大成功だ！
+Ohohoho! The experiment was a huge success!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 <アルケミスト A3>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 アクティブ：上
-くっ、微妙な出来だな・・・。
+Ugh, not my best work...
 
 アクティブ：上
-ふむ、成功だ。
+Ha! Success!
 
 アクティブ：上
-ふはは、大成功だ！
+Muhahaha! The experiment was a huge success!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 <アルケミスト A2>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 アクティブ：上
-くっ、失敗だと・・・。
+Drat, it's a dud...
 
 アクティブ：上
-ふむ、成功だ。
+Ha! Success!
 
 アクティブ：上
-ふはは、大成功だ！
+Muhahaha! The experiment was a huge success!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 <アルケミスト A4>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 <アルケミスト A5>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 アクティブ：上
-ふはは、大成功だ！
+Muhahaha! The experiment was a huge success!
 
 アクティブ：上
-ふむ、成功だ。
+Ha! Success!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 <アルケミスト B0>
 アクティブ：下
@@ -533,90 +532,90 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <アルケミスト B1>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 アクティブ：上
-くっ、微妙な出来だな・・・。
+Ugh, not my best work...
 
 アクティブ：上
-ふむ、成功だ。
+Ha! Success!
 
 アクティブ：上
-ふはは、大成功だ！
+Muhahaha! The experiment was a huge success!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 <アルケミスト B3>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 アクティブ：上
-くっ、微妙な出来だな・・・。
+Ugh, not my best work...
 
 アクティブ：上
-ふむ、成功だ。
+Ha! Success!
 
 アクティブ：上
-ふはは、大成功だ！
+Muhahaha! The experiment was a huge success!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 <アルケミスト B2>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 アクティブ：上
-くっ、失敗だと・・・。
+Drat, it's a dud...
 
 アクティブ：上
-ふむ、成功だ。
+Ha! Success!
 
 アクティブ：上
-ふはは、大成功だ！
+Muhahaha! The experiment was a huge success!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 <アルケミスト B4>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 <アルケミスト B5>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 アクティブ：上
-ふはは、大成功だ！
+Muhahaha! The experiment was a huge success!
 
 アクティブ：上
-ふむ、成功だ。
+Ha! Success!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 <アルケミスト C0>
 アクティブ：下
@@ -626,204 +625,204 @@ Haah, aaah...❤
 Haah, aaah...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <アルケミスト C1>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 アクティブ：上
-くっ、微妙な出来だな・・・。
+Ugh, not my best work...
 
 アクティブ：上
-ふむ、成功だ。
+Ha! Success!
 
 アクティブ：上
-ふはは、大成功だ！
+Muhahaha! The experiment was a huge success!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 <アルケミスト C3>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 アクティブ：上
-くっ、微妙な出来だな・・・。
+Ugh, not my best work...
 
 アクティブ：上
-ふむ、成功だ。
+Ha! Success!
 
 アクティブ：上
-ふはは、大成功だ！
+Muhahaha! The experiment was a huge success!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 <アルケミスト C2>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 アクティブ：上
-くっ、失敗だと・・・。
+Drat, it's a dud...
 
 アクティブ：上
-ふむ、成功だ。
+Ha! Success!
 
 アクティブ：上
-ふはは、大成功だ！
+Muhahaha! The experiment was a huge success!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 <アルケミスト C4>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 <アルケミスト C5>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 アクティブ：上
-ふふふ・・・。調合の時間だ・・・。
+Ohohoho... It's time for a bit of chemestry...!
 
 アクティブ：上
-ふはは、大成功だ！
+Muhahaha! The experiment was a huge success!
 
 アクティブ：上
-ふむ、成功だ。
+Ha! Success!
 
 アクティブ：上
-ぬはははは！素晴らしい出来だ！
+Muhahahaha!! A glorious turnout!
 
 <軍旗持ち A0>
 アクティブ：下
-あっ、ううっ・・・❤
+Ah, oooh...❤
 
 アクティブ：下
 Haah, aaah...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <軍旗持ち A1>
 アクティブ：上
-みんなにエールを！
+Stay strong everyone!
 
 アクティブ：上
-いくぞぉ！がんばれぇ！
+Let's go! We can do this!
 
 アクティブ：上
-フレ―フレー！
+Go go go!
 
 アクティブ：上
-俺たちの団に敗北の二文字はない！
-勝つぞぉ！
+There's no 'I' in 'team'!
+We will win!
 
 <軍旗持ち A3>
 アクティブ：上
-士気をガンガン上げるぜぇ！
+Keep it up! Don't stop now!
 
 アクティブ：上
-いくぞぉ！がんばれぇ！
+Let's go! We can do this!
 
 アクティブ：上
-フレ―フレー！
+Go go go!
 
 アクティブ：上
-俺たちの団に敗北の二文字はない！
-勝つぞぉ！
+There's no 'I' in 'team'!
+We will win!
 
 <軍旗持ち B0>
 アクティブ：下
-あっ、ううっ・・・❤
+Ah, oooh...❤
 
 アクティブ：下
 Haah, aaah...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <軍旗持ち B1>
 アクティブ：上
-みんなにエールを！
+Stay strong everyone!
 
 アクティブ：上
-いくぞぉ！がんばれぇ！
+Let's go! We can do this!
 
 アクティブ：上
-フレ―フレー！
+Go go go!
 
 アクティブ：上
-俺たちの団に敗北の二文字はない！
-勝つぞぉ！
+There's no 'I' in 'team'!
+We will win!
 
 <軍旗持ち B3>
 アクティブ：上
-士気をガンガン上げるぜぇ！
+Keep it up! Don't stop now!
 
 アクティブ：上
-いくぞぉ！がんばれぇ！
+Let's go! We can do this!
 
 アクティブ：上
-フレ―フレー！
+Go go go!
 
 アクティブ：上
-俺たちの団に敗北の二文字はない！
-勝つぞぉ！
+There's no 'I' in 'team'!
+We will win!
 
 <軍旗持ち C0>
 アクティブ：下
-あっ、ううっ・・・❤
+Ah, oooh...❤
 
 アクティブ：下
 Haah, aaah...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <軍旗持ち C1>
 アクティブ：上
-みんなにエールを！
+Stay strong everyone!
 
 アクティブ：上
-いくぞぉ！がんばれぇ！
+Let's go! We can do this!
 
 アクティブ：上
-フレ―フレー！
+Go go go!
 
 アクティブ：上
-俺たちの団に敗北の二文字はない！
-勝つぞぉ！
+There's no 'I' in 'team'!
+We will win!
 
 <軍旗持ち C3>
 アクティブ：上
-士気をガンガン上げるぜぇ！
+Keep it up! Don't stop now!
 
 アクティブ：上
-いくぞぉ！がんばれぇ！
+Let's go! We can do this!
 
 アクティブ：上
-フレ―フレー！
+Go go go!
 
 アクティブ：上
-俺たちの団に敗北の二文字はない！
-勝つぞぉ！
+There's no 'I' in 'team'!
+We will win!
 
 <コモン君1>
 レイ：上
@@ -831,166 +830,166 @@ Haah, aaah...❤
 
 <盗賊くずれ A0>
 アクティブ：下
-ぐうっ、あひぃっ・・・❤
+Ugh, ahieee...❤
 
 アクティブ：下
-ぐうっ、あひぃっ・・・❤
+Ugh, ahieee...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <盗賊くずれ B0>
 アクティブ：下
-ぐうっ、あひぃっ・・・❤
+Ugh, ahieee...❤
 
 アクティブ：下
-ぐうっ、あひぃっ・・・❤
+Ugh, ahieee...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <盗賊くずれ C0>
 アクティブ：下
-ぐうっ、あひぃっ・・・❤
+Ugh, ahieee...❤
 
 アクティブ：下
-ぐうっ、あひぃっ・・・❤
+Ugh, ahieee...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <格闘家A0>
 アクティブ：下
-あっ、あひぃっ・・・❤
+Ah, ahieee...❤
 
 アクティブ：下
 あうっ、あひぃっ・・・❤
 
 アクティブ：下
-げふっ・・・。
+Ugggh...
 
 <格闘家A1>
 アクティブ：上
-せいやぁ！
+Hiyah!
 
 <格闘家A4>
 アクティブ：上
-せいやぁ！
+Hiyah!
 
 <格闘家A2>
 アクティブ：上
-せいやぁ！
+Hiyah!
 
 <格闘家B0>
 アクティブ：下
-あっ、あひぃっ・・・❤
+Ah, ahieee...❤
 
 アクティブ：下
-あうっ、あひぃっ・・・❤
+Aaooh, ahiee...❤
 
 アクティブ：下
-げふっ・・・。
+Ugggh...
 
 <格闘家B1>
 アクティブ：上
-せいやぁ！
+Hiyah!
 
 <格闘家B4>
 アクティブ：上
-せいやぁ！
+Hiyah!
 
 <格闘家B2>
 アクティブ：上
-せいやぁ！
+Hiyah!
 
 <格闘家C0>
 アクティブ：下
-あっ、あひぃっ・・・❤
+Ah, ahieee...❤
 
 アクティブ：下
-あうっ、あひぃっ・・・❤
+Aaooh, ahiee...❤
 
 アクティブ：下
-げふっ・・・。
+Ugggh...
 
 <格闘家C1>
 アクティブ：上
-せいやぁ！
+Hiyah!
 
 <格闘家C4>
 アクティブ：上
-せいやぁ！
+Hiyah!
 
 <格闘家C2>
 アクティブ：上
-せいやぁ！
+Hiyah!
 
 <呪術師 A0>
 アクティブ：下
-うぐうっ、あひぃっ・・・❤
+Ugh, ahieee...❤
 
 アクティブ：下
-うぐうっ、あひぃっ・・・❤
+Ugh, ahieee...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <呪術師 A1>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 <呪術師 A2>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 <呪術師 B0>
 アクティブ：下
-うぐうっ、あひぃっ・・・❤
+Ugh, ahieee...❤
 
 アクティブ：下
-うぐうっ、あひぃっ・・・❤
+Ugh, ahieee...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <呪術師 B1>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 <呪術師 B2>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 <呪術師 C0>
 アクティブ：下
-うぐうっ、あひぃっ・・・❤
+Uugh, ahieee...❤
 
 アクティブ：下
-うぐうっ、あひぃっ・・・❤
+Uugh, ahieee...❤
 
 アクティブ：下
-ぐふっ・・・。
+Gugh...
 
 <呪術師 C1>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 <呪術師 C2>
 テロップ：中央
-すでに所持アイテムがいっぱいだ。
+You already have too many items.
 
 <村娘0>
 アクティブ：上
-ああっ、そんな・・・❤
+Aaah, but that's...❤
 
 <村娘1>
 アクティブ：上
-あはーん❤
-えっちな妄想で、あたまいっぱいにしてあげる❤
+Ahaaah-❤
+I'll fill your head with lots of sexy ideas-❤
 
 <勝ち気むすめ0>
 アクティブ：上
-ううっ・・・❤
+Ooogh...❤
 
 <モルジア1>
 アクティブ：上
