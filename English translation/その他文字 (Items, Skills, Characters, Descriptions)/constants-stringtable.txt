@@ -5,11 +5,11 @@ var StringTable = {
 	LoadSave_NoData: 'No data',
 	LoadSave_Chapter: 'Chapter',
 	LoadSave_SaveFileMark: 'File',
-	LoadSave_Rest: 'Location',
+	LoadSave_Rest: 'Rest',
 	
 	Communication_NoData: 'No Data',
 	
-	GameStart_DifficultySelect: 'Please select the game difficult',
+	GameStart_DifficultySelect: 'Please select the game difficulty',
 	GameStart_ClearPointDescription: 'Clear points can be exchanged for items.\nRecommended for players who want a strength boost at the start of the game.\n\nCurrent Clear Points:',
 	GameStart_ClearPointQuestion: 'Part with this item?',
 	
@@ -53,7 +53,7 @@ var StringTable = {
 	Config_AutoTurnEnd: 'Auto-turn End',
 	Config_AutoTurnEndDescription: 'The turn will automatically end after all units have moved',
 	Config_AutoTurnSkip: 'Enemy phase skip',
-	Config_AutoTurnSkipDescription: 'The enemy phase will be skipped',
+	Config_AutoTurnSkipDescription: 'Toggle if the enemy phase is skipped',
 	Config_MapGrid: 'Map Grid',
 	Config_MapGridDescription: 'Toggle the grid display on the map',
 	Config_UnitSpeed: 'Unit speed',
@@ -84,8 +84,8 @@ var StringTable = {
 	Config_MapUnitSymbolDescription:  'Display unit statuses on the map',
 	Config_DamagePopup: 'Damage Popup',
 	Config_DamagePopupDescription: 'Display damage received and taken during combat',
-	Config_SkipControl: 'Skip Disable',
-	Config_SkipControlDescription: 'Disable the ability to skip events',
+	Config_SkipControl: 'Skip Control',
+	Config_SkipControlDescription: 'Select the method used to skip events',
 	
 	ItemChange_UnitItemFull: 'Unit cannot hold any more items.\nPlease the cancel or confirm key.',
 	ItemChange_TradeTitle: 'Exchange with this item?',
@@ -158,34 +158,34 @@ var StringTable = {
 	ItemWork_Use: 'Use',
 	ItemWork_Discard: 'Discard',
 	
-	ItemInfo_Recovery: 'Recovery',
-	ItemInfo_EntireRecovery: 'Full Recovery',
+	ItemInfo_Recovery: 'Recovery ',
+	ItemInfo_EntireRecovery: 'Full Recovery ',
 	ItemInfo_Damage: 'Damage',
 	ItemInfo_ClassChange: 'Class Change',
 	ItemInfo_Doping: 'Medicine',
 	ItemInfo_Resurrection: 'Revive',
 	ItemInfo_SkillChange: 'Skill',
-	ItemInfo_Quick: 'Action Recovery',
+	ItemInfo_Quick: 'Galeforce',
 	ItemInfo_Teleportation: 'Teleportation',
 	ItemInfo_Rescue: 'Rescue',
 	ItemInfo_Key: 'Lockpicking',
 	ItemInfo_Durability: 'Durability',
 	ItemInfo_Steal: 'Steal',
 	ItemInfo_State: 'State',
-	ItemInfo_StateRecovery: 'State Recovery',
-	ItemInfo_Switch: 'Special',
+	ItemInfo_StateRecovery: 'Recovery ',
+	ItemInfo_Switch: 'Special ',
 	ItemInfo_Fusion: 'Fusion',
 	ItemInfo_Metamorphoze: 'Shapeshift',
-	ItemInfo_Unusable: 'Unuseable',
-	ItemInfo_Custom: 'Custom',
+	ItemInfo_Unusable: 'Unuseable ',
+	ItemInfo_Custom: 'Custom ',
 	
 	ItemWord_SuffixItem: 'Item',
 	ItemWord_SuffixWand: ' Staff',
 	ItemWord_MultiAttack: 'x attack',
 	
 	SkillWord_Less: '% less',
-	SkillWord_Invocation: 'Activation Rate',
-	FusionWord_Success: 'Success Rate',
+	SkillWord_Invocation: 'Act.Rate',
+	FusionWord_Success: 'Suc.Rate',
 	
 	UnitSentence_Support: '-Support-',
 	
@@ -210,8 +210,8 @@ var StringTable = {
 	DurabilityType_Half: 'Halve',
 	DurabilityType_Break: 'Destoryed',
 	
-	Chapter_Header: '',
-	Chapter_Footer: 'Chapter',
+	Chapter_Header: 'Chapter',
+	Chapter_Footer: '',
 	Chapter_SideStory: 'Side Story',
 	Chapter_First: 'Prologue',
 	Chapter_Last: 'Epilogue',
@@ -231,7 +231,7 @@ var StringTable = {
 	SkipControl_Mouse: 'Mouse',
 	SkipControl_None: 'None',
 	
-	MapUnitHp_Number: 'Number Values',
+	MapUnitHp_Number: 'Numerical',
 	MapUnitHp_Gauge: 'Gauge',
 	MapUnitHp_None: 'None',
 	
@@ -244,7 +244,7 @@ var StringTable = {
 	Range_Self: 'Unit',
 	Range_All: 'All Units',
 	
-	Recovery_Value: 'Recovery Value',
+	Recovery_Value: 'Recovery',
 	Recovery_All: 'Full Recovery',
 	
 	Aggregation_SuffixEquipment: ' Equipment',
@@ -259,7 +259,7 @@ var StringTable = {
 	Key_Gate: 'Door',
 	Key_Treasure: 'Chest',
 	
-	ItemLost: ' was lost!',
+	ItemLost: ' broke!',
 	ItemSteal: ' was stolen!',
 	
 	ClassChangeInfo_Target: 'Target',
