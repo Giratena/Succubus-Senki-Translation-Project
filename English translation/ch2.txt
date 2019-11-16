@@ -2,7 +2,7 @@
 テロップ：中央
 Nothing can be heard...**
 When investigating the unusual house,
-you find dried up corpse of a man.*
+you find e of a man.*
 It seems you were too late...
 
 <PL0>
