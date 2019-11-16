@@ -83,10 +83,10 @@ protected by the wind...
 テロップ：中央
 When the holy sword of wind is released,
 it can be used as a weapon.*
-In it's wake, allies will recieve the 
+In it's wake, allies will receive the 
 "Wind Blessing" status for three turns.
 As long as the "Wind Blessing" is active, allies
-will not recieve abnormal states.
+will not receive abnormal states.
 Some powerful enemy attacks can only be prevented
 via the "Wind Blessing" status.*
 ※Caution※
@@ -112,10 +112,10 @@ protected by the wind...
 テロップ：中央
 When the holy sword is released,
 it can be used as a weapon.*
-In it's wake, allies will recieve the 
+In it's wake, allies will receive the 
 "Wind Blessing" status for three turns.
 As long as the "Wind Blessing" is active, allies
-will not recieve abnormal states.
+will not receive abnormal states.
 Some powerful enemy attacks can only be prevented
 via the "Wind Blessing" status.*
 ※Caution※
@@ -446,7 +446,7 @@ Gugh...
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Ugh, not my best work...
@@ -465,7 +465,7 @@ Muhahahaha!! A glorious turnout!
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Ugh, not my best work...
@@ -487,7 +487,7 @@ Muhahahaha!! A glorious turnout!
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Drat, it's a dud...
@@ -506,14 +506,14 @@ Muhahahaha!! A glorious turnout!
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 <アルケミスト A5>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Muhahaha! The experiment was a huge success!
@@ -539,7 +539,7 @@ Gugh...
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Ugh, not my best work...
@@ -558,7 +558,7 @@ Muhahahaha!! A glorious turnout!
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Ugh, not my best work...
@@ -580,7 +580,7 @@ Muhahahaha!! A glorious turnout!
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Drat, it's a dud...
@@ -599,14 +599,14 @@ Muhahahaha!! A glorious turnout!
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 <アルケミスト B5>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Muhahaha! The experiment was a huge success!
@@ -632,7 +632,7 @@ Gugh...
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Ugh, not my best work...
@@ -651,7 +651,7 @@ Muhahahaha!! A glorious turnout!
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Ugh, not my best work...
@@ -673,7 +673,7 @@ Muhahahaha!! A glorious turnout!
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Drat, it's a dud...
@@ -692,14 +692,14 @@ Muhahahaha!! A glorious turnout!
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 <アルケミスト C5>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemestry...!
+Ohohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Muhahaha! The experiment was a huge success!
@@ -1002,20 +1002,20 @@ I'll heal you with my succubus breast milk-
 アクティブ：上
 Hora- Drink from my boobies directly.
 They're cure all your wounds.
-Even if you become a little dependant on them...❤
+Even if you become a little dependent  on them...❤
 
 <モルジア2>
 アクティブ：上
 Ho-ra- Become captivated by my body-❤
 
 アクティブ：上
-Stare deep into my clevage, okay?-
+Stare deep into my cleavage, okay?-
 Ufufufu-❤
 
 アクティブ：上
 I wonder if men can keep their reason before
 these succubus breasts?
-Hora- Stare. Stare at my clevage-❤
+Hora- Stare. Stare at my cleavage-❤
 
 <村の少女1>
 アクティブ：上
@@ -1028,7 +1028,7 @@ I'll heal you with my succubus breast milk-
 アクティブ：上
 Hora- Drink from my boobies directly.
 They're cure all your wounds.
-Even if you become a little dependant on them...❤
+Even if you become a little dependent  on them...❤
 
 <敬虔な少女1>
 アクティブ：上
@@ -1041,7 +1041,7 @@ I'll heal you with my succubus breast milk-
 アクティブ：上
 Hora- Drink from my boobies directly.
 They're cure all your wounds.
-Even if you become a little dependant on them...❤
+Even if you become a little dependent  on them...❤
 
 <フェラ盗賊1>
 アクティブ：上
@@ -1054,7 +1054,7 @@ I'll heal you with my succubus breast milk-
 アクティブ：上
 Hora- Drink from my boobies directly.
 They're cure all your wounds.
-Even if you become a little dependant on them...❤
+Even if you become a little dependent  on them...❤
 
 <シスター2>
 アクティブ：上
@@ -1084,7 +1084,7 @@ I'll heal you with my succubus breast milk-
 アクティブ：上
 Hora- Drink from my boobies directly.
 They're cure all your wounds.
-Even if you become a little dependant on them...❤
+Even if you become a little dependent  on them...❤
 
 <巨乳エルフ2>
 アクティブ：上
@@ -1101,7 +1101,7 @@ I'll heal you with my succubus breast milk-
 アクティブ：上
 Hora- Drink from my boobies directly.
 They're cure all your wounds.
-Even if you become a little dependant on them...❤
+Even if you become a little dependent  on them...❤
 
 <美脚エルフ2>
 アクティブ：上
@@ -1118,7 +1118,7 @@ I'll heal you with my succubus breast milk-
 アクティブ：上
 Hora- Drink from my boobies directly.
 They're cure all your wounds.
-Even if you become a little dependant on them...❤
+Even if you become a little dependent  on them...❤
 
 <アルラウネ2>
 アクティブ：上
@@ -1126,7 +1126,7 @@ Fall under my pheromones-❤
 
 <アルラウネ1>
 アクティブ：上
-The power of my honey compells you...!
+The power of my honey compels you...!
 
 <美乳マーメイド2>
 アクティブ：上
@@ -1187,12 +1187,12 @@ Fall under my pheromones-❤
 
 <ダークアルラウネ1>
 アクティブ：上
-My aphrodasiac will weaken you.
+My aphrodisiac will weaken you.
 Pshew-...♪
 
 <ダークアルラウネ3>
 アクティブ：上
-My aphrodasiac will entrance you.
+My aphrodisiac will entrance you.
 Pshew-...♪
 
 <チェリッシュ2>
@@ -1201,12 +1201,12 @@ Fall under my pheromones-❤
 
 <チェリッシュ1>
 アクティブ：上
-My aphrodasiac will weaken you.
+My aphrodisiac will weaken you.
 Pshew-...♪
 
 <チェリッシュ3>
 アクティブ：上
-My aphrodasiac will entrance you.
+My aphrodisiac will entrance you.
 Pshew-...♪
 
 <ドレインインプ2>
@@ -1215,10 +1215,10 @@ Fall under my pheromones-❤
 
 <ドレインインプ1>
 アクティブ：上
-My aphrodasiac will weaken you.
+My aphrodisiac will weaken you.
 Pshew-...♪
 
 <ドレインインプ3>
 アクティブ：上
-My aphrodasiac will entrance you.
+My aphrodisiac will entrance you.
 Pshew-...♪
