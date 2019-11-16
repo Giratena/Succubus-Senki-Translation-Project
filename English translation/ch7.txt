@@ -4654,21 +4654,21 @@ Now that we're here, you'll come no further!
 チェリッシュ：上
 \vo[c12]Huh, what?
 This village isn't just girls?*
-\vo[c13]Ehehe, I am the intermediate succubus
+\vo[c13]Ehehe, I'm the intermediate succubus
 Cherish. They call me the temptation Imp-*
 \vo[c14]My signature move is-
 Pan-ty-Fl-ash-❤*
 \vo[c15]Because men are idiots, I put on my 
-short skirt, and they dreamily sneak glances at
+short skirt and they dreamily sneak glances at
 my thighs, unable to fight at all, you know?
-\vo[c16]Could you all too, 
-be interested in my skirt?
-If you like, shall I show you right now? Teehee-♪
+\vo[c16]Could you all be interested in my skirt too?
+I can give you a peek you right now if you like?
+Teehee-♪
 
 ユミル：上
 ...gh. D, don't be ridiculous!
 I have no interest in a seedy woman like you!
-I'll destroy you where you stand!
+I'll knock you down where you stand!
 
 チェリッシュ：上
 \vo[c17]Iyaah- How scar-y-❤**
@@ -4700,17 +4700,19 @@ We must defeat the leader as fast as we can!
 
 <CM0>
 ユミル：上
-戦術についての意見が聞きたいのか？**
-この戦いは、
-敵のリーダーであるチェリッシュを倒すのが目的だ。*
-チェリッシュがいるのはここ。村の西の端の方だな。
+So you want to hear my thoughts on battle advice?**
+In this fight, 
+we need to take out the enemy leader, Cherish.*
+Cherish is situated to the west of the forest,
+right here.
 
 ユミル：上
-今回の戦いは味方を守りながらの戦いになる。**
-特に、いかに味方のエルフたちを
-サキュバスにさせないか、が重要になるぜ。*
-なぜなら、味方がサキュバス化されると、
-それだけ敵の兵力が増えることになるからな。*
+In this fight, we'll need to attack while also
+protecting out allies.**
+In particular, it's vital we don't let our Elf
+friends be converted to succubus.*
+Because if they're converted to succubus, 
+the enemy's forces will only continue to increase.*
 現在の兵力数は、
 敵に比べてこちらが倍近くあるわけだが、*
 もし村のエルフたちがサキュバス化されちまうと、
