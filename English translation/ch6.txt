@@ -670,7 +670,7 @@ with it?- Let's have some fun-!
 <AT3>
 乳魔アリス：上
 \vo[a19]Now, time for my special spell!**
-\vo[a20]First is Magic Charge!
+\vo[a20]But first, Magic Charge!
 
 乳魔アリス：上
 \vo[a21]Even when I'm concentrating my magic,

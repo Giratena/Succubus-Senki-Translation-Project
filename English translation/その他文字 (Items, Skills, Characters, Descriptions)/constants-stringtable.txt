@@ -87,7 +87,7 @@ var StringTable = {
 	Config_SkipControl: 'Skip Control',
 	Config_SkipControlDescription: 'Select the method used to skip events',
 	
-	ItemChange_UnitItemFull: 'Unit cannot hold any more items.\nPlease the cancel or confirm key.',
+	ItemChange_UnitItemFull: 'Unit cannot hold any more items.\nPlease press the cancel or confirm key.',
 	ItemChange_TradeTitle: 'Exchange with this item?',
 	ItemChange_StockSendTitle: 'Sent this item to the convoy?',
 	ItemChange_StockThrowTitle: 'Discard this item?',

@@ -968,184 +968,180 @@ She continued petting me on the head for awhile.
 After that, she left the area.
 
 <AT31>
-テロップ：中央
-★封呪の布について**
-「封呪の布」をレイが所持することで、
-呪いを抑えることができます。*
-もし「封呪の布」を持っていない状態で、
-チャプターを進行させた場合、
-誘惑イベントが発生してしまいます。
-誘惑イベントはデメリットにしかならないので、
-必ず「封呪の布」を所持した状態で、
-チャプターを進めるようにしましょう。
+★About the Cloth Seal**
+The cloth seal item that Ray has can be used
+to surpress the curse.*
+If the cloth seal item isn't held, you may
+encounter various temptation events when starting
+new chapters.
+These temptation events will only make the game
+more difficult, so it's recommended to equip
+the cloth seal item before progressing.
 
 テロップ：中央
-「情報収集」に
-「ミラージュを呼び出す」コマンドが追加された。
-※レイが封呪の布を持っていない場合のみ有効
+The "Call Mirage" command has now been added
+via the "Gather Information" menu.
+※Avalible only if the cloth seal is not equiped.
 
 <TK4>
 テロップ：中央
-難易度を変更することができます。
+You can change the game difficulty here.
 
 テロップ：中央
-現在の難易度はハードです。
-ハードモードでは難易度を変更することができません。
+The current difficulty is set to hard.
+You cannot change the difficulty while 
+in hard mode.
 
 テロップ：中央
-現在の難易度はノーマルです。
+The current difficulty is set to normal.
 
 テロップ：中央
-現在の難易度はイージーです。
+The current difficulty is set to easy.
 
 テロップ：中央
-現在の難易度は楽々モードです。
+The current difficulty is set to super easy.
 
 テロップ：中央
-難易度が設定されました。
+The difficulty has been set.
 
 テロップ：中央
-「楽々モード」では自軍ユニットが大幅に強化され、
-ステージのクリアが簡単になりますが、
-戦闘バランス崩壊の恐れがあります。
-楽々モードの強化は戦闘マップ内でのみ適用されます
-(拠点内でのステータスは上がりません)
+In super easy mode, your army forces are greatly
+enhanced, but while clearing maps will be easy,
+it may cause some ballancing issues.
+Easy mode enhancements only apply during battle.
+(Unit's sase stats will not increase)
 
 <TK0>
 テロップ：中央
-主人公の顔グラを
-通常の顔グラもしくはシルエットに変更できます。
+You can change the protagonist's face artwork 
+to a silhouette
 
 テロップ：中央
-通常顔グラに設定しました。
+The face has been set to use artwork.
 
 テロップ：中央
-シルエットに設定しました。
+The face has been set to use a silhouette.
 
 <TK2>
 テロップ：中央
-敵ターンに自軍が反撃をしないように
-設定を変更できます。
+You can set this option to prevent ally units 
+from counter attacking during the enemy phase.
 
 テロップ：中央
-自軍の反撃を有効にしました。
+Ally units will be able to counter attack.
 
 テロップ：中央
-自軍の反撃を無効にしました。
+Ally units will not be able to counter attack.
 
 <TK5>
 テロップ：中央
-自軍ユニットを弱体化するための
-アイテムを入手できます。
+You can obtain items to give your 
+units fetishes.
 
 テロップ：中央
-これらのアイテムは
-「ユニット整理」→「アイテムの使用」
-から使用することができます。
+These items can be used via->
+"Units" -> "Items"
 
 <TK9>
 テロップ：中央
-自軍ユニットに弱点を付与したり解除するための
-アイテムを入手できます。
+You can obtain items to remove your
+units' fetishes.
 
 テロップ：中央
-ハードモードでは解除用のアイテムは入手できません。
+Fetish release items are not avalible in 
+hard mode.
 
 テロップ：中央
-これらのアイテムは
-「ユニット整理」→「アイテムの使用」
-から使用することができます。
+These items can be used via->
+"Units" -> "Items"
 
 <TK7>
 テロップ：中央
-有効にすると、ストーリーの進行具合に関わらず、
-一度出現したサブクエストに、
-いつでも挑戦できるようになります。
-「どこでもサブクエ」を有効にしますか？
+If you enable this option,
+you'll be able to challenge sidequests at
+anytime, regardless of the story progression.
 
 テロップ：中央
-有効にしました。
+Enabled.
 
 テロップ：中央
-無効にしました。
+Disabled.
 
 <TK8>
 テロップ：中央
-有効にすると、本来酒場が利用できない地域でも、
-酒場を利用することができます。*
-詰み回避にご利用ください。
+If you enable this option, you'll be able to visit
+taverns, even in areas where they aren't normally 
+avalible. Use to avoid softlocks.
 
 テロップ：中央
-有効にしました。
+Enabled.
 
 テロップ：中央
-無効にしました。
+Disabled.
 
 <TK11>
 テロップ：中央
-有効にすると、
-「どこでもショップ」が利用できます。*
-「どこでもショップ」のアイテムは、
-在庫が切れることがないので、
-詰み回避にご利用ください。
+If you enable this, you'll be able to
+shop and by items anywhere. The stock won't run 
+out either, so use this to avoid softlocks.
 
 テロップ：中央
-有効にしました。
+Enabled.
 
 テロップ：中央
-無効にしました。
+Disabled.
 
 <TK10>
 テロップ：中央
-有効にすると、回想戦闘でも
-経験値を得ることができます。
+If enabled, you can earn experiece even in 
+memoir combat maps.
 
 テロップ：中央
-有効にしました。
+Enabled.
 
 テロップ：中央
-無効にしました。
+Disabled.
 
 <TK12>
 テロップ：中央
-拠点の「ロード」のコマンドをオフにできます。
+You can turn off the ability to use the 
+load command when out of combat.
 
 テロップ：中央
-非表示になりました。
+Hidden.
 
 テロップ：中央
-表示されました。
+Displayed.
 
 <TK6>
 テロップ：中央
-味方がオートで動き、
-主人公が死亡した時点で戦闘の敗北になる、
-「主人公モード」に変更できます。
-※注意事項※、
-主人公が死亡した時点でゲームオーバーとなるため、
-主人公モードの方が難易度が高くなります。
+When the game is set to "Hero Mode",
+alies will move automatically, and the game will
+end when the protagonist faints.
+※Caution※、
+As the game ends the moment the protagonist 
+faints, this makes the game exponentially harder.
 
 テロップ：中央
-主人公モードが設定されました。**
-AIは戦闘を自動でこなしますが、
-スイッチや回復の魔法陣などの起動は行わない点に、
-注意してください。
+Hero Mode has been enabled.**
+Though allies are controled by the AI,
+note they will not interact with map elements
+such as magic circles or switches.
 
 テロップ：中央
-主人公モードを解除しました。
+Hero Mode has been disabled.
 
 <TK13>
 テロップ：中央
-実験的な追加要素です。
-一部のパイズリアニメの射精時に、
-射精アニメが表示されます。
-有効にしますか？
+Experiemental additions.
+Some animations feature an ejaculation,
+would you like to enable it?
 
 テロップ：中央
-有効にしました。
+Enabled.
 
 テロップ：中央
-無効にしました。
+Disabled.
 
 <TK3>
 テロップ：中央
@@ -2011,7 +2007,7 @@ pervert you are-❤ Three, two, one...
 Pew pew pew pew pew!-❤
 
 ミラージュ：上
-Ufufuf-❤ Delicious-❤
+Ufufu-❤ Delicious-❤
 
 テロップ：中央
 I endured the urge to cum and resisted her with
@@ -2057,7 +2053,7 @@ Why that's...
 So the curse of the holy sword wasn't completely
 removed?
 I'll call Lamia and her cohorts at once.
-Let's hear what they have to say about it.
+Let's hear what they have to say.
 
 ラミア：上
 Mhm...
@@ -3104,7 +3100,7 @@ Wai-❤　Aaah-❤, aaah-❤
 エルフ：上
 Hey- Is something wrong?
 You're slouching so much, and your face is
-all red too.*
+all red too.
 And what's with all the weird noises?
 Perhaps you're still sick from the holy sword?
 Are you okay?
@@ -7046,7 +7042,7 @@ I guess even my training is still not enough, huh?
 <CM57>
 ミラージュ：上
 Ehehehe- What is it, Ray?
-Were you wanting me to make you feel good?*
+Did call me so I could make you feel good?*
 I'll make Ray feel good any time if he wants it-
 So? What do you want me to do?*
 Do you want me to stroke you up and down with 
@@ -7054,7 +7050,7 @@ my hands? Make you melt with the suckle of my
 mouth? Or maybe... 
 You'd like to me to step on you with my feet?**
 I really feel like a handjob right now though-
-Hey- What do you think Ray?
+So- What do you think Ray?
 Want me to grasp your penis with my hands?
 
 ミラージュ：上
@@ -7141,7 +7137,7 @@ Wai-❤　Aaah-❤, aaah-❤
 エルフ：上
 Hey- Is something wrong?
 You're slouching so much, and your face is
-all red too.*
+all red too.
 And what's with all the weird noises?
 Perhaps you're still sick from the holy sword?
 Are you okay?
