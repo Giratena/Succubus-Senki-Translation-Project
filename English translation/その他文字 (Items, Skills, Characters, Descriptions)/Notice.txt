@@ -37,12 +37,12 @@ consecutively. Use it wisely.
 [ch5]
 <<<<<<<
 ●About 'Seduction'●
-Units under the effects of this status will
+Units under the effect of this status will
 automatically take a suicidal option on their 
 turn.
 <<<<<<<
 Units cannot be controled when seduced, and
-the state usually lasts for two turns.
+this state usually lasts for two turns.
 <<<<
 ここで冒険をあきらめますか？
 

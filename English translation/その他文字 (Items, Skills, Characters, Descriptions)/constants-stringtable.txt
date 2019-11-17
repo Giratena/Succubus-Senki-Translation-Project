@@ -180,12 +180,12 @@ var StringTable = {
 	ItemInfo_Custom: 'Custom ',
 	
 	ItemWord_SuffixItem: 'Item',
-	ItemWord_SuffixWand: ' Staff',
+	ItemWord_SuffixWand: ' Stave',
 	ItemWord_MultiAttack: 'x attack',
 	
 	SkillWord_Less: '% less',
-	SkillWord_Invocation: 'Act.Rate',
-	FusionWord_Success: 'Suc.Rate',
+	SkillWord_Invocation: 'Trigger',
+	FusionWord_Success: 'Success',
 	
 	UnitSentence_Support: '-Support-',
 	
