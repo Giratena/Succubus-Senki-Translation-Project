@@ -180,7 +180,7 @@ var StringTable = {
 	ItemInfo_Custom: 'Custom ',
 	
 	ItemWord_SuffixItem: 'Item',
-	ItemWord_SuffixWand: ' Staff',
+	ItemWord_SuffixWand: ' Stave',
 	ItemWord_MultiAttack: 'x attack',
 	
 	SkillWord_Less: '% less',
