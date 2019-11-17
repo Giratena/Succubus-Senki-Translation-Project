@@ -1,32 +1,32 @@
 <PL0>
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
 
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
-（ヒーラーが使用したため効果範囲がアップ！）
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+(Healers increased the range of effect!)
 
 <PL1>
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
 
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
-（ヒーラーが使用したため効果範囲がアップ！）
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+(Healers increased the range of effect!)
 
 <PL2>
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
 
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
-（ヒーラーが使用したため効果範囲がアップ！）
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+(Healers increased the range of effect!)
 
 <PL3>
 美脚エルフ：上
@@ -4708,50 +4708,53 @@ right here.
 
 ユミル：上
 In this fight, we'll need to attack while also
-protecting out allies.**
-In particular, it's vital we don't let our Elf
+protecting our allies.**
+It's especially vital we don't let our Elf
 friends be converted to succubus.*
 Because if they're converted to succubus, 
 the enemy's forces will only continue to increase.*
-現在の兵力数は、
-敵に比べてこちらが倍近くあるわけだが、*
-もし村のエルフたちがサキュバス化されちまうと、
-その差がひっくり返ることになる。
+Currently, our numbers are almost double
+the amount of enemy forces,*
+but if the Elf villagers are turned into succubus,
+it will end up as us who are out numbered.
 
 ユミル：上
-村の連中の配置だが、ひとつはここ・・・。
+The first section of villagers are positioned
+here...
 
 ユミル：上
-もうひとつはこっちだな。**
-二方向に分かれているから、
-部隊を分けてそれぞれ防衛した方がいいだろう。
+The next is here.**
+Because they're positioned in two different 
+locations, it'd be best to split our forces 
+and defend them both at once.
 
 ユミル：上
-さて、今回の戦いから聖剣を使って戦うことになる。**
-風の聖剣は相手の状態異常攻撃を無効にするから、
-奥にいる淫魔化したアルラウネの花粉攻撃を、
-無効にするのに特に重宝するだろう。
+And let's not forget, we have access to the
+holy swords now as well.**
+The holy sword of wind negates negative statuses,
+so it should be quite helpful in deflecting the 
+succubus-ified Alraune's attacks in the forest.
 
 ユミル：上
-それとレイの光の聖剣は、相手の能力を下げるときに
-相手の移動力も大きく低下させるから、
-足止めに使ったりもできるぜ。
-つまり敵の侵攻を遅らせることもできるわけだ。
-今回の戦いではこの足止めが重要になるだろう。*
-序盤に一気に聖剣を解放して、
-村の連中がサキュバス化する前に片をつけられれば、
-かなり優位に戦えるはずだ。
-ただし、聖剣を解放してしばらく経つと、
-反動でまともに戦えなくなる。そこは気を付けて、
-うまく孤立しないように指揮をとってくれ。
+Furthermore, the sword of light can also be 
+used to keep enemies at bay, drastically reducing
+the enemies movement speed.
+In short, delaying the enemy invasion will be
+essential to winning this fight.*
+I recomend activating the sword of light before 
+the succubus convert the villagers. If we can do 
+this, we should be able to hold our advantage.
+However, you'll eventually suffer the recoil of
+the holy sword and won't be able to fight, so
+take care you don't get cordoned off.
 
 <CM1>
 サキュバスエルフ：中央
-サキュバスエルフ**
-胸がとても大きなエルフがサキュバス化した姿。
-本来は温厚で能天気な性格だが、
-淫魔化したことで嗜虐性が増している。
-ぱふぱふやパイズリがもともと得意だったが、
+Succubus Elf**
+An exceedingly well endowned succubus-ified Elf.
+Though originally kind and optimistic,
+her conversion has increased her sadism.
+Although originally adept at Puff-Puffs and Paizuri
 淫魔となって、さらにその技の威力が増した。*
 大きな胸に体を委ねてしまえば、
 まさに極楽の快感であり、
