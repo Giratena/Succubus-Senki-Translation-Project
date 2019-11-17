@@ -981,7 +981,7 @@ the cloth seal item before progressing.
 テロップ：中央
 The "Call Mirage" command has now been added
 via the "Gather Information" menu.
-※Avalible only if the cloth seal is not equiped.
+※Available only if the cloth seal is not equipped.
 
 <TK4>
 テロップ：中央

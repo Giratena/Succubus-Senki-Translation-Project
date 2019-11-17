@@ -1,4 +1,4 @@
-<レイ0>
+<(0)レイ0>
 レイ：下
 Ahiee...❤
 
@@ -8,7 +8,7 @@ Ahiee...❤
 レイ：下
 Uaaah-!!!
 
-<レイ2>
+<(0)レイ2>
 レイ：上
 ...!!
 
@@ -27,7 +27,7 @@ The "Light Seal" is so advanced it can even
 effect advanced level succubus, and power them
 down.
 
-<レイ7>
+<(0)レイ7>
 テロップ：中央
 The holy sword can no longer be activated
 at this level!
@@ -51,7 +51,7 @@ The "Light Seal" is so advanced it can even
 effect advanced level succubus, and power them
 down.
 
-<ユミル0>
+<(1)ユミル0>
 ユミル：下
 Uwahh...❤
 
@@ -61,15 +61,15 @@ Uwahh...❤
 ユミル：下
 Damn it...
 
-<ユミル1>
+<(1)ユミル1>
 ユミル：上
 Alright! It's go time!
 
-<ユミル3>
+<(1)ユミル3>
 ユミル：上
 Alright! It's go time!
 
-<ユミル2>
+<(1)ユミル2>
 ユミル：上
 O'holy wind sword! Lend me your power!
 Distill all evil and cast it to the wind!
@@ -93,7 +93,7 @@ via the "Wind Blessing" status.*
 If an ally is already under an abnormal state,
 they won't be cured when the blessing is applied.
 
-<ユミル4>
+<(1)ユミル4>
 テロップ：中央
 The holy sword can no longer be activated
 at this level!
@@ -123,7 +123,7 @@ If an ally is already under an abnormal state,
 they won't be cured when the blessing is applied.
 
 
-<ノブ0>
+<(2)ノブ0>
 ノブ：下
 Aah, aaah...❤
 
@@ -133,11 +133,11 @@ Aah, aaah...❤
 ノブ：下
 うう・・・。
 
-<ノブ1>
+<(2)ノブ1>
 ノブ：上
 I'll protect you!
 
-<イエヤス0>
+<(3)イエヤス0>
 イエヤス：下
 Ooh, aaaah...❤
 
@@ -147,15 +147,15 @@ Ooh, aaaah...❤
 イエヤス：下
 Ugh...
 
-<イエヤス1>
+<(3)イエヤス1>
 アクティブ：上
 I'll pray for your wounds...!
 
-<イエヤス2>
+<(3)イエヤス2>
 アクティブ：上
 For your wounds, I pray for a miracle...!
 
-<ミツヒデ0>
+<(10)ミツヒデ0>
 ミツヒデ：下
 Haaaagh...❤
 
@@ -165,15 +165,15 @@ Haaaagh...❤
 ミツヒデ：下
 Ugh...
 
-<ミツヒデ1>
+<(10)ミツヒデ1>
 アクティブ：上
 Haaa-...!!
 
-<ミツヒデ2>
+<(10)ミツヒデ2>
 アクティブ：上
 Haaa-...!!
 
-<凡骨雑兵 A0>
+<(4)凡骨雑兵 A0>
 凡骨雑兵 A：下
 Haah, aaah...❤
 
@@ -183,16 +183,7 @@ Haah, aaah...❤
 凡骨雑兵 A：下
 Gugh...
 
-<凡骨雑兵 B0>
-凡骨雑兵 A：下
-Haah, aaah...❤
-
-凡骨雑兵 A：下
-Haah, aaah...❤
-
-凡骨雑兵 A：下
-Gugh...
-<凡骨雑兵 C0>
+<(5)凡骨雑兵 B0>
 凡骨雑兵 A：下
 Haah, aaah...❤
 
@@ -202,7 +193,7 @@ Haah, aaah...❤
 凡骨雑兵 A：下
 Gugh...
 
-<凡骨雑兵 D0>
+<(6)凡骨雑兵 C0>
 凡骨雑兵 A：下
 Haah, aaah...❤
 
@@ -212,7 +203,7 @@ Haah, aaah...❤
 凡骨雑兵 A：下
 Gugh...
 
-<凡骨雑兵 E0>
+<(13)凡骨雑兵 D0>
 凡骨雑兵 A：下
 Haah, aaah...❤
 
@@ -222,7 +213,7 @@ Haah, aaah...❤
 凡骨雑兵 A：下
 Gugh...
 
-<凡骨雑兵 F0>
+<(14)凡骨雑兵 E0>
 凡骨雑兵 A：下
 Haah, aaah...❤
 
@@ -232,7 +223,7 @@ Haah, aaah...❤
 凡骨雑兵 A：下
 Gugh...
 
-<凡骨雑兵 G0>
+<(15)凡骨雑兵 F0>
 凡骨雑兵 A：下
 Haah, aaah...❤
 
@@ -242,7 +233,17 @@ Haah, aaah...❤
 凡骨雑兵 A：下
 Gugh...
 
-<エリート雑兵 A0>
+<(16)凡骨雑兵 G0>
+凡骨雑兵 A：下
+Haah, aaah...❤
+
+凡骨雑兵 A：下
+Haah, aaah...❤
+
+凡骨雑兵 A：下
+Gugh...
+
+<(7)エリート雑兵 A0>
 エリート雑兵 A：下
 Haah, aaah...❤
 
@@ -252,16 +253,7 @@ Haah, aaah...❤
 エリート雑兵 A：下
 Gugh...
 
-<エリート雑兵 B0>
-エリート雑兵 A：下
-Haah, aaah...❤
-
-エリート雑兵 A：下
-Haah, aaah...❤
-
-エリート雑兵 A：下
-Gugh...
-<エリート雑兵 C0>
+<(8)エリート雑兵 B0>
 エリート雑兵 A：下
 Haah, aaah...❤
 
@@ -271,7 +263,7 @@ Haah, aaah...❤
 エリート雑兵 A：下
 Gugh...
 
-<エリート雑兵 D0>
+<(17)エリート雑兵 C0>
 エリート雑兵 A：下
 Haah, aaah...❤
 
@@ -281,7 +273,7 @@ Haah, aaah...❤
 エリート雑兵 A：下
 Gugh...
 
-<エリート雑兵 E0>
+<(18)エリート雑兵 D0>
 エリート雑兵 A：下
 Haah, aaah...❤
 
@@ -291,7 +283,7 @@ Haah, aaah...❤
 エリート雑兵 A：下
 Gugh...
 
-<エリート雑兵 F0>
+<(19)エリート雑兵 E0>
 エリート雑兵 A：下
 Haah, aaah...❤
 
@@ -301,7 +293,7 @@ Haah, aaah...❤
 エリート雑兵 A：下
 Gugh...
 
-<エリート雑兵 G0>
+<(20)エリート雑兵 F0>
 エリート雑兵 A：下
 Haah, aaah...❤
 
@@ -311,7 +303,17 @@ Haah, aaah...❤
 エリート雑兵 A：下
 Gugh...
 
-<教官 A2>
+<(21)エリート雑兵 G0>
+エリート雑兵 A：下
+Haah, aaah...❤
+
+エリート雑兵 A：下
+Haah, aaah...❤
+
+エリート雑兵 A：下
+Gugh...
+
+<(9)教官 A2>
 アクティブ：下
 Haah, aaah...❤
 
@@ -321,26 +323,26 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<教官 A0>
+<(9)教官 A0>
 テロップ：中央
 You already have too many items.
 
-<教官 A3>
+<(9)教官 A3>
 テロップ：中央
 You already have too many items.
 
-<教官 A4>
+<(9)教官 A4>
 テロップ：中央
 You already have too many items.
 
-<教官 A1>
+<(9)教官 A1>
 テロップ：中央
 You already have too many items.
 
 テロップ：中央
 Obtained 1500G!
 
-<発掘家 A2>
+<(12)発掘家 A2>
 アクティブ：下
 Haah, aaah...❤
 
@@ -350,28 +352,28 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<発掘家 A0>
+<(12)発掘家 A0>
 テロップ：中央
 You already have too many items.
 
 テロップ：中央
 Obtained some gold!
 
-<発掘家 A1>
+<(12)発掘家 A1>
 テロップ：中央
 You already have too many items.
 
 テロップ：中央
 Obtained some gold!
 
-<発掘家 A3>
+<(12)発掘家 A3>
 テロップ：中央
 You already have too many items.
 
 テロップ：中央
 Obtained some gold!
 
-<ランサー A0>
+<(11)ランサー A0>
 アクティブ：下
 Agh, oooh...❤
 
@@ -381,7 +383,7 @@ Agh, oooh...❤
 アクティブ：下
 Ugggh...
 
-<ランサー B0>
+<(38)ランサー B0>
 アクティブ：下
 Agh, oooh...❤
 
@@ -391,7 +393,7 @@ Agh, oooh...❤
 アクティブ：下
 Ugggh...
 
-<ランサー C0>
+<(39)ランサー C0>
 アクティブ：下
 Agh, oooh...❤
 
@@ -401,7 +403,7 @@ Agh, oooh...❤
 アクティブ：下
 Ugggh...
 
-<ヒーラー A0>
+<(22)ヒーラー A0>
 アクティブ：下
 Ooh, aaaah...❤
 
@@ -411,7 +413,7 @@ Ooh, aaaah...❤
 アクティブ：下
 Ugh...
 
-<ヒーラー B0>
+<(23)ヒーラー B0>
 アクティブ：下
 Ooh, aaaah...❤
 
@@ -421,7 +423,7 @@ Ooh, aaaah...❤
 アクティブ：下
 Ugh...
 
-<ヒーラー C0>
+<(24)ヒーラー C0>
 アクティブ：下
 Ooh, aaaah...❤
 
@@ -431,7 +433,7 @@ Ooh, aaaah...❤
 アクティブ：下
 Ugh...
 
-<アルケミスト A0>
+<(27)アルケミスト A0>
 アクティブ：下
 Haah, aaah...❤
 
@@ -441,12 +443,12 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<アルケミスト A1>
+<(27)アルケミスト A1>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Ugh, not my best work...
@@ -455,17 +457,17 @@ Ugh, not my best work...
 Ha! Success!
 
 アクティブ：上
-Ohohoho! The experiment was a huge success!
+Wahaha! The experiment was a huge success!
 
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<アルケミスト A3>
+<(27)アルケミスト A3>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Ugh, not my best work...
@@ -474,7 +476,7 @@ Ugh, not my best work...
 Ha! Success!
 
 アクティブ：上
-Muhahaha! The experiment was a huge success!
+Wahaha! The experiment was a huge success!
 
 アクティブ：上
 Muhahahaha!! A glorious turnout!
@@ -482,12 +484,12 @@ Muhahahaha!! A glorious turnout!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<アルケミスト A2>
+<(27)アルケミスト A2>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Drat, it's a dud...
@@ -496,27 +498,27 @@ Drat, it's a dud...
 Ha! Success!
 
 アクティブ：上
-Muhahaha! The experiment was a huge success!
+Wahaha! The experiment was a huge success!
 
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<アルケミスト A4>
+<(27)アルケミスト A4>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
-<アルケミスト A5>
+<(27)アルケミスト A5>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
-Muhahaha! The experiment was a huge success!
+Wahaha! The experiment was a huge success!
 
 アクティブ：上
 Ha! Success!
@@ -524,7 +526,7 @@ Ha! Success!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<アルケミスト B0>
+<(28)アルケミスト B0>
 アクティブ：下
 Haah, aaah...❤
 
@@ -534,12 +536,12 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<アルケミスト B1>
+<(28)アルケミスト B1>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Ugh, not my best work...
@@ -548,17 +550,17 @@ Ugh, not my best work...
 Ha! Success!
 
 アクティブ：上
-Muhahaha! The experiment was a huge success!
+Wahaha! The experiment was a huge success!
 
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<アルケミスト B3>
+<(28)アルケミスト B3>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Ugh, not my best work...
@@ -567,7 +569,7 @@ Ugh, not my best work...
 Ha! Success!
 
 アクティブ：上
-Muhahaha! The experiment was a huge success!
+Wahaha! The experiment was a huge success!
 
 アクティブ：上
 Muhahahaha!! A glorious turnout!
@@ -575,12 +577,12 @@ Muhahahaha!! A glorious turnout!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<アルケミスト B2>
+<(28)アルケミスト B2>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Drat, it's a dud...
@@ -589,27 +591,27 @@ Drat, it's a dud...
 Ha! Success!
 
 アクティブ：上
-Muhahaha! The experiment was a huge success!
+Wahaha! The experiment was a huge success!
 
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<アルケミスト B4>
+<(28)アルケミスト B4>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
-<アルケミスト B5>
+<(28)アルケミスト B5>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
-Muhahaha! The experiment was a huge success!
+Wahaha! The experiment was a huge success!
 
 アクティブ：上
 Ha! Success!
@@ -617,7 +619,7 @@ Ha! Success!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<アルケミスト C0>
+<(29)アルケミスト C0>
 アクティブ：下
 Haah, aaah...❤
 
@@ -627,12 +629,12 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<アルケミスト C1>
+<(29)アルケミスト C1>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Ugh, not my best work...
@@ -641,17 +643,17 @@ Ugh, not my best work...
 Ha! Success!
 
 アクティブ：上
-Muhahaha! The experiment was a huge success!
+Wahaha! The experiment was a huge success!
 
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<アルケミスト C3>
+<(29)アルケミスト C3>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Ugh, not my best work...
@@ -660,7 +662,7 @@ Ugh, not my best work...
 Ha! Success!
 
 アクティブ：上
-Muhahaha! The experiment was a huge success!
+Wahaha! The experiment was a huge success!
 
 アクティブ：上
 Muhahahaha!! A glorious turnout!
@@ -668,12 +670,12 @@ Muhahahaha!! A glorious turnout!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<アルケミスト C2>
+<(29)アルケミスト C2>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
 Drat, it's a dud...
@@ -682,27 +684,27 @@ Drat, it's a dud...
 Ha! Success!
 
 アクティブ：上
-Muhahaha! The experiment was a huge success!
+Wahaha! The experiment was a huge success!
 
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<アルケミスト C4>
+<(29)アルケミスト C4>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
-<アルケミスト C5>
+<(29)アルケミスト C5>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
-Ohohoho... It's time for a bit of chemistry...!
+Ohoho... It's time for a bit of chemistry...!
 
 アクティブ：上
-Muhahaha! The experiment was a huge success!
+Wahaha! The experiment was a huge success!
 
 アクティブ：上
 Ha! Success!
@@ -710,7 +712,7 @@ Ha! Success!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<軍旗持ち A0>
+<(30)軍旗持ち A0>
 アクティブ：下
 Ah, oooh...❤
 
@@ -720,7 +722,7 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<軍旗持ち A1>
+<(30)軍旗持ち A1>
 アクティブ：上
 Stay strong everyone!
 
@@ -734,7 +736,7 @@ Go go go!
 There's no 'I' in 'team'!
 We will win!
 
-<軍旗持ち A3>
+<(30)軍旗持ち A3>
 アクティブ：上
 Keep it up! Don't stop now!
 
@@ -748,7 +750,7 @@ Go go go!
 There's no 'I' in 'team'!
 We will win!
 
-<軍旗持ち B0>
+<(31)軍旗持ち B0>
 アクティブ：下
 Ah, oooh...❤
 
@@ -758,7 +760,7 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<軍旗持ち B1>
+<(31)軍旗持ち B1>
 アクティブ：上
 Stay strong everyone!
 
@@ -772,7 +774,7 @@ Go go go!
 There's no 'I' in 'team'!
 We will win!
 
-<軍旗持ち B3>
+<(31)軍旗持ち B3>
 アクティブ：上
 Keep it up! Don't stop now!
 
@@ -786,7 +788,7 @@ Go go go!
 There's no 'I' in 'team'!
 We will win!
 
-<軍旗持ち C0>
+<(32)軍旗持ち C0>
 アクティブ：下
 Ah, oooh...❤
 
@@ -796,7 +798,7 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<軍旗持ち C1>
+<(32)軍旗持ち C1>
 アクティブ：上
 Stay strong everyone!
 
@@ -810,7 +812,7 @@ Go go go!
 There's no 'I' in 'team'!
 We will win!
 
-<軍旗持ち C3>
+<(32)軍旗持ち C3>
 アクティブ：上
 Keep it up! Don't stop now!
 
@@ -824,11 +826,7 @@ Go go go!
 There's no 'I' in 'team'!
 We will win!
 
-<コモン君1>
-レイ：上
-コモンイベントとして使えるんじゃね？
-
-<盗賊くずれ A0>
+<(33)盗賊くずれ A0>
 アクティブ：下
 Ugh, ahieee...❤
 
@@ -838,7 +836,7 @@ Ugh, ahieee...❤
 アクティブ：下
 Gugh...
 
-<盗賊くずれ B0>
+<(42)盗賊くずれ B0>
 アクティブ：下
 Ugh, ahieee...❤
 
@@ -848,7 +846,7 @@ Ugh, ahieee...❤
 アクティブ：下
 Gugh...
 
-<盗賊くずれ C0>
+<(43)盗賊くずれ C0>
 アクティブ：下
 Ugh, ahieee...❤
 
@@ -858,109 +856,73 @@ Ugh, ahieee...❤
 アクティブ：下
 Gugh...
 
-<格闘家A0>
+<(35)格闘家A0>
 アクティブ：下
-Ah, ahieee...❤
+Ugh, ahieee...❤
 
 アクティブ：下
-あうっ、あひぃっ・・・❤
+Ugh, ahieee...❤
 
 アクティブ：下
 Ugggh...
 
-<格闘家A1>
+<(35)格闘家A1>
 アクティブ：上
 Hiyah!
 
-<格闘家A4>
+<(35)格闘家A4>
 アクティブ：上
 Hiyah!
 
-<格闘家A2>
+<(35)格闘家A2>
 アクティブ：上
 Hiyah!
 
-<格闘家B0>
+<(36)格闘家B0>
 アクティブ：下
-Ah, ahieee...❤
+Ugh, ahieee...❤
 
 アクティブ：下
-Aaooh, ahiee...❤
+Ugh, ahieee...❤
 
 アクティブ：下
 Ugggh...
 
-<格闘家B1>
+<(36)格闘家B1>
 アクティブ：上
 Hiyah!
 
-<格闘家B4>
+<(36)格闘家B4>
 アクティブ：上
 Hiyah!
 
-<格闘家B2>
+<(36)格闘家B2>
 アクティブ：上
 Hiyah!
 
-<格闘家C0>
+<(37)格闘家C0>
 アクティブ：下
-Ah, ahieee...❤
+Ugh, ahieee...❤
 
 アクティブ：下
-Aaooh, ahiee...❤
+Ugh, ahieee...❤
 
 アクティブ：下
 Ugggh...
 
-<格闘家C1>
+<(37)格闘家C1>
 アクティブ：上
 Hiyah!
 
-<格闘家C4>
+<(37)格闘家C4>
 アクティブ：上
 Hiyah!
 
-<格闘家C2>
+<(37)格闘家C2>
 アクティブ：上
 Hiyah!
 
-<呪術師 A0>
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Gugh...
-
-<呪術師 A1>
-テロップ：中央
-You already have too many items.
-
-<呪術師 A2>
-テロップ：中央
-You already have too many items.
-
-<呪術師 B0>
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Gugh...
-
-<呪術師 B1>
-テロップ：中央
-You already have too many items.
-
-<呪術師 B2>
-テロップ：中央
-You already have too many items.
-
-<呪術師 C0>
+<(34)呪術師 A0>
 アクティブ：下
 Uugh, ahieee...❤
 
@@ -970,28 +932,64 @@ Uugh, ahieee...❤
 アクティブ：下
 Gugh...
 
-<呪術師 C1>
+<(34)呪術師 A1>
 テロップ：中央
 You already have too many items.
 
-<呪術師 C2>
+<(34)呪術師 A2>
 テロップ：中央
 You already have too many items.
 
-<村娘0>
+<(40)呪術師 B0>
+アクティブ：下
+Uugh, ahieee...❤
+
+アクティブ：下
+Uugh, ahieee...❤
+
+アクティブ：下
+Gugh...
+
+<(40)呪術師 B1>
+テロップ：中央
+You already have too many items.
+
+<(40)呪術師 B2>
+テロップ：中央
+You already have too many items.
+
+<(41)呪術師 C0>
+アクティブ：下
+Uugh, ahieee...❤
+
+アクティブ：下
+Uugh, ahieee...❤
+
+アクティブ：下
+Gugh...
+
+<(41)呪術師 C1>
+テロップ：中央
+You already have too many items.
+
+<(41)呪術師 C2>
+テロップ：中央
+You already have too many items.
+
+<(44)村娘0>
 アクティブ：上
 Aaah, but that's...❤
 
-<村娘1>
+<(44)村娘1>
 アクティブ：上
-Ahaaah-❤
-I'll fill your head with lots of sexy ideas-❤
+Ah- Aahhn-❤
+I'll fill your mind up with lots of sexy thoughts-❤
 
-<勝ち気むすめ0>
+<(45)勝ち気むすめ0>
 アクティブ：上
 Ooogh...❤
 
-<モルジア1>
+<(53)モルジア1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1000,11 +998,11 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink from my boobies directly.
-They're cure all your wounds.
-Even if you become a little dependent on them...❤
+Hora- Drink directly from my boobies.
+They'll cure all your wounds.
+You'll get a little addicted to them though...❤
 
-<モルジア2>
+<(53)モルジア2>
 アクティブ：上
 Ho-ra- Become captivated by my body-❤
 
@@ -1017,7 +1015,7 @@ I wonder if men can keep their reason before
 these succubus breasts?
 Hora- Stare. Stare at my cleavage-❤
 
-<村の少女1>
+<(54)村の少女1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1026,11 +1024,11 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink from my boobies directly.
-They're cure all your wounds.
-Even if you become a little dependent on them...❤
+Hora- Drink directly from my boobies.
+They'll cure all your wounds.
+You'll get a little addicted to them though...❤
 
-<敬虔な少女1>
+<(55)敬虔な少女1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1039,11 +1037,11 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink from my boobies directly.
-They're cure all your wounds.
-Even if you become a little dependent on them...❤
+Hora- Drink directly from my boobies.
+They'll cure all your wounds.
+You'll get a little addicted to them though...❤
 
-<フェラ盗賊1>
+<(56)フェラ盗賊1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1052,15 +1050,15 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink from my boobies directly.
-They're cure all your wounds.
-Even if you become a little dependent on them...❤
+Hora- Drink directly from my boobies.
+They'll cure all your wounds.
+You'll get a little addicted to them though...❤
 
-<シスター2>
+<(57)シスター2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<シスター3>
+<(57)シスター3>
 アクティブ：上
 You will melt with my pheromones-❤
 Pshew-...❤
@@ -1073,7 +1071,7 @@ until your brain melts-❤
 Now, you serve me-❤
 Pshew-...❤
 
-<シスター1>
+<(57)シスター1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1082,15 +1080,15 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink from my boobies directly.
-They're cure all your wounds.
-Even if you become a little dependent on them...❤
+Hora- Drink directly from my boobies.
+They'll cure all your wounds.
+You'll get a little addicted to them though...❤
 
-<巨乳エルフ2>
+<(58)巨乳エルフ2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<巨乳エルフ1>
+<(58)巨乳エルフ1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1099,15 +1097,15 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink from my boobies directly.
-They're cure all your wounds.
-Even if you become a little dependent on them...❤
+Hora- Drink directly from my boobies.
+They'll cure all your wounds.
+You'll get a little addicted to them though...❤
 
-<美脚エルフ2>
+<(59)美脚エルフ2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<美脚エルフ1>
+<(59)美脚エルフ1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1116,109 +1114,109 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink from my boobies directly.
-They're cure all your wounds.
-Even if you become a little dependent on them...❤
+Hora- Drink directly from my boobies.
+They'll cure all your wounds.
+You'll get a little addicted to them though...❤
 
-<アルラウネ2>
+<(60)アルラウネ2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<アルラウネ1>
+<(60)アルラウネ1>
 アクティブ：上
 The power of my honey compels you...!
 
-<美乳マーメイド2>
+<(61)美乳マーメイド2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<美乳マーメイド1>
+<(61)美乳マーメイド1>
 アクティブ：上
 My song will rob you of the will to fight-
 
-<投げキッス人魚2>
+<(62)投げキッス人魚2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<投げキッス人魚1>
+<(62)投げキッス人魚1>
 アクティブ：上
-Do your best- I'll give you a little kiss-♪
+I'll give you a little kiss, so do your best-♪
 Mmm--wah!-❤
 
-<ラミア2>
+<(63)ラミア2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<ラミア1>
+<(63)ラミア1>
 アクティブ：上
-Do your best- I'll give you a little kiss-♪
+I'll give you a little kiss, so do your best-♪
 Mmm--wah!-❤
 
-<サキュバスエルフ2>
+<(64)サキュバスエルフ2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<サキュバスエルフ1>
+<(64)サキュバスエルフ1>
 アクティブ：上
-Do your best- I'll give you a little kiss-♪
+I'll give you a little kiss, so do your best-♪
 Mmm--wah!-❤
 
-<ダークエルフ2>
+<(65)ダークエルフ2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<ダークエルフ1>
+<(65)ダークエルフ1>
 アクティブ：上
-Do your best- I'll give you a little kiss-♪
+I'll give you a little kiss, so do your best-♪
 Mmm--wah!-❤
 
-<サキュバスエルフ2>
+<(66)サキュバスエルフ2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<サキュバスエルフ1>
+<(66)サキュバスエルフ1>
 アクティブ：上
-Do your best- I'll give you a little kiss-♪
+I'll give you a little kiss, so do your best-♪
 Mmm--wah!-❤
 
-<ダークアルラウネ2>
+<(67)ダークアルラウネ2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<ダークアルラウネ1>
+<(67)ダークアルラウネ1>
 アクティブ：上
-My aphrodisiac will weaken you.
+I shall weaken you with my aphrodisiac.
 Pshew-...♪
 
-<ダークアルラウネ3>
+<(67)ダークアルラウネ3>
 アクティブ：上
-My aphrodisiac will entrance you.
+I shall entrance you with my aphrodisiac.
 Pshew-...♪
 
-<チェリッシュ2>
+<(68)チェリッシュ2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<チェリッシュ1>
+<(68)チェリッシュ1>
 アクティブ：上
-My aphrodisiac will weaken you.
+I shall weaken you with my aphrodisiac.
 Pshew-...♪
 
-<チェリッシュ3>
+<(68)チェリッシュ3>
 アクティブ：上
-My aphrodisiac will entrance you.
+I shall entrance you with my aphrodisiac.
 Pshew-...♪
 
-<ドレインインプ2>
+<(69)ドレインインプ2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<ドレインインプ1>
+<(69)ドレインインプ1>
 アクティブ：上
-My aphrodisiac will weaken you.
+I shall weaken you with my aphrodisiac.
 Pshew-...♪
 
-<ドレインインプ3>
+<(69)ドレインインプ3>
 アクティブ：上
-My aphrodisiac will entrance you.
+I shall entrance you with my aphrodisiac.
 Pshew-...♪
