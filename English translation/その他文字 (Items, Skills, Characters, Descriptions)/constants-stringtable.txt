@@ -15,7 +15,7 @@ var StringTable = {
 	
 	UnitSortie_Start: 'Press Space',
 	UnitSortie_Max: 'Max Number Of Units',
-	UnitSortie_Question: 'Start Unit Sortie?',
+	UnitSortie_Question: 'Engage the enemy?',
 	
 	Stock_Extract: 'Take items from the convoy',
 	Stock_Store: 'Store items in the convoy',
@@ -160,18 +160,18 @@ var StringTable = {
 	
 	ItemInfo_Recovery: 'Recovery ',
 	ItemInfo_EntireRecovery: 'Full Recovery ',
-	ItemInfo_Damage: 'Damage',
-	ItemInfo_ClassChange: 'Class Change',
-	ItemInfo_Doping: 'Medicine',
-	ItemInfo_Resurrection: 'Revive',
-	ItemInfo_SkillChange: 'Skill',
-	ItemInfo_Quick: 'Galeforce',
-	ItemInfo_Teleportation: 'Teleportation',
-	ItemInfo_Rescue: 'Rescue',
-	ItemInfo_Key: 'Lockpicking',
-	ItemInfo_Durability: 'Durability',
+	ItemInfo_Damage: 'Damaging ',
+	ItemInfo_ClassChange: 'Class Change ',
+	ItemInfo_Doping: 'Medicine ',
+	ItemInfo_Resurrection: 'Revive ',
+	ItemInfo_SkillChange: 'Skill ',
+	ItemInfo_Quick: 'Instant ',
+	ItemInfo_Teleportation: 'Teleportation ',
+	ItemInfo_Rescue: 'Rescue ',
+	ItemInfo_Key: 'Lockpicking ',
+	ItemInfo_Durability: 'Durability ',
 	ItemInfo_Steal: 'Steal',
-	ItemInfo_State: 'State',
+	ItemInfo_State: 'State ',
 	ItemInfo_StateRecovery: 'Recovery ',
 	ItemInfo_Switch: 'Special ',
 	ItemInfo_Fusion: 'Fusion',
@@ -180,7 +180,7 @@ var StringTable = {
 	ItemInfo_Custom: 'Custom ',
 	
 	ItemWord_SuffixItem: 'Item',
-	ItemWord_SuffixWand: ' Stave',
+	ItemWord_SuffixWand: 'Stave',
 	ItemWord_MultiAttack: 'x attack',
 	
 	SkillWord_Less: '% less',
@@ -210,13 +210,13 @@ var StringTable = {
 	DurabilityType_Half: 'Halve',
 	DurabilityType_Break: 'Destoryed',
 	
-	Chapter_Header: 'Chapter',
+	Chapter_Header: 'Chapter ',
 	Chapter_Footer: '',
-	Chapter_SideStory: 'Side Story',
+	Chapter_SideStory: 'Side Story ',
 	Chapter_First: 'Prologue',
 	Chapter_Last: 'Epilogue',
 	Chapter_Rest: '★',
-	Chapter_Quest: 'Quest',
+	Chapter_Quest: 'Paralogue ',
 	
 	Spped_Direct: 'Instant',
 	Speed_High: 'Fast',
@@ -275,7 +275,7 @@ var StringTable = {
 	SkillCategory_Custom: 'カスタム',
 	
 	GetTitle_ItemChange: 'Item Get!……',
-	GetTitle_SkillChange: 'SkillG et!……',
+	GetTitle_SkillChange: 'Skill Get!……',
 	GetTitle_GoldChange: 'Gold Get!……',
 	GetTitle_BonusChange: 'Renown Get!……',
 	
