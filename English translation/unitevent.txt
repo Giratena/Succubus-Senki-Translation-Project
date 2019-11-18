@@ -22,7 +22,7 @@ it can be used as a weapon.*
 In it's wake, enemy succubus will be inflicted
 with the "Light Seal" status.*
 The "Light Seal" status prevents enemies from 
-using stronger skills, and decreases their stats.*
+using stronger skills, and decreases movement.*
 The "Light Seal" is so advanced it can even 
 effect advanced level succubus, and power them
 down.
@@ -46,7 +46,7 @@ it can be used as a weapon.*
 In it's wake, enemy succubus will be inflicted
 with the "Light Seal" status.*
 The "Light Seal" status prevents enemies from 
-using stronger skills, and decreases their stats.*
+using stronger skills, and decreases movement.*
 The "Light Seal" is so advanced it can even 
 effect advanced level succubus, and power them
 down.
