@@ -3354,7 +3354,7 @@ then we'll just have to be tougher!
 Right, now we just need to get out of here!
 
 テロップ：中央
-We promptly escaped from the academy,
+We promptly escaped from the academy with
 everyone and the sage safely in tow.*
 Despite the powerful enemies,
 we managed to overcome them all the same.*
