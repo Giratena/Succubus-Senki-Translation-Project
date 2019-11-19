@@ -77,7 +77,7 @@ var StringTable = {
 	Config_ScrollSpeed: 'Scroll speed',
 	Config_ScrollSpeedDescription:  'Set the scroll speed during unit commands.',
 	Config_EnemyMarking: 'Display enemy danger area',
-	Config_EnemyMarkingDescription:  'Toggle enemy range visability.',
+	Config_EnemyMarkingDescription:  'Set if the danger area can be seen when right clicking.',
 	Config_MapUnitHpVisible: 'Unit HP display',
 	Config_MapUnitHpVisibleDescription:  'Toggle the unit map HP display.',
 	Config_MapUnitSymbol: 'Unit map statuses',
