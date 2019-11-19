@@ -1111,7 +1111,7 @@ Monsters are attacking!
 Our village is surely done for!!
 
 ノブ：上
-Heheh, this sounds like a job for the mercenaries!
+Heh, this sounds like a job for the mercenaries!
 
 ユミル：上
 If we can defend this town, we'll hit it huge!
@@ -1132,7 +1132,7 @@ What the heck are you so nervous for?
 
 ユミル：上
 If we are victorious, we can collect
-our due from the Order of Knights.
+our due from the Order of Knights.*
 Now let's go, as men of courage!
 
 男：上

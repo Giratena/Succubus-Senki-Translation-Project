@@ -9,7 +9,7 @@ var StringTable = {
 	
 	Communication_NoData: 'No Data',
 	
-	GameStart_DifficultySelect: 'Please select the game difficulty',
+	GameStart_DifficultySelect: 'Please set the game difficulty',
 	GameStart_ClearPointDescription: 'Clear points can be exchanged for items.\nRecommended for players who want a strength boost at the start of the game.\n\nCurrent Clear Points:',
 	GameStart_ClearPointQuestion: 'Part with this item?',
 	
