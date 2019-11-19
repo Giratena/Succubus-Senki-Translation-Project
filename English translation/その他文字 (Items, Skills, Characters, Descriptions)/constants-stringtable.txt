@@ -29,7 +29,7 @@ var StringTable = {
 	Marshal_Shop: 'Buy items',
 	Marshal_Bonus: 'Exchange renown for items.',
 	Marshal_ItemUse: 'Use items',
-	Marshal_ClassChange: 'Change a unit's class.',
+	Marshal_ClassChange: 'Change a unit\'s class.',
 	
 	ItemUse_Unit: 'Ally',
 	ItemUse_Stock: 'Convoy',
