@@ -21,7 +21,7 @@ var StringTable = {
 	Stock_Store: 'Store items in the convoy',
 	Stock_AllStore: 'Store all items in the convoy',
 	
-	Marshal_StockOperation: 'Switch units with the up and down key if not in combat.',
+	Marshal_StockOperation: 'If not in combat: Switch units with the up and down key.',
 	Marshal_StockTrade: 'Retrieve items from the convoy.',
 	Marshal_ItemTrade: 'Swap items between units.',
 	Marshal_UnitSort: 'Reorganise unit positions.',
