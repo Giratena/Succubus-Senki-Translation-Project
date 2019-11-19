@@ -154,7 +154,7 @@ var StringTable = {
 	StockItem_Store: 'Store',
 	StockItem_AllStore: 'Store All',
 	
-	ItemWork_Equipment: 'Equipment',
+	ItemWork_Equipment: 'Equip',
 	ItemWork_Use: 'Use',
 	ItemWork_Discard: 'Discard',
 	
