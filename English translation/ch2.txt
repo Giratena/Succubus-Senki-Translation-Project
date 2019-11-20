@@ -1474,11 +1474,11 @@ All units gained 60 exp.
 <CM2>
 ユミル：上
 Huh? You want to hear my opinion on tactics?**
-The purpose of this fight is to rout the enemies 
+The purpose of this fight is to defeat the enemies 
 attacking the capital.*
 Therefore, even if our forces aren't wiped out, 
 if the allied forces are defeated, we lose...*
-We either need to rout the enemy, or 
+We need to either rout the enemy, or 
 defeat the enemy leader.
 
 ユミル：上
