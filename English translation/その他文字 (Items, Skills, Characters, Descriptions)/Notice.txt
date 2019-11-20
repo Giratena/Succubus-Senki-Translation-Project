@@ -12,9 +12,9 @@
 (See more details in the 'Read Me' file)
 <<<<<<<<
 How to play:
-1. Select a Unit
-2. Choose where to move
-3. Attack an enemy
+1. Select a Unit.
+2. Choose where to move.
+3. Attack an enemy.
 The enemy's turn follows when 
 all ally units have acted.
 <<<<<<<<

@@ -14,7 +14,7 @@ Uaaah-!!!
 
 乳魔アリス：上
 \vo[a83]Uwawawah, I can't feel my body!
-What's going on? My sexual aura won't work...!
+What gives? My sexual aura won't work...!
 
 テロップ：中央
 When the holy sword of light is released,
@@ -38,7 +38,7 @@ at this level!
 
 乳魔アリス：上
 \vo[a83]Uwawawah, I can't feel my body!
-What's going on? My sexual aura won't work...!
+What gives? My sexual aura won't work...!
 
 テロップ：中央
 When the holy sword of light is released,
@@ -84,9 +84,9 @@ protected by the wind...
 When the holy sword of wind is released,
 it can be used as a weapon.*
 In it's wake, allies will receive the 
-"Wind Blessing" status for three turns.
+"Wind Blessing" status for three turns.*
 As long as the "Wind Blessing" is active, allies
-will not receive abnormal states.
+will not receive abnormal states.*
 Some powerful enemy attacks can only be prevented
 via the "Wind Blessing" status.*
 ※Caution※
@@ -113,9 +113,9 @@ protected by the wind...
 When the holy sword is released,
 it can be used as a weapon.*
 In it's wake, allies will receive the 
-"Wind Blessing" status for three turns.
+"Wind Blessing" status for three turns.*
 As long as the "Wind Blessing" is active, allies
-will not receive abnormal states.
+will not receive abnormal states.*
 Some powerful enemy attacks can only be prevented
 via the "Wind Blessing" status.*
 ※Caution※
