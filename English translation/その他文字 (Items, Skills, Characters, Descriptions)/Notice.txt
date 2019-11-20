@@ -25,7 +25,7 @@ all ally units have acted.
 ・Various options such as the BGM can also be 
 　configured in this way.
 ・The difficulty can be changed via the 
-　"Special Options" at any time.
+　"Special Options" menu at any time.
 
 
 [ch4]
