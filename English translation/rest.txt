@@ -3759,15 +3759,15 @@ Nice to meet you. I'm Mileena.
 
 ノブ：上
 Oho, if it isn't Ray.**
-I've been staying here. This young lady,
-Mileena, invited me while I was out drinking.
+This young lady called Mileena, invited me while 
+I was out drinking. I've been staying here since.
 
 ミレニア：上
 \vo[mi3]I saw Nobus tired out and drinking alone 
 at his own party.*
 \vo[mi4]So, I started to chat with him.**
 \vo[mi5]When it's only two people,
-you can talk for ages and ages...
+You can talk for ages and ages...
 It was a fun evening.
 
 ノブ：上
@@ -3787,9 +3787,9 @@ setting up base here in the meantime.
 テロップ：中央
 Mileena gave Nobus a hug, and his face turned 
 red with embarrassment.*
-Seeing the two like that,
+Not wanting to interfere,
 I decided to give them some
-space and left promptly.
+space and promptly left the inn.
 
 <CM8>
 兵隊：上
@@ -3821,15 +3821,16 @@ right? I thought so. Here, take this.
 
 <CM47>
 兵隊：上
-Ah. Good morning.
-I've been keeping a record of all the people in
-town.
-Because of yesterday's attack, I wasn't able
-to account for the people who ran away, so I'll
-have to start over again.
-It's not just limited to this either, keeping
-records are incredibly important. I'd recommend
-using it to stay out of trouble.
+Ah. Good morning!
+I've been keeping a records of all the people 
+in town.
+But because of yesterday's attack, I wasn't able
+to account for the people who ran away, so 
+I guess I'll have to start over again...
+It's not just limited to townspeople, keeping
+records are incredibly important.*
+I'd recommend recording things down whenever 
+possible so you don't find yourself in a bind.*
 
 テロップ：中央
 The ability to [Save] is enabled during the 
