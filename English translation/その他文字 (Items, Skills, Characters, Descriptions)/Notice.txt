@@ -18,10 +18,14 @@ How to play:
 The enemy's turn follows when 
 all ally units have acted.
 <<<<<<<<
-・空地で決定ボタンを押すと、メニューが開けます。
-・自軍ターンの開始時にはメニューでセーブができます
-・オプションでBGMの音量など色々な設定ができます。
-・難易度は「特殊オプション」でいつでも変更できます。
+・The menu will be brought up when the confirm key 
+　is pressed on a vacant space.
+・If no units have moved that turn, the save option
+　can be used via this menu.
+・Various options such as the BGM can also be 
+　configured in this way.
+・The difficulty can be changed via the 
+　"Special Options" at any time.
 
 
 [ch4]
