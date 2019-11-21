@@ -30,19 +30,21 @@ The HP of surrounding allies has been restored!
 
 <PL3>
 美脚エルフ：上
-ううっ、このままじゃ仲間たちが・・・。**
-おねがい。助けて。あなたたちだけが頼りなの。
+Oh no, at this rate all my friends will be...**
+Please, help them. You're the only people
+we can count on.
 
 美脚エルフ：上
-薬を渡すぐらいしかわたしたちにはできない。
-頑張って・・・！
+The only thing we can do is offer recovery 
+medicine.
+Good luck...!
 
 <PL4>
 巨乳エルフ：上
-ひぃええ、怖いよぉ・・・。**
-魔物と戦ったことはあるけど、
-あんなふうに自分の友達が急に悪魔になるなんて、
-どうすればいいの・・・。
+Eeek, I'm scared...**
+I've fought demons before, but now suddenly 
+But now my friends who have turned into demons,
+what should I do...
 エッチなことは好きだけどあんなのはやだよぉ・・・。
 仲間や人間を襲いたくない・・・。
 
@@ -4826,22 +4828,30 @@ particularly dangerous foe.
 <CM5>
 チェリッシュ：中央
 Cherish**
-誘惑の小悪魔、と呼ばれる中級サキュバス。**
-南方地域を中心に各地の集落を襲って
-仲間を増やしていた。*
-前々からエルフを森の中で見かけており、
-その集落を狙っていたのだが、*
-跡をつけても結界の力で途中でエルフの姿が消え、
-その集落を見つけることができずにいた。*
-今回は周辺を調査していたところ、
-たまたま結界に穴が開いているのを見つけて、
-侵入できたようである。
-準備もなく単騎で乗り込んできたのは、
-これまで多くの男を魅了し、女性を淫魔化してきた
-自分の能力への自信の表れである。
-高慢な性格をしており、男性を小馬鹿にしている。
-自分は空中に浮きながら相手を見下ろして
-一方的に足で精を搾り取るのを好む。
-彼女の足さばきは男を恍惚とさせるほど巧みであり、
-彼女の言動に腹を立てたとしても、強い快楽の前で、
-抵抗もできずに搾り取られてしまうだろう。
+An intermediate leveled succubus knicknamed
+the temptation imp.**
+By attacking villages in various places around 
+the southern region, she was able to increase
+her strike force.
+Although she had seen the elves in the forest,
+and planned on attacking their village from their
+beginning,
+she was never able to find the village and
+even when following them, she would lose them
+in the magic barrier.*
+However when surveying the forest surroundings
+this time, she discovered the breach in the 
+magical barrier, and was able to invade that way.
+She invades without a moments notice, 
+charming numerous men and converting women into
+succubus with her self-confident techniques.
+Prideful and concieted, she enjoys making 
+fools out of men,*
+taking delight in forcefully squeezing out their 
+semen with her feet while looking down on them 
+with an air of superiority.
+Her footwork is so skilled, she can use her feet 
+to put men into a state of trance.
+Even those who take offense to her words and 
+actions, end up unable to resist her powerful 
+pleasures, and will likely be squeezed dry.
