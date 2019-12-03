@@ -4,10 +4,10 @@
 ：上
 Eek! What on... Enemies?
 
-<(65536)ルミーネ0>
 アクティブ：上
 \vo[rumi78]Aren't my lips fascinating?
 Mm... Mwah～❤
+<(65536)Luminara0>
 
 <(65536)Luminara1>
 アクティブ：上
