@@ -1,13 +1,12 @@
 
 
 <(262144)ミツヒデ0>
-ミツヒデ：上
 I'll lend you my support!
+Mizuhide：上
 
 <(262144)ミツヒデ1>
-ミツヒデ：上
 If I can help even just a little...!
+Mizuhide：上
 
 <(262144)ミツヒデ2>
-ミツヒデ：上
-Don't give up now!
+Don't give up now!Mizuhide：上
