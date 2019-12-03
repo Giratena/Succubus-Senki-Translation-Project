@@ -4749,14 +4749,14 @@ who fight alongside you.
 テロップ：中央
 Each unit can change classes at Lv5 or Lv15.
 With class change, other than gaining bonuses to 
-stats,* 
-their stat limits will go up, and some 
-special abilities may be available during combat 
+stats, 
+their stat limits will go up, and some special 
+abilities may be made available during combat 
 as well.
 You can change classes at will through the
-"unit formation" option. There are no 
-disadvantages to changing classes, so don't hold
-back!
+"unit formation" option.*
+There are no disadvantages to changing classes, 
+so go wild!
 
 <CM32>
 テロップ：中央
@@ -6791,9 +6791,9 @@ to nibble away at his heart.
 The Queen had the power to instill ideas of blind
 love in what she saw.
 And even he began to fall under her power.
-He thought to himself, "If I because the Queen's 
-slave like this, then I'll end up hurting the
-people I tried to save up until now"
+He thought to himself, "If I become the Queen's 
+slave, I'll end up hurting everyone I tried to 
+save up until now".
 And so, he, willingly...**
 He willingly took his own life.
 Right before he turned to the enemies side.*
@@ -6856,9 +6856,9 @@ At the time, I was only angry at the people for
 their in-appreciation towards him. If only I had
 the wisdom to see what was really going on.
 Then that way...**
-If I had looked to other ways other than just
-trying to convince them, I might have been able
-to change other's perspectives...
+If I had looked to other ways than just trying to 
+convince them, I might have been able
+to change their perspectives...
 ...**
 Oh well, it is all in the past now.
 
@@ -6883,7 +6883,7 @@ it in a book or something similar, correct?
 I would prefer to protect the memories between
 him and I to the public eye.*
 The two holy swords are the only keepsakes I have
-left of him... So let me at keep at least this
+left of him... So let me keep at least this
 as a secret. Let's leave it at that.
 
 ミツヒデ：上
@@ -6901,7 +6901,7 @@ won't I be lonely If I hand over my mementos?*
 It certainly makes me sad to part with my friend's
 only keepsakes, the holy swords.
 But, if you can finally defeat the Succubus Queen,
-then his dream will finally be for-filled.
+then his dream will finally be fulfilled.
 That's what would make me happy the most.
 So come tomorrow, be prepared to resist and over
 come the Queen's curse. I'm counting on you.
