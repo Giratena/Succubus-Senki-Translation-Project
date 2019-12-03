@@ -2980,14 +2980,16 @@ I'll feast on your life slowly, okay? Be sure to
 give me lots of energy as my livestock-❤
 
 テロップ：中央
-そういうとサキュバスは、
-すっかり魅了された僕を連れて、
-森のどこかへと入っていった。
-遠くで村の仲間たちが襲われている声がするのに、
-その声はもはや僕の耳には届かない。*
-目の前の彼女に干からびるまで食べられる、
-夢のような生活で頭がいっぱいなのであった。*
-こうして僕らの物語はその幕を閉じたのであった。
+And like that, the succubus completely 
+chamred me and took me somewhere deep into 
+the forest.
+Although the voices of the attacked villagers and
+my companions echoed in the distance, 
+they fell on deaf ears.
+The woman in front of me absorbed my every 
+thought. It was like I was living out a dream 
+in my mind.
+And so, my story came to a close.
 
 <AT30-5>
 テロップ：中央
