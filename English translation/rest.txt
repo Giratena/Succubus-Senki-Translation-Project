@@ -590,7 +590,7 @@ Aah, aaah....❤❤
 
 お姉さん：上
 Amazing, isn't it? My aphrodisiac kiss, 
-the feeling of my breasts...*
+the soft sensations of my breasts...*
 And now that your penis is being touched, 
 it's absolutely throbbing with pleasure...
 So if I move like this...
@@ -908,7 +908,7 @@ Good-❤ Good-❤
 Feel as much pleasure as you can,
 and cum whenever you like-❤
 There's no need to resist.
-Give into the feeling of my boobies squishy strokes,
+Give into the squishy strokes of my booobies,
 empty your mind, and ejaculate in pleasure-❤
 Drink as much of my aphrodisiac as you can,
 so you can become more, and more addicted, okay?-❤
@@ -2188,83 +2188,88 @@ Just like Lamia told us, the recoil that coursed
 through our bodies was a lot more manageable
 the second time we activated them. 
 At first, I was worried the side effects of using
-the sword would be too much for me, 
-何日も寝込まずに
-力が戻るなら実戦でも使っていけそうだぜ。
+the sword would be too much for me, but after 
+a good rest, I should be ready to use it again.
 
 ミツヒデ：上
-それでは、そろそろここを出発しましょう。**
-王都に戻り、サキュバスに反撃するための
-作戦を練りたいと思います。
+Well then, we should be taking out leave now.**
+I'd like to return to the capital to devise a
+strategy on how we can fight back against the
+succubus threat.
 
 ラミア：上
-ふむ。短い間であったが、
-久しぶりの客人、楽しかったぞ。*
-聖剣はおぬしらに託した。
-見事夢魔の女王を打ち果たしてくるのじゃぞ！
-討伐の報告楽しみに待っておる！
+Mmhmm. While our time together was short,
+it's been awhile since we've had visitors.
+I enjoyed myself quite a bit.
+I will entrust the holy swords to you all.
+Give the Succubus Queen a worthy slaying!
+I'll be looking forward to the next time we meet!
 
 エルフ：上
-バイバイー！また来てねー！
+Bye bye-! Come again soon!
 
 テロップ：中央
-こうして、彼女たちに見送られながら、
-僕らはエルフの村を後にした。
+And so, we left the village as the Elves 
+saw us off.
 
 大臣：上
-第九騎士団の面々、
-聖剣入手の任務、ご苦労であった。*
-賢者殿から聞いたが、
-強力な淫魔の妨害にも関わらず、
-聖剣を見事解放したとのこと。さすがだな。
+Soldiers of the Ninth Order.
+You have all endured much hardship to 
+obtain the Holy swords.
+I heard from our wise sage that despite the 
+disturbance of a powerful demon, you were able to 
+liberate the holy sword. Exceptional work.
 
 レイ：上
-・・・・♪
+...♪
 
 大臣：上
-君たちが任務に従事している間、
-我々は淫魔の居城の特定を行っていた。*
-そして先日、
-ついに、その場所を突き止めることに成功したのだ。*
-今、各地から騎士団の兵力を集結させて、
-侵攻の準備を進めているところである。
+While your team was on duty, we have been scouting
+the whereabouts of the succubus castle.*
+We finally succeeded in discovering it's location
+a few days ago.*
+We are currently gathering forces from across the
+country in preperation to invade.
 
 ユミル：上
-兵力を集めて、
-一気に攻め落とすというわけですね。
+So all troops are being gathered
+for a large scale attack?
 
 大臣：上
-ああ、その通りだ。
-持久戦に持ち込まれれば不利である以上、
-本拠地を一気に攻めるに限る。
-さて、具体的な侵攻の日時およびその作戦は、
-現在わたしと賢者殿を中心に立案中である。*
-情報の漏洩を避けるためにも、
-ギリギリになってからキミたちに伝えることになる。
-その点、留意しておいてくれ。
-第九騎士団の面々も他の騎士団と同様に、
-いつでも出撃できるよう、
-着実に準備を進めてほしい。
+Precicely. We have no means of taking them down 
+through a battle of endurance, so we must attack 
+their stronghold in one swift blow.
+Now, the sage and I are currently 
+strategizing a draft of the invasion, 
+as well as the date and time.
+In order to prevent the disclosure of information,
+you will only be informed at the time of the 
+event, so keep that in mind.
+Along with the other soldiers, you must be
+fully prepared to engage the enemy at anytime.
 
 ノブ：上
-了解です。
+Understood.
 
 ミツヒデ：上
-聖剣を持つみなさんには、ほかの騎士団とは
-異なる任務を課す可能性があります。*
-出撃をしたら、しばらくは十分な物資の補給が
-得られない状況におかれるかもしれません。
-武器や道具の準備は入念にお願いします。
+As you all are in possesstion of the holy swords,
+your duties will be slightly different from the
+other soldiers.
+Before you engage the enemy, ensure you have
+plenty of supplies that will last.*
+There's no telling what situation you'll find 
+yourselves in, so please be cautious in how you
+prepare your weapons and equipment.
 
 レイ：上
-・・・・・・。
+...
 
 テロップ：中央
-侵攻作戦が実行されれば、
-王都にはしばらく戻ってこれないだろう。*
-王都の商店や宝物庫が利用できるのは
-これが最後になるかもしれない。
-任務の前にきちんと準備を進めておこう。
+If this invasion is carried out, we won't be 
+returning to the capital for awhile.*
+This may be the last time we'll see the treasury
+and shops. We'll need to take careful preperations
+for when the time comes.
 
 <OP8>
 テロップ：中央
@@ -4749,14 +4754,14 @@ who fight alongside you.
 テロップ：中央
 Each unit can change classes at Lv5 or Lv15.
 With class change, other than gaining bonuses to 
-stats,* 
-their stat limits will go up, and some 
-special abilities may be available during combat 
+stats, 
+their stat limits will go up, and some special 
+abilities may be made available during combat 
 as well.
 You can change classes at will through the
-"unit formation" option. There are no 
-disadvantages to changing classes, so don't hold
-back!
+"unit formation" option.*
+There are no disadvantages to changing classes, 
+so go wild!
 
 <CM32>
 テロップ：中央
@@ -6791,9 +6796,9 @@ to nibble away at his heart.
 The Queen had the power to instill ideas of blind
 love in what she saw.
 And even he began to fall under her power.
-He thought to himself, "If I because the Queen's 
-slave like this, then I'll end up hurting the
-people I tried to save up until now"
+He thought to himself, "If I become the Queen's 
+slave, I'll end up hurting everyone I tried to 
+save up until now".
 And so, he, willingly...**
 He willingly took his own life.
 Right before he turned to the enemies side.*
@@ -6856,9 +6861,9 @@ At the time, I was only angry at the people for
 their in-appreciation towards him. If only I had
 the wisdom to see what was really going on.
 Then that way...**
-If I had looked to other ways other than just
-trying to convince them, I might have been able
-to change other's perspectives...
+If I had looked to other ways than just trying to 
+convince them, I might have been able
+to change their perspectives...
 ...**
 Oh well, it is all in the past now.
 
@@ -6883,7 +6888,7 @@ it in a book or something similar, correct?
 I would prefer to protect the memories between
 him and I to the public eye.*
 The two holy swords are the only keepsakes I have
-left of him... So let me at keep at least this
+left of him... So let me keep at least this
 as a secret. Let's leave it at that.
 
 ミツヒデ：上
@@ -6901,7 +6906,7 @@ won't I be lonely If I hand over my mementos?*
 It certainly makes me sad to part with my friend's
 only keepsakes, the holy swords.
 But, if you can finally defeat the Succubus Queen,
-then his dream will finally be for-filled.
+then his dream will finally be fulfilled.
 That's what would make me happy the most.
 So come tomorrow, be prepared to resist and over
 come the Queen's curse. I'm counting on you.
