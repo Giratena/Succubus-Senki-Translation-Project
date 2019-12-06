@@ -2013,7 +2013,7 @@ We'll treat you all to our specialty dishes,
 so let’s just all have a good time-*
 Well? What are we waiting for? Come on!
 
-ミツヒデ：上
+Mizuhide：上
 Ah, I would appreciate it if you didn't
 pull so hard on my arm...
 
@@ -4852,7 +4852,7 @@ Only then will the path to the holy sword
 open before you!
 
 <OP2>
-ミツヒデ：上
+Mizuhide：上
 According to the documents stored in the church,
 the sacred spring should be in this direction.*
 However, the villagers mention that they haven't
@@ -4868,7 +4868,7 @@ Hey, isn't that the same tree we passed not
 long ago?
 It's like we're going around in circles...
 
-ミツヒデ：上
+Mizuhide：上
 Verily.
 How strange...*
 If the contents of this document are true,
@@ -4878,7 +4878,7 @@ mark around here...
 ノブ：上
 Hm... Maybe this...?
 
-ミツヒデ：上
+Mizuhide：上
 Ah, perhaps this is it!
 The crest of an old kingdom!*
 And carved into such a small tree too.
@@ -4891,7 +4891,7 @@ so it makes sense the villagers didn't spot it
 either.
 So, what's our plan of action now?
 
-ミツヒデ：上
+Mizuhide：上
 The sentence here says-
 "Those with the blessing of wind and light, 
 place your hands on the royal family crest."
@@ -4927,7 +4927,7 @@ divine protection of light and wind.*
 If that is the case, I presume you are here
 to break the seal of the holy sword.
 
-ミツヒデ：上
+Mizuhide：上
 That is correct.**
 Succubi are currently raging havoc in our
 country, and only the power of the holy sword
