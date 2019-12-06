@@ -142,8 +142,8 @@ I'll cut all of you down with the power of wind!
 
 <AT17>
 チェリッシュ：上
-Ow ow ow, What the heck!
-My body is going numb...!
+Ow ow ow! What the heck!
+My body is going numb...
 
 <AT28>
 チェリッシュ：上
