@@ -779,6 +779,12 @@ The holy swords are powerful, but also come with
 drawbacks, so think carefully about the activation
 timing, and use them wisely.
 
+情報：重要
+ハード限定*
+聖剣は１マップで解放できる回数に限りがあります。
+解放できる回数は、レベルが６上がるごとに一回増え
+ます。
+
 <AT4>
 テロップ：中央
 Before releasing the holy sword,
