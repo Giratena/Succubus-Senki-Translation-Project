@@ -2048,7 +2048,7 @@ Alraune：上
 テロップ：中央
 A little while after Lamia fainted...
 
-ユミル：上
+Miles：上
 Hey, it looks like Lamia's awake now.
 
 Lamia：上
@@ -3785,10 +3785,10 @@ the state usually lasts for two turns.
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -3832,10 +3832,10 @@ Ufufu-♪
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -3877,10 +3877,10 @@ Ufufu- You're all very welcome to-❤
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -3924,10 +3924,10 @@ Ufufu-♪
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -3969,10 +3969,10 @@ Ufufu- You're all very welcome to-❤
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -4016,10 +4016,10 @@ Ufufu-♪
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -4061,10 +4061,10 @@ Ufufu- You're all very welcome to-❤
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -4113,10 +4113,10 @@ men are such fools- Teehee-
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -4157,10 +4157,10 @@ Teehee-❤
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -4209,10 +4209,10 @@ men are such fools- Teehee-
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -4253,10 +4253,10 @@ Teehee-❤
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -4303,10 +4303,10 @@ Ufufu-
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -4353,10 +4353,10 @@ Ufufu-
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -4401,10 +4401,10 @@ pleasureably-❤
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -4460,10 +4460,10 @@ Teehee...❤
 レイ：上
 Haah... Haaah...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -4516,10 +4516,10 @@ Haah... Haaah...❤
 It's just a little further... 
 But I can't resist...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -4562,10 +4562,10 @@ Haah... Haaah...❤
 It's just a little more but... 
 I can't resist anymore...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ D, dammit...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 
 アクティブ：上
@@ -4606,11 +4606,11 @@ Thanks to you, I'm back to full strength-
 レイ：上
 Haah...❤ Haah...❤
 
-ユミル：上
+Miles：上
 Ooooh...❤ Please...❤
 I can't take it anymore...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 Oooh, please...❤
 
@@ -4635,11 +4635,11 @@ pleasure like this... Kuhuhu-❤
 Ooh, I can't stand it anymore...❤
 Please, please make me feel good...❤
 
-ユミル：上
+Miles：上
 Ooooh...❤ Please...❤
 I can't take it anymore...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 Oooh, please...❤
 
@@ -4672,11 +4672,11 @@ I hope you enjoyed yourself-
 Ooh, I can't stand it anymore...❤
 Please, please make me feel good...❤
 
-ユミル：上
+Miles：上
 Ooooh...❤ Please...❤
 I can't take it anymore...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 Oooh, please...❤
 
@@ -4708,11 +4708,11 @@ I hope you enjoyed yourself-
 レイ：上
 Haah...❤ Haah...❤
 
-ユミル：上
+Miles：上
 Ooooh...❤ Please...❤
 I can't take it anymore...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 Oooh, please...❤
 
@@ -4735,11 +4735,11 @@ your semen like this? Ufufu-❤
 Haah...❤ Haah...❤
 Please, please pleasure me with your breasts...❤
 
-ユミル：上
+Miles：上
 Ooooh...❤ Please...❤
 I can't take it anymore...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 Oooh, please...❤
 
@@ -4772,11 +4772,11 @@ they felt amazingly good, didn't they? Ehehe-♪
 Haah...❤ Haah...❤
 Please, please pleasure me with your breasts...❤
 
-ユミル：上
+Miles：上
 Ooooh...❤ Please...❤
 I can't take it anymore...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 Oooh, please...❤
 
@@ -4809,11 +4809,11 @@ they felt amazingly good, didn't they? Ehehe-♪
 Haah...❤ Haah...❤
 Please, pleasure me with your breasts...❤
 
-ユミル：上
+Miles：上
 Ooooh...❤ Please...❤
 I can't take it anymore...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 Oooh, please...❤
 
@@ -4846,11 +4846,11 @@ they felt amazingly good, didn't they? Ehehe-♪
 Haah...❤ Haah...❤
 Please, pleasure me with your thighs...❤
 
-ユミル：上
+Miles：上
 Ooooh...❤ Please...❤
 I can't take it anymore...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 Oooh, please...❤
 
@@ -4880,11 +4880,11 @@ Ufufu-♪
 Haah...❤ Haah...❤
 Please, pleasure me with your thighs...❤
 
-ユミル：上
+Miles：上
 Ooooh...❤ Please...❤
 I can't take it anymore...❤
 
-ノブ：上
+Nobus：上
 Not good..., I, I'm already...❤
 Oooh, please...❤
 
@@ -4936,7 +4936,7 @@ seen any sort of spring at all.*
 It's most curious, but we should continue at
 any rate.
 
-ユミル：上
+Miles：上
 Ugh, this is a considerably deep forest.
 it's getting thicker the further we go.*
 ...**
@@ -4951,7 +4951,7 @@ If the contents of this document are true,
 there should be some sort of seal or
 mark around here...
 
-ノブ：上
+Nobus：上
 Hm... Maybe this...?
 
 Mizuhide：上
@@ -4960,7 +4960,7 @@ The crest of an old kingdom!*
 And carved into such a small tree too.
 To think we nearly overlooked this...
 
-ユミル：上
+Miles：上
 Oh, this?**
 I certainly wouldn't have been able to tell,
 so it makes sense the villagers didn't spot it
@@ -4977,13 +4977,13 @@ if you would be so kind.
 レイ：上
 ...
 
-ノブ：上
+Nobus：上
 ...?
 
 レイ：上
 ...!
 
-ノブ：上
+Nobus：上
 It's been nothing but forest until now and yet...**
 Is this where the sealed fountain is?
 
@@ -4993,7 +4993,7 @@ Oh, who might you be?
 レイ：上
 ...!
 
-ユミル：上
+Miles：上
 Sh, she's huge...!
 A huge snake, twice as tall as us!
 
@@ -5016,7 +5016,7 @@ Lamia：上
 I am the protector and guardian of this place.
 You may refer to me as Lamia, or the Snake Deity.
 
-ノブ：上
+Nobus：上
 Guardian...?
 
 Lamia：上
@@ -5033,7 +5033,7 @@ So we monsters protect the fountain, and swore
 an oath to test any heroes who would try to
 touch the holy sword.
 
-ユミル：上
+Miles：上
 A test? As in some sort of trial?
 
 Lamia：上
@@ -5053,7 +5053,7 @@ Only then will the path to the holy sword
 open before you!
 
 <CM0>
-ユミル：上
+Miles：上
 You want to hear my opinion on battle tactics?**
 The aim of this fight is to clear 
 the trial of the holy sword by defeating 
@@ -5061,12 +5061,12 @@ the enemy commander, Lamia.
 Lamia is here with in the lake,
 on the small island.
 
-ユミル：上
+Miles：上
 We might run into some problems on the way though.**
 First of all, we need to get past the main 
 island, where all the elves are.
 
-ユミル：上
+Miles：上
 There are some magic circles on the island the
 elves occupy, but I think it would be unwise
 to take it as soon as we can.
@@ -5074,7 +5074,7 @@ I say that because next to that island, is an
 Alraune, a monster girl that takes appearance of
 a flower.
 
-ユミル：上
+Miles：上
 Alruances can carry their pollen across the wind.
 I've heard stories about them using it to confuse
 and bewilder animals.
@@ -5089,11 +5089,11 @@ We should have the experience to know what to
 expect, but we mustn't forget to take into account
 the enemies range as well.
 
-ユミル：上
+Miles：上
 Following that, 
 is the bridge where the mermaids reside.
 
-ユミル：上
+Miles：上
 While we'll be forced to fight one on one here,
 we should probably avoid leaving units there
 by themselves.
@@ -5107,11 +5107,11 @@ With allies to sustain attacks, we should
 take our the mermaid blocking the bridge as soon
 as we can.
 
-ユミル：上
+Miles：上
 We get past these two points, we can challenge
 Lamia.
 
-ユミル：上
+Miles：上
 When fighting Lamia, you'll need to make as much
 use of the magic circles as you can.*
 If we can encircle around her, 
