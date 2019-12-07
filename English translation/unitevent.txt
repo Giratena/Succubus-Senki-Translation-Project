@@ -62,19 +62,19 @@ Uwahh...❤
 Damn it...
 
 <(1)ユミル1>
-ユミル：上
+Miles：上
 Alright! It's go time!
 
 <(1)ユミル3>
-ユミル：上
+Miles：上
 Alright! It's go time!
 
 <(1)ユミル2>
-ユミル：上
+Miles：上
 O'holy wind sword! Lend me your power!
 Distill all evil and cast it to the wind!
 
-ユミル：上
+Miles：上
 What on earth...? 
 I feel the holy sword's power flowing through me!*
 It's as if my whole body is being 
@@ -99,11 +99,11 @@ The holy sword can no longer be activated
 at this level!
 (No. Times activated-\va1[0], Currently-\va4[10]）
 
-ユミル：上
+Miles：上
 O'holy wind sword! Lend me your power!
 Distill all evil and cast it to the wind!
 
-ユミル：上
+Miles：上
 What on earth...? 
 I feel the holy sword's power flowing through me!*
 It's as if my whole body is being 
@@ -134,7 +134,7 @@ Aah, aaah...❤
 うう・・・。
 
 <(2)ノブ1>
-ノブ：上
+Nobus：上
 I'll protect you!
 
 <(3)イエヤス0>
@@ -1126,19 +1126,19 @@ Fall under my pheromones-❤
 アクティブ：上
 The power of my honey compels you...!
 
-<(61)美乳マーメイド2>
+<(61)Boobie Mermaid2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(61)美乳マーメイド1>
+<(61)Boobie Mermaid1>
 アクティブ：上
 My song will rob you of the will to fight-
 
-<(62)投げキッス人魚2>
+<(62)Kissing Mermaid2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(62)投げキッス人魚1>
+<(62)Kissing Mermaid1>
 アクティブ：上
 I'll give you a little kiss, so do your best-♪
 Mmm--wah!-❤
