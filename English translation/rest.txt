@@ -448,7 +448,7 @@ I pursued the woman who stole my belongings.
 お姉さん：上
 Huff, puff...
 Curses, you're still chasing me!?
-Ugh, damnit!
+Ugh, dammit!
 
 テロップ：中央
 We had reached a dead end.
@@ -2023,7 +2023,7 @@ phased through my body!
 Mirage：上
 Teehee-❤
 You let your mortal enemy drain your energy-❤*
-You knowm if you had resisted with all your might, 
+You know if you had resisted with all your might, 
 I wouldn't have been able to touch you with my 
 weakened magic.
 But yet you gave in to the pleasure, 
@@ -2107,7 +2107,7 @@ But you can wrap it around your arm like a
 bandage.
 As the name suggests, it's a cloth with the power
 to suppress the power of curses.*
-When I carrried the holy sword around the forest,
+When I carried the holy sword around the forest,
 I would carry it around wrapped with this cloth.*
 If you wear it around your body,
 you should be able to suppress curse's effect.
@@ -2232,14 +2232,14 @@ the whereabouts of the succubus castle.*
 We finally succeeded in discovering it's location
 a few days ago.*
 We are currently gathering forces from across the
-country in preperation to invade.
+country in preparation to invade.
 
 Miles：上
 So all troops are being gathered
 for a large scale attack?
 
 大臣：上
-Precicely. We have no means of taking them down 
+Precisely. We have no means of taking them down 
 through a battle of endurance, so we must attack 
 their stronghold in one swift blow.
 Now, the sage and I are currently 
@@ -2271,7 +2271,7 @@ Ray：上
 If this invasion is carried out, we won't be 
 returning to the capital for awhile.*
 This may be the last time we'll see the treasury
-and shops. We'll need to take careful preperations
+and shops. We'll need to take careful preparations
 for when the time comes.
 
 <OP8>
@@ -7190,7 +7190,7 @@ Aah, aaaah...!
 Elf：上
 Huh? Huh?
 Hey, are you alright!?*
-You suddenly colapsed...
+You suddenly collapsed...
 And, and this smell...
 
 Mirage：上
