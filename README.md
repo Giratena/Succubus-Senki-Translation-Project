@@ -33,10 +33,6 @@ A: Occasionally server events may occur for everyone to partake in! These events
 A: There's currently no full save located on the server, but you're welcome to ask for one. 
 	Someone will definitely have one lying around.
 
-**Q: Where are the emojis!?**
-A: Emojis are planned to be implemented soon. I'm also open to anyone submitting emojis for the server too, 
-	so feel free to send me a DM (@Giratena) if you have an idea or picture you'd like to submit!
--
 **Q: How can I stay up to date on translations?**
 	A: Check out the #github-updates channel! It contains all the updates to the translation script itself!
 
