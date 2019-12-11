@@ -244,7 +244,7 @@ var StringTable = {
 	Range_Self: 'Unit',
 	Range_All: 'All Units',
 	
-	Recovery_Value: 'Recovery',
+	Recovery_Value: 'Recovers:',
 	Recovery_All: 'Full Recovery',
 	
 	Aggregation_SuffixEquipment: ' Equipment',

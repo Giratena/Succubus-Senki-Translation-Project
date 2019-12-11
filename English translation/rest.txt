@@ -4813,10 +4813,9 @@ who fight alongside you.
 テロップ：中央
 Each unit can change classes at Lv5 or Lv15.
 With class change, other than gaining bonuses to 
-stats, 
-their stat limits will go up, and some special 
-abilities may be made available during combat 
-as well.
+stats, their stat limits will go up.
+Some special abilities may even be available 
+during combat as well.*
 You can change classes at will through the
 "unit formation" option.*
 There are no disadvantages to changing classes, 
@@ -5753,13 +5752,13 @@ they are lucky to be alive.*
 The children who normally would be happy to 
 see their parents again are constantly muttering
 "I have to see the priestess again".
-The scar that the demons left them is deep.*
+The scar that the demons left them is deep.
 I wonder if they'll ever be able to live a normal
 live again...
 
 <CM35>
 Man：上
-wowzers, for a rural area,
+Wowzers, for a rural area,
 they sure stock a lot of things here.*
 They've got panacea, concoctions...
 You can even get equipment that can only be bought
