@@ -2289,15 +2289,16 @@ Breast Succubus Alice created.
 
 Nobus：上
 Thanks to the power of the holy swords, we were
-able to take care of the invading succubus.
+able to take care of the invading succubus.*
 But, a considerable amount of Elves from the 
-village were turned into succubus...
+village were turned into succubus in the
+process...
 Ugh...
 We still weren't able to use our strength to
-save everyone. I'm sorry...
+save everyone. I blame myself...
 
 Lamia：上
-Fear not. Don't be so discouraged.
+Nonsense. Let's not get so discouraged.
 The villagers can still be saved.
 
 Succubus Elf：上
@@ -2310,9 +2311,9 @@ a flash of light and disappear, but the Elves
 are still right here. How is that possible?
 
 Lamia：上
-The power of the sword of light.**
-A sword that binds the power of a succubus.
-If one hasn't turned full succubus,*
+That's power of the sword of light.
+A sword that binds the power of a succubus.*
+If one hasn't turned full succubus,
 it will suppress their magic, 
 and stop the conversion process.
 
