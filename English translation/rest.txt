@@ -1,4 +1,4 @@
-﻿<AT40>
+<AT40>
 Lady：上
 あは、けっこう買ってくれたね。
 ありがとう♪*
@@ -393,6 +393,59 @@ Ray：上
 Lady：上
 んじゃ、バイバーイ♪
 
+<AT30>
+情報：情報
+【特殊オプションについて】
+拠点にある「特殊オプション」を選択すると、
+主人公の顔グラを変更したり、
+難易度を変更することができます。
+
+<AT55>
+情報：なし
+【クリア後拠点について】
+ハードモードクリア（強くてニューゲーム）
+おめでとうございます。*
+クリア後の拠点では、「情報収集」から、
+拠点イベントの回想ができます。
+
+情報：なし
+【クリア後拠点について】
+ハードモードクリア（２週目特典あり）
+おめでとうございます。*
+クリア後の拠点では、「情報収集」から、
+拠点イベントの回想ができます。
+
+情報：なし
+【クリア後拠点について】
+ハードモードクリア（２週目特典なし）
+おめでとうございます。*
+クリア後の拠点では、「情報収集」から、
+拠点イベントの回想ができます。
+
+情報：なし
+【クリア後拠点について】
+ハードモードクリア（お助けアイテムあり）
+おめでとうございます。*
+クリア後の拠点では、「情報収集」から、
+拠点イベントの回想ができます。
+
+情報：情報
+【クリア後拠点について】
+クリアおめでとうございます。
+クリア後の拠点では、「情報収集」から、
+拠点イベントの回想ができます。*
+２週目以降のプレイには特典があります。周回プレイを
+する場合は、拠点の「終了」を選んで新規ゲームをス
+タートしてください。
+
+<AT84>
+情報：情報
+【アップデート内容について】
+クリア後拠点のサブクエストが１つ追加されました。*
+また周回プレイ特典が実装されました。周回プレイをす
+る場合は、拠点の「終了」を選んで新規ゲームをスタ
+ートしてください。
+
 <AT23>
 テロップ：中央
 As I walked down the street 
@@ -432,7 +485,7 @@ and I lost track of where she went.
 In that moment, I heard a girl suddenly cry out
 from the alleyway beside me.
 
-Lady：上
+Girl：上
 Kyah-❤ Oh Mister, help me-
 
 Ray：上
@@ -700,7 +753,7 @@ thieves, my little undercover hero-❤ Teehee-❤
 テロップ：中央
 And with that, the woman left without a trace...
 
-Lady：上
+Girl：上
 Ahaha-❤ You came!
 Ooh- Now that I see you properly mister, 
 you look really handsome-♪
@@ -713,7 +766,7 @@ her clothing...
 Ray：上
 ...!
 
-Lady：上
+Girl：上
 Ahn-❤
 Well? My boobies are huge, aren't they?*
 These breasts are the biggest in my year group.
@@ -725,7 +778,7 @@ Did I say that? I'm not sure-
 But never mind about that, hora-❤
 Watch- Watch my boobies go bounce bounce～❤
 
-Lady：上
+Girl：上
 It's amazing, isn't it?
 The way they sway, wobble and change shape...
 It's super sexy-❤
@@ -759,7 +812,7 @@ You mustn't have wanted your belongings back
 that badly after all-
 Teehee-❤
 
-Lady：上
+Girl：上
 See?
 Even now, you're clearly disappointed
 I'm putting my clothes back on.
@@ -1197,7 +1250,6 @@ defeated, have we?
 We would have gained valuable experience from 
 fighting those rare enemies!
 
-
 Ray：上
 ...!
 
@@ -1324,7 +1376,6 @@ I cannot divulge the details, but he would like
 for you all to arrive at the castle tomorrow 
 evening and listen to what he has to say. 
 
-
 Miles：上
 Ah, now that I think about it, where's Nobus?
 I gotta have a toast with him too.*
@@ -1434,7 +1485,6 @@ they are referred to as 'Mu-ma'.
 Take a look at these inscriptions. 
 'In-ma' （淫魔）
 'Mu-ma' （夢魔）
-
 
 Miles：上
 Muma...? So what does that mean?
@@ -1638,7 +1688,7 @@ troubling your mind...❤
 <OP3>
 テロップ：中央
 現在のバージョンはここまでです。
-プRayありがとうございました。
+プレイありがとうございました。
 
 <OP4>
 テロップ：中央
@@ -2280,7 +2330,7 @@ for when the time comes.
 僕たちは待ち伏せを避けるために、
 当初の目的地の街ではなく、
 その隣にある小さな村に向かっていた。
-僕とMilesとNobusはお互いにほとんど無言で、
+僕とユミルとノブはお互いにほとんど無言で、
 暗く重たい雰囲気が僕たちの間に流れていた。*
 村に着くころにはすっかり日も落ち、
 夜中になっていた。
@@ -2288,7 +2338,7 @@ for when the time comes.
 Mizuhide：上
 ふぅ・・・。
 これでようやく一息つけますね。*
-Rayさんたちと外部との接触を断つことで、
+レイさんたちと外部との接触を断つことで、
 情報が漏れる可能性はほぼなくせた、
 と思っていたのですが、
 まさか夢に侵入して記憶を見る術があるとは・・・。
@@ -2298,21 +2348,21 @@ Rayさんたちと外部との接触を断つことで、
 渓谷地帯に援軍を呼んでおいたのが功を奏しました。
 
 Miles：上
-Mizuhideや大臣さまの采配には、
+ミツヒデや大臣さまの采配には、
 正直助けられたぜ。*
 俺たちにも内緒で援軍を呼んでくれたおかげで、
 相手に気取られなかったわけだ。
 敵を騙すにはまず味方からっていうやつだな。
 ・・・・・・。**
 それはさておき・・・。**
-おい、Nobus。
+おい、ノブ。
 詳しい説明をしてもらおうじゃねえか。*
 事と次第によっては、
 俺はこの団の副団長として、
 この場でお前の首をたたっ斬る・・・。
 
 Nobus：上
-ああ。Miles・・・・。もちろん、するよ。**
+ああ。ユミル・・・・。もちろん、するよ。**
 自分でも、
 全部が分かっているわけじゃないけど、
 できる限り説明する。
@@ -2330,7 +2380,7 @@ Ray：上
 Miles：上
 謝るのも償うのも、
 詳しい事情を聞いてからだ。*
-Mizuhide、いったん俺たち三人だけにしてくれねぇか。
+ミツヒデ、いったん俺たち三人だけにしてくれねぇか。
 俺たちは幼馴染だ。腹を割って話したい。
 
 Mizuhide：上
@@ -2339,7 +2389,7 @@ Mizuhide：上
 ひと段落したら、また詳しい事情を教えて下さい。
 
 テロップ：中央
-Mizuhideは部屋を出て行った。
+ミツヒデは部屋を出て行った。
 
 Nobus：上
 ・・・・。**
@@ -2347,8 +2397,8 @@ Nobus：上
 話す。
 
 テロップ：中央
-Nobusはこれまでの経緯を話し始めた。**
-学園でMizuhideを救出したあと、
+ノブはこれまでの経緯を話し始めた。**
+学園でミツヒデを救出したあと、
 泊っている宿屋でミレニアに術をかけられたらしいこと。*
 それ以降、毎晩夢の中でミレニアに誘惑され、
 快楽の代わりに記憶を盗み見られていたこと。*
@@ -2358,13 +2408,13 @@ Nobusはこれまでの経緯を話し始めた。**
 夢の中での出来事もすべて思い出したこと・・・。*
 淡々と、うつむきながら、
 自分自身の状況を整理するように、
-Nobusは話した。
+ノブは話した。
 
 Nobus：上
 ミレニアちゃんが言うには、
 心にスキマがある相手にだけ、
 夢の中に侵入する魔法はかけられるらしい。
-だから、RayやMilesではなく俺が狙われたんだ。
+だから、レイやユミルではなく俺が狙われたんだ。
 
 Miles：上
 隙間・・・？
@@ -2386,7 +2436,7 @@ Nobus：上
 サキュバスが相手だと、全然ダメで、
 真っ先に敵の術にかかっていつも二人に助けられてた。
 そのうえさ、
-Mizuhideを救出した後に、
+ミツヒデを救出した後に、
 二人に光と風の加護があるって分かっただろ。
 サキュバスを倒すには、二人がいれば十分なんだって
 事実を突きつけられたみたいで、
@@ -2405,7 +2455,7 @@ Ray：上
 
 Nobus：上
 俺は今、ひどく後悔している。**
-俺はRayやMilesみたいに、強い人間にはなれない。
+俺はレイやユミルみたいに、強い人間にはなれない。
 体ばかり大きくても、簡単に不安になっちまう、
 弱い人間なんだ。
 そんな俺がずるずるとこの団にいたばかりに、
@@ -2421,7 +2471,7 @@ Miles：上
 内通していながら、
 ずっと演技で俺たちを騙していたってことなら、
 俺はもうお前のことを信用できなくなったと思う。
-そんなの俺の知っているNobusじゃねえからよ。**
+そんなの俺の知っているノブじゃねえからよ。**
 だが、術にかかっていただけということなら、
 同情の余地はある。*
 これまでだって、仲間が一時的に敵に操られることが、
@@ -2435,7 +2485,7 @@ Nobus：上
 うっ・・・。
 
 Miles：上
-Ray、お前も殴れよ。
+レイ、お前も殴れよ。
 全力でいけ。
 
 Ray：上
@@ -2452,18 +2502,18 @@ Nobus：上
 
 Miles：上
 そんなんでいいのかよ。
-・・・まったくRayは優しいな。
+・・・まったくレイは優しいな。
 
 Ray：上
 ・・・・・。
 
 Miles：上
-・・・まったく、Rayは優しいな。
+・・・まったく、レイは優しいな。
 
 Miles：上
-Ray。俺はこれでひとまず、
+レイ。俺はこれでひとまず、
 手打ちにするのがいいんじゃないかと思う。
-Nobusのことを処刑したりはしない。
+ノブのことを処刑したりはしない。
 これ以上の罰を、いま加えるべきだとは思わねえ。
 
 Nobus：上
@@ -2493,7 +2543,7 @@ Miles：上
 まず第一に、お前は優劣を気にしているようだがな、
 俺らは同じ騎士団のメンバーだろ。敵同士ならまだしも
 身内で一位二位を競ってどうする。
-お前が俺やRayより劣るかどうかは重要じゃない。
+お前が俺やレイより劣るかどうかは重要じゃない。
 大事なのは部隊にいて戦力になるかどうかだ。*
 その点、お前は少なくともほかの兵隊より強い。**
 ただでさえ俺たちの部隊は人数が少ない。
@@ -2509,7 +2559,7 @@ Nobus：上
 Miles：上
 そういうことじゃねえ。**
 そんなこと言ったら、
-Rayより剣のうまい奴だって探せばいるだろうし、
+レイより剣のうまい奴だって探せばいるだろうし、
 俺より作戦を立てるのがうまいやつもいるさ。
 だけど今、
 第九騎士団として活動しているのは俺たちだ。
@@ -2549,7 +2599,7 @@ Miles：上
 
 Nobus：上
 ・・・・。**
-Milesの言うことには、もっともなところもあると思う。**
+ユミルの言うことには、もっともなところもあると思う。**
 先のことなんて全然考えていなかったし・・・。
 確かに普通の魔物との戦いも、
 この先あるのかもしれない。
@@ -2561,8 +2611,8 @@ Milesの言うことには、もっともなところもあると思う。**
 怖い・・・。
 
 Miles：上
-Ray、お前はどう思う？
-Nobusを許すべきか、それとももっと罰を与えるべきか。
+レイ、お前はどう思う？
+ノブを許すべきか、それとももっと罰を与えるべきか。
 
 Ray：上
 ・・・・・。
@@ -2570,7 +2620,7 @@ Ray：上
 Miles：上
 そうだな。確かに俺たちが殴っただけじゃあ、
 他の団員に示しが付かねえか。*
-Nobus、お前はしばらくの間、副団長からは降格だ。**
+ノブ、お前はしばらくの間、副団長からは降格だ。**
 こんな出来合いの団だから、
 役職なんてあってないようなものだが、
 しばらくは平の団員扱いで過ごしてもらうぜ。
@@ -2583,18 +2633,18 @@ Nobus：上
 こんな俺なのに・・・。
 
 Nobus：上
-Ray・・・。**
+レイ・・・。**
 二人ともすまない。
 こんな俺なのに・・・。
 
 テロップ：中央
 こうして、僕たちは話し合い、
-Nobusの件について、一応の決着をつけたのだった。*
+ノブの件について、一応の決着をつけたのだった。*
 ・・・・・。**
-その後、Mizuhideに事情をかいつまんで話すと、
+その後、ミツヒデに事情をかいつまんで話すと、
 今後の作戦内容についてはまた落ち着いてから
 話したいと言われた。
-まずはNobusにかかっていた魔術を解析して、
+まずはノブにかかっていた魔術を解析して、
 安全を確保してからにしたい、というのも理由らしい。*
 この先どう動くかはまだ秘密だが、
 この村には１日ほど滞在して、
@@ -2847,7 +2897,7 @@ Nobus：上
 ん・・・・。あれ、ここは王都の宿屋・・・？
 
 Mileena：上
-やっほー、Nobusくん。
+やっほー、ノブくん。
 今日もお疲れ様。
 
 Nobus：上
@@ -2856,7 +2906,7 @@ Nobus：上
 
 Mileena：上
 えへへ。
-ほら、Nobusくん。
+ほら、ノブくん。
 いつものように、わたしのおっぱいにおいで？
 顔をたくさん挟んでぎゅーってしてあげる・・・❤
 
@@ -2898,11 +2948,11 @@ Mileena：上
 毎回催眠にかけているから、
 もうすぐにかかるようになっちゃったね。*
 それじゃ今回も、
-Nobusくんが現実の世界で何をしてたのか、
+ノブくんが現実の世界で何をしてたのか、
 わたしに全部教えて・・・？
 大事なことも包み隠さず全部話すの。**
-だってわたしはNobusくんの大事な恋人だもんね。
-わたし、Nobusくんの知っていること全部知りたいな。
+だってわたしはノブくんの大事な恋人だもんね。
+わたし、ノブくんの知っていること全部知りたいな。
 
 Nobus：上
 うん、ミレニアちゃん・・・❤
@@ -2912,11 +2962,11 @@ Mileena：上
 うんうん、なるほど。
 聖剣の場所をついに突き止めちゃったんだ。*
 そっか・・・。
-Ray君たちが聖剣なんて手に入れたら、
+レイ君たちが聖剣なんて手に入れたら、
 きっと厄介だろうなぁ。
-それでNobusくん。
+それでノブくん。
 その場所はどこなの？
-今、Nobusくんたちはどこにいるの？教えて・・・・❤
+今、ノブくんたちはどこにいるの？教えて・・・・❤
 
 Nobus：上
 ううっ・・・・。
@@ -2925,7 +2975,7 @@ Mileena：上
 うふふ。少し抵抗があるのかな？
 危なくなるから、ふつう自分たちの居場所を、
 ペラペラしゃべったりしないもんね。
-でも、ほら見てNobusくん・・・。
+でも、ほら見てノブくん・・・。
 
 ：スチル
 ミレニアはそう言うと、
@@ -2940,25 +2990,25 @@ Mileena：上
 ほら・・・❤
 
 Mileena：上
-Nobusくんが大好きないつものやってあげる・・・❤**
+ノブくんが大好きないつものやってあげる・・・❤**
 おっぱいを顔に当てながら、
 シコシコ、シコシコ・・・❤*
 大きくなったここを、シコシコされるの気持ちいい？**
 気持ちよくて頭の中真っ白になるね。
-可愛いよ、Nobusくん❤
+可愛いよ、ノブくん❤
 
 Nobus：上
 ミレニアちゃん・・・❤
 好き・・・❤
 
 Mileena：上
-わたしも好きだよ、Nobusくん。**
-秘密をペラペラしゃべってくれるNobusくんが好き。
+わたしも好きだよ、ノブくん。**
+秘密をペラペラしゃべってくれるノブくんが好き。
 くすくす❤*
 ねえ、おねがい。
-Nobusくんに会いに行きたいから、
-Nobusくんのいる場所を教えて？
-わたしに会って、Nobusくんもいっぱいお話したいでしょ？
+ノブくんに会いに行きたいから、
+ノブくんのいる場所を教えて？
+わたしに会って、ノブくんもいっぱいお話したいでしょ？
 
 Nobus：上
 うん・・・❤
@@ -2979,9 +3029,9 @@ Nobus：上
 Mileena：上
 くすくす♪ダメじゃないよ。
 なんにもダメじゃない。*
-Nobusくんは弱いよね。
+ノブくんは弱いよね。
 目にハートを浮かべて、すっかり魅了されている❤
-でも、そんな弱いNobusくんがわたしは大好きなの❤
+でも、そんな弱いノブくんがわたしは大好きなの❤
 だから、どんどん弱くなって・・・？
 わたしのこと大好きになって、
 わたしにどんどん依存しちゃお？
@@ -2990,8 +3040,8 @@ Nobus：上
 ミレニアちゃん好きぃ・・・❤
 
 Mileena：上
-ありがと、Nobusくん。
-Nobusくんの気持ちうれしい❤
+ありがと、ノブくん。
+ノブくんの気持ちうれしい❤
 わたしも好きだよ❤
 いっぱい好きっていいながら、
 わたしに甘えて射精しちゃおうね・・・❤
@@ -3001,7 +3051,7 @@ Nobus：上
 好きだよぉ❤ミレニアちゃん❤
 
 Mileena：上
-うんうん。大好きだよ。Nobusくん❤**
+うんうん。大好きだよ。ノブくん❤**
 お手でシコシコたくさん甘やかしてあげる。
 我慢しないでいいからね。
 好きな時に出して❤
@@ -3226,7 +3276,7 @@ Or maybe...
 My hands are just too pleasurable?
 If that's the case, sorry about that-
 Hora- Will you forgive me if I apologise to 
-your penis? I'll caress him lots if he does- 
+your penis? I'll caress him lots- 
 I'm so sorry- Please forgive me Mr. Penis-♪
 
 Ray：上
@@ -3303,7 +3353,7 @@ Even during the important strategy meeting,
 you aren't wearing that piece of cloth-
 たった一晩我慢すればいいだけなのに、
 おちんちんがうずいちゃって我慢できなかったのかな？
-Ray君はこらえ性がないんだねー❤
+レイ君はこらえ性がないんだねー❤
 ほら、わたしにエッチなことしてほしいんでしょ？
 そこの椅子に座りなさい。
 お口で気持ちよくしてあげる❤
@@ -3331,7 +3381,7 @@ Mirage：上
 戦闘中でもね、
 「もっとしゃぶってぇ❤」って目がハートになって、
 体の力が抜けちゃうの❤
-Ray君はどうかな？もうトロトロで力入らない？
+レイ君はどうかな？もうトロトロで力入らない？
 んっ、える❤れろぉ❤
 
 Ray：上
@@ -3339,7 +3389,7 @@ Ray：上
 
 Mirage：上
 あん、素直でかわいい。くすくす❤**
-Ray君はどこを舐められると弱いのかな？
+レイ君はどこを舐められると弱いのかな？
 例えば、こうやって舌先で鈴口をいじると・・・？
 れろれろれろぉ・・・❤
 あは❤
@@ -3358,7 +3408,7 @@ Mirage：上
 くす。これしてあげると頭の中真っ白になるでしょ？
 別に我慢しなくていいんだよ。わたしの与える快楽で、
 頭真っ白のお馬鹿さんになろうねー❤
-にしても、Ray君はおちんちん全部が弱いね。
+にしても、レイ君はおちんちん全部が弱いね。
 先っぽも鈴口も、ちょっと舐めてあげればメロメロだし。
 たぶんこうやって・・・
 お口に竿の根元まで、ずっぷりくわえこまれても
@@ -3400,7 +3450,7 @@ Mirage：上
 あは❤またこんなに出したぁ❤
 
 Miles：上
-おい、Ray。
+おい、レイ。
 お前なにをビクビクはねているんだ？*
 ただでさえ俺たちは怪しまれているんだ。
 変なことは控えたほうがいいぜ。
@@ -3411,7 +3461,7 @@ Ray：上
 
 Mirage：上
 くすくす。心配してくれる友達がいても、
-Ray君の頭の中に全然入ってこないね。
+レイ君の頭の中に全然入ってこないね。
 気持ちよすぎてもう何言っているのか全然わからない❤
 いいんだよ。そのまま私にどんどん溺れていって・・・。
 私のもとにたどり着くころにはすっかり勝てない体に
@@ -3433,7 +3483,7 @@ Mirage：上
 かわいいなぁ❤
 おちんちんちょっとしゃぶられただけで、
 すっかりフェラに夢中じゃん❤
-Ray君ちょろすぎ❤くすくす❤
+レイ君ちょろすぎ❤くすくす❤
 でも、また今度ね。
 今日はもう一回フェラしてあげる気分じゃないの。*
 わたしにおしゃぶりしてもらえる妄想でもしながら、
@@ -3445,8 +3495,8 @@ Ray君ちょろすぎ❤くすくす❤
 
 <ED4>
 Mirage：上
-やっほーRay君。
-Nobusくんの件は大変だったね。*
+やっほーレイ君。
+ノブくんの件は大変だったね。*
 友達に急に裏切られて、
 奇襲をやっとのこと切り抜けて・・・
 すっかり疲れちゃったでしょ？
@@ -3468,7 +3518,7 @@ Mirage：上
 ね、おっぱいの中にいると落ち着くでしょ？
 嫌なこと忘れちゃお？*
 気持ちよさそうだね・・・❤
-Ray君❤*
+レイ君❤*
 はい。ここでいったんおしまい。
 あん、そんな残念そうな顔しないで？*
 自分から来てくれれば、
@@ -3516,11 +3566,12 @@ Mirage：上
 
 テロップ：中央
 My strength was squeezed by Mirage...
+
 <ED4-2>
 Mirage：上
 あれあれ、あの布を付けていないってことは、
 一緒にお風呂に行きたくなった？*
-それじゃ、いこっか。Ray君♪
+それじゃ、いこっか。レイ君♪
 
 テロップ：中央
 僕は人気のない温泉に向かった。**
@@ -3538,7 +3589,7 @@ Mirage：上
 ん・・・？あは❤
 身体があったまってきて、何か別のところが、
 元気になっちゃったみたいだね。おっきくなってる❤
-気持ちよくしてほしい？Ray君。
+気持ちよくしてほしい？レイ君。
 
 Ray：上
 う、うん・・・。
@@ -3573,7 +3624,7 @@ Mirage：上
 それって、お風呂から出るの？
 それともお風呂に出しちゃうの？
 もちろん、お風呂の中でびゅーってしちゃうんだよね。
-早漏すぎだよ。Ray君❤*
+早漏すぎだよ。レイ君❤*
 どんどんわたしへの耐性がなくなって、
 わたしの体にすぐ負けちゃうようになっている。*
 この調子じゃ、
@@ -3600,13 +3651,13 @@ My strength was squeezed by Mirage...
 While walking through the town, 
 a robed man speaks out to you.
 
-Leon：上
+Lyon：上
 Um, excuse me.
 
 Ray：上
 ...?
 
-Leon：上
+Lyon：上
 Are you, perhaps Lord \pdb[0]?
 The one who defended the 
 town against the demon attack?
@@ -3618,28 +3669,28 @@ may I accompany you?
 Ray：上
 ...
 
-Leon：上
+Lyon：上
 You truly mean it!? You have my thanks...!**
 Well then, I hope we make a solid team.
 
 テロップ：中央
 Leon joined the party!
 
-Leon：上
+Lyon：上
 I see...**
 What a shame, I suppose it is out of my hands.
 If you change your mind, 
 please come speak with me again.
 
 <CM0-2>
-Leon：上
+Lyon：上
 Ah, Lord \pdb[0].
 Did you reconsider?
 
 Ray：上
 ...
 
-Leon：上
+Lyon：上
 I'm so thankful you reconsidered...!
 You have my thanks...!*
 Well then, I hope we make a solid team.
@@ -3647,7 +3698,7 @@ Well then, I hope we make a solid team.
 テロップ：中央
 Leon joined the party!
 
-Leon：上
+Lyon：上
 I see...**
 What a shame, I suppose it is out of my hands.
 If you change your mind, 
@@ -3670,6 +3721,14 @@ skip messages, or increase battle speed.
 It is very handy for omitting dialogue.
 You can also use the [Space Key]
 to skip events entirely.
+
+テロップ：中央
+While walking down the road, 
+you see the glitter of something shiny.
+
+テロップ：中央
+While walking down the road, you see the glitter of
+something shiny.
 
 <CM5>
 Soldier：上
@@ -3741,10 +3800,10 @@ But now with you as our mercenary group,
 the town can finally live in peace.
 
 <CM3>
-おばあさん：上
+Elderly Lady：上
 You there, take this.
 
-おばあさん：上
+Elderly Lady：上
 No need to thank me.
 It makes me dreadfully worried seeing how
 young you all are.
@@ -3849,13 +3908,13 @@ Furthermore, using the options menu, you can
 enable the [Load] function during battle as well.
 
 <CM7>
-おばあさん：上
+Elderly Lady：上
 Ah, are you the hero I've heard rumours about?
 Oho, you're quite the handsome fellow.*
 Consider this a parting gift.
 We're counting on you!
 
-おばあさん：上
+Elderly Lady：上
 This is the money everyone managed to scrape up.
 If you hadn't driven away those demons, I don't
 know what I would have done with my life.
@@ -3891,7 +3950,7 @@ with a lot of money!
 As I approached the entrance of the back alley,
 I was approached by two erotically clothed women.
 
-Lady：上
+Woman：上
 He-y- Big brother-
 Wanna play with us for a bit?
 Check out my outfit. Isn't it sexy?
@@ -3901,7 +3960,7 @@ Your innocent reaction is so cute-❤
 Hora- I'll give you a special service, so how about 
 you do something that feels good with us?
 
-Lady：上
+Woman：上
 Huh? You can't? There's something you need to 
 prepare for? Hmmph- Our big brother so busy- 
 But hey now...
@@ -3911,7 +3970,7 @@ than do those things...?-❤ Eiyah-!
 Ray：上
 ...!
 
-Lady：上
+Woman：上
 Ehehe, caught your arm-
 My breasts are real big, aren't they...?*
 Hora- I'll press them right up against you- 
@@ -3920,7 +3979,7 @@ Feel how soft they are, I don't mind-❤
 Ray：上
 Oh...❤
 
-Lady：上
+Woman：上
 Ufufu-❤
 That girl has the biggest breasts in our shop.*
 When you have breasts that big, it's easy to
@@ -3933,12 +3992,12 @@ various body parts...
 It'd feel so good, your mind would become 
 blank with pleasure...
 
-Lady：上
+Woman：上
 You know-...❤
 We can do even better things in our shop...❤
 How about it? Just follow us okay...?
 
-Lady：上
+Woman：上
 Ahnn-❤
 Don't say such a mean things.*
 Ah that's right- 
@@ -3951,7 +4010,7 @@ Ray：上
 ...!
 Hn-❤❤
 
-Lady：上
+Woman：上
 Ahnn-❤ He's twitching. How cute～♪**
 And big brother's place down here too... ufu-
 has gotten really hard-❤
@@ -3966,28 +4025,28 @@ your penis too, see?-❤
 Ray：上
 Ughh...❤ Ahh...❤
 
-Lady：上
+Woman：上
 Your moans are adorable-❤
 And your entranced expression is nice too.*
 Hora- Just entrust yourself to the pleasure...
 
-Lady：上
+Woman：上
 Sheesh, how mean-❤
 Alright then.*
 But if you ever find yourself 
 irresistibly aroused, be sure to visit us again.
 We'll make you feel really good-❤
 
-Lady：上
+Woman：上
 Kyaha-❤
 Okay, just follow our lead-♪*
 Hora- This way, this way. Follow us...❤
 
-Lady：上
+Woman：上
 Is this your first time in an erotic shop?*
 Fufu- Let's do lots of nice things, okay?-❤
 
-Lady：上
+Woman：上
 According to some soldiers, it seems that
 some sexy monsters have appeared...*
 But we won't let them beat us-❤
@@ -3997,7 +4056,7 @@ so you can go 'pew pew' as much as you like-❤
 Ray：上
 Hn...❤ Ugh...❤
 
-Lady：上
+Woman：上
 Ahnn-❤ I only just started stroking you,
 but you're twitching so much～❤
 How cute-❤
@@ -4008,12 +4067,12 @@ big sister's techniques-❤
 Ray：上
 Ahh...❤ I'm going to...❤
 
-Lady：上
+Woman：上
 Ahnn- You came so much-❤
 You resisted well, didn't you?
 Good boy, good boy-❤
 
-Lady：上
+Woman：上
 Ufufu- Next is my turn.
 I'll suck on you with my mouth.
 Hora- Don't stop cumming...❤
@@ -4022,7 +4081,7 @@ Ray：上
 Ahh...❤
 Ahhh, amazing...❤
 
-Lady：上
+Woman：上
 Ahann-❤ 
 Our big brother is so energetic isn't he?-❤
 He's still rock hard.
@@ -4037,7 +4096,7 @@ Your big sister's pussy is aching so much...❤
 Ray：上
 Ahh...❤ Ughh...❤
 
-Lady：上
+Woman：上
 I guess not even our big brother can resist being
 rubbed by your slippery pussy-❤
 He's even voluntary shaking his waist...❤
@@ -4048,7 +4107,7 @@ to resist at all...❤
 Ray：上
 Ahh-❤ Ahh-❤
 
-Lady：上
+Woman：上
 Ahhn-❤
 It's in-❤*
 How does it feel having sex with 
@@ -4064,7 +4123,7 @@ Hahiii-❤ Afuuu-❤
 Amazing- It's wrapping around...!-❤
 Ah, ahhh, it feels so goodddd-❤❤
 
-Lady：上
+Woman：上
 Ahn-❤ Your moans are adorable-❤**
 You're cute, so I'll give you some extra service.
 Ho-ra- I'll wrap my breasts around your face.*
@@ -4074,7 +4133,7 @@ with my Puff-Puff-❤
 Ray：上
 Ahh, uhhh, ahiii...❤❤
 
-Lady：上
+Woman：上
 Ufufu- You came in an instant-❤**
 But it's not like you could help it.
 Everyone goes mad when this girl straddles someone 
@@ -4087,7 +4146,7 @@ Ray：上
 Ahhhhh-❤
 Ah... Nooo, I'm going to cum againnn...❤
 
-Lady：上
+Woman：上
 Go ahead...❤
 Spurt out as much as you want 
 until your money is all gone-❤
@@ -4104,17 +4163,17 @@ I came back to the entrance of the alley.*
 And sure enough, 
 the women from before called out to me.
 
-Lady：上
+Woman：上
 Aha-❤ As expected, you came back to play.
 
-Lady：上
+Woman：上
 Hehe. I guess you couldn't endure the lust 
 inside you after all-❤
 
 Ray：上
 Ughhh...❤
 
-Lady：上
+Woman：上
 Oh...?-❤
 You only just saw our faces, 
 and you've become big down here yet again-
@@ -4128,16 +4187,16 @@ in our shop...❤
 Ray：上
 Ughh...❤
 
-Lady：上
+Woman：上
 Kyaha-❤
 Okay, just follow our lead-♪*
 Hora- This way, this way. Follow us...❤
 
-Lady：上
+Woman：上
 Is this your first time in an erotic shop?
 Fufu- We're going to do a lot of sexy things-❤
 
-Lady：上
+Woman：上
 According to some soldiers, it seems that
 some sexy monsters have appeared...*
 But we won't let them beat us-❤
@@ -4147,7 +4206,7 @@ so you can go 'pew pew' as much as you like-❤
 Ray：上
 Hn...❤ Uh...❤
 
-Lady：上
+Woman：上
 Ahnn-❤ I just started stroking you,
 and yet you're twitching so much-❤
 How cute-❤
@@ -4158,11 +4217,11 @@ big sister's techniques-❤
 Ray：上
 Ahh...❤ I'm going to...❤
 
-Lady：上
+Woman：上
 Aahh- You came so much-❤
 That was great- Good boy, good boy-❤
 
-Lady：上
+Woman：上
 Ufufu- Next is my turn.
 I'll suck on you with my mouth.
 Hora- Don't stop cumming...❤
@@ -4171,7 +4230,7 @@ Ray：上
 Ahh...❤
 Ahhh, amazing...❤
 
-Lady：上
+Woman：上
 Ahann-❤ 
 Our big brother is so energetic isn't he?-❤
 He's still rock hard.
@@ -4186,7 +4245,7 @@ Your big sister's pussy is aching so much...❤
 Ray：上
 Ahh...❤ Uhh...❤
 
-Lady：上
+Woman：上
 I guess not even our big brother can resist being
 rubbed by your slippery pussy-❤
 He's even voluntary shaking his waist...❤
@@ -4197,7 +4256,7 @@ to resist at all...❤
 Ray：上
 Ahh-❤ Ahh-❤
 
-Lady：上
+Woman：上
 Ahhn-❤
 It's in-❤*
 How does it feel having sex with 
@@ -4213,7 +4272,7 @@ Hahiii-❤ Afuuu-❤
 Amazing, your pussy is wrapping around me-❤
 Ah, ahhh, it feels so goodddd-❤❤
 
-Lady：上
+Woman：上
 Ahn-❤ Your moans are adorable-❤**
 You're cute, so I'll give you some extra service.
 Ho-ra- I'll wrap my breasts around your face.*
@@ -4223,7 +4282,7 @@ with my Puff-Puff-❤
 Ray：上
 Ahh, uhhh, ahiii...❤❤
 
-Lady：上
+Woman：上
 Ufufu- You came in an instant-❤**
 But it's not like you could help it.
 Everyone goes mad when this girl straddles someone 
@@ -4236,7 +4295,7 @@ Ray：上
 Ahhhhh-❤
 Ah... Nooo, I'm going to cum againnn...❤
 
-Lady：上
+Woman：上
 Go ahead...❤
 Spurt out as much as you want 
 until your money is all gone-❤
@@ -4247,28 +4306,28 @@ all my money was taken away as a fine for
 breaking the 「No Sex」 rule of the shop!
 
 <CM13-3>
-Lady：上
+Woman：上
 Ara, you came again?
 
-Lady：上
+Woman：上
 We sure gave a lot of Puff-Puffs, didn't we?-❤
 I wonder if your penis will ever forget how
 good it felt?
 
-Lady：上
+Woman：上
 But... 
 I don't like doing things for free.*
 If big brother gave us a lot of money,
 I would be fine to give some raw cowgirl sex like 
 last time but...
 
-Lady：上
+Woman：上
 Tisk- But, you're completely empty now,
 aren't you?*
 You gave into our temptations and spent all 
 your money.
 
-Lady：上
+Woman：上
 I have no interest in the poor,
 but come back again sometime.*
 Maybe if you had 1000 gold, but I doubt that
@@ -4277,14 +4336,14 @@ would happen... Tee-hee-❤
 Ray：上
 ...
 
-Lady：上
+Woman：上
 What's this...?**
 Fufu- That's 1000 gold-❤**
 But you were only penniless moments ago.
 You didn't perhaps, sell anything important like 
 weapons and items to get this gold did you?
 
-Lady：上
+Woman：上
 Tee-hee...
 Getting stuck doing lewd things with your 
 big sister-
@@ -4295,7 +4354,7 @@ Fufu- But it's okay...❤*
 As long as you're willing to pay, we'll send even 
 a hopeless man like you to heaven-❤
 
-Lady：上
+Woman：上
 Hora- Follow us.
 We'll let you experience what it's like to pay for
 pleasure at our shop-♥
@@ -4303,7 +4362,7 @@ pleasure at our shop-♥
 Ray：上
 Ahh...❤ Ahh...❤
 
-Lady：上
+Woman：上
 Hehehe- 
 This is our double paizuri-❤*
 Your no good penis has been completely trapped 
@@ -4316,7 +4375,7 @@ between two pairs of boobies...❤
 Ray：上
 Afuuuu-❤ It feels so good...❤
 
-Lady：上
+Woman：上
 It's like you're melting with our techniques-❤
 How cu-te-❤*
 You want to become our slave, don't you?
@@ -4330,7 +4389,7 @@ Aah, aaah...❤❤
 Ray：上
 Oo-Ooooh...
 
-Lady：上
+Woman：上
 Hmm? You want to have sex?**
 Since the Puff-Puff cowgirl sex,
 you've developed a habit of coming here-❤*
@@ -4342,13 +4401,13 @@ Fufu- But even just this feels amazing right?
 Ray：上
 Ahiii, ahh-❤ Ahh-❤
 
-Lady：上
+Woman：上
 Are you trying to endure so you can have sex?**
 Fufu- But, when someone slips between 
 the two of us, no man can last longer than
 three minutes.
 
-Lady：上
+Woman：上
 Hora hora- Cum-❤
 Cum as we squeeze both of our breasts together,
 going squish squish, crush crush-❤
@@ -4362,7 +4421,7 @@ That's too much-❤ Ahiii...❤
 As I approached the entrance of the back alley,
 I was approached by two erotically clothed women.
 
-お姉さん：下
+Woman：下
 He-y, big brother?**
 Wanna play with us for a bit?
 We can do something that'll feel really good-❤
@@ -4370,7 +4429,7 @@ We can do something that'll feel really good-❤
 Ray：下
 ...
 
-お姉さん：下
+Woman：下
 Huh? No?
 There's something you need to prepare for?
 Hmmph-
@@ -4381,13 +4440,13 @@ Owah-
 Ray：下
 ...!
 
-お姉さん：下
+Woman：下
 Tee-hee, caught your arm-**
 My breasts are real big, aren't they...?
 Hora, I'll press them against you, 
 feel how soft they are, I don't mind-❤
 
-お姉さん：下
+Woman：下
 Ufufu-❤
 That girl has the biggest breasts in our shop.*
 When you have breasts that big,
@@ -4400,14 +4459,14 @@ body parts...*
 Feeling so good, your mind becoming blank with
 pleasure...
 
-お姉さん：下
+Woman：下
 Come on-...❤
 We can do even better things in our shop...❤
 
 Ray：下
 Uh...❤
 
-お姉さん：下
+Woman：下
 Ahnn-❤ Don't say such a mean things.**
 Hora, I'll give you my specialty Puff-Puff. 
 There's no man that can resist me once under 
@@ -4417,7 +4476,7 @@ Puff-Puff...❤ Puff-Puff...❤
 Ray：下
 ...!!
 
-お姉さん：下
+Woman：下
 Aaah-❤ He's twitching. He's so cute-♪**
 You've completely swollen up down here too-❤
 Did our boobies get you aroused?
@@ -4430,30 +4489,30 @@ And now I'll rub the tip. Scratch scratch-❤
 Ray：下
 Ooh...❤ Oaagh...❤
 
-お姉さん：下
+Woman：下
 Ufufu- your eyes have glazed over in 
 pleasure. Hora, just leave everything to us,
 we'll make you feel good, okay?
 
-お姉さん：下
+Woman：下
 Ooh, that's too bad-❤
 It's okay. If you ever start feeling aroused,
 please visit us again.
 Your big sisters will make you feel really,
 really good-❤
 
-お姉さん：下
+Woman：下
 Kyaha-❤
 Alright, just follow our leadー♪*
 Hora, over here.
 follow us...❤
 
-Lady：上
+Woman：上
 Is this your first time in an erotic shop?
 Fufu- we'll show you lots of things that feel
 good-❤
 
-Lady：上
+Woman：上
 According to some soldiers, it seems that
 some sexy monsters have appeared...*
 But we won't let them beat us-❤
@@ -4463,20 +4522,20 @@ so you can go 'pew pew' as much as you like-❤
 Ray：上
 Oh...❤ Ooh...❤
 
-Lady：上
+Woman：上
 Hora, cum as much as you like...❤
 
 Ray：上
 Ooogh...❤
 
-Lady：上
+Woman：上
 In truth, sex is prohibited here but...**
 Now you're here, wanting to have sex with your
 big sister-❤*
 Hey, put it in, it's okay.
 Plea-se-❤
 
-Lady：上
+Woman：上
 Tee-hee.
 Once my slippery pussy starts rubbing you,
 it'll be impossible for you to endure.
@@ -4486,7 +4545,7 @@ Powerless to stop yourself...❤
 Ray：上
 Ah...❤ Ooh...❤
 
-Lady：上
+Woman：上
 Aah-❤
 It's inside me-❤*
 How does it feel having sex with your big sister?-❤
@@ -4496,12 +4555,12 @@ And if I stroke your penis with my moist pussy...❤
 Ray：上
 Aah-❤ Uaaah...❤
 
-Lady：上
+Woman：上
 Uwah-❤ You have such a cute voice-❤**
 It's okay- I bet it feels so good to sit back and 
 stop resisting
 
-Lady：上
+Woman：上
 Ufufu-
 Having raw cowgirl sex while having your face
 buryied between my breasts...❤
@@ -4520,10 +4579,10 @@ alleyway.
 And sure enough, the women from earlier called
 out to me.
 
-Lady：上
+Woman：上
 Aha!-❤ Did you want to play with us again?
 
-Lady：上
+Woman：上
 Teehee-
 It's impossible to have any kind of self control
 when you're horny-❤
@@ -4531,7 +4590,7 @@ when you're horny-❤
 Ray：上
 Oogh...❤
 
-Lady：上
+Woman：上
 Oh...?-❤
 You only just saw our faces, 
 and you've become big down here yet again-
@@ -4545,24 +4604,24 @@ in our shop...❤
 Ray：上
 Gulp...❤
 
-Lady：上
+Woman：上
 Fufu-
 I wonder how long you'll endure this time?*
 You're always welcome-
 Your big sisters will make you feel really,
 really good-❤
 
-Lady：上
+Woman：上
 Kyaha-❤
 Alright, just follow our leadー♪*
 Hora, over here.
 follow us...❤
 
-Lady：上
+Woman：上
 Is this your first time at a erotic shop?
 Fufu- we'll show you a lot of pleasant things-❤
 
-Lady：上
+Woman：上
 According to some soldiers, it seems that
 some sexy monsters have appeared...*
 But we won't let them beat us-❤
@@ -4572,20 +4631,20 @@ so you can go 'pew pew' as much as you like-❤
 Ray：上
 Oh...❤ Ooh...❤
 
-Lady：上
+Woman：上
 Hora, cum as much as you like...❤
 
 Ray：上
 Ooogh...❤
 
-Lady：上
+Woman：上
 In truth, sex is prohibited here but...**
 Now you're here, wanting to have sex with your
 big sister-❤*
 Hey, put it in, it's okay.
 Plea-se-❤
 
-Lady：上
+Woman：上
 Tee-hee.
 Once my slippery pussy starts rubbing you,
 it'll be impossible for you to endure.
@@ -4595,7 +4654,7 @@ Powerless to stop yourself...❤
 Ray：上
 Ah...❤ Ooh...❤
 
-Lady：上
+Woman：上
 Aah-❤
 It's inside me-❤*
 How does it feel having sex with your big sister?-❤
@@ -4605,12 +4664,12 @@ And if I stroke your penis with my moist pussy...❤
 Ray：上
 Aah-❤ Uaaah...❤
 
-Lady：上
+Woman：上
 Uwah-❤ You have such a cute voice-❤**
 It's okay- I bet it feels so good to sit back and 
 stop resisting.
 
-Lady：上
+Woman：上
 Ufufu-
 Having raw cowgirl sex while having your face
 buryied between my breasts...❤
@@ -4622,30 +4681,29 @@ woman.*
 As a fine for having sex at a "Sex Prohibited"
 store, I was stripped of any money I had on hand.
 
-
 <CM14-3>
-Lady：上
+Woman：上
 Ara, you're here again?
 
-Lady：上
+Woman：上
 You're here for lots and lots of Puff-Puffs 
 right?-❤*
 Could your penis not run away from 
 the pleasure anymore?
 
-Lady：上
+Woman：上
 But... I don't like doing it for free.
 Although if big brother gave us a lot of money,
 We could even do some raw cowgirl sex like last
 time but...
 
-Lady：上
+Woman：上
 Tisk- But, you're completely empty now,
 aren't you?*
 You gave into our temptations,
 and gave us all your money.
 
-Lady：上
+Woman：上
 I have no interest in the poor,
 but come back again sometime.*
 Maybe if you had 1000 gold, but I doubt that
@@ -4654,14 +4712,14 @@ would happen... Tee-hee-❤
 Ray：上
 ...
 
-Lady：上
+Woman：上
 What's this...?**
 Fufu- that's 1000 gold-❤**
 But you were only penniless moments ago.
 You perhaps, didn't sell anything important like 
 weapons and items to get this gold did you?
 
-Lady：上
+Woman：上
 Tee-hee...
 After getting stuck doing lewd things with your 
 big sister,*
@@ -4672,7 +4730,7 @@ Fufu- but it's okay...❤*
 As long as you're willing to pay, we'll send even 
 a hopeless man like you to heaven-❤
 
-Lady：上
+Woman：上
 Hora, follow us.
 We'll let you experience what it's like to pay for
 pleasure at our shop-♥
@@ -4680,12 +4738,12 @@ pleasure at our shop-♥
 Ray：上
 Aah... ❤ Oooh...❤
 
-Lady：上
+Woman：上
 Tee-hee.
 This is a double paizuri, where we bury you 
 between two pairs of breasts-❤
 
-Lady：上
+Woman：上
 Melt with in our techniques...❤**
 Ho-ra, watch us knead your penis between our
 breasts in opposite directions like this-❤
@@ -4693,7 +4751,7 @@ breasts in opposite directions like this-❤
 Ray：上
 Aah, aaah...❤❤
 
-Lady：上
+Woman：上
 Hmm? You want to have sex?**
 Since the Puff-Puff cowgirl sex,
 you've developed a habit of coming here-❤*
@@ -4702,14 +4760,14 @@ You'd need to pay more money for that-❤*
 For now, it's just paizuri.
 Fufu- but even just this feels amazing right?
 
-Lady：上
+Woman：上
 When someone slips between the two of us,
 no man can last longer than three minutes.*
 Fufu... And you're going to ejaculate soon too,
 splurting pathetically between out breasts,
 aren't you? Mmhmm-
 
-Lady：上
+Woman：上
 Hora hora, cum-❤
 Squishy squishy, squish-❤
 
@@ -4717,7 +4775,7 @@ Ray：上
 Aaaagh-❤
 
 <CM9>
-第三騎士団団長：上
+Knight of 3rd Order：上
 Ah, you must be the Hero I've heard rumors about.
 I am the head of the Knights of Order.*
 I have heard of your activities. The weakness of 
@@ -4731,22 +4789,22 @@ But to find out what potential lies beyond,
 you need to gain some experience.
 I shall test if you are ready...
 
-第三騎士団団長：上
+Knight of 3rd Order：上
 Ah, Hero! You're here again. How's your specialty
 training going?*
 In order to perform a class change, 
 you need to gain some battle experience.
 I shall test if you are ready...
 
-第三騎士団団長：上
+Knight of 3rd Order：上
 Mm, you should be ready. Try giving class change
 a go.
 
-第三騎士団団長：上
+Knight of 3rd Order：上
 Hm, your experience isn't quite there yet.
 I see, I would recommend doing some training.
 
-第三騎士団団長：上
+Knight of 3rd Order：上
 Hm, your experience isn't quite there yet.
 No not give up, just practice a little more.
 As a leader, it's your duty to guide your allies
@@ -4867,7 +4925,7 @@ Man：上
 Here, these are some trial goods. Have fun.
 
 <CM20>
-おばあさん：上
+Elderly Lady：上
 I ought to think the price of food should be
 kept as low as possible in times like these.
 But during the war, prices just continue to rise.
@@ -4882,24 +4940,24 @@ We ought to manage our resources well.
 As you walk past the corner of the street,
 you hear the voice of a child.
 
-男の子：上
+Boy：上
 Owww... Stop it...!
 
-Lady：上
+Girl：上
 Kyahaha! What was that? 
 All I can hear is your pathetic whining-*
 Hora, that thing in your hands, hand it over.
 Give it to me. Come on, hurry up!
 
-男の子：上
+Boy：上
 Bu, but. My mum worked hard her whole life to get 
 this money, so...
 
-Lady：上
+Girl：上
 So? So what?
 Do you want me to beat you up? Hmm?
 
-Lady：上
+Girl：上
 Hora hora, give it to us now-
 
 テロップ：中央
@@ -4908,14 +4966,14 @@ It looks like some girls are bullying a boy.
 Ray：上
 ...
 
-Lady：上
+Girl：上
 Ugh, what?
 You got something to say, big brother?
 
 Ray：上
 ...!
 
-Lady：上
+Girl：上
 Kyaah!!
 Hey, release me! Let go of my arm will you?
 This doesn't concern you big brother, really!
@@ -4924,7 +4982,7 @@ You think you're cool by trying to help this boy?
 Hmph, well in that case, what if we do this?
 Hora- Get him Micah-❤
 
-Lady：上
+Girl：上
 Ufufu. Okie dokie-.
 Well then, excuse me for a bit-
 
@@ -4936,15 +4994,15 @@ Ray：上
 ...!
 Aah-❤ Ah-❤
 
-Lady：上
+Girl：上
 Ooh- You like this? Does it feel good?
 
-Lady：上
+Girl：上
 Ehehe- Micah's techniques are unmatched.
 she can shatter even someone like you in a matter
 of seconds.
 
-Lady：上
+Girl：上
 Hey- Doesn't it feel good when I trace my smooth- 
 fingers down the back muscle of your penis?*
 I'll massage Mr. Penis and give him a big
@@ -4953,7 +5011,7 @@ hug with my fingers-❤
 Ray：上
 Ooh-❤ Aaah-❤
 
-Lady：上
+Girl：上
 Now, stay still.
 If you do, we'll make you feel good alright?*
 Just sit there and be a good boy for us.
@@ -4962,7 +5020,7 @@ Okay?
 Ray：上
 Th, that's...❤
 
-Lady：上
+Girl：上
 Huh? Don't you like it?
 You are a boy, right?*
 And the only thing boys want to feel is lots and 
@@ -4973,7 +5031,7 @@ and... Stroke stroke stroke-❤
 Ray：上
 Ah, wait just a, aaah-❤ No, sto-❤ Oooaah-❤
 
-Lady：上
+Girl：上
 Hm? Are you gonna stay still now?
 Are you gonna let me service you with my hands?
 Huh?
@@ -4981,7 +5039,7 @@ Huh?
 Ray：上
 Oooh...❤ Ooh...❤
 
-Lady：上
+Girl：上
 Teehee- You can't stop yourself from moaning-♪
 You can't even move-❤*
 In the end, the only thing you care about is 
@@ -4991,7 +5049,7 @@ Isn't that right?
 Ray：上
 Th, that's not...❤ Aaah-❤
 
-Lady：上
+Girl：上
 Mhm- that's totally it-**
 Even if I rub up against your crotch like this,
 your mind goes blank, and you can't think about
@@ -5003,7 +5061,7 @@ Ray：上
 Aah-❤ Aah-❤ No more-❤
 Uuugh-❤ It's feels so good-❤ Aaah-❤
 
-Lady：上
+Girl：上
 Ho-ra- men are easily by defeated by girls.
 It's not like it matters if you're gonna lose to 
 us girls anyway. Teehee- You realize that right?
@@ -5013,66 +5071,66 @@ Agh-❤ Aiee-❤
 Don't rub there with your fingers-❤
 Aah!-❤
 
-Lady：上
+Girl：上
 Teehee- Too easy-❤**
 Well then, even the big brother who came to save
 you fell to our charms.*
 Now, give us the money.
 Hora!
 
-男の子：上
+Boy：上
 Uuugh...
 
-Lady：上
+Girl：上
 Fufu. And, accepted-
 Now, I have no use for you anymore.
 Get out of our sight.
 
-男の子：上
+Boy：上
 You big loser! I'll get you back
 for this! I'll have my revenge!
 
-Lady：上
+Girl：上
 Ooh, all talk and no trousers-❤
 And speaking of which, hora.
 Your penis has become quite big too hasn't it?-❤
 
-男の子：上
+Boy：上
 Ooaah-❤
 Stop! Don't touch me-❤
 I'm not like those adults-❤ Aaah-❤
 
-Lady：上
+Girl：上
 Pfft- Are you sure?
 I only just gave you a little massage and it's
 already becoming hard for you to think, huh?-❤
 
-男の子：上
+Boy：上
 Ooh oooh-❤ I..❤
 
-Lady：上
+Girl：上
 Aha- You're shaking your hips too aren't you?
 Are you okay with that? You're going to submit,
 being massaged by a girl's hand. 
 Are you gonna ejaculate and go pew pew?
 
-男の子：上
+Boy：上
 Aah, aah-❤ Aah-❤
 
-Lady：上
+Girl：上
 ...as if I'd let that happen. Idiot-❤
 Hora- I'm already done with massaging your balls.
 Now run off somewhere like a good boy.
 
-男の子：上
+Boy：上
 Aah, aah. Why you... Ooh...
 You stupid, dumb loser...
 
-Lady：上
+Girl：上
 Tee-hee- Yes, run off while clutching your groin,
 how pathetic-❤
 
-Lady：上
+Girl：上
 Ha-ha, because big brother deserted him, I got
 all that boy's money didn't I?
 Doesn't that make you mad?
@@ -5081,7 +5139,7 @@ Ray：上
 Well thats...❤ You can't jus-❤
 Ah, aaiee-❤
 
-Lady：上
+Girl：上
 Fufu. It'd have been easy for a guy like you to 
 shake me off.*
 But you abandoned him, submitting to the 
@@ -5091,7 +5149,7 @@ Am I wrong?
 Ray：上
 Gah, aaah-❤
 
-Lady：上
+Girl：上
 Ufufu. Sorry-❤**
 Your reactions are so cute, so I couldn't help but
 bully you. But it's okay. Don't think about those
@@ -5116,11 +5174,11 @@ That's too quick-❤ Aah-❤ Aiee-❤
 Ray：上
 Aiee-❤ Aah.... It feels soo good!-❤
 
-Lady：上
+Girl：上
 Tee-hee- You collapsed and feel to your knees-
 Couldn't you endure the pleasure?
 
-Lady：上
+Girl：上
 Ahaha- How pathetic- You should have stood up for
 justice, but now you're surrendering yourself to
 some girls handjob-❤
@@ -5130,7 +5188,7 @@ this kind of service you know?
 But now you're getting it for free. 
 What a great deal-
 
-Lady：上
+Girl：上
 But say, what if...
 Big brother here was to become a regular customer?*
 Tee-hee... But you'd better make sure you bring 
@@ -5143,7 +5201,7 @@ Lets meet again soon-❤ Pat pat- Rub rub-❤
 Ray：上
 Aiaaah-❤
 
-Lady：上
+Girl：上
 Fufu- You came with just having your tip teased, 
 and let out an amazing moan. Well, till next time-
 Pathetic big brother-❤ Kyahaha!-
@@ -5152,17 +5210,17 @@ Pathetic big brother-❤ Kyahaha!-
 While laughing away, the girls left.**
 You lost 1000 renown...
 
-Lady：上
+Girl：上
 Aaaaah-!
 
-Lady：上
+Girl：上
 No way! He didn't fall for Micah-chan's 
 techniques...
 
 Ray：上
 ...!
 
-Lady：上
+Girl：上
 Wai- stop, I'm against violence!
 Let go of my collar. Aaah-!!
 I'll remember this!
@@ -5172,7 +5230,7 @@ I do. THBPBPTHPT-!
 テロップ：中央
 And with that parting shot, the girls left.
 
-男の子：上
+Boy：上
 Thanks big brother.**
 Even though you had nothing to do with me,
 you saved me anyway,
@@ -5181,7 +5239,7 @@ This is something that once belonged to me,
 it's not much but here, you can have it!
 
 <CM21>
-Lady：上
+Girl：上
 Ah-! He's here he's here!
 He came!
 
@@ -5192,14 +5250,14 @@ The girl from before called out for me.
 Ray：上
 ...!
 
-Lady：上
+Girl：上
 How dare you embarrass me in front of everyone!
 But it's not going to work this time!
 
 Ray：上
 ...
 
-Lady：上
+Girl：上
 Over here big sister!
 This is the guy I told you about! Hora!
 
@@ -5262,7 +5320,7 @@ On his butt,
 looking up at me with glazed, empty eyes...
 Fufu- Anything else you want me to do?
 
-Lady：上
+Girl：上
 That was amazing big sister!-
 You wore him down so quickly!*
 Fufu- you see that?
@@ -5286,7 +5344,7 @@ You need to drive the pleasure into his body so
 he becomes your convenient slave. 
 Do you understand?
 
-Lady：上
+Girl：上
 You got it big sister!
 Let me try from now on.*
 Fufu- I'll show you the full extent of my charms.
@@ -5295,7 +5353,7 @@ Hora, Holding both your feet like this and...
 Ray：上
 Oooh, aaah-❤ aaaah-❤
 
-Lady：上
+Girl：上
 Aha- Time to stomp on your penis!-❤
 I'll trample you with my feet while grinding on
 your groin-❤
@@ -5306,7 +5364,7 @@ Teehee...
 Ray：上
 Stop, that's too violent-❤ Aiee-❤
 
-Lady：上
+Girl：上
 Teeheehee. What about those lewd moans you're 
 making then-?*
 Does it feel good even when I trample on your
@@ -5322,7 +5380,7 @@ Fufu- That looks like it feels really good-❤
 How does it make you feel as a person to
 enjoy being stepped on by such a young girl?
 
-Lady：上
+Girl：上
 Ahaha- I guess being trampled on down here
 must be more important than your pride-❤
 
@@ -5335,7 +5393,7 @@ all-❤ Mmchu-❤ Slurp-❤ Ommph-❤
 Ray：上
 Mmph-❤ Aamph-❤ Mmm-❤
 
-Lady：上
+Girl：上
 Kyahaha-❤ It must feel amazingly good for your
 hands and feet to thrash about like that-❤*
 Is that alright? Once your body experiences what 
@@ -5362,7 +5420,7 @@ Ray：上
 Mm-❤ Mmp-❤ Mm-❤ OOomph-❤❤
 Ooaaaaa...❤❤❤❤❤❤❤❤
 
-Lady：上
+Girl：上
 Aha- Pew pew pew-! You came-❤**
 Teehee-♪
 You lost to the feet of a girl younger than you,
@@ -5381,16 +5439,16 @@ satisfied with being stepped on?
 Ray：上
 Aah-❤ Stop it-❤ Aah-❤
 
-Lady：上
+Girl：上
 Hora- Cum! Cum!
 Spurt it all out, as my feet trample your penis-❤
 
-Lady：上
+Girl：上
 Owaah- Now my feet are all sticky.
 How many times have you came now? Can't you stop 
 yourself from ejaculating? Tee-hee-❤
 
-Lady：上
+Girl：上
 Aha-❤ He felt so good going pew pew, 
 it looked like he was about to die-❤*
 He even passed out and smeared semen on the road,
@@ -5401,7 +5459,7 @@ Tee-hee...
 I'm sure this boy won't be bothering you any 
 longer. You did such a great job! Well done-
 
-Lady：上
+Girl：上
 Eheheh-♪
 Thanks big sister!*
 I knew I could count on you!
@@ -5415,7 +5473,8 @@ I had to avoid attracting attention to myself,*
 awkwardly hiding the giant stain on my pants 
 as I made my way back to the inn.*
 My wallet had been completely completely looted,
-and to add insult to injury,* 
+and to add insult to injury,
+ 
 I could still feel the harsh judgments of those 
 that spotted me making it back to the inn.
 
@@ -5443,7 +5502,7 @@ Oh, leader of the Knights, please ensure the
 monsters meet a swift end. I beg of you.
 
 <CM30>
-おばあさん：上
+Elderly Lady：上
 Oh my, my immense thanks for coming to such a
 far village, Knights of Order.*
 Any old legends in this area you say?
@@ -5477,7 +5536,7 @@ OOoh...
 Aah- My reward, where's my reward...?-❤
 
 <CM24>
-男の子：上
+Boy：上
 For some time my grandpa used to be an 
 administrator of the church, but he's just now 
 been succeeded by a beautiful sister.
@@ -5485,7 +5544,7 @@ She's so beautiful and smart!
 You should meet her as soon as you can-!
 
 <CM34>
-男の子：上
+Boy：上
 Sister-sama is like a loving mother to me.
 And that's not all. When she gives me a hug,
 she smells like sweet roses!
@@ -5509,7 +5568,7 @@ Huh? Maybe I've been overworking myself?
 I wonder...
 
 <CM29>
-Lady：上
+Girl：上
 Hi mister soldier！**
 I bet people in the war have
 really big muscles-
@@ -5523,7 +5582,7 @@ brushed my fingers against your nipples-*
 Huh? I shouldn't be teasing adults?
 You're right- I'm sorry.
 
-Lady：上
+Girl：上
 Oh oh!?
 Did you come to have your nipples stroked again?*
 No? You seem like a good adult, but you're getting
@@ -5531,7 +5590,7 @@ your nipples teased by a little girl-❤*
 Fufu- see? I'm flicking them with my fingers-❤
 Ooh- Now they're twitching! It's so cuteー❤
 
-Lady：上
+Girl：上
 Hey- Didn't you say I shouldn't be doing this?**
 You'd need to be some kind of pervert 
 to enjoy having your nipples teased 
@@ -5550,14 +5609,14 @@ Ei, twist twist-❤
 Ray：上
 Aah, aah...❤
 
-Lady：上
+Girl：上
 Whoa-
 You didn't actually cum 
 from just having your nipples teased did you?
 Ufufu-❤ What a quickshot-❤
 You're adorable Mr. Soldier-❤
 
-Lady：上
+Girl：上
 Oh whoa. You came to me again?
 Is this the forth time already?*
 It's like you've become a complete slave 
@@ -5569,7 +5628,7 @@ so I should probably stop right here.*
 Hey, what do you think?
 Do you want me to touch them again?
 
-Lady：上
+Girl：上
 (Giggle) 
 Okay okay- You don't need to beg like that-*
 You must be really desperate to have your nipples 
@@ -5585,7 +5644,7 @@ finger tips, how cute-❤
 Ray：上
 Agh, aah...❤ Aaaah-❤❤
 
-Lady：上
+Girl：上
 Ahaha-❤ You came again 
 from just having your nipples touched.*
 Hey, did you notice that with each ejaculation,
@@ -5595,7 +5654,7 @@ decreased little by little.
 Do you know what that means?
 Tee-hee...❤
 
-Lady：上
+Girl：上
 This is the fifth time now-
 Even though you knew your stats were decreasing,
 you came again anyway-
@@ -5616,7 +5675,7 @@ so spurt out all your energy for me okay?-❤
 Ray：上
 Aiiee-❤ Aaah, aah-❤
 
-Lady：上
+Girl：上
 Ufufu-❤ You went pew pew and came while
 moaning like a girl-
 Did that feel good?
@@ -5629,7 +5688,7 @@ your nipples to stop being teased.
 If you come again, I'd be happy to tease and suck
 even more, okay? Ufufu-❤
 
-Lady：上
+Girl：上
 Uh oh, you came again-❤ That's no good, 
 you're already a mindless animal-❤*
 I'll make you spurt your semen 
@@ -5648,7 +5707,7 @@ with my index finger. Ei-❤
 Ray：上
 Ah, Aiee-❤❤❤
 
-Lady：上
+Girl：上
 (Giggle) To be ejaculating from this stimulation,
 you really have become weak haven't you?-*
 You're cumming just with one flick of my fingers.
@@ -5667,7 +5726,7 @@ Ray：上
 Aah-❤ Aaaah-❤
 Not again...❤❤
 
-Lady：上
+Girl：上
 Uh oh, you just spurt all your semen and power-❤
 Isn't that a waste?*
 It's all been taken away... 
@@ -5720,7 +5779,7 @@ I know I have to get her our of my head but...
 Ooooh, my priestess...
 
 <CM28>
-男の子：上
+Boy：上
 Hey! Are you the hero I've been
 hearing rumours about?*
 You are!? Whoa, that's so cool!
@@ -6299,7 +6358,7 @@ Ray：上
 女盗賊：上
 あら、団長さん。
 また来たの？*
-どう？キRayな宝石。キRayな洋服。
+どう？キレイな宝石。キレイな洋服。
 似合うかしら。
 盗賊やってたころより豊かになっちゃいそうだわ。うふふ。
 それにしても、この間抜いてあげたばかりなのに、
@@ -6388,7 +6447,7 @@ Ray：上
 
 女盗賊：上
 あは❤ありがとう。
-わー、キRayなものがいっぱい。*
+わー、キレイなものがいっぱい。*
 結構高かったでしょ？
 こんなにくれてお姉さんうれしいなぁ♪*
 それじゃあ、いい子にはご褒美あげないとね。**
@@ -6639,7 +6698,7 @@ Alraune：上
 Be sure to taste my sake, okay? Ufufu-♪
 
 <CM42>
-人魚：上
+Mermaid：上
 Laaa-♪ Laa-♪
 La le lu li la～♪
 
@@ -7027,7 +7086,7 @@ To have become a bit like succubi without even
 realizing it...! I was shocked-
 
 <CM51>
-人魚：上
+Mermaid：上
 Aaah- It's such a beautiful day today-
 It feels so good to sunbathe-*
 Thanks to the magic barrier protecting the spring 
@@ -7389,13 +7448,13 @@ Soldier：上
 一度見直してみるといいかも。
 
 <CM71>
-おばあさん：上
+Elderly Lady：上
 あんたらに命を救われたって人も多いからね。
 感謝している人は多いのさ。*
 その金で武器でも薬でも必要なものを買って、
 ぜひ役立てておくれよ。
 
-おばあさん：上
+Elderly Lady：上
 あんた英雄の騎士団の団長さんじゃないかい！
 王都に戻ってきてたんだね。*
 あんたらが戦ってくれているおかげで、
@@ -7403,7 +7462,7 @@ Soldier：上
 頑張っておくれよ！
 そうそう、これを取っときな。
 
-おばあさん：上
+Elderly Lady：上
 以前あんたらがこの王都を守ったときからね、
 ずーっとみんなで貯めてきたお金さ。
 あんたらがまた王都に来たら、餞別にやろうってね。
@@ -7412,7 +7471,7 @@ Soldier：上
 
 <CM85>
 テロップ：中央
-Nobusが何やら街の住民と話している。
+ノブが何やら街の住民と話している。
 
 Man：上
 ええ、ええ。あそこの宿屋にいた青い髪の子なら、
@@ -7431,7 +7490,7 @@ Man：上
 Nobus：上
 教えてくれて、ありがとうございます。**
 ・・・・・・・。**
-あ、Ray。**
+あ、レイ。**
 いやあ、この間から泊っている、
 なじみの宿屋を使おうと思ったらやってなくてさ。
 今、街の人に事情を聞いてたんだ。
@@ -7442,7 +7501,7 @@ Nobus：上
 
 <CM65>
 Mizuhide：上
-こんにちは、Rayさん。**
+こんにちは、レイさん。**
 今、各地での戦闘記録を分析しているのですが、
 どうも気になることがあります。*
 なぜか、
@@ -7459,7 +7518,7 @@ Mizuhide：上
 作戦を急ぐ必要がありそうですね。
 
 <CM84>
-男の子：上
+Boy：上
 ねえ、お兄さん！
 兵隊さんだよね？た、助けて！*
 僕の友達が、洞窟で迷子になっちゃったんだ。
@@ -7771,6 +7830,9 @@ Ray：上
 テロップ：中央
 僕はその後、二人にかわるがわる可愛がられ、
 たっぷり搾り取られてしまった。
+
+情報：情報
+団のメンバーを三人失いました。
 
 <CM82-2>
 テロップ：中央
@@ -8122,6 +8184,9 @@ Ray：上
 僕はその後、二人にかわるがわる可愛がられ、
 たっぷり搾り取られてしまった。
 
+情報：情報
+団のメンバーを五人失いました。
+
 <CM82-3>
 グリッサ：上
 お、団長さんじゃねえか。
@@ -8149,7 +8214,7 @@ Miles：上
 <CM56>
 Nobus：上
 ・・・・・・。**
-なあ、Ray・・・・。**
+なあ、レイ・・・・。**
 いや、なんでもないんだ。忘れてくれ。**
 （ぼんやりした記憶がある。
 あれは本当にただの夢なんだろうか・・・。）*
@@ -8161,7 +8226,7 @@ Mirage：上
 わたしのこと呼び出しちゃうんだ。*
 たった一晩我慢すればいいだけなのに、
 おちんちんがうずいちゃって我慢できなかったのかな？
-Ray君はこらえ性がないんだねー❤
+レイ君はこらえ性がないんだねー❤
 ほら、わたしにエッチなことしてほしいんでしょ？
 そこの椅子に座りなさい。
 お口で気持ちよくしてあげる❤
@@ -8189,7 +8254,7 @@ Mirage：上
 戦闘中でもね、
 「もっとしゃぶってぇ❤」って目がハートになって、
 体の力が抜けちゃうの❤
-Ray君はどうかな？もうトロトロで力入らない？
+レイ君はどうかな？もうトロトロで力入らない？
 んっ、える❤れろぉ❤
 
 Ray：上
@@ -8197,7 +8262,7 @@ Ray：上
 
 Mirage：上
 あん、素直でかわいい。くすくす❤**
-Ray君はどこを舐められると弱いのかな？
+レイ君はどこを舐められると弱いのかな？
 例えば、こうやって舌先で鈴口をいじると・・・？
 れろれろれろぉ・・・❤
 あは❤
@@ -8216,7 +8281,7 @@ Mirage：上
 くす。これしてあげると頭の中真っ白になるでしょ？
 別に我慢しなくていいんだよ。わたしの与える快楽で、
 頭真っ白のお馬鹿さんになろうねー❤
-にしても、Ray君はおちんちん全部が弱いね。
+にしても、レイ君はおちんちん全部が弱いね。
 先っぽも鈴口も、ちょっと舐めてあげればメロメロだし。
 たぶんこうやって・・・
 お口に竿の根元まで、ずっぷりくわえこまれても
@@ -8244,7 +8309,7 @@ Ray：上
 いや、な、なんでも・・・。ああっ❤
 
 Mirage：上
-Ray君にレベルもらったお礼に、
+レイ君にレベルもらったお礼に、
 おちんちんの先っぽに、ちゅーってしてあげる❤
 ちゅっ、ちゅっ、ちゅー❤
 
@@ -8258,7 +8323,7 @@ Mirage：上
 あは❤またこんなに出したぁ❤
 
 Miles：上
-おい、Ray。
+おい、レイ。
 お前なにをビクビクはねているんだ？*
 ただでさえ俺たちは怪しまれているんだ。
 変なことは控えたほうがいいぜ。
@@ -8269,7 +8334,7 @@ Ray：上
 
 Mirage：上
 くすくす。心配してくれる友達がいても、
-Ray君の頭の中に全然入ってこないね。
+レイ君の頭の中に全然入ってこないね。
 気持ちよすぎてもう何言っているのか全然わからない❤
 いいんだよ。そのまま私にどんどん溺れていって・・・。
 私のもとにたどり着くころにはすっかり勝てない体に
@@ -8285,7 +8350,7 @@ Mirage：上
 またわたしになめてほしいの？
 おちんちんちょっとしゃぶられただけで、
 すっかりフェラに夢中じゃん❤
-Ray君ちょろすぎ❤くすくす❤
+レイ君ちょろすぎ❤くすくす❤
 でも、また今度ね。
 もう一回フェラしてあげる気分じゃないの。*
 わたしにおしゃぶりしてもらえる妄想でもしながら、
@@ -8295,19 +8360,19 @@ Ray君ちょろすぎ❤くすくす❤
 Mizuhide：上
 ふむ・・・。
 僕が調べる限りでは、
-Nobusさんに魔術が残っている感じはしませんね。
+ノブさんに魔術が残っている感じはしませんね。
 とはいえ、淫魔の魔術は特殊なものが多くて、
 見分けることができているか、
 100パーセントの自信はないのですが・・・。
 
 Nobus：上
-なあ、Mizuhide・・・。
+なあ、ミツヒデ・・・。
 聞いてもいいかな。*
-Milesの話をどう思う？
-Rayからだいたいのことは聞いているんだろ？
+ユミルの話をどう思う？
+レイからだいたいのことは聞いているんだろ？
 
 Mizuhide：上
-いえ、その辺のことはNobusさんに配慮しているのか、
+いえ、その辺のことはノブさんに配慮しているのか、
 詳しくは聞いていません。*
 どういう話だったのですか？お伺いしても・・・？
 
@@ -8318,7 +8383,7 @@ Mizuhide：上
 なるほど。だいたいの話は分かりました。
 
 Nobus：上
-Mizuhideは俺より年下なのに、
+ミツヒデは俺より年下なのに、
 国一番の賢者、と言われていて、
 才能だって人よりずっとある。
 だから、
@@ -8328,7 +8393,7 @@ Mizuhide：上
 僕にどこまでアドバイスできるかわかりませんが、
 やってみますね。*
 ふむ・・・・。**
-Milesさんが言いたかったことは、
+ユミルさんが言いたかったことは、
 才能や順位という考え方で、自分にできることに
 蓋をしてはいけない、ということだと思います。
 
@@ -8336,7 +8401,7 @@ Nobus：上
 ・・・・？
 
 Mizuhide：上
-例えばNobusさん。
+例えばノブさん。
 あそこの棚の上の本を取ってもらえますか？
 
 Nobus：上
@@ -8346,12 +8411,12 @@ Nobus：上
 
 Mizuhide：上
 ええ。ありがとうございます。**
-今、Nobusさんにしてもらったこと、
+今、ノブさんにしてもらったこと、
 これは身長の低い僕にはできません。*
-もちろん、Nobusさん以外にもそこに手が届く人は
+もちろん、ノブさん以外にもそこに手が届く人は
 たくさんいるでしょう。
-でも、今ここにいるのはNobusさんだけでした。
-これに、Nobusさんがこの国で一番の
+でも、今ここにいるのはノブさんだけでした。
+これに、ノブさんがこの国で一番の
 大男であるかどうかはあまり重要ではないのです。
 
 Nobus：上
@@ -8363,12 +8428,12 @@ Mizuhide：上
 たくさんいるのかもしれません。
 でも今実際にそれをできる人間、
 あるいは実際にやってみる人間は限られている。*
-そういうことがMilesさんは言いたいのだと思います。**
+そういうことがユミルさんは言いたいのだと思います。**
 うーむ、あまりうまい例ではないかもしれませんが、
 これで少しは助けになったでしょうか。
 
 Nobus：上
-ありがとう、Mizuhide。
+ありがとう、ミツヒデ。
 やっぱりちょっと難しいけれど、
 少しだけ分かった気がするよ。
 「自分よりうまくできるやつがいる」。
@@ -8386,12 +8451,12 @@ Mizuhide：上
 
 <CM60>
 Miles：上
-よお、Ray。**
-Nobusのこと、お前はどう思う？**
+よお、レイ。**
+ノブのこと、お前はどう思う？**
 俺はさっきはああ言ったけどよ、
 たぶん、幼馴染としての個人的感情が、
 けっこう入っちまっていると思う。
-この先、Nobusがまた敵の魔術で裏切るかもしれない、
+この先、ノブがまた敵の魔術で裏切るかもしれない、
 それならここで置いて行ったほうがいいかもしれない。
 そんな風にもやっぱり考えちまうんだ。
 だけど、たぶんここであいつを置いて行けば、
@@ -8400,8 +8465,8 @@ Nobusのこと、お前はどう思う？**
 ああ、我ながら甘っちょろい気がするぜ。
 
 <CM61>
-第三騎士団団長：上
-やあ、Ray君。
+Knight of 3rd Order：上
+やあ、レイ君。
 これから僕たちは移動して、
 主戦場の平原に合流する予定さ。
 僕ら第三騎士団は、通称「疾風の騎士団」と
@@ -8438,7 +8503,7 @@ Man：上
 おれも今夜が楽しみだぜ。ぐへへ。
 
 <CM75>
-Lady：上
+Woman：上
 うふふ。お兄さん、うちのカジノで遊んでいきませんか？**
 ちょっとした息抜きですよ。
 お金だってあんまりかかりません。*
@@ -8575,15 +8640,15 @@ Ray：上
 バニーガール：下
 それじゃ、楽しんでね。
 
-Lady：上
+Woman：上
 コインの購入はお店の外でできるわ。
 ここでできるのはコインをアイテムに替えることよ。*
 好きなものを選んでね。
 
 <CM80>
 Mirage：上
-やっほーRay君。
-Nobusくんの件は大変だったね。*
+やっほーレイ君。
+ノブくんの件は大変だったね。*
 友達に急に裏切られて、
 奇襲をやっとのこと切り抜けて・・・
 すっかり疲れちゃったでしょ？
@@ -8603,7 +8668,7 @@ Mirage：上
 ね、おっぱいの中にいると落ち着くでしょ？
 嫌なこと忘れちゃお？*
 気持ちよさそうだね・・・❤
-Ray君❤*
+レイ君❤*
 はい。ここでいったんおしまい。
 あん、そんな残念そうな顔しないで？*
 自分から来てくれれば、
@@ -8655,7 +8720,7 @@ My strength was squeezed by Mirage...
 <CM80-2>
 Mirage：上
 あ、一緒にお風呂に行きたくなった？
-それじゃ、いこっか。Ray君♪
+それじゃ、いこっか。レイ君♪
 
 テロップ：中央
 僕は人気のない温泉に向かった。**
@@ -8673,7 +8738,7 @@ Mirage：上
 ん・・・？あは❤
 身体があったまってきて、何か別のところが、
 元気になっちゃったみたいだね。おっきくなってる❤
-気持ちよくしてほしい？Ray君。
+気持ちよくしてほしい？レイ君。
 
 Ray：上
 う、うん・・・。
@@ -8708,7 +8773,7 @@ Mirage：上
 それって、お風呂から出るの？
 それともお風呂に出しちゃうの？
 もちろん、お風呂の中でびゅーってしちゃうんだよね。
-早漏すぎだよ。Ray君❤*
+早漏すぎだよ。レイ君❤*
 どんどんわたしへの耐性がなくなって、
 わたしの体にすぐ負けちゃうようになっている。*
 この調子じゃ、
@@ -8749,9 +8814,9 @@ Mizuhide：上
 けっこう前になりますが、
 王立学園で淫魔に襲われたときも、
 この装置のおかげでボクは命拾いしました。
-Rayさんたちとエスナ姫には感謝してもしきれません。
+レイさんたちとエスナ姫には感謝してもしきれません。
 その恩を返すためにも、僕は身命を賭して
-Rayさんたちと一緒に戦う覚悟です。
+レイさんたちと一緒に戦う覚悟です。
 
 Mizuhide：上
 以前もお話しましたが、
@@ -8760,24 +8825,24 @@ Mizuhide：上
 けっこう前になりますが、
 王立学園で淫魔に襲われたときも、
 この装置のおかげでボクは命拾いしました。
-Rayさんたちとエスナ姫には感謝してもしきれません。
+レイさんたちとエスナ姫には感謝してもしきれません。
 その恩を返すためにも、僕は身命を賭して
-Rayさんたちと一緒に戦う覚悟です。
+レイさんたちと一緒に戦う覚悟です。
 
 <CM72>
 Nobus：上
 はぁ、はぁ・・・。
 ここまで大急ぎで来たから、息が上がりそうだ。*
-敵はけっこう強いけど、Rayたちの力があれば戦える。
+敵はけっこう強いけど、レイたちの力があれば戦える。
 聖剣の反動が来たときは、
 俺が少しでも盾になれるよう頑張るよ。
 
 <CM73>
-Leon：上
-レシナの街でRay団長に声をかけてから、
+Lyon：上
+レシナの街でレイ団長に声をかけてから、
 ついにここまで来ました・・・。*
 地元ではあまりうだつの上がらない毎日。
-Rayさんに声をかけて本当に正解でしたよ。*
+レイさんに声をかけて本当に正解でしたよ。*
 家には兄さんたちや妹がいます。
 彼らにしっかり報奨金を持ち帰ってあげたいです。*
 今のうちに、団員の体力はわたしが回復します。
@@ -8794,7 +8859,7 @@ Rayさんに声をかけて本当に正解でしたよ。*
 あれこれ試みているのが見えた。
 槍で斬りつけたりしているようだが、
 結界はビクともしない。
-さすがはMizuhideの結界だ。
+さすがはミツヒデの結界だ。
 
 淫魔スライム：上
 ううっ、だめです。全然ビクともしません・・・。
@@ -8976,7 +9041,7 @@ Ray：上
 
 テロップ：中央
 淫魔は一本ずつ指を外していった。
-少しずつ、キRayな桜色の乳首が明らかになる。
+少しずつ、キレイな桜色の乳首が明らかになる。
 
 Ray：上
 はひぃっ・・・❤
@@ -9157,7 +9222,7 @@ Ray：上
 ・・・・・。
 
 Mizuhide：上
-あれ、Rayさん、どうしたのですか？
+あれ、レイさん、どうしたのですか？
 そんなボーっとした顔をして・・・。*
 ん・・・。ええ、これがこの結界の魔力タンクです。
 それがどうかしましたか？
@@ -9168,7 +9233,7 @@ Ray：上
 
 Mizuhide：上
 なっ・・・！**
-なにをしているんですか、Rayさん！
+なにをしているんですか、レイさん！
 それを壊したら、結界が！！
 
 Soldier：上
@@ -9195,10 +9260,10 @@ Soldier：上
 あひぃっ❤
 
 メイドサキュバスA：上
-うふふ。Rayさんのおかげで制圧に成功しましたわ。
+うふふ。レイさんのおかげで制圧に成功しましたわ。
 結界の中で安全だと思っていた彼らは、
 突然の攻撃でズタボロ❤
-Rayさんにはたくさんご褒美をあげないといけませんね。
+レイさんにはたくさんご褒美をあげないといけませんね。
 ほら、その椅子に腰かけなさい。*
 そう、約束した通りパイズリですよ。
 ここでたくさんおっぱいで挟んで、
@@ -9212,10 +9277,10 @@ Ray：上
 サキュバスさまぁ・・・❤
 
 メイドサキュバスA：上
-うふふ。Rayさんのおかげで制圧に成功しましたわ。
+うふふ。レイさんのおかげで制圧に成功しましたわ。
 結界の中で安全だと思っていた彼らは、
 突然の攻撃でズタボロ❤
-Rayさんにはたくさんご褒美をあげないといけませんね。
+レイさんにはたくさんご褒美をあげないといけませんね。
 ほら、この胸の中に来なさい・・・❤*
 そう、お客様がずっと見たがっていた、生おっぱいです。
 ここでたくさんぱふぱふしてさしあげます。*
@@ -9322,7 +9387,7 @@ Ray：上
 
 テロップ：中央
 淫魔は一本ずつ指を外していった。
-少しずつ、キRayな桜色の乳首が明らかになる。
+少しずつ、キレイな桜色の乳首が明らかになる。
 
 Ray：上
 はひぃっ・・・❤
@@ -9503,7 +9568,7 @@ Ray：上
 ・・・・・。
 
 Mizuhide：上
-あれ、Rayさん、どうしたのですか？
+あれ、レイさん、どうしたのですか？
 そんなボーっとした顔をして・・・。*
 ん・・・。ええ、これがこの結界の魔力タンクです。
 それがどうかしましたか？
@@ -9514,7 +9579,7 @@ Ray：上
 
 Mizuhide：上
 なっ・・・！**
-なにをしているんですか、Rayさん！
+なにをしているんですか、レイさん！
 それを壊したら、結界が！！
 
 Soldier：上
@@ -9541,10 +9606,10 @@ Soldier：上
 あひぃっ❤
 
 メイドサキュバスA：上
-うふふ。Rayさんのおかげで制圧に成功しましたわ。
+うふふ。レイさんのおかげで制圧に成功しましたわ。
 結界の中で安全だと思っていた彼らは、
 突然の攻撃でズタボロ❤
-Rayさんにはたくさんご褒美をあげないといけませんね。
+レイさんにはたくさんご褒美をあげないといけませんね。
 ほら、その椅子に腰かけなさい。*
 そう、約束した通りパイズリですよ。
 ここでたくさんおっぱいで挟んで、
@@ -9558,10 +9623,10 @@ Ray：上
 サキュバスさまぁ・・・❤
 
 メイドサキュバスA：上
-うふふ。Rayさんのおかげで制圧に成功しましたわ。
+うふふ。レイさんのおかげで制圧に成功しましたわ。
 結界の中で安全だと思っていた彼らは、
 突然の攻撃でズタボロ❤
-Rayさんにはたくさんご褒美をあげないといけませんね。
+レイさんにはたくさんご褒美をあげないといけませんね。
 ほら、この胸の中に来なさい・・・❤*
 そう、お客様がずっと見たがっていた、生おっぱいです。
 ここでたくさんぱふぱふしてさしあげます。*
@@ -9590,7 +9655,7 @@ Mirage：上
 ちゃんと修繕されている。
 メイド隊のみんなが、きちんと働いているんだね。
 それで・・・。
-Ray君はどうしてわたしを呼び出したのかな❤
+レイ君はどうしてわたしを呼び出したのかな❤
 まさか、わたしにお城を見せるためなんかじゃないよね。
 くすくす❤
 すっかり元気にしちゃって。
@@ -9628,7 +9693,7 @@ Ray：上
 Mirage：上
 くすくす。奥まで入れただけなのに、
 もうとろけちゃった？*
-Ray君のおちんちん、弱すぎ❤**
+レイ君のおちんちん、弱すぎ❤**
 そんなんじゃ、
 女の子を気持ちよくすることなんて、できないよ？
 くすくす・・・❤
@@ -9661,7 +9726,7 @@ Mirage：上
 奥に挿したまま、全然動けないじゃん。*
 いいよ。それじゃわたしが代わりに腰をふらせてあげる。
 たっぷりサキュバスまんこ楽しんでね？*
-Ray君の腰に脚をからめて・・・❤
+レイ君の腰に脚をからめて・・・❤
 んっしょ♪んっしょ♪
 
 Ray：上
@@ -9703,7 +9768,7 @@ Ray：上
 とまらないっ・・・❤
 
 Mizuhide：上
-Rayさん、大丈夫ですか！
+レイさん、大丈夫ですか！
 
 Ray：上
 っ！！
@@ -9718,7 +9783,7 @@ Mirage：上
 （力をほとんど吸い取られて、
 もう剣も持てないぐらいなのに。）*
 （こんなので、ふふ、
-女王の討伐うまく行くのかなぁ。Ray君❤）*
+女王の討伐うまく行くのかなぁ。レイ君❤）*
 （まあ、せいぜい頑張ってね。
 上の階にはあの子もいるはずだし。
 その体で勝てるといいね。くすくす❤）
@@ -9752,7 +9817,7 @@ Ray：上
 Mirage：上
 くすくす。奥まで入れただけなのに、
 もうとろけちゃった？*
-Ray君のおちんちん、弱すぎ❤**
+レイ君のおちんちん、弱すぎ❤**
 そんなんじゃ、
 女の子を気持ちよくすることなんて、できないよ？
 くすくす・・・❤
@@ -9785,7 +9850,7 @@ Mirage：上
 奥に挿したまま、全然動けないじゃん。*
 いいよ。それじゃわたしが代わりに腰をふらせてあげる。
 たっぷりサキュバスまんこ楽しんでね？*
-Ray君の腰に脚をからめて・・・❤
+レイ君の腰に脚をからめて・・・❤
 んっしょ♪んっしょ♪
 
 Ray：上
@@ -9827,7 +9892,7 @@ Ray：上
 とまらないっ・・・❤
 
 Mizuhide：上
-Rayさん、大丈夫ですか！
+レイさん、大丈夫ですか！
 
 Ray：上
 っ！！
@@ -9842,7 +9907,7 @@ Mirage：上
 （力をほとんど吸い取られて、
 もう剣も持てないぐらいなのに。）*
 （こんなので、ふふ、
-女王の討伐うまく行くのかなぁ。Ray君❤）*
+女王の討伐うまく行くのかなぁ。レイ君❤）*
 （まあ、せいぜい頑張ってね。
 上の階にはあの子もいるはずだし。
 その体で勝てるといいね。くすくす❤）
@@ -9873,7 +9938,7 @@ My strength was squeezed by Mirage...
 露出の多い二人の女性が
 僕に話しかけてきた。
 
-Lady：上
+Woman：上
 ねえ、そこのお兄さん？わたしたちと遊んでいかない？**
 見て、この服。セクシーでしょ？
 ふふっ、顔を赤くして目をそらしちゃって。
@@ -9882,7 +9947,7 @@ Lady：上
 ほら、サービスしてあげるから、
 気持ちいいこと、一緒にしましょ？
 
-Lady：上
+Woman：上
 え？困る？これから準備することがあるから？
 ふぅーん。お兄さん忙しいんだね。
 でもでも・・・。
@@ -9892,7 +9957,7 @@ Lady：上
 Ray：上
 ・・・・！
 
-Lady：上
+Woman：上
 えへへ、腕に抱き着いちゃった。
 おっぱい大きいでしょ・・・？*
 ほら、いっぱい押し付けてあげるから、
@@ -9901,7 +9966,7 @@ Lady：上
 Ray：上
 っ・・・❤
 
-Lady：上
+Woman：上
 うふふ❤
 その子ね、店で一番おっぱいが大きいのよ。*
 腕なんて余裕でくるんじゃう、特盛サイズ。
@@ -9910,12 +9975,12 @@ Lady：上
 柔らかいおっぱいに、色んなところ挟まれて・・・。
 気持ちよすぎて、頭真っ白になって・・・。
 
-Lady：上
+Woman：上
 ねえー・・・❤
 もっとイイこと、お店でしよーよぉ・・・❤*
 ね？わたしたちについてきて・・・？
 
-Lady：上
+Woman：上
 あん❤
 つれないこと言わないで。*
 そうだ。必殺のぱふぱふしてあげる❤
@@ -9927,7 +9992,7 @@ Ray：上
 ・・・・！
 っ❤❤
 
-Lady：上
+Woman：上
 ああん❤ビクンってした。かわいいー♪**
 お兄さんのココも、うふっ。おっきくなっちゃったね❤
 わたしたちのおっぱいに興奮しちゃったの？
@@ -9940,29 +10005,29 @@ Lady：上
 Ray：上
 うっ・・・❤あっ・・・❤
 
-Lady：上
+Woman：上
 可愛い声あげちゃって❤
 表情もいい感じにとろんとしてきたわね。
 ほら、そのまま気持ちよさに身を任せなさい・・・。
 
-Lady：上
+Woman：上
 むう、いけず❤
 いいわ。ムラムラして我慢できなくなったら、
 またいらっしゃい。
 お姉さんたちが、
 いっぱい気持ちよくしてあげるから❤
 
-Lady：上
+Woman：上
 きゃは❤
 一名様、ご案内ー♪*
 ほら、こっちこっち。
 ついてきて・・・❤
 
-Lady：上
+Woman：上
 エッチなお店は初めて？
 ふふ、たくさん気持ちいいことしようね❤
 
-Lady：上
+Woman：上
 兵隊さんの話では、
 すっごくセクシーな魔物が出たらしいけど・・・。*
 わたしたちだって負けていないと思うな❤
@@ -9972,7 +10037,7 @@ Lady：上
 Ray：上
 っ・・・❤、っ・・・❤
 
-Lady：上
+Woman：上
 あん❤手でシコシコしてるだけなのに、
 すっごいビクンビクンしてるー❤
 かわいいー❤
@@ -9982,11 +10047,11 @@ Lady：上
 Ray：上
 あっ・・・❤もうっ・・・・❤
 
-Lady：上
+Woman：上
 あん。いっぱい出た❤
 よく頑張ったね。えらいえらい❤
 
-Lady：上
+Woman：上
 うふふ、今度は私の番よ。
 お口でしゃぶってあげるから、
 ほら、もっと出しなさい・・・❤
@@ -9995,7 +10060,7 @@ Ray：上
 あうっ・・・❤
 あっ、すごい・・・❤
 
-Lady：上
+Woman：上
 あはん❤お兄さん、絶倫だねー❤
 まだまだギンギン・・・。*
 ねえ、こんなすごいの見てたら、お姉さん、セックスしたく
@@ -10009,7 +10074,7 @@ Lady：上
 Ray：上
 あっ・・・❤ううっ・・・❤
 
-Lady：上
+Woman：上
 ぬるぬるのアソコ、こすりつけられて、
 お兄さんも我慢できないんだ❤
 自分でも腰をカクカクふっちゃって・・・❤
@@ -10020,7 +10085,7 @@ Lady：上
 Ray：上
 あっ❤ああっ❤
 
-Lady：上
+Woman：上
 あん❤
 入ったぁ❤*
 どうかな、お姉さんとのエッチ❤
@@ -10034,7 +10099,7 @@ Ray：上
 すごい、からみついっ❤
 あっ、ああ、気持ちいいぃ❤❤
 
-Lady：上
+Woman：上
 やあん❤かわいい声あげちゃって❤**
 かわいいからサービスしちゃう。ほーら、おっぱいに顔をう
 めて？パフパフでメロメロにしながら、いっぱい腰を振っ
@@ -10043,7 +10108,7 @@ Lady：上
 Ray：上
 あっ、あう、あひぃ・・・❤❤
 
-Lady：上
+Woman：上
 うふふ、あっという間に射精しちゃった❤**
 でもしょうがないわ。
 おっぱいに顔を挟まれながらの生ハメ騎乗位・・・❤
@@ -10055,7 +10120,7 @@ Ray：上
 あふぅ・・・❤
 あっ、だめぇ、まだ出るぅ・・・❤
 
-Lady：上
+Woman：上
 いいよぉ・・・❤
 お金全部なくなるまで、いっぱいびゅっびゅっしようね❤
 
@@ -10070,17 +10135,17 @@ Lady：上
 僕はまた、あの路地裏の入り口に来ていた。*
 案の定、さきほどの女たちに声をかけられてしまう。
 
-Lady：上
+Woman：上
 あはっ❤やっぱり遊びたくなっちゃった？
 
-Lady：上
+Woman：上
 くすっ。
 ムラムラして我慢できなくなっちゃったんだ❤
 
 Ray：上
 ううっ・・・・❤
 
-Lady：上
+Woman：上
 あれれ・・・❤
 わたしたちの顔見ただけなのに、*
 さっきのパフパフとスリスリを思い出して、
@@ -10091,17 +10156,17 @@ Lady：上
 Ray：上
 っ・・・❤
 
-Lady：上
+Woman：上
 きゃは❤
 一名様、ご案内ー♪*
 ほら、こっちこっち。
 ついてきて・・・❤
 
-Lady：上
+Woman：上
 エッチなお店は初めて？
 ふふ、たくさん気持ちいいことしようね❤
 
-Lady：上
+Woman：上
 兵隊さんの話では、
 すっごくセクシーな魔物が出たらしいけど・・・。*
 わたしたちだって負けていないと思うな❤
@@ -10111,7 +10176,7 @@ Lady：上
 Ray：上
 っ・・・❤、っ・・・❤
 
-Lady：上
+Woman：上
 あん❤手でシコシコしてるだけなのに、
 すっごいビクンビクンしてるー❤
 かわいいー❤
@@ -10121,11 +10186,11 @@ Lady：上
 Ray：上
 あっ・・・❤もうっ・・・・❤
 
-Lady：上
+Woman：上
 あん。いっぱい出た❤
 よく頑張ったね。えらいえらい❤
 
-Lady：上
+Woman：上
 うふふ、今度は私の番よ。
 お口でしゃぶってあげるから、
 ほら、もっと出しなさい・・・❤
@@ -10134,7 +10199,7 @@ Ray：上
 あうっ・・・❤
 あっ、すごい・・・❤
 
-Lady：上
+Woman：上
 あはん❤お兄さん、絶倫だねー❤
 まだまだギンギン・・・。*
 ねえ、こんなすごいの見てたら、お姉さん、セックスしたく
@@ -10148,7 +10213,7 @@ Lady：上
 Ray：上
 あっ・・・❤ううっ・・・❤
 
-Lady：上
+Woman：上
 ぬるぬるのアソコ、こすりつけられて、
 お兄さんも我慢できないんだ❤
 自分でも腰をカクカクふっちゃって・・・❤
@@ -10159,7 +10224,7 @@ Lady：上
 Ray：上
 あっ❤ああっ❤
 
-Lady：上
+Woman：上
 あん❤
 入ったぁ❤*
 どうかな、お姉さんとのエッチ❤
@@ -10173,7 +10238,7 @@ Ray：上
 すごい、からみついっ❤
 あっ、ああ、気持ちいいぃ❤❤
 
-Lady：上
+Woman：上
 やあん❤かわいい声あげちゃって❤**
 かわいいからサービスしちゃう。ほーら、おっぱいに顔をう
 めて？パフパフでメロメロにしながら、いっぱい腰を振っ
@@ -10182,7 +10247,7 @@ Lady：上
 Ray：上
 あっ、あう、あひぃ・・・❤❤
 
-Lady：上
+Woman：上
 うふふ、あっという間に射精しちゃった❤**
 でもしょうがないわ。
 おっぱいに顔を挟まれながらの生ハメ騎乗位・・・❤
@@ -10194,7 +10259,7 @@ Ray：上
 あふぅ・・・❤
 あっ、だめぇ、まだ出るぅ・・・❤
 
-Lady：上
+Woman：上
 いいよぉ・・・❤
 お金全部なくなるまで、いっぱいびゅっびゅっしようね❤
 
@@ -10204,25 +10269,25 @@ Lady：上
 有り金をすべてむしり取られてしまった！
 
 <CM89>
-Lady：上
+Woman：上
 あら、また来たの？
 
-Lady：上
+Woman：上
 いっぱいパフパフしてあげたもんね❤
 気持ちいい感触が
 おちんちんからとれなくなっちゃったかな？
 
-Lady：上
+Woman：上
 でもぉ、わたしタダでやるのはいやだなぁ。
 お兄さんがたくさんお金くれるなら、
 また生ハメ騎乗位してあげてもいいけど・・・。
 
-Lady：上
+Woman：上
 ぷっ。でも、あなた、今はもうすっからかんよね。**
 わたしたちの誘惑に負けて、
 お金たっぷり払っちゃったんだから。
 
-Lady：上
+Woman：上
 わたし、貧乏君には興味ないからぁ、
 もう一度出直してきてほしいな。*
 もし1000ゴールド払えるなら、
@@ -10231,14 +10296,14 @@ Lady：上
 Ray：上
 ・・・・っ。
 
-Lady：上
+Woman：上
 あらぁ・・？**
 ふふ、1000ゴールド用意したんだ❤**
 さっきお財布の中、空になるまで絞ったのになぁ。
 もしかして、大事な道具とか売って、
 お金作っちゃった？
 
-Lady：上
+Woman：上
 くすくす・・・❤
 お姉さんとのいけないエッチにドはまりして*
 武器とか道具とか、
@@ -10248,7 +10313,7 @@ Lady：上
 お金さえ払ってくれるなら、
 君みたいなダメ男も天国に連れて行ってあげるから❤
 
-Lady：上
+Woman：上
 ほら、ついてきなさい。
 お店でそのお金の分の気持ちよさ、
 味合わせてあげる♥
@@ -10256,7 +10321,7 @@ Lady：上
 Ray：上
 あっ・・・❤あっ・・・❤
 
-Lady：上
+Woman：上
 くすくす。
 二人で挟んであげるダブルパイズリだよぉ❤*
 おっぱいに君のダメチンポ挟まれちゃったね。
@@ -10267,7 +10332,7 @@ Lady：上
 Ray：上
 あふぅ・・・❤気持ちいいよぉ・・・❤
 
-Lady：上
+Woman：上
 わたしたちのテクでとろけてる❤
 かっわいい❤*
 もっと虜になっていいのよ？
@@ -10279,7 +10344,7 @@ Aah, aaah...❤❤
 Ray：上
 あ、あの・・・。
 
-Lady：上
+Woman：上
 え？セックスしたいの？**
 そっかぁ。
 さっきのパフパフ騎乗位、
@@ -10292,12 +10357,12 @@ Lady：上
 Ray：上
 あひぃ、あっ❤あっ❤
 
-Lady：上
+Woman：上
 中に挿れたくて我慢してるの？**
 ふふ、でも、わたしたち二人で挟んだら、
 3分持つ男はいないものねぇ。
 
-Lady：上
+Woman：上
 ほらほら、イっちゃえー❤
 二人でむにゅうって押し付けて、
 ぬぷぬぷ、ぬちゅぬちゅー❤
@@ -10311,24 +10376,24 @@ Ray：上
 街角を歩いていると、
 子供の声が聞こえた。
 
-男の子：上
+Boy：上
 あううぅ。やめてよぉ・・・。
 
-Lady：上
+Girl：上
 きゃはは。何よ。そんなカッコ悪い声あげちゃって。
 ほら、わたしたちに渡すものがあるでしょ。
 早くしなさい。
 
-男の子：上
+Boy：上
 ううっ。このお金は、
 お母さんたちが一生けんめい働いて稼いだお金だよ。
 だから・・・。
 
-Lady：上
+Girl：上
 だから、なに？
 痛めつけられないと分からないの？んー？
 
-Lady：上
+Girl：上
 ほらほら、早く出しなよー。
 
 テロップ：中央
@@ -10337,14 +10402,14 @@ Lady：上
 Ray：上
 ・・・・。
 
-Lady：上
+Girl：上
 むっ、何？
 お兄さん、何か文句でもあるの？
 
 Ray：上
 ・・・・！
 
-Lady：上
+Girl：上
 きゃっ！！
 ちょっと、放してよ。急に腕つかまないで。*
 ったく、お兄さんには関係ないじゃん。
@@ -10353,7 +10418,7 @@ Lady：上
 ふん、こうなったら、あれしようよ。
 ほら、ミカ。やっちゃえ❤
 
-Lady：上
+Girl：上
 うふふ。はぁい。
 それじゃあ、ちょっとだけ失礼しますね。
 
@@ -10365,14 +10430,14 @@ Ray：上
 ・・・！
 あっ❤あっ❤
 
-Lady：上
+Girl：上
 どうですか？気持ちいいですかぁ？
 
-Lady：上
+Girl：上
 へへっ、ミカはすっごいテクニシャンなんだよ。
 お兄さんなんて、秒でアへらせちゃうんだから。
 
-Lady：上
+Girl：上
 ねえ、こうやって裏筋を、
 すーって指でなぞるの気持ちいいですよねぇ。
 カメさんも指でぎゅむぎゅむ揉んであげますよぉ❤
@@ -10380,7 +10445,7 @@ Lady：上
 Ray：上
 うっ❤ああっ❤
 
-Lady：上
+Girl：上
 そこでじっとしときなよ。
 そうすれば気持ちよくしてもらえるよ？*
 私たちの邪魔はしないで、
@@ -10390,7 +10455,7 @@ Lady：上
 Ray：上
 そ、それはっ・・・❤
 
-Lady：上
+Girl：上
 えー、いいじゃないですかぁ。
 知りもしない男の子でしょう？*
 お兄さんのこと、いっぱい気持ちよくしてあげたいなぁ❤
@@ -10399,14 +10464,14 @@ Lady：上
 Ray：上
 あっ、ちょっ❤だめっ❤あああっ❤
 
-Lady：上
+Girl：上
 ね？じっとしてて？
 わたしのお手で、ご奉仕させて？ね？
 
 Ray：上
 うっ・・・・❤ううっ・・・・❤
 
-Lady：上
+Girl：上
 くすくす。声にもならない声をあげちゃって♪
 動けないんだぁ❤*
 結局自分が気持ちよくなることが一番大事。
@@ -10416,7 +10481,7 @@ Lady：上
 Ray：上
 それは、ちがっ・・❤ああっ❤
 
-Lady：上
+Girl：上
 えー、違わないですよぉ。**
 こうやって服の上からすーりすーりってしてあげたら、
 頭の中真っ白になって、
@@ -10428,7 +10493,7 @@ Ray：上
 あっ❤あっ❤だめっ❤
 くぅぅ・・・❤気持ちいいっ❤ああっ❤
 
-Lady：上
+Girl：上
 ほらぁ。男は簡単に女の子に負けちゃうんです。
 女の子に負けるためなら、
 他のことなんてどうだっていいんです。
@@ -10439,63 +10504,63 @@ Ray：上
 そこを指でカリカリしないでっ❤
 ああっ❤
 
-Lady：上
+Girl：上
 くすくす。ちょろすぎ❤**
 それじゃあ、助けに来たお兄さんも、
 もう私たちの魅力に堕ちたことだし、*
 さっさとお金をよこしなさい。
 ほらっ！
 
-男の子：上
+Boy：上
 ううっ・・・・。
 
-Lady：上
+Girl：上
 ふふっ。確かにもらったわ。
 ふん、あんたにはもう用はないの。
 あっち行ってなさい。
 
-男の子：上
+Boy：上
 ちくしょう。ぜったい仕返ししてやるっ。
 仕返ししてやるんだからな！
 
-Lady：上
+Girl：上
 ぷっ。強がっちゃって❤
 そういうあんただってほら。
 ちょっと大きくなっているじゃない❤
 
-男の子：上
+Boy：上
 ふぁ・・・❤
 やめろ。さわるなっ❤
 ぼくは汚い大人たちとは違うんだっ❤あうぅ❤
 
-Lady：上
+Girl：上
 タマタマ揉んであげただけでうっとりしちゃってるくせに❤
 ぷぷっ、何が違うの？
 
-男の子：上
+Boy：上
 うっ、ううっ❤はぅ・・・❤
 
-Lady：上
+Girl：上
 あはっ。腰がヘコヘコ動いてるわよ？
 いいの？女の子の手でもみもみされただけで負けて。
 どぴゅどぴゅ射精しちゃうの？
 
-男の子：上
+Boy：上
 あっ、あっ❤あっ❤
 
-Lady：上
+Girl：上
 って、イかせる訳ないじゃない。バーカ❤
 ほら、気持ちいい玉揉みはもうおしまい。
 さっさとどっかへ行けばいいわ。
 
-男の子：上
+Boy：上
 あっ、あっ。そんな・・・・。ううっ・・・。
 ちくしょう・・・。
 
-Lady：上
+Girl：上
 くすくす。前かがみで走っちゃって、カッコ悪い❤
 
-Lady：上
+Girl：上
 あーあ、お兄さんが見捨てちゃったから、
 男の子がお金とられちゃいましたよぉ？
 罪悪感ないんですかぁ？
@@ -10504,7 +10569,7 @@ Ray：上
 そ、それはっ❤お前たちがっ❤
 あっ、あひぃ❤
 
-Lady：上
+Girl：上
 ふふっ。
 私の力なんてお兄さんなら簡単に振りほどけますよぉ。*
 気持ちいいお手てシコシコに負けて、
@@ -10514,7 +10579,7 @@ Lady：上
 Ray：上
 くっ、ああっ❤
 
-Lady：上
+Girl：上
 うふふ。ごめんなさい❤
 反応がかわいいから、ついいじめちゃいました。
 でも、もういいですよ。難しいことは考えなくて・・・。
@@ -10535,18 +10600,18 @@ Ray：上
 Ray：上
 あひぃ❤はぅ・・・、気持ちいぃ❤
 
-Lady：上
+Girl：上
 くすくす。膝から崩れ落ちちゃいましたねぇ。
 気持ちよすぎてもう立てませんか？
 
-Lady：上
+Girl：上
 あはは。情けなーい。正義面して割り込んできたのに、
 こんな女の子の手コキに屈服しちゃったんだ❤
 よかったわね。ミカちゃんの天国手コキを味わえて。
 普通だったらお金がたくさんいるのよ？
 それをタダで味わえたんだもの。超お得よ。
 
-Lady：上
+Girl：上
 なんなら、
 お兄さんもわたしの常連さんになっちゃいます？
 くすくす・・・。
@@ -10559,7 +10624,7 @@ Lady：上
 Ray：上
 はひぃ！！ちょっ、ああっ❤
 
-Lady：上
+Girl：上
 ふふっ、イったばかりの先っぽいじめられて、すごい声。
 それじゃあね。みじめなお兄さん❤あはは♪
 
@@ -10567,16 +10632,16 @@ Lady：上
 女の子たちは笑いながら立ち去っていった。**
 名声を1000失った…。
 
-Lady：上
+Girl：上
 きゃ！！
 
-Lady：上
+Girl：上
 うそお、ミカちゃんのテクで堕ちないなんて・・・。
 
 Ray：上
 ・・・・・！
 
-Lady：上
+Girl：上
 ちょっ、やめて、こら暴力反対！
 襟のところつかまないでよ。
 ううっー！！
@@ -10587,7 +10652,7 @@ Lady：上
 テロップ：中央
 捨て台詞を残して少女たちは去っていた。
 
-男の子：上
+Boy：上
 ありがとう、お兄さん。**
 ボク、もうどうしようもないって思ってたから、
 お兄さんが助けてくれて、
@@ -10597,7 +10662,7 @@ Lady：上
 これ、お礼！
 
 <CM91>
-Lady：上
+Girl：上
 あっ、いたいた！
 あいつだ！
 
@@ -10608,14 +10673,14 @@ Lady：上
 Ray：上
 ・・・・！
 
-Lady：上
+Girl：上
 さっきはよくも恥をかかせてくれたな！
 今度はそうはいかないぞ！
 
 Ray：上
 ・・・・。
 
-Lady：上
+Girl：上
 お姉ちゃーん、こっち来て！
 さっき言った男がいたよ！ほら！
 
@@ -10676,7 +10741,7 @@ Lady：上
 尻もちついて、とろとろのお顔でわたしを見上げて・・・。
 ふふっ、なんならもっとしてあげようか？
 
-Lady：上
+Girl：上
 すっごーい、お姉ちゃん！
 あっという間に骨抜きにしちゃった！*
 ふふん、どうだ見たか！
@@ -10699,7 +10764,7 @@ Lady：上
 体にたっぷり快楽を叩き込んで、
 都合のいい奴隷にしてあげるの。わかった？
 
-Lady：上
+Girl：上
 はーい！お姉ちゃん！
 わたし今からやるから見ててね。*
 ふふっ、あんたに私の魅力をたっぷり教えてあげる。
@@ -10708,7 +10773,7 @@ Lady：上
 Ray：上
 っ・・・。やめっ・・・❤ああっ❤
 
-Lady：上
+Girl：上
 あは。電気あんまだよー❤
 股間をぐりぐり、足で踏みつけてあげる❤*
 ほらほらほらー！
@@ -10718,7 +10783,7 @@ Lady：上
 Ray：上
 やめっ、はげしいっ❤あひぃ❤
 
-Lady：上
+Girl：上
 くすくす。声に艶が乗っているよー？
 足で踏まれているのに気持ちいいんだー？
 変態❤
@@ -10733,7 +10798,7 @@ Lady：上
 こんな小娘に足で踏まれて気持ちよくなるなんて、
 人としてどうなのかしら？
 
-Lady：上
+Girl：上
 あははっ。プライドなんかより、踏み踏みされるほうが大
 事なんだよねー❤
 
@@ -10746,7 +10811,7 @@ Lady：上
 Ray：上
 ふぐっ❤あふっ❤んんっ❤
 
-Lady：上
+Girl：上
 きゃはは❤手足じたばたさせちゃって、
 すっごく気持ちいいんだねー❤*
 いいの？女の子に踏みつけられてイっちゃう快感、
@@ -10770,7 +10835,7 @@ Ray：上
 んっ❤んっ❤っ❤あふぅ❤❤❤
 はひぃ・・・❤❤❤❤❤❤❤❤
 
-Lady：上
+Girl：上
 あはっ。どびゅどびゅ出てきたぁ❤**
 くすくす♪
 自分より小さい女の子の足に負けて、
@@ -10787,16 +10852,16 @@ Lady：上
 Ray：上
 あっ❤やめてっ❤はぅっ❤
 
-Lady：上
+Girl：上
 ほら、イケ！イケ！
 全部足に踏まれて射精しちゃえ❤
 
-Lady：上
+Girl：上
 やあん。足がべっとべと。
 何回イクの？もう射精止まらないの？
 くすくす❤
 
-Lady：上
+Girl：上
 あは❤死ぬほどどびゅどびゅ出して、気絶しちゃった❤
 精液まみれで路上で気絶とか、
 ほんと情けないね❤
@@ -10806,7 +10871,7 @@ Lady：上
 もうこの男はあんたには逆らえないわ。
 よく頑張ったわね。えらいえらい。
 
-Lady：上
+Girl：上
 てへへー♪
 ありがとうお姉ちゃん！*
 やっぱりお姉ちゃん頼りになるね！
@@ -10856,7 +10921,7 @@ Ray：上
 不意に別の路地から
 少女が話しかけてきた。
 
-Lady：上
+Girl：上
 きゃー❤お兄さん、助けてー。
 
 Ray：上
@@ -11099,7 +11164,7 @@ Lady：上
 テロップ：中央
 女はそう言うと、その場を立ち去った・・・。
 
-Lady：上
+Girl：上
 あは❤こっち向いてくれた。
 お、よく見るとお兄さん、イケメンだね♪
 これはサービスだよ？
@@ -11111,7 +11176,7 @@ Lady：上
 Ray：上
 ・・・・！
 
-Lady：上
+Girl：上
 あん❤
 どう？わたしのおっぱい大きいでしょ？*
 この年では反則級の爆乳おっぱい。
@@ -11121,7 +11186,7 @@ Lady：上
 それより、ほら❤
 おっぱい、ぽよんぽよん～❤
 
-Lady：上
+Girl：上
 すごいでしょ？
 たぷんたぷんって形を変えながら揺れて、
 とってもエッチ❤
@@ -11149,7 +11214,7 @@ Lady：上
 さっきから私のおっぱい見ながらずっと話しているよね？
 そんなのでほんとに取り戻す気あるの？くすくす❤
 
-Lady：上
+Girl：上
 ほら。今も服を着たら残念そうな顔をした。
 そんなにおっぱい見たかった？
 残念だったねー❤
@@ -11342,7 +11407,7 @@ Ray：上
 女はその場を去っていった。
 
 <CM92>
-Lady：上
+Girl：上
 こんにちは、騎士団のお兄さん。**
 やっぱり戦いをやっている人の体って、
 筋肉がしっかりしているんですね。
@@ -11356,7 +11421,7 @@ Lady：上
 え？大人をからかうな？
 はーい、ごめんなさい。
 
-Lady：上
+Girl：上
 あらら？
 また乳首さわってほしくなっちゃいました？*
 だめですよ？いい大人が、
@@ -11364,7 +11429,7 @@ Lady：上
 ふふっ、ほら、ピンって指ではじいちゃう❤
 ビクビクしてかわいいー❤
 
-Lady：上
+Girl：上
 こらー。だめだっていったじゃないですか。**
 小さい女の子に、
 乳首を指でいじられて気持ちよくなって、
@@ -11380,13 +11445,13 @@ Lady：上
 Ray：上
 あっ、あっ・・・❤
 
-Lady：上
+Girl：上
 あれあれ？
 もしかして、乳首触られただけでイっちゃったんですか？*
 うふふ❤早漏さんなんですね❤
 かわいい騎士団長さん❤
 
-Lady：上
+Girl：上
 あらあら。また来ちゃったの？
 これでもう４回目ですか。
 すっかり乳首いじりの虜ですね。くすくす❤
@@ -11396,7 +11461,7 @@ Lady：上
 ね、どうします？
 また触ってほしいですか？
 
-Lady：上
+Girl：上
 くすくす。そんなに頼み込んじゃいます？
 乳首触ってほしくて、もう我慢ができないんだ。
 どうしようもない変態さんなんですね❤
@@ -11410,7 +11475,7 @@ Lady：上
 Ray：上
 あふぅ、あっ・・・❤ああっ❤❤
 
-Lady：上
+Girl：上
 あはは❤
 また、乳首触られただけでイっちゃったんですね。*
 ね、気づいてます？一回射精するごとに、
@@ -11419,11 +11484,11 @@ Lady：上
 これがどういう意味か分かりますか？
 くすくす・・・❤
 
-Lady：上
+Girl：上
 もう、これでもう５回目ですね。
 力が減っているって知っても、
 また来ちゃうんですね。
-そうです。エナジードRayンです。
+そうです。エナジードレインです。
 わたし、あなたから力を吸い取っているんです。*
 そうじゃなきゃ、村の女の子が
 いきなり乳首なんていじってくれませんよ。
@@ -11440,7 +11505,7 @@ Lady：上
 Ray：上
 あひぃ❤あっ、あっ❤
 
-Lady：上
+Girl：上
 うふふ❤女の子みたいな声あげながら、
 どびゅどびゅってイっちゃいましたね。
 気持ちよかったですか？
@@ -11450,7 +11515,8 @@ Lady：上
 それでも乳首いじりがやめられないの？
 くすくす。いいですよ。
 また来たら、もっと吸ってあげますね。Ufufufu-❤
-Lady：上
+
+Girl：上
 あーあ、また来ちゃった❤
 もうダメですね。すっかりお猿さんです❤*
 乳首触られながら、どぴゅどぴゅって射精するためなら、
@@ -11465,7 +11531,7 @@ Lady：上
 Ray：上
 あっ、あひぃ❤❤❤
 
-Lady：上
+Girl：上
 くすくす。こんな刺激でイっちゃうなんて、
 お兄さん、もう弱々ですね。
 小娘の指先一つでビュービュー出しちゃうんですもん。
@@ -11482,7 +11548,7 @@ Ray：上
 あひっ❤ああっ❤
 だめっ❤❤
 
-Lady：上
+Girl：上
 あーあー、どびゅどびゅ力を垂れ流しちゃってる❤
 もったいなくないんですか？
 何体も魔物を倒してやっと身につけた力なんでしょう？
@@ -11897,7 +11963,7 @@ Ray：上
 
 女盗賊：上
 あは❤ありがとう。
-わー、キRayなものがいっぱい。*
+わー、キレイなものがいっぱい。*
 結構高かったでしょ？
 こんなにくれてお姉さんうれしいなぁ♪*
 それじゃあ、いい子にはご褒美あげないとね。**
@@ -12023,7 +12089,7 @@ Ray：上
 女盗賊：上
 あら、団長さん。
 また来たの？*
-どう？キRayな宝石。キRayな洋服。
+どう？キレイな宝石。キレイな洋服。
 似合うかしら。
 盗賊やってたころより豊かになっちゃいそうだわ。うふふ。
 それにしても、この間抜いてあげたばかりなのに、
@@ -12084,7 +12150,7 @@ Ray：上
 
 女盗賊：上
 あは❤ありがとう。
-わー、キRayなものがいっぱい。*
+わー、キレイなものがいっぱい。*
 結構高かったでしょ？
 こんなにくれてお姉さんうれしいなぁ♪*
 それじゃあ、いい子にはご褒美あげないとね。**
@@ -12208,15 +12274,15 @@ Ray：上
 
 <CM97>
 Mirage：上
-えへへ。なあに、Ray君。
+えへへ。なあに、レイ君。
 わたしに気持ちよくしてほしくなっちゃった？*
-Ray君が望むならいつでも気持ちよくしてあげるよ。
+レイ君が望むならいつでも気持ちよくしてあげるよ。
 ね？何してほしい？*
 手で上下にしごいてほしい？
 お口でしゃぶって蕩けさせてあげようか？
 それとも足で踏んでほしいとか？
 今の気分的には手コキがいいかなー。
-ね、Ray君はどう思う？
+ね、レイ君はどう思う？
 私の手でおちんちん握ってほしい？
 
 Mirage：上
@@ -12325,14 +12391,14 @@ Mirage：上
 変態の烙印おされちゃうね。バカみたい❤*
 でも、他人に見られながらの射精、
 気持ちよかったでしょ？*
-Ray君はマゾだから、
+レイ君はマゾだから、
 ダメだって思うと余計に気持ちよくなっちゃうんだもんね。
 変・態・さん❤
 
 Mirage：上
 さて精液のお味は・・・。
 うーん♪力が溶けてておいしい❤*
-この調子でどんどんRay君の力わたしにちょうだいね。
+この調子でどんどんレイ君の力わたしにちょうだいね。
 その分たくさん気持ちよくしてあげるんだから。
 楽しみにしてて。きゃはは♪
 
@@ -12481,14 +12547,14 @@ Mirage：上
 変態の烙印おされちゃうね。バカみたい❤*
 でも、他人に見られながらの射精、
 気持ちよかったでしょ？*
-Ray君はマゾだから、
+レイ君はマゾだから、
 ダメだって思うと余計に気持ちよくなっちゃうんだもんね。
 変・態・さん❤
 
 Mirage：上
 さて精液のお味は・・・。
 うーん♪力が溶けてておいしい❤*
-この調子でどんどんRay君の力わたしにちょうだいね。
+この調子でどんどんレイ君の力わたしにちょうだいね。
 その分たくさん気持ちよくしてあげるんだから。
 楽しみにしてて。きゃはは♪
 
@@ -12532,7 +12598,7 @@ Mirage：上
 
 Mirage：上
 うふふ。さっき抜いてあげたのに、もうこんなにガチガチ。
-Ray君、性欲魔人だね。*
+レイ君、性欲魔人だね。*
 それとも、
 わたしの手が気持ちよすぎるのがいけないのかな？
 だとしたら、ごめんねー。
@@ -12545,7 +12611,7 @@ Ray：上
 Mirage：上
 ぷぷっ❤
 先端なでられただけで声漏れちゃうんだね。
-Ray君、敏感すぎてどこを触っても喘ぐんじゃない？
+レイ君、敏感すぎてどこを触っても喘ぐんじゃない？
 ほら、亀さんにごめんねってなでなでしながら、
 竿もシコシコしてあげる。*
 これ気持ちいいから、きっとすぐイっちゃうよ。
@@ -12593,11 +12659,11 @@ Mirage：上
 ちょっろーい❤
 よく聖剣の呪いに打ち勝てたね。
 あっ、今負けている真っ最中か。
-ごめんごめん。Ray君のこと過大評価しちゃった❤*
+ごめんごめん。レイ君のこと過大評価しちゃった❤*
 さてと、今回の精液の味は・・・。
 うーん♪やっぱりおいしい❤*
 この調子でどんどん私に堕ちていいんだよ？
-Ray君の力たっぷりもらってあげるんだから❤
+レイ君の力たっぷりもらってあげるんだから❤
 きゃはは♪
 
 テロップ：中央
@@ -12906,6 +12972,9 @@ Ray：上
 僕はその後、二人にかわるがわる可愛がられ、
 たっぷり搾り取られてしまった。
 
+情報：情報
+団のメンバーを三人失いました。
+
 <CM102>
 テロップ：中央
 僕が仲間を募るため酒場に入ると、
@@ -13208,6 +13277,9 @@ Ray：上
 テロップ：中央
 僕はその後、二人にかわるがわる可愛がられ、
 たっぷり搾り取られてしまった。
+
+情報：情報
+団のメンバーを三人失いました。
 
 <CM103>
 テロップ：中央
@@ -13559,6 +13631,9 @@ Ray：上
 僕はその後、二人にかわるがわる可愛がられ、
 たっぷり搾り取られてしまった。
 
+情報：情報
+団のメンバーを五人失いました。
+
 <CM104>
 テロップ：中央
 グリッサたちに部下を貸して数日たったが、
@@ -13909,6 +13984,9 @@ Ray：上
 僕はその後、二人にかわるがわる可愛がられ、
 たっぷり搾り取られてしまった。
 
+情報：情報
+団のメンバーを五人失いました。
+
 <CM105>
 グリッサ：上
 お、団長さんじゃねえか。
@@ -13927,7 +14005,7 @@ Mirage：上
 わたしのこと呼び出しちゃうんだ。*
 たった一晩我慢すればいいだけなのに、
 おちんちんがうずいちゃって我慢できなかったのかな？
-Ray君はこらえ性がないんだねー❤
+レイ君はこらえ性がないんだねー❤
 ほら、わたしにエッチなことしてほしいんでしょ？
 そこの椅子に座りなさい。
 お口で気持ちよくしてあげる❤
@@ -13955,7 +14033,7 @@ Mirage：上
 戦闘中でもね、
 「もっとしゃぶってぇ❤」って目がハートになって、
 体の力が抜けちゃうの❤
-Ray君はどうかな？もうトロトロで力入らない？
+レイ君はどうかな？もうトロトロで力入らない？
 んっ、える❤れろぉ❤
 
 Ray：上
@@ -13963,7 +14041,7 @@ Ray：上
 
 Mirage：上
 あん、素直でかわいい。くすくす❤**
-Ray君はどこを舐められると弱いのかな？
+レイ君はどこを舐められると弱いのかな？
 例えば、こうやって舌先で鈴口をいじると・・・？
 れろれろれろぉ・・・❤
 あは❤
@@ -13982,7 +14060,7 @@ Mirage：上
 くす。これしてあげると頭の中真っ白になるでしょ？
 別に我慢しなくていいんだよ。わたしの与える快楽で、
 頭真っ白のお馬鹿さんになろうねー❤
-にしても、Ray君はおちんちん全部が弱いね。
+にしても、レイ君はおちんちん全部が弱いね。
 先っぽも鈴口も、ちょっと舐めてあげればメロメロだし。
 たぶんこうやって・・・
 お口に竿の根元まで、ずっぷりくわえこまれても
@@ -14010,7 +14088,7 @@ Ray：上
 いや、な、なんでも・・・。ああっ❤
 
 Mirage：上
-Ray君にレベルもらったお礼に、
+レイ君にレベルもらったお礼に、
 おちんちんの先っぽに、ちゅーってしてあげる❤
 ちゅっ、ちゅっ、ちゅー❤
 
@@ -14024,7 +14102,7 @@ Mirage：上
 あは❤またこんなに出したぁ❤
 
 Miles：上
-おい、Ray。
+おい、レイ。
 お前なにをビクビクはねているんだ？*
 ただでさえ俺たちは怪しまれているんだ。
 変なことは控えたほうがいいぜ。
@@ -14035,7 +14113,7 @@ Ray：上
 
 Mirage：上
 くすくす。心配してくれる友達がいても、
-Ray君の頭の中に全然入ってこないね。
+レイ君の頭の中に全然入ってこないね。
 気持ちよすぎてもう何言っているのか全然わからない❤
 いいんだよ。そのまま私にどんどん溺れていって・・・。
 私のもとにたどり着くころにはすっかり勝てない体に
@@ -14051,7 +14129,7 @@ Mirage：上
 またわたしになめてほしいの？
 おちんちんちょっとしゃぶられただけで、
 すっかりフェラに夢中じゃん❤
-Ray君ちょろすぎ❤くすくす❤
+レイ君ちょろすぎ❤くすくす❤
 でも、また今度ね。
 もう一回フェラしてあげる気分じゃないの。*
 わたしにおしゃぶりしてもらえる妄想でもしながら、
@@ -14561,8 +14639,8 @@ Lady：上
 
 <CM115>
 Mirage：上
-やっほーRay君。
-Nobusくんの件は大変だったね。*
+やっほーレイ君。
+ノブくんの件は大変だったね。*
 友達に急に裏切られて、
 奇襲をやっとのこと切り抜けて・・・
 すっかり疲れちゃったでしょ？
@@ -14582,7 +14660,7 @@ Mirage：上
 ね、おっぱいの中にいると落ち着くでしょ？
 嫌なこと忘れちゃお？*
 気持ちよさそうだね・・・❤
-Ray君❤*
+レイ君❤*
 はい。ここでいったんおしまい。
 あん、そんな残念そうな顔しないで？*
 自分から来てくれれば、
@@ -14634,7 +14712,7 @@ My strength was squeezed by Mirage...
 <CM118>
 Mirage：上
 あ、一緒にお風呂に行きたくなった？
-それじゃ、いこっか。Ray君♪
+それじゃ、いこっか。レイ君♪
 
 テロップ：中央
 僕は人気のない温泉に向かった。**
@@ -14652,7 +14730,7 @@ Mirage：上
 ん・・・？あは❤
 身体があったまってきて、何か別のところが、
 元気になっちゃったみたいだね。おっきくなってる❤
-気持ちよくしてほしい？Ray君。
+気持ちよくしてほしい？レイ君。
 
 Ray：上
 う、うん・・・。
@@ -14687,7 +14765,7 @@ Mirage：上
 それって、お風呂から出るの？
 それともお風呂に出しちゃうの？
 もちろん、お風呂の中でびゅーってしちゃうんだよね。
-早漏すぎだよ。Ray君❤*
+早漏すぎだよ。レイ君❤*
 どんどんわたしへの耐性がなくなって、
 わたしの体にすぐ負けちゃうようになっている。*
 この調子じゃ、
@@ -14719,7 +14797,7 @@ My strength was squeezed by Mirage...
 あれこれ試みているのが見えた。
 槍で斬りつけたりしているようだが、
 結界はビクともしない。
-さすがはMizuhideの結界だ。
+さすがはミツヒデの結界だ。
 
 淫魔スライム：上
 ううっ、だめです。全然ビクともしません・・・。
@@ -14901,7 +14979,7 @@ Ray：上
 
 テロップ：中央
 淫魔は一本ずつ指を外していった。
-少しずつ、キRayな桜色の乳首が明らかになる。
+少しずつ、キレイな桜色の乳首が明らかになる。
 
 Ray：上
 はひぃっ・・・❤
@@ -15082,7 +15160,7 @@ Ray：上
 ・・・・・。
 
 Mizuhide：上
-あれ、Rayさん、どうしたのですか？
+あれ、レイさん、どうしたのですか？
 そんなボーっとした顔をして・・・。*
 ん・・・。ええ、これがこの結界の魔力タンクです。
 それがどうかしましたか？
@@ -15093,7 +15171,7 @@ Ray：上
 
 Mizuhide：上
 なっ・・・！**
-なにをしているんですか、Rayさん！
+なにをしているんですか、レイさん！
 それを壊したら、結界が！！
 
 Soldier：上
@@ -15120,10 +15198,10 @@ Soldier：上
 あひぃっ❤
 
 メイドサキュバスA：上
-うふふ。Rayさんのおかげで制圧に成功しましたわ。
+うふふ。レイさんのおかげで制圧に成功しましたわ。
 結界の中で安全だと思っていた彼らは、
 突然の攻撃でズタボロ❤
-Rayさんにはたくさんご褒美をあげないといけませんね。
+レイさんにはたくさんご褒美をあげないといけませんね。
 ほら、その椅子に腰かけなさい。*
 そう、約束した通りパイズリですよ。
 ここでたくさんおっぱいで挟んで、
@@ -15137,10 +15215,10 @@ Ray：上
 サキュバスさまぁ・・・❤
 
 メイドサキュバスA：上
-うふふ。Rayさんのおかげで制圧に成功しましたわ。
+うふふ。レイさんのおかげで制圧に成功しましたわ。
 結界の中で安全だと思っていた彼らは、
 突然の攻撃でズタボロ❤
-Rayさんにはたくさんご褒美をあげないといけませんね。
+レイさんにはたくさんご褒美をあげないといけませんね。
 ほら、この胸の中に来なさい・・・❤*
 そう、お客様がずっと見たがっていた、生おっぱいです。
 ここでたくさんぱふぱふしてさしあげます。*
@@ -15247,7 +15325,7 @@ Ray：上
 
 テロップ：中央
 淫魔は一本ずつ指を外していった。
-少しずつ、キRayな桜色の乳首が明らかになる。
+少しずつ、キレイな桜色の乳首が明らかになる。
 
 Ray：上
 はひぃっ・・・❤
@@ -15428,7 +15506,7 @@ Ray：上
 ・・・・・。
 
 Mizuhide：上
-あれ、Rayさん、どうしたのですか？
+あれ、レイさん、どうしたのですか？
 そんなボーっとした顔をして・・・。*
 ん・・・。ええ、これがこの結界の魔力タンクです。
 それがどうかしましたか？
@@ -15439,7 +15517,7 @@ Ray：上
 
 Mizuhide：上
 なっ・・・！**
-なにをしているんですか、Rayさん！
+なにをしているんですか、レイさん！
 それを壊したら、結界が！！
 
 Soldier：上
@@ -15466,10 +15544,10 @@ Soldier：上
 あひぃっ❤
 
 メイドサキュバスA：上
-うふふ。Rayさんのおかげで制圧に成功しましたわ。
+うふふ。レイさんのおかげで制圧に成功しましたわ。
 結界の中で安全だと思っていた彼らは、
 突然の攻撃でズタボロ❤
-Rayさんにはたくさんご褒美をあげないといけませんね。
+レイさんにはたくさんご褒美をあげないといけませんね。
 ほら、その椅子に腰かけなさい。*
 そう、約束した通りパイズリですよ。
 ここでたくさんおっぱいで挟んで、
@@ -15483,10 +15561,10 @@ Ray：上
 サキュバスさまぁ・・・❤
 
 メイドサキュバスA：上
-うふふ。Rayさんのおかげで制圧に成功しましたわ。
+うふふ。レイさんのおかげで制圧に成功しましたわ。
 結界の中で安全だと思っていた彼らは、
 突然の攻撃でズタボロ❤
-Rayさんにはたくさんご褒美をあげないといけませんね。
+レイさんにはたくさんご褒美をあげないといけませんね。
 ほら、この胸の中に来なさい・・・❤*
 そう、お客様がずっと見たがっていた、生おっぱいです。
 ここでたくさんぱふぱふしてさしあげます。*
@@ -15515,7 +15593,7 @@ Mirage：上
 ちゃんと修繕されている。
 メイド隊のみんなが、きちんと働いているんだね。
 それで・・・。
-Ray君はどうしてわたしを呼び出したのかな❤
+レイ君はどうしてわたしを呼び出したのかな❤
 まさか、わたしにお城を見せるためなんかじゃないよね。
 くすくす❤
 すっかり元気にしちゃって。
@@ -15553,7 +15631,7 @@ Ray：上
 Mirage：上
 くすくす。奥まで入れただけなのに、
 もうとろけちゃった？*
-Ray君のおちんちん、弱すぎ❤**
+レイ君のおちんちん、弱すぎ❤**
 そんなんじゃ、
 女の子を気持ちよくすることなんて、できないよ？
 くすくす・・・❤
@@ -15586,7 +15664,7 @@ Mirage：上
 奥に挿したまま、全然動けないじゃん。*
 いいよ。それじゃわたしが代わりに腰をふらせてあげる。
 たっぷりサキュバスまんこ楽しんでね？*
-Ray君の腰に脚をからめて・・・❤
+レイ君の腰に脚をからめて・・・❤
 んっしょ♪んっしょ♪
 
 Ray：上
@@ -15628,7 +15706,7 @@ Ray：上
 とまらないっ・・・❤
 
 Mizuhide：上
-Rayさん、大丈夫ですか！
+レイさん、大丈夫ですか！
 
 Ray：上
 っ！！
@@ -15643,7 +15721,7 @@ Mirage：上
 （力をほとんど吸い取られて、
 もう剣も持てないぐらいなのに。）*
 （こんなので、ふふ、
-女王の討伐うまく行くのかなぁ。Ray君❤）*
+女王の討伐うまく行くのかなぁ。レイ君❤）*
 （まあ、せいぜい頑張ってね。
 上の階にはあの子もいるはずだし。
 その体で勝てるといいね。くすくす❤）
@@ -15677,7 +15755,7 @@ Ray：上
 Mirage：上
 くすくす。奥まで入れただけなのに、
 もうとろけちゃった？*
-Ray君のおちんちん、弱すぎ❤**
+レイ君のおちんちん、弱すぎ❤**
 そんなんじゃ、
 女の子を気持ちよくすることなんて、できないよ？
 くすくす・・・❤
@@ -15710,7 +15788,7 @@ Mirage：上
 奥に挿したまま、全然動けないじゃん。*
 いいよ。それじゃわたしが代わりに腰をふらせてあげる。
 たっぷりサキュバスまんこ楽しんでね？*
-Ray君の腰に脚をからめて・・・❤
+レイ君の腰に脚をからめて・・・❤
 んっしょ♪んっしょ♪
 
 Ray：上
@@ -15752,7 +15830,7 @@ Ray：上
 とまらないっ・・・❤
 
 Mizuhide：上
-Rayさん、大丈夫ですか！
+レイさん、大丈夫ですか！
 
 Ray：上
 っ！！
@@ -15767,11 +15845,10 @@ Mirage：上
 （力をほとんど吸い取られて、
 もう剣も持てないぐらいなのに。）*
 （こんなので、ふふ、
-女王の討伐うまく行くのかなぁ。Ray君❤）*
+女王の討伐うまく行くのかなぁ。レイ君❤）*
 （まあ、せいぜい頑張ってね。
 上の階にはあの子もいるはずだし。
 その体で勝てるといいね。くすくす❤）
 
 テロップ：中央
 ミラージュに力を吸い取られてしまった・・・
-
