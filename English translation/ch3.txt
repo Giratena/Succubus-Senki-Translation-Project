@@ -4325,7 +4325,7 @@ Skip the opening?
 The next day, we were summoned by the chancellor,
 and arrived at a room inside the castle.
 
-大臣：上
+Chancellor：上
 Greetings mercenaries. Your efforts were
 exceptional in repelling those demons that
 attacked our capital the other day.
@@ -4336,7 +4336,7 @@ you have our eternal thanks.
 No thanks necessary, we were just doing our duty,
 oh great chancellor. Ehehe...
 
-大臣：上
+Chancellor：上
 However, the problem of these new monsters is
 still at large.*
 We have been receiving reports of these new
@@ -4353,7 +4353,7 @@ before they take over the kingdom...
 レイ：上
 ...
 
-大臣：上
+Chancellor：上
 Therefore, I have a request for you all.**
 At present, our top sage has been imprisoned in
 the royal academy.
@@ -4362,7 +4362,7 @@ I humbly request you to save him for us.
 ノブ：上
 A sage...?
 
-大臣：上
+Chancellor：上
 That is correct.
 Despite being young of age, he possesses vital
 information.
@@ -4380,7 +4380,7 @@ That is what I believe.
 ノブ：上
 I got it. That is very important.
 
-大臣：上
+Chancellor：上
 However at present,
 the sage is locked within the royal academy.*
 The royal academy has been taken over by 
