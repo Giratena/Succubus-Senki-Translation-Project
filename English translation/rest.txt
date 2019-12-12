@@ -3651,13 +3651,13 @@ My strength was squeezed by Mirage...
 While walking through the town, 
 a robed man speaks out to you.
 
-Lyon：上
+Leon：上
 Um, excuse me.
 
 Ray：上
 ...?
 
-Lyon：上
+Leon：上
 Are you, perhaps Lord \pdb[0]?
 The one who defended the 
 town against the demon attack?
@@ -3669,28 +3669,28 @@ may I accompany you?
 Ray：上
 ...
 
-Lyon：上
+Leon：上
 You truly mean it!? You have my thanks...!**
 Well then, I hope we make a solid team.
 
 テロップ：中央
 Leon joined the party!
 
-Lyon：上
+Leon：上
 I see...**
 What a shame, I suppose it is out of my hands.
 If you change your mind, 
 please come speak with me again.
 
 <CM0-2>
-Lyon：上
+Leon：上
 Ah, Lord \pdb[0].
 Did you reconsider?
 
 Ray：上
 ...
 
-Lyon：上
+Leon：上
 I'm so thankful you reconsidered...!
 You have my thanks...!*
 Well then, I hope we make a solid team.
@@ -3698,7 +3698,7 @@ Well then, I hope we make a solid team.
 テロップ：中央
 Leon joined the party!
 
-Lyon：上
+Leon：上
 I see...**
 What a shame, I suppose it is out of my hands.
 If you change your mind, 
@@ -8839,7 +8839,7 @@ Nobus：上
 俺が少しでも盾になれるよう頑張るよ。
 
 <CM73>
-Lyon：上
+Leon：上
 レシナの街でレイ団長に声をかけてから、
 ついにここまで来ました・・・。*
 地元ではあまりうだつの上がらない毎日。

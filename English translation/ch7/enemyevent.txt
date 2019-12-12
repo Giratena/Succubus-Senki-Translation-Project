@@ -2482,7 +2482,7 @@ Ho-ra- Let the tension drain from your body?
 あなたの好きな足でいっぱいコスってあげるから、*
 私の足にあなたのエナジーを捧げなさい❤
 
-<(131087)初等部生徒0>
+<(131087)Junior Student0>
 アクティブ：上
 先輩ー❤
 ほら、見てー♪
@@ -2615,7 +2615,7 @@ Ho-ra- Let the tension drain from your body?
 えいっ、すりすり・・・❤すりすり・・・❤
 スカート越しのお尻、気持ちいい？
 
-<(131088)初等部生徒0>
+<(131088)Junior Student0>
 アクティブ：上
 えへへ、せんぱい、大好き❤**
 好き❤好き❤好き❤好き・・・❤
@@ -2737,7 +2737,7 @@ Ho-ra- Let the tension drain from your body?
 うふふ、気持ちよさそうな顔・・・❤
 いいよ、いっぱいしてあげるね❤
 
-<(131089)中等部生徒0>
+<(131089)Middle Student0>
 アクティブ：上
 ふふ、下級生にはないおっぱいで癒してあげる♥**
 ほら、あなたのが挟まれちゃった❤
@@ -3395,7 +3395,7 @@ Ho-ra- Let the tension drain from your body?
 ほおら、力を抜いて、わたしの下僕になりなさい❤
 
 タイトル：中央
-「魅了フェロモン」（「発情」のキャラに「魅了」付与。射程１）
+[Sexual Aroma] (Inflicts Charm on Aroused foes. Rng1)
 
 <(131095)シスター13>
 アクティブ：上
@@ -3416,7 +3416,7 @@ Miles：上
 Nobus：上
 あっ❤ああっ❤
 
-Lyon：上
+Leon：上
 うはぁ・・・❤
 
 Mizuhide：上
