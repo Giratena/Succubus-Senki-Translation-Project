@@ -376,21 +376,21 @@ spurt out your pathetic energy...❤
 さあ、わたしの香りに魅了されなさい❤
 
 タイトル：中央
-「魅了フェロモン」（「発情」のキャラに「魅了」付与。射程１）
+[Sexual Aroma] (Inflicts Charm on Aroused foes. Rng1)
 
 <(131077)Priestess11>
 アクティブ：上
 わたしのフェロモンであなたを悩殺してあげますね❤
 
 タイトル：中央
-「魅了フェロモン」（「発情」のキャラに「魅了」付与。射程１）
+[Sexual Aroma] (Inflicts Charm on Aroused foes. Rng1)
 
 <(131077)Priestess12>
 アクティブ：上
 ほおら、力を抜いて、わたしの下僕になりなさい❤
 
 タイトル：中央
-「魅了フェロモン」（「発情」のキャラに「魅了」付与。射程１）
+[Sexual Aroma] (Inflicts Charm on Aroused foes. Rng1)
 
 <(131077)Priestess13>
 アクティブ：上
@@ -1715,7 +1715,7 @@ Mizuhide：上
 ほおら、力を抜いて、わたしの下僕になりなさい❤
 
 タイトル：中央
-「魅了フェロモン」（「発情」のキャラに「魅了」付与。射程１）
+[Sexual Aroma] (Inflicts Charm on Aroused foes. Rng1)
 
 <(131095)シスター13>
 アクティブ：上
