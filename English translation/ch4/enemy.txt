@@ -4,19 +4,31 @@
 Priestess：上
 That's it, become mesmerized by my aroma-❤
 
+タイトル：中央
+「魅了フェロモン」（「発情」のキャラに「魅了」付与。射程１）
+
 <(65536)Priestess11>
 Priestess：上
 I'll brainwash you with my pheromones-❤
 
+タイトル：中央
+「魅了フェロモン」（「発情」のキャラに「魅了」付与。射程１）
+
 <(65536)Priestess12>
 Priestess：上
 Ho-ra～ Relax, and become my slaves-❤
+
+タイトル：中央
+「魅了フェロモン」（「発情」のキャラに「魅了」付与。射程１）
 
 <(65536)Priestess13>
 アクティブ：上
 I'll make all of you cum like mad
 with my superior pheromones-❤
 Take this-❤
+
+タイトル：中央
+「悩殺フェロモン」（「発情」のキャラに「悩殺」付与）
 
 Ray：上
 Aaaah...❤
@@ -28,7 +40,7 @@ This is...❤ Aaah...❤
 Nobus：上
 Aaah-❤ Ahhh-❤
 
-Leon：上
+Lyon：上
 Uwaah-❤
 
 Mizuhide：上
@@ -242,6 +254,9 @@ I'm gonna tempt you by moaning with my mouth
 open like this, and if you come closer, 
 I'll give you a big sloppy blowjob-❤
 
+タイトル：中央
+特殊技：「誘惑する口穴」（引き寄せ＋魅了）
+
 アクティブ：上
 (Giggle)
 Ahh, ah-, My moans are drawing you in-❤
@@ -257,6 +272,9 @@ I'm gonna tempt you by moaning with my mouth
 open like this, and if you come closer, 
 I'll give you a big sloppy blowjob-❤
 
+タイトル：中央
+特殊技：「誘惑する口穴」（引き寄せ＋魅了）
+
 アクティブ：上
 (Giggle)
 Ahh, ah-, My moans are drawing you in-❤
@@ -270,6 +288,9 @@ like I'm actually licking your penis right?ー❤*
 If you come over here,
 I'll give your penis a big suck for real-❤
 
+タイトル：中央
+特殊技：「誘惑する口穴」（引き寄せ＋魅了）
+
 <(65540)Village Girl10>
 アクティブ：上
 Hey, mister blowjob lover-❤
@@ -280,6 +301,9 @@ I'm gonna tempt you by moaning with my mouth
 open like this...
 I'll give you a big sloppy blowjob
 if you come closer-❤
+
+タイトル：中央
+特殊技：「誘惑する口穴」（引き寄せ＋魅了）
 
 アクティブ：上
 (Giggle)
@@ -388,6 +412,9 @@ Wouldn't you like to enjoy the feeling of your
 face between these breasts?*
 I thought so- Now, come to me-❤
 I'll brainwash you with the scent of my breasts-❤
+
+タイトル：中央
+特殊技：「強制洗脳ぱふぱふ」（引き寄せ+洗脳）
 
 <(65538)Devout Girl0>
 アクティブ：上
@@ -506,7 +533,6 @@ my breasts around your penis...
 See? All your strength just faded away.
 Now, just give in to the pleasure of
 my paizuri alright?-❤ Ufufu...
-
 
 アクティブ：上
 When I lie on the bed, I get sleepy, don't you?
