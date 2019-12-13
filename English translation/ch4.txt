@@ -124,6 +124,18 @@ The room is starting to fill again with that
 sweet scent from before.
 We should destroy them as quickly as we can!
 
+<AT12>
+タイトル：中央
+Succubus Aroma
+
+情報：情報
+The succubus' aroma will drift into the map every 
+3 turns. It divides affect unit's willpower by 3,
+and inflicts the 'arousal' status.*
+You can cure this status by using Princess 
+Estuna's amulet. It can be used indefinitely, 
+but not consecutively. Use it wisely.
+
 <AT23>
 Miles：上
 Perfect, we took down the barrier!
@@ -784,7 +796,7 @@ Well then, my doggy.
 Please defeat your allies for me. Hehehe-❤
 
 <AT20>
-フェラ盗賊：上
+Blowjob Bandit：上
 Oww...
 Uugh, you're really strong, aren't ya?*
 In that case, take this!**
@@ -800,7 +812,7 @@ There, go slack and let your strength fade away.
 I'll even jerk you off and pleasure you
 with my hand while I pamper your ears-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Wah! No way!
 How can you still move...!?
 
@@ -812,7 +824,7 @@ Aah...❤
 Due to a status effect,
 the temptation could not be resisted!
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Heh, that's it.
 Don't fight it-*
 I thought you'd shake me off, but you just
@@ -821,11 +833,11 @@ Whispering into your ear has already drained
 you of strength, hasn't it?
 (Giggle)
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Wah! No way!
 How can you still move...!?
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Aha. You're not even trying to resist, are you?-❤
 Good boy-❤
 I'll show you lots of affection-❤
@@ -836,7 +848,7 @@ Stroke, stroke-❤ Stroke, stroke...❤
 In that case, hora, how about this? 
 Stroke stroke-♪ Stroke stroke-♪
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Your expression is already melting, huh?
 I bet your mind can't even function properly
 when I tease your penis and ears simultaneously-
@@ -844,11 +856,11 @@ Ufufu- but before my techniques, everyone ends up
 like this, so there's no need to be embarrassed-❤
 Hora, don't fight it, start moaning-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ahn-❤ Ahn-❤ You can't stop, can you?
 (Giggle) How miserable-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Hora hora hora!
 Suck lick slurp-❤
 Submit to me and ejaculate.
@@ -856,12 +868,12 @@ Spurt your useless energy in my hands-
 Hora, pew pew pew-❤
 Teehee-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ara- You ejaculated in the blink of an eye-❤
 So weak-❤
 
 <AT21>
-フェラ盗賊：上
+Blowjob Bandit：上
 Oww...
 Ooh, this guy is really strong too-*
 Ufufu. But hora, see this?
@@ -879,7 +891,7 @@ Omph-❤ Aaah-❤ slurrrp-❤*
 Now, just hand loose and relax. I'll send you to
 heaven with my ear teasing and handjob too-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Wah! No way!
 How can you still move...!?
 
@@ -891,7 +903,7 @@ Aaah...❤
 Due to a status effect,
 the temptation could not be resisted!
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Heh, that's it.
 Don't fight it-*
 I thought you'd shake me off, but you just
@@ -900,18 +912,18 @@ Whispering into your ear has already drained
 you of strength, hasn't it?
 (Giggle)
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Wah! No way!
 How can you still move...!?
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Aha. You're not even trying to resist, are you?-❤
 Good boy-❤ Good boy-❤*
 Hora, my tongue is reaching your ears, mm-❤
 Ufufu- just this is enough to make you jump?
 Then what about teasing you with my hands...?
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ahn-❤
 It's easy to make you moan-❤
 You're already melting with a little teasing-
@@ -923,24 +935,24 @@ Hora, melt even more for me-❤
 Mm-❤ Mwah-❤ Lick, slurp-❤
 Stroke stroke♪ Stroke stroke stroke-♪
 
-フェラ盗賊：上
+Blowjob Bandit：上
 (Giggle) The cute moans just don't stop-
 You're so cute, it just makes me want to
 tease you even more-❤ Ahaha-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Hora hora hora!
 Now you too, mm, suck-❤,
 will submit to me and cum.
 spurt your useless energy in my hands-
 Teehee-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ara- You ejaculated in the blink of an eye-❤
 As expected, everyone is weak-❤
 
 <AT22>
-フェラ盗賊：上
+Blowjob Bandit：上
 Uugh.
 As things are, this is so unfair...*
 Hey, stop stabbing at me, okay?
@@ -953,7 +965,7 @@ Hora, it would be a waste to kill me without
 experiencing it first. Won't you let me
 pleasure your penis by sucking it in my mouth?
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ahn-❤
 You must have a strong will, to not
 want pleasure...
@@ -968,22 +980,22 @@ Ooh... Ooh...❤
 Due to a status effect,
 the temptation could not be resisted!
 
-フェラ盗賊：上
+Blowjob Bandit：上
 (Giggle) Seeing my mouth already got you so hard
 you can barely stand-❤
 Ahaha-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ahn-❤
 You must have a strong will,
 to not want pleasure...
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ufufu. Stay still, so I can
 suck on you with all my might-❤
 Ho-ra... Omnomnom-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Mm-❤
 My tongue twisting around your penis feels
 amazing right?
@@ -994,7 +1006,7 @@ for your most sensitive spots...*
 I watch your reactions to learn which spots 
 to focus sucking on in order to make you melt-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 And I'll flick my tongue like this-❤
 Coiling around lewdly,
 pampering the back muscle and head...
@@ -1002,7 +1014,7 @@ Ufufu. I bet your waist is crumbling,
 tasting the full course of my blowjob-
 You can't help but drown in pleasure, right?
 
-フェラ盗賊：上
+Blowjob Bandit：上
 And now, the final blow-❤**
 By holding the tip between my lips, and pumping
 your penis with a high speed blowjob!-❤
@@ -1011,7 +1023,7 @@ Mm, mm, mwah, mwah, mwah-❤
 I'll suck out your very soul, slurp-❤
 With my blowjob-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 (Giggle) You came so much in my mouth.**
 Looks like you can't stand up anymore-
 Are you satisfied? You got to experience my mouth
@@ -1434,6 +1446,16 @@ If you sniff them, you might not ever want to
 stop but...
 Ufufu- use them however you like, alright?-❤
 
+
+<AT11>
+テロップ：中央
+【状態異常：部位弱点】
+特定部位の攻撃で受けるダメージが上がります。
+「誘惑」スキルを持つ相手への攻撃が無効化されます
+【解除方法】
+２ターン経過。
+もしくは万能薬などのアイテムによる治療。
+
 <AT15>
 アクティブ：上
 Ahh, aaah...❤
@@ -1460,7 +1482,7 @@ Ara ara. Can you not control your arousal
 under the priestess' aroma? ...Masturbating
 with the panties of an enemy girl-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Pfft. Why did you suddenly start masturbating?
 Were you hoping to show me how pathetic it is to
 stroke your dick with some panties?-❤
@@ -1478,7 +1500,7 @@ Ara- You went 'spurt spurt'
 everywhere, didn't you?
 Did that feel good?
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Wow, that's so much semen-❤
 What a real pervert, cumming so much from
 masturbating with some panties-❤
@@ -1510,7 +1532,7 @@ Ufufu. That bra is filled with my sweet scent.
 It will satisfy you in ways nothing else can.
 Go ahead, stroke to your hearts content-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ara- Are you having fun stroking the head of your
 penis with that bra?*
 Cumming not with a paizuri or even a Puff-Puff,
@@ -1531,14 +1553,14 @@ Although you didn't need to masturbate,
 I would have gladly let you cum between my
 breasts if you just asked-❤ (Giggle)
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ufufu-
 losing your mind while ejaculating from
 masturbating to someone's bra...
 You really are beyond saving, aren't you?-❤
 
 <AT32>
-男の子：上
+Boy：上
 (...?)**
 (Huh? My body is...?)
 
@@ -1554,7 +1576,7 @@ Oh hello, you came today as well.
 You've been doing so well,
 attending church every day-❤
 
-男の子：上
+Boy：上
 Ehehe- Really!?
 (My mouth is moving on its own...)
 
@@ -1563,14 +1585,14 @@ Indeed, you've been such a good boy-❤**
 Ah, that's right.
 Good boys get something special today-
 
-男の子：上
+Boy：上
 Eh? Really, really!?
 
 Devout Girl：上
 Ufufu. Now follow me okay?
 Hora, quickly now...
 
-男の子：上
+Boy：上
 ...? Where are we miss?
 Why is there a basement under the church...?*
 It's dark, and there rows of prison cells.
@@ -1583,14 +1605,14 @@ Ufufu- there's no need to be afraid.
 Hora, come to me, okay?
 Your big sister will give you a tight hug.
 
-男の子：上
+Boy：上
 Uwaah-❤
 
 Devout Girl：上
 There, just relax in the warmth of my breasts.
 Doesn't that make you feel better?
 
-男の子：上
+Boy：上
 Yeah, it smells so sweet...❤
 Miss... Ooh, what's going on..❤
 This feels so good...❤
@@ -1606,7 +1628,7 @@ kept here in this jail until you die...
 You'll experience pleasure over and over
 until death-❤
 
-男の子：上
+Boy：上
 Pleasure, until death...?
 I'm, gonna die...?
 I'm scared... Ah-❤
@@ -1615,25 +1637,25 @@ Don't hug me so tightly...❤
 my strength is fading-❤
 
 Devout Girl：上
-Ufufu. Don't think about those complicated
-things, okay? Hora, soon you'll experience your
-first semen squeezing-❤
+Ufufu- There's no need to think about such 
+complicated things, hora- Soon you're going 
+to experience your first semen squeezing-❤
 I'll embrace your growing penis,
 and squeeze it between my breasts-❤
 
-男の子：上
+Boy：上
 Uaaaah...!!!
 
 Devout Girl：上
-Have you done something this naughty before?
-This is probably your first time, isn't it?*
-Is this the first time your penis has
-experienced the pleasure of a succubus paizuri?
+I bet you've never done something this naughty 
+before- It's your first time, isn't it?*
+This'll be the first time your penis has ever
+experienced the pleasure of a succubus paizuri-
 (Giggle) You might just break-❤
-And if I squeeze my breasts together while
-massaging them like this...
+And watch this- If I squeeze my breasts together 
+while massaging them together like this...
 
-男の子：上
+Boy：上
 Eiaaagh! Aaah-❤❤
 This is, amazing!-❤❤
 Amazing...❤❤
@@ -1642,21 +1664,21 @@ What-❤ What's going on...?-❤
 I'm melting-❤ My penis is melting...❤❤
 
 Devout Girl：上
-Ufufu. That's a succubus paizuri for you.
-It feels good, doesn't it?-❤*
-You feel so good, the more you think about the
+Ufufu- That's a succubus paizuri for you.
+Feels good, doesn't it?-❤*
+You feel soo good- The more you think about the
 pleasure, the more your vital energy slowly
 blends into your semen-❤
 And then once enough energy has been accumulated,
 I'll rub you lots with my breasts, and
 you'll spurt it all out in my cleavage.
-This is Succubus Paizuri Energy Drain-❤
-Pleasure to the point of death-❤*
-You want to experience it, right?
-You want me to make you feel even more
-pleasure, don't you?
+We call this a Succubus Paizuri Energy Drain-❤ 
+It feels so good, people usually die from it-❤*
+But, you still want to experience it, right?
+You want me to make you feel even better, 
+don't you?
 
-男の子：上
+Boy：上
 Yeah-❤ Please-❤
 Please make me feel even better-❤
 I love you miss-❤ I love you-❤
@@ -1665,13 +1687,13 @@ Devout Girl：上
 Ahaha-❤
 You've fallen in love with the big ba-d succubus
 who's going to snatch away your life-❤
-Well then, hora- spurt all your semen on
-your lovely big sister's breasts-❤
+Well then, hora- Spurt all your semen between
+your big sister's lovely breasts-❤
 
-男の子：上
+Boy：上
 Ahh, aah, aah...❤❤❤❤
 
-男の子：上
+Boy：上
 Aah, aahieee-❤
 It feels so- good...❤❤
 
@@ -1684,7 +1706,7 @@ If we do those pleasant things,
 your body becomes worn out.
 It's very serious, you know?
 
-男の子：上
+Boy：上
 That's true... But,
 I don't care about, those things...❤*
 Big sister, squeeze me more with your breasts-❤
@@ -1698,7 +1720,7 @@ But, you'll have to wait a while until it's
 time for everyone to eat, okay?
 So stay in the prison until then. Sorry-
 
-男の子：上
+Boy：上
 Please...❤
 More, do me more-❤
 
@@ -1729,7 +1751,7 @@ another human, isn't it?
 Teehee...❤
 
 <AT33>
-兵隊：上
+Soldier：上
 (Oogh...)**
 (What's going on? My body is...)
 
@@ -1745,7 +1767,7 @@ Ara- A soldier? Suddenly coming to visit me,
 and with such a grim face too.
 Is there anything I can help you with?
 
-兵隊：上
+Soldier：上
 Not at all. The fact of the matter is, I have
 come because of the missing villagers.
 (My mouth is moving on its own...)
@@ -1761,7 +1783,7 @@ Who knows...
 I'm sure I saw them that day in the morning,
 but after that...
 
-兵隊：上
+Soldier：上
 I see.
 Twelve villagers have disappeared since the
 new species of demons were discovered.
@@ -1772,7 +1794,7 @@ Priestess：上
 Is that so?
 I hope we can solve this as soon as possible...
 
-兵隊：上
+Soldier：上
 By the way...**
 If I heard right,
 these new species of demons are said to take
@@ -1783,7 +1805,7 @@ Priestess：上
 Why are you staring at me like that?
 Is something wrong?
 
-兵隊：上
+Soldier：上
 Well um, you are extremely beautiful,
 aren't you, priestess?*
 And I haven't seen you in this village
@@ -1799,7 +1821,7 @@ I understand.
 As a soldier, you're only trying your best,
 so I'll give you a small reward, okay?
 
-兵隊：上
+Soldier：上
 Huh? A reward...?
 
 Priestess：上
@@ -1807,7 +1829,7 @@ Yes. A very wonderful reward.
 By placing my hand over my mouth like this and...*
 Pshew--...❤
 
-兵隊：上
+Soldier：上
 Uwoah...❤❤❤
 
 Priestess：上
@@ -1818,7 +1840,7 @@ makes your mind feel good, doesn't it?*
 That's it, just relax...
 Listen to my voice...❤
 
-兵隊：上
+Soldier：上
 Haaah...❤
 
 Priestess：上
@@ -1828,7 +1850,7 @@ okay?
 Just let my succubus aroma flow through
 your body, and let your mind melt-❤
 
-兵隊：上
+Soldier：上
 Yes...❤
 Yes priestess...❤
 
@@ -1837,7 +1859,7 @@ Even if more people go missing,
 you will not investigate seriously.
 Understood?
 
-兵隊：上
+Soldier：上
 Understood...❤ Priestess-❤
 I won't worry, even if something happens...❤
 So please, reward...
@@ -1848,7 +1870,7 @@ And about the matter of the demons,
 spread the word that they're in the forest.
 Is that alright with you, my slave?-❤
 
-兵隊：上
+Soldier：上
 Yess...❤❤
 As you command, priestess...❤❤
 
@@ -1876,14 +1898,14 @@ alright?-❤
 Ufufu-❤
 
 <AT8>
-フェラ盗賊：上
+Blowjob Bandit：上
 Ara-❤
 Welcome to the top of the bed-❤
 
 テロップ：中央
 A succubus hiding beneath the blankets appeared!
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Hey-❤
 You're already worn out from being seduced
 by succubi, aren't ya?
@@ -1897,11 +1919,11 @@ Your penis is rock hard, and I haven't even put
 it in me.*
 So what do ya say, gonna keep being stubborn?
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Kyah!
 Definitely stubborn...
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Huh? What's with your hands?
 Don't you have the strength to move them?*
 You're already panting from the pheromones, so
@@ -1914,14 +1936,14 @@ touched my body, didn't it?-❤
 Due to a status effect,
 the temptation could not be resisted!
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ara-❤
 Good boy-❤*
 Now then,
 let your big sister take you to heaven-❤*
 First, by lightly stroking you with my hand...
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Teehee-❤
 You're not going to cum with just this, are you?*
 I've only just finished stroking you with my hand.
@@ -1934,7 +1956,7 @@ Fufu- it'll feel really good...
 Now, I'll guide that stiff penis of yours
 inside me-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Teehee-❤
 I only just put it in and your face completely
 melted, didn't it?-❤
@@ -1950,7 +1972,7 @@ you while being straddled by a woman?
 Ah, aaah-❤
 I can't, this is too much-❤ Aaah-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Aaah-❤ I'm not gonna stop!-❤
 It seems the predator has turned into the prey-❤*
 They say men are wolves, but you can't even
@@ -1959,7 +1981,7 @@ only able to be squeezed pathetically-❤
 And if I go 'slap slap' against your hips
 like this, you let out the cutest moans-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 You're turning into an idiot, but your
 expression is filled with pleasure-❤*
 When any man experiences this, they finally
@@ -1969,7 +1991,7 @@ I'll drain your spirit as well and continue
 squeezing it out of you cowgirl style,
 just like I did with all the other men-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ufufu-❤
 You came so much inside me-❤*
 Be happy that your life ended in the highest
@@ -1994,7 +2016,7 @@ super good?-*
 Ara, your penis is twitching in anticipation-♪
 Hora, just stay still...*
 Don't you want to experience our
-double blowjob heaven?*
+double blowjob heaven?
 
 Village Girl：上
 Aww-❤
@@ -2011,7 +2033,6 @@ It's so hard when your penis is stiff
 because of the pheromones, isn't it?*
 Hora, now let's set Mr. Penis free by
 making him feel good, okay?
-
 
 Village Girl：上
 Uh oh, what could you be anticipating?
@@ -2073,7 +2094,10 @@ Ugh, you're really doing me in, aren't you?
 So it's come to this...
 
 テロップ：中央
-The priestess chanted a suspicious spell!
+The Priestess recided a sinister spell!
+
+タイトル：中央
+Body of Temptation
 
 Priestess：上
 (Giggle)
@@ -2266,7 +2290,6 @@ The hero, defeated by the succubi, was placed
 on a bed in a room, to be used for honing 
 their pleasure techniques until he breaks...
 
-
 Devout Girl：上
 Ufufu. They say you're the leader of the Ninth
 Order, but you just weren't good enough-❤*
@@ -2453,7 +2476,7 @@ The heroes, who were defeated by the succubus
 within the pheromones, were later brainwashed
 by them and turned into their slaves.
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Heyo- 
 How are you doing?*
 Whoa, so these are the spoils of war?**
@@ -2478,7 +2501,7 @@ I'll melt you with my sweet, sticky love...❤
 Ray：上
 Uhh...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ufufu.
 You aren't moving, so I guess it's okay-❤*
 Omnomm-❤
@@ -2487,7 +2510,7 @@ Ray：上
 Ooah!-❤ Aah-❤ Haah-❤
 Aaahah, no, I can't!- Aaah...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Mm, sluuuurp-❤ Pop-❤
 Suck-❤ Slururururp-❤
 Mmm, you can-❤
@@ -2501,7 +2524,7 @@ Ray：上
 Ah ahiee...❤
 Amazing...❤ M, my waist is...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ufufu- 
 and your waist is buckling just like that-❤*
 No matter how many times I suck,
@@ -2513,13 +2536,13 @@ Ray：上
 Ah, aaah, no!- If you move like that-❤❤
 Aah, no, I'm already...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Alright. I'll stop.
 
 Ray：上
 Huh? Aah, aaah...
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ufufu...
 I only just took your penis out from my mouth,
 and you're already gasping pathetically-❤
@@ -2531,21 +2554,21 @@ Speak with your mouth, okay?
 Ray：上
 Oh, ooh...
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Hmm?
 
 Ray：上
 Please suck on me-❤
 I'm begging you-❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 (Giggle) And? That's not all is it?
 
 Ray：上
 I, I won't defy you anymore-❤
 You can have all the treasures you want, so...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Mm, well done-❤**
 Alright then, ejaculate in pleasure-
 Cum until you reach heaven-❤
@@ -2555,14 +2578,14 @@ Ah, aaieee-❤
 A, amazing-❤ Your lips are sucking me-❤
 Aah-❤❤❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Mwah-❤ Slurrururp-❤ Lick-❤ Slurrp-❤
 Mwah-❤ Chew, chew, chew-❤❤
 
 Ray：上
 AAAAH!!!!
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Okay, bye bye-❤
 Good luck watching the treasure again, okay?*
 I'll come back again after selling these on the
@@ -2691,7 +2714,7 @@ It's like I'm melting your penis with my paizuri.*
 And the more my breasts bounce,
 the more pheromones I spread-❤*
 You're already starting to feel strange,
-aren't you?-❤*
+aren't you?-❤
 
 Ray：上
 Aiee...❤
@@ -4248,7 +4271,7 @@ Ahn, your eyes are blank, and you're drooling-❤
 You're just masturbating, but it feels so- good,
 it's like you're ascending to heaven, isn't it?
 
-Devout Girl：上
+アクティブ：上
 Ara ara.
 You seem to be pleased with the bra I gave you,
 aren't you?
@@ -4259,11 +4282,11 @@ Fufu. It's okay.
 Hora, I'll wrap your face 
 between my naked breasts, okay?-❤
 
-アクティブ：上
+Devout Girl：上
 Aahhh-❤
 They're so soft... Amazing...❤
 
-Devout Girl：上
+アクティブ：上
 Ufufu. The smell of my undergarments, the smell
 of my cleavage, either one is like a pink aroma
 muddling your mind.
@@ -4274,7 +4297,7 @@ Your mind is becoming blank, just by covering
 every inch of your body in my sweet scent...
 Just happiness-❤ Nothing but happiness...❤
 
-アクティブ：上
+Devout Girl：上
 Ahiee-❤ Aouuugh...❤
 
 Devout Girl：上
@@ -4294,7 +4317,7 @@ Hora, don't speed up.
 Let's engrave the pleasure of slow masturbation
 into the deepest depths of your mind, okay?-❤
 
-Devout Girl：上
+敬虔な少女：上
 Ufufu. You came so much, didn't you?
 How was that? Are you happy?*
 I'm so happy I was able to wrap you up in the
@@ -4352,7 +4375,7 @@ Ahn, your eyes are blank, and you're drooling-❤
 You're just masturbating, but it feels so- good,
 it's like you're ascending to heaven, isn't it?
 
-Devout Girl：上
+アクティブ：上
 Ara ara.
 You seem to be pleased with the bra I gave you,
 aren't you?
@@ -4363,11 +4386,11 @@ Fufu. It's okay.
 Hora, I'll wrap your face 
 between my naked breasts, okay?-❤
 
-アクティブ：上
+Devout Girl：上
 Aahhh-❤
 They're so soft... Amazing...❤
 
-Devout Girl：上
+アクティブ：上
 Ufufu. The smell of my undergarments, the smell
 of my cleavage, either one is like a pink aroma
 muddling your mind.
@@ -4378,7 +4401,7 @@ Your mind is becoming blank, just by covering
 every inch of your body in my sweet scent...
 Just happiness-❤ Nothing but happiness...❤
 
-アクティブ：上
+Devout Girl：上
 Ahiee-❤ Aouuugh...❤
 
 Devout Girl：上
@@ -4398,7 +4421,7 @@ Hora, don't speed up.
 Let's engrave the pleasure of slow masturbation
 into the deepest depths of your mind, okay?-❤
 
-Devout Girl：上
+敬虔な少女：上
 Ufufu. You came so much, didn't you?
 How was that? Are you happy?*
 I'm so happy I was able to wrap you up in the
@@ -4417,7 +4440,7 @@ Not good... I'm, already...❤
 アクティブ：上
 Aaah...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Oh my, you're masturbating in front of the
 enemy?*
 You couldn't resist doing it when looking at
@@ -4429,7 +4452,7 @@ you feel good, isn't it? Ufufu-
 アクティブ：上
 Ahiaa-❤ Aouggh...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Alright, I'll do something special for you.
 Hora, I'll bring my mouth up to your forehead,
 and...
@@ -4440,7 +4463,7 @@ How does it feel? It feels all tingly, doesn't it?
 アクティブ：上
 Ah,aaah...❤ What is this...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 (Giggle)
 It must have felt really good ejaculating with
 your mind melting in pleasure.
@@ -4460,7 +4483,7 @@ Not good... I'm, already...❤
 アクティブ：上
 Aaah...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ara, did you want a kissy mark as well?
 Judging by your face, and how you're stroking
 your penis, I bet you want it-❤
@@ -4470,7 +4493,7 @@ your forehead over here.
 アクティブ：上
 Pl, please-❤ I, I'm begging you...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ho-ra, puckering my lips...**
 Mmmwah-❤**
 Ara, you have a bright red kissy mark now-
@@ -4480,7 +4503,7 @@ How does it feel? It feels all tingly, right?
 Ah, aaaah-❤
 Amazing...❤ Ahieee...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 (Giggle)
 It must have felt really good ejaculating with
 your mind melting in pleasure.
@@ -4500,7 +4523,7 @@ Not good... I'm, already...❤
 アクティブ：上
 Aaah...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Oh my, you're masturbating in front of the
 enemy?*
 You couldn't resist doing it when looking at
@@ -4512,7 +4535,7 @@ you feel good, isn't it? Ufufu-
 アクティブ：上
 Ahiaa-❤ Aouggh...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Alright, I'll do something special for you.
 Hora, I'll bring my mouth up to your forehead,
 and...
@@ -4523,7 +4546,7 @@ How does it feel? It feels all tingly, doesn't it?
 アクティブ：上
 Ah,aaah...❤ What is this...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 (Giggle)
 It must have felt really good ejaculating with
 your mind melting in pleasure.
@@ -4543,7 +4566,7 @@ Not good... I'm, already...❤
 アクティブ：上
 Aaah...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ara, did you want a kissy mark as well?
 Judging by your face, and how you're stroking
 your penis, I bet you want it-❤
@@ -4553,7 +4576,7 @@ your forehead over here.
 アクティブ：上
 Pl, please-❤ I, I'm begging you...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ho-ra, puckering my lips...**
 Mmmwah-❤**
 Ara, you have a bright red kissy mark now-
@@ -4563,7 +4586,7 @@ How does it feel? It feels all tingly, right?
 Ah, aaaah-❤
 Amazing...❤ Ahieee...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 (Giggle)
 It must have felt really good ejaculating with
 your mind melting in pleasure.
@@ -4948,12 +4971,12 @@ Ooooh, I'm begging you...❤
 Oooh, please make me feel good...❤
 I beg you...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ara, did you want me to suck on you with my mouth?
 It's okay, if that's what you want, I don't mind.
 I'll squeeze out your energy in an instant, okay?
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Mm, that was quick-❤
 My mouth is an instant kill after all, isn't it?♪
 
@@ -4974,13 +4997,13 @@ Ooooh, I'm begging you...❤
 Oooh, please make me feel good...❤
 Please...❤
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Ara, you want me to suck on you with my mouth?
 If that's what you want, I don't mind.*
 I'll squeeze out your energy before you know it,
 alright?
 
-フェラ盗賊：上
+Blowjob Bandit：上
 Mmn, that was quick-❤
 Although my mouth is an instant kill,
 after all♪ (Giggle)
@@ -5028,7 +5051,6 @@ Skip the opening?
 テロップ：中央
 Mizuhide joined up with us within a few
 days after arriving in the village.
-
 
 Mizuhide：上
 It's been a while, Lord Ray!
@@ -5277,7 +5299,7 @@ just have to make up for it in pleasure-❤
 Ufufu-❤
 
 <OP0>
-大臣：上
+Chancellor：上
 And so, for going through the trouble of
 rescuing our wise sage,*
 The king himself would like to speak with you all
@@ -5287,7 +5309,7 @@ Please come right this way.
 Ray：上
 ...!
 
-王様：上
+King：上
 Ah, you have arrived.
 I believe this is the first time we have met,
 I am the governing king of this country.
@@ -5295,10 +5317,10 @@ For rescuing the sage and defending our capital,
 I shall present you with this medal of honour.*
 But first, a small token of our gratitude.
 
-兵隊：上
+Soldier：上
 Please, take this.
 
-王様：上
+King：上
 And here is your medal of honour.
 After evaluating your movements...*
 I have decided to formally appoint you
@@ -5313,7 +5335,7 @@ I trust that there are no objections?
 Ray：上
 ...!
 
-王様：上
+King：上
 Hmm, it seems not.**
 In that case, I hereby promote you all
 to head commander and vice commanders
@@ -5330,20 +5352,20 @@ Ray：上
 Miles：上
 Thank you for those words...!
 
-王様：上
+King：上
 Now then, first of all I would like to
 position you as guards in the south.
 You should speak with the sage and chancellor.
 
-エスナ姫：上
+Princess Esuna：上
 Father, have you finished talking?
 Please let me speak with the hero of valour.
 
-王様：上
+King：上
 Ah, Esuna. Go ahead.
 I would appreciate that very much.
 
-エスナ姫：上
+Princess Esuna：上
 Thank you very much, father.**
 It is nice to meet you. My name is Esuna,
 the kingdom's only princess. I'd like to
@@ -5352,7 +5374,7 @@ As you approach to the south,
 you may fight many dreadful monsters.
 So please, take this pendant.
 
-エスナ姫：上
+Princess Esuna：上
 Hold this pendant close to your chest,
 and it will calm and protect your heart.*
 The monsters currently attacking
@@ -5364,7 +5386,7 @@ the monsters' influence, even if just a little.
 Ray：上
 ...
 
-エスナ姫：上
+Princess Esuna：上
 Teehee- Your eyes are full of determination.
 I assume it was because of your leadership that
 the monsters were able to be driven away, correct?
@@ -5390,7 +5412,7 @@ This is spectacular!*
 Even during war, you were able to join
 the Knights of Order as mercenaries.
 
-大臣：上
+Chancellor：上
 Now, from this point onwards you will be
 stationed at the southern gate as guards.*
 However, there is another, secret mission
@@ -5423,7 +5445,7 @@ to you. I will join you later.
 But for now, please seek out the holy sword,
 it may be our only hope.
 
-大臣：上
+Chancellor：上
 It's currently still being planned in secret,
 but we've also been steadily making preparations
 to attack the succubus castle.
@@ -5456,7 +5478,7 @@ but also search for the "holy sword".
 Our first step will be to gather information
 from the villagers.
 
-男：上
+Man：上
 The Knights of Order!
 Ohh, thank the gods you are here!!*
 To be honest, we fear our neighbouring village
@@ -5562,7 +5584,7 @@ Once her cleavage embraces a man, she'll pamper
 them until their reasoning melts.
 
 <CM3>
-フェラ盗賊：中央
+Blowjob Bandit：中央
 Blowjob Bandit**
 A former thief. She was caught by the village
 for causing trouble, and was sent into the church

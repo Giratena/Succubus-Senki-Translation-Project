@@ -1,22 +1,34 @@
 
 
 <(65536)Priestess10>
-Priestess：上
+アクティブ：上
 That's it, become mesmerized by my aroma-❤
 
+タイトル：中央
+[Sexual Aroma] (Inflicts Charm on Aroused foes. Rng1)
+
 <(65536)Priestess11>
-Priestess：上
+アクティブ：上
 I'll brainwash you with my pheromones-❤
 
+タイトル：中央
+[Sexual Aroma] (Inflicts Charm on Aroused foes. Rng1)
+
 <(65536)Priestess12>
-Priestess：上
+アクティブ：上
 Ho-ra～ Relax, and become my slaves-❤
+
+タイトル：中央
+[Sexual Aroma] (Inflicts Charm on Aroused foes. Rng1)
 
 <(65536)Priestess13>
 アクティブ：上
 I'll make all of you cum like mad
 with my superior pheromones-❤
 Take this-❤
+
+タイトル：中央
+[Infatuation Aroma] (Aroused foes become infatuated.)
 
 Ray：上
 Aaaah...❤
@@ -45,7 +57,7 @@ Uwah! You dodged it...?
 But how?
 
 <(65536)Priestess0>
-Priestess：上
+アクティブ：上
 Ho-ra- Now that my body is covered in special
 pheromones, you can finally relax and enjoy-
 Teehee-❤
@@ -55,7 +67,7 @@ It's going to be alright-
 You fight for me now-❤
 That's it, let us fall together...❤
 
-Priestess：上
+アクティブ：上
 Ufufu-❤
 All men submit to me the moment they sniff
 these special pheromones-❤
@@ -65,14 +77,14 @@ That's it- Bury your nose in my cleavage-
 Breathe it all in...
 Teehee-❤
 
-Priestess：上
+アクティブ：上
 I'll turn your mind into mush 
 with my special pheromones-❤*
 Forget all about those reasons 
 for fighting succubi,
 and become a slave to pleasure-❤ Ufufu-❤
 
-Priestess：上
+アクティブ：上
 Hora- how about this?
 It took a bit of time to prepare, but now you can
 experience my super thick special pheromones-❤
@@ -81,8 +93,8 @@ mind feel funny, doesn't it?*
 Now you fight for me-❤
 Ufufu-❤
 
-Priestess：上
-Ara, your eyes are already glued to my breasts-
+アクティブ：上
+Ara- Your eyes are already glued to my breasts-
 (Giggle) For heroes, you're all really cute-❤*
 Hora- won't you come into my cleavage?
 I'll promise to pamper you lots-*
@@ -92,7 +104,7 @@ But, you still want to bury your face in them,
 don't you?
 (Giggle)-❤
 
-Priestess：上
+アクティブ：上
 Ahaha-❤ It seems you're already fascinated 
 by my breasts-❤*
 In that case, I'll rub all my pheromones into your
@@ -107,7 +119,7 @@ Hora- you want it don't you?
 It's okay if you do-❤
 Eei-❤
 
-Priestess：上
+アクティブ：上
 Ufufu- You're threatening me?
 But, if I sway my chest like this...*
 Hora- you can't stop staring.
@@ -117,7 +129,7 @@ That's it, let me bury your face in my breasts
 as you watch them bounce,
 so I can melt your mind into a sticky syrup-❤
 
-Priestess：上
+アクティブ：上
 Aaah-❤
 Aren't you going to hurt me?
 I'll show you my breasts then-❤
@@ -129,7 +141,7 @@ I'm only just teasing you,
 but you're already becoming entranced by them-
 Ufufu...❤
 
-Priestess：上
+アクティブ：上
 I'll heal you with my breasts, okay?
 That's it- Don't be afraid-*
 Ufufu- How about this? Just watching me bury your 
@@ -138,13 +150,13 @@ just gush out, doesn't it?
 It's okay, I'll continue pampering you-
 Give in... Submit...❤
 
-Priestess：上
+アクティブ：上
 I've sent many men to heaven with my huge,
 bouncy breasts.*
 And now that your penis between them,
 I'll send you to heaven as well-❤
 
-Priestess：上
+アクティブ：上
 I'll make you my slave by inserting your penis
 between my breasts-❤*
 Hora, Puff-Puff-❤
@@ -157,7 +169,7 @@ It's ok if you can't endure it all and
 accidentally pee out your semen, I don't mind-
 Puff-Puff, Puff-Puff-❤
 
-Priestess：上
+アクティブ：上
 I wonder how long you can resist me
 with your penis between my breasts?*
 If I stroke and rub your penis like this...
@@ -165,23 +177,23 @@ Aha- You can't help but moan, can you?-❤
 That's it- Just relax
 and spurt out all your semen for me-❤
 
-Priestess：上
+アクティブ：上
 I'm going to charm you 
 with my pheromones, alright?-❤
 Pshew---❤
 
-Priestess：上
+アクティブ：上
 Hora- Isn't this aroma nice?
 Just relax and become my slaves...❤
 
-Priestess：上
-No man can win against my special aroma.
-Just one sniff, and they instantly become 
-limp and mindless...
+アクティブ：上
+There is no man that can overcome my special 
+aroma. Just one sniff, and they instantly 
+become limp and mindless...
 Now you'll become mindless too-❤
 Pshew---❤
 
-Priestess：上
+アクティブ：上
 Go ahead- Fall in love with my
 sweet pheromones-❤
 Pshew---❤
@@ -242,33 +254,42 @@ I'm gonna tempt you by moaning with my mouth
 open like this, and if you come closer, 
 I'll give you a big sloppy blowjob-❤
 
+タイトル：中央
+[Seductive Mouth Opening](Apporach+Charm)
+
 アクティブ：上
-(Giggle)
-Ahh, ah-, My moans are drawing you in-❤
-Can't you resist? How pathetic-
+(Giggle) Ahh, ah-, My moans caused you to 
+get closer-❤ You couldn't resist could you? 
+How pathetic-
 
 <(65540)Village Girl8>
 アクティブ：上
 Hey, mister blowjob lover-❤
-Come over here okay?
+Come over here, okay?
 
 アクティブ：上
 I'm gonna tempt you by moaning with my mouth
 open like this, and if you come closer, 
 I'll give you a big sloppy blowjob-❤
 
+タイトル：中央
+[Seductive Mouth Opening](Apporach+Charm)
+
 アクティブ：上
-(Giggle)
-Ahh, ah-, My moans are drawing you in-❤
-Can't you resist? How pathetic-
+(Giggle) Ahh, ah-, My moans caused you to 
+get closer-❤ You couldn't resist could you? 
+How pathetic-
 
 <(65540)Village Girl9>
 アクティブ：上
 Fufu- Like what you see?-❤**
 When I lick and suck the air like this, it's 
 like I'm actually licking your penis right?ー❤*
-If you come over here,
-I'll give your penis a big suck for real-❤
+If you come over here, I'll give your penis a 
+big suck, but for real-❤
+
+タイトル：中央
+[Seductive Mouth Opening](Apporach+Charm)
 
 <(65540)Village Girl10>
 アクティブ：上
@@ -281,10 +302,13 @@ open like this...
 I'll give you a big sloppy blowjob
 if you come closer-❤
 
+タイトル：中央
+[Seductive Mouth Opening](Apporach+Charm)
+
 アクティブ：上
-(Giggle)
-Ahh, ah-, My moans are drawing you in-❤
-Can't you resist? How pathetic-
+(Giggle) Ahh, ah-, My moans caused you to 
+get closer-❤ You couldn't resist could you? 
+How pathetic-
 
 <(65540)Village Girl0>
 アクティブ：上
@@ -297,12 +321,13 @@ It's okay, let all your semen out into my
 mouth pussy, I don't mind-❤
 
 アクティブ：上
-See this mister? My m-o-u-t-h-❤
+See this mister? This is my m-o-u-t-h-❤
 Once I suck on your penis with this mouth,
-your waist will crumble-❤
-Everyone falls into a trance when I suck on them, 
-and splurts into my mouth in the blink of an eye.*
-Hora, you want to ascend to heaven with 
+your waist will crumble and fall to the floor-❤
+Everyone falls into a trance when I suck on them 
+and ends up squirting into my mouth before
+they realise it.
+Hora- You want to ascend to heaven with 
 the insides of my mouth too, right?
 
 アクティブ：上
@@ -310,11 +335,11 @@ Look- My tongue is coiling around your penis-
 Ufufu- looks like you're enjoying it-❤*
 Does it feel that good when I tease the tip 
 of your penis with my tongue?*
-Are you okay? 
-You're already running out of stamina. 
-Does it feel good,
-even though you're losing?*
-Alright then, shoot out all your white pee,
+Hey, are you okay?
+It looks like you're already running out of
+stamina. Even though you're losing, it
+feels great right?*
+Alright then, shoot all your white pee
 into my enchanting mouth-❤ Slurrurup-❤
 
 アクティブ：上
@@ -323,11 +348,11 @@ the suction of my mouth, okay?*
 Sucking, chewing, licking... 
 It must feel really good-❤*
 But then again, the whole length of your penis
-is being suckled and slurped inside of 
-my mouth pussy, so of course it would feel good-❤
+is being suckled and slurped inside of my mouth
+pussy, so of course it would feel good-❤
 Fufu- It's fine if you can't resist-
-Surrender to my mouth, and shoot lots of your
-semen going pew pew pew-❤
+Surrender to my mouth, and shoot lots of
+your semen going pew pew pew-❤
 
 <(65539)Devout Girl0>
 アクティブ：上
@@ -388,6 +413,9 @@ Wouldn't you like to enjoy the feeling of your
 face between these breasts?*
 I thought so- Now, come to me-❤
 I'll brainwash you with the scent of my breasts-❤
+
+タイトル：中央
+[Brainwashing Puff-Puff Encouragement] (Treachery+Approach)
 
 <(65538)Devout Girl0>
 アクティブ：上
@@ -506,7 +534,6 @@ my breasts around your penis...
 See? All your strength just faded away.
 Now, just give in to the pleasure of
 my paizuri alright?-❤ Ufufu...
-
 
 アクティブ：上
 When I lie on the bed, I get sleepy, don't you?
