@@ -2094,7 +2094,7 @@ Ugh, you're really doing me in, aren't you?
 So it's come to this...
 
 テロップ：中央
-The Priestess recided a sinister spell!
+The Priestess recited a sinister spell!
 
 タイトル：中央
 Body of Temptation
