@@ -6,7 +6,7 @@ The HP of surrounding allies has been restored!
 テロップ：中央
 It's a recovery circle!**
 The HP of surrounding allies has been restored!
-(Healers increased the range of effect!)
+(Healers increase the range of effect!)
 
 <PL1>
 テロップ：中央
@@ -16,7 +16,7 @@ The HP of surrounding allies has been restored!
 テロップ：中央
 It's a recovery circle!**
 The HP of surrounding allies has been restored!
-(Healers increased the range of effect!)
+(Healers increase the range of effect!)
 
 <PL2>
 テロップ：中央
@@ -4869,10 +4869,10 @@ I'll drain all your energy by straddling you-❤
 
 Dark Elf：上
 Huh? What? An electric massage? Like, 
-a stomping footjob?**
+a stomping footjob?*
 (Giggle) That's so funny-
 An electric massage isn't something you just 
-as for- Hahaha you perverts are the worst-
+ask for. Ahaha! You perverts are the worst-
 Rather than saving the village, you'd prefer to
 be stepped on- What a masochist-❤
 
@@ -4917,10 +4917,10 @@ I'll drain all your energy by straddling you-❤
 
 Dark Elf：上
 Huh? What? An electric massage? Like, 
-a stomping footjob?**
+a stomping footjob?*
 (Giggle) That's so funny-
 An electric massage isn't something you just 
-as for- Hahaha you perverts are the worst-
+ask for. Ahaha! You perverts are the worst-
 Rather than saving the village, you'd prefer to
 be stepped on- What a masochist-❤
 
@@ -4965,10 +4965,10 @@ I'll drain all your energy by straddling you-❤
 
 Dark Elf：上
 Huh? What? An electric massage? Like, 
-a stomping footjob?**
+a stomping footjob?*
 (Giggle) That's so funny-
 An electric massage isn't something you just 
-as for- Hahaha you perverts are the worst-
+ask for. Ahaha! You perverts are the worst-
 Rather than saving the village, you'd prefer to
 be stepped on- What a masochist-❤
 
