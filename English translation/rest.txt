@@ -395,10 +395,10 @@ Lady：上
 
 <AT30>
 情報：情報
-【特殊オプションについて】
-拠点にある「特殊オプション」を選択すると、
-主人公の顔グラを変更したり、
-難易度を変更することができます。
+【About Special Options】**
+By selecting 「Special Options」 through the menu,
+you can change things such as the protagonist's
+face, and the game diffculty.
 
 <AT55>
 情報：なし
@@ -2245,10 +2245,11 @@ the sword would be too much for me, but after
 a good rest, I should be ready to use it again.
 
 Mizuhide：上
-Well then, we should be taking out leave now.**
-I'd like to return to the capital to devise a
-strategy on how we can fight back against the
-succubus threat.
+Now that that's all sorted, we should be taking 
+our leave now as well.*
+I myself would like to return to the capital to 
+devise a strategy on how we can fight back 
+against the succubus threat.
 
 Lamia：上
 Mmhmm. While our time together was short,
