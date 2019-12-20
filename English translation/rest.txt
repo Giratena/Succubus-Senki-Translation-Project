@@ -7398,12 +7398,12 @@ My strength was squeezed by Mirage...
 <CM64>
 Soldier：上
 Huff, huff...!**
-Huungh....!
-毎日訓練を欠かさずにひたすら筋肉を鍛えてきたが、
-最近どうも伸び悩みを感じるな。
-これが自分の限界なのだろうか。
-いや、まだまだ筋肉は付くはず！
-ふん、ふん・・・・！
+Huungh....! 
+I've been spending every day training my muscles,
+but recently I've been feeling sluggish.
+Could I have reached my limit?**
+No! My muscles must be even stronger!
+Hunggh, hungh....! 
 
 テロップ：中央
 能力には限界値があります。
