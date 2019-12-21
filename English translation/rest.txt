@@ -7447,17 +7447,17 @@ Hm? Are you also here to study?
 Here, have this.
 
 Soldier：上
-この指輪は全能力を上げてくれるから便利だけど、
-何個も付けてもしょうがないんだね。*
-君も重複した装備がないか、
-一度見直してみるといいかも。
+This ring is real handy since it raises all stats, 
+but it's no use equiping more than one, you know?*
+Do you have any duplicate equipment on anyone?
+You should check over your units when you can.
 
 <CM71>
 Elderly Lady：上
-あんたらに命を救われたって人も多いからね。
-感謝している人は多いのさ。*
-その金で武器でも薬でも必要なものを買って、
-ぜひ役立てておくれよ。
+Your group saved a lot of people you know.
+All of us are grateful for what you've done.*
+Here, please use this money to buy medicine or 
+weapons.
 
 Elderly Lady：上
 あんた英雄の騎士団の団長さんじゃないかい！
