@@ -7410,7 +7410,7 @@ Unit stats have limit caps.
 Basic classes have a limit of 15, advanced classes
 have 20, and master classes cap at 30.
 HP is capped at 500 regardless of a unit's class.
-Even if stat boosting items are used,
+Even if permanent stat boosting items are used,
 this limit cannot be exceeded.*
 However, by using items or equipment that 
 increase stats, it's possible to go over 
@@ -7434,17 +7434,17 @@ Princess Esuna's inventions have been a huge help.
 
 <CM79>
 Soldier：上
-What's going on...?
-When I use equipment to raise my stats,
-Using the same equipment
-魔力の指輪を二つ付けていても、
-一個分の効果しか得られない・・・と。*
-へえ、知らなかった。ということは、
-この指輪は二つもつけていなくてよかったのか。
+What's this...?
+When using equipment to raise stats,
+using the same equipment has no effet.
+So even if I equip two rings of magic, 
+I can only gain the effect of one...*
+Huh, I had no idea about this. I'd better
+not equip two of these rings at once.
 
 Soldier：上
-ん、君も勉強中かい？
-それならこれをあげるよ。
+Hm? Are you also here to study?
+Here, have this.
 
 Soldier：上
 この指輪は全能力を上げてくれるから便利だけど、
