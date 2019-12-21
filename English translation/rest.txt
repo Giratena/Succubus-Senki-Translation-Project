@@ -7406,34 +7406,37 @@ No! My muscles must be even stronger!
 Hunggh, hungh....! 
 
 テロップ：中央
-能力には限界値があります。
-下級職で15、中級職で20、上級職で30が上限となっ
-ており、HPはクラスに関わらず500が最大値です。
-ドーピングアイテムを使っても、
-この限界は突破することができません。*
-ただし、装備品やアイテムによるステ―タス増強は、
-この限りではなく、
-30以上の能力を実現することができます。
+Unit stats have limit caps.
+Basic classes have a limit of 15, advanced classes
+have 20, and master classes cap at 30.
+HP is capped at 500 regardless of a unit's class.
+Even if stat boosting items are used,
+this limit cannot be exceeded.*
+However, by using items or equipment that 
+increase stats, it's possible to go over 
+the limit cap of 30.
 
 <CM83>
 Soldier：上
-これはどうも。第九騎士団の団長様、こんにちは。
-ん、この赤い腕輪ですか？*
-これはエスナ姫がおつくりになられた新作魔導具で、
-頭の上にかざすと、その相手が人間か淫魔かを、
-識別できる道具です。
-まだ数がないので王都など重要都市の門番にしか
-配布されていないのですが、これのおかげで、
-淫魔の潜入を未然に防ぐことができています。
-人間になりすまされると、
-非常に厄介ですからね。
-姫様の発明には大変助けられております。
+Please accept this. It's an honour to meet the 
+leader of the Ninth Order.*
+Oh? 
+"What's this red bracelet?", you say?*
+It's a new magical tool created by Princess Esuna.
+By placing it over someone's head, you can
+identify if they're human or not.
+They've only just been distrobuted to important
+cities such as the royal capital. But thanks to
+this, we can prevent demons from infiltrating.
+It's quite worrisome when you know they can
+disguise themselves as humans after all, so 
+Princess Esuna's inventions have been a huge help.
 
 <CM79>
 Soldier：上
-なになに・・・。
-装備品によるステータスの補強は、
-同一アイテムでは重複して強化されない・・・。
+What's going on...?
+When I use equipment to raise my stats,
+Using the same equipment
 魔力の指輪を二つ付けていても、
 一個分の効果しか得られない・・・と。*
 へえ、知らなかった。ということは、
