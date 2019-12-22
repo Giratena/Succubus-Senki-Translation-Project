@@ -7469,11 +7469,12 @@ Hang in there!
 Oh before I forget, take this.
 
 Elderly Lady：上
-以前あんたらがこの王都を守ったときからね、
-ずーっとみんなで貯めてきたお金さ。
-あんたらがまた王都に来たら、餞別にやろうってね。
-わたしたちは戦えないからね、
-せめてもの手助けさ。応援しているよ！
+We've been saving up this money since the time
+you lot saved the capital earlier.*
+Next time you arrive at the royal capital, we'll
+be sure to see you off, you hear?*
+We can't fight, so helping is the least we can
+do. We're all rooting for you!
 
 <CM85>
 テロップ：中央
