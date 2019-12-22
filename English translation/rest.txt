@@ -7481,30 +7481,30 @@ do. We're all rooting for you!
 Nobus is talking to some of the city residents.
 
 Man：上
-ええ、ええ。あそこの宿屋にいた青い髪の子なら、
-少し前に辞めてしまいましたよ。
+Ah, yes yes, that gal with the blue hair who worked
+at the inn? She quit a little while ago.
 
 Nobus：上
-そうですか・・・。
+Is that so...?
 
 Man：上
-どうもこの王都生まれの子じゃなくて、
-田舎から来た子のようだったから、
-故郷にでも帰ったんじゃないですかねぇ。
-最近物騒ですし、
-実家になにかあったのかもしれません。
+She wasn't born in the royal capital, so she must
+have been from the country. Maybe she returned
+back to her hometown or something?
+There has been much misfortune recently,
+something might have happened at home.
 
 Nobus：上
-教えてくれて、ありがとうございます。**
-・・・・・・・。**
-あ、レイ。**
-いやあ、この間から泊っている、
-なじみの宿屋を使おうと思ったらやってなくてさ。
-今、街の人に事情を聞いてたんだ。
-また新しいところ探さないといけないよ。**
-はぁ・・・・。**
-いや、落ち込んでいるわけじゃないんだよ。
-うん。ただ宿屋が変わるだけだし、大丈夫。
+Ah I see. Thanks for letting me know.**
+...**
+Ah, Ray.**
+Oh, I've been staying at an inn for awhile now.
+Just wanted to stick with something familiar. I 
+was asking some people in town about it actually.
+I guess I'd better find someplace new to stay.**
+(Sigh...)**
+No, I'm not down or anything.
+Yeah, it's just a change of inn. I'll be fine.
 
 <CM65>
 Mizuhide：上
