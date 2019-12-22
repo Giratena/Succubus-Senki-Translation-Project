@@ -7503,21 +7503,22 @@ Just wanted to stick with something familiar. I
 was asking some people in town about it actually.
 I guess I'd better find someplace new to stay.**
 (Sigh...)**
-No, I'm not down or anything.
+Oh no, I'm not down or anything.
 Yeah, it's just a change of inn. I'll be fine.
 
 <CM65>
 Mizuhide：上
-こんにちは、レイさん。**
-今、各地での戦闘記録を分析しているのですが、
-どうも気になることがあります。*
-なぜか、
-「サキュバスの女王と戦闘した」、という報告が
-一切上がってこないのです。
-古文書の記録によれば、
-サキュバスの女王は前線に自ら出て、
-人間の兵士たちと戦うことを好んだそうです。
-今の状況には違和感がありますね。**
+Ah, greetings Ray.**
+I've currently been analyzing succubus battle
+records from various places, but something has
+been troubling me.
+For some reason, there has been no battle 
+documentation around the Succubus Queen herself.
+But according to the battle records, the Succubus
+Queen would put herself on the front lines and
+seemed to enjoy seeing the soldiers fight.
+There's just something I find unseltting about
+all this.*
 もしかすると、まだ女王の封印は解けきっておらず、
 自由に身動きできないのかもしれません。*
 それなら女王が出てきていない理由も理解できます。
