@@ -7460,12 +7460,13 @@ Here, please use this money to buy medicine or
 weapons.
 
 Elderly Lady：上
-あんた英雄の騎士団の団長さんじゃないかい！
-王都に戻ってきてたんだね。*
-あんたらが戦ってくれているおかげで、
-サキュバスもなんとかなりそうなんだろ？
-頑張っておくれよ！
-そうそう、これを取っときな。
+Strike a light! You're the leader of the Ninth 
+Order! So you've returned to the captital
+have you?
+Thanks to all your fighting, we've somehow managed
+to get by even the Succubus attacks, eh?
+Hang in there!
+Oh before I forget, take this.
 
 Elderly Lady：上
 以前あんたらがこの王都を守ったときからね、
@@ -7476,7 +7477,7 @@ Elderly Lady：上
 
 <CM85>
 テロップ：中央
-ノブが何やら街の住民と話している。
+Nobus is talking to some of the city residents.
 
 Man：上
 ええ、ええ。あそこの宿屋にいた青い髪の子なら、
