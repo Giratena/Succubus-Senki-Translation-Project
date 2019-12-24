@@ -7421,11 +7421,11 @@ Soldier：上
 Please accept this. It's an honour to meet the 
 leader of the Ninth Order.*
 Oh? 
-"What's this red bracelet?", you say?*
+"What's this red bracelet?", you ask?*
 It's a new magical tool created by Princess Esuna.
 By placing it over someone's head, you can
 identify if they're human or not.
-They've only just been distrobuted to important
+They've only just been distributed to important
 cities such as the royal capital. But thanks to
 this, we can prevent demons from infiltrating.
 It's quite worrisome when you know they can
@@ -7436,7 +7436,7 @@ Princess Esuna's inventions have been a huge help.
 Soldier：上
 What's this...?
 When using equipment to raise stats,
-using the same equipment has no effet.
+using the same equipment has no effect.
 So even if I equip two rings of magic, 
 I can only gain the effect of one...*
 Huh, I had no idea about this. I'd better
@@ -7448,7 +7448,7 @@ Here, have this.
 
 Soldier：上
 This ring is real handy since it raises all stats, 
-but it's no use equiping more than one, you know?*
+but it's no use equipping more than one, you know?*
 Do you have any duplicate equipment on anyone?
 You should check over your units when you can.
 
@@ -7461,10 +7461,10 @@ weapons.
 
 Elderly Lady：上
 Strike a light! You're the leader of the Ninth 
-Order! So you've returned to the captital
+Order! So you've returned to the capital
 have you?
 Thanks to all your fighting, we've somehow managed
-to get by even the Succubus attacks, eh?
+survive even the Succubus attacks, eh?
 Hang in there!
 Oh before I forget, take this.
 
@@ -7517,7 +7517,7 @@ documentation around the Succubus Queen herself.
 But according to the battle records, the Succubus
 Queen would put herself on the front lines and
 seemed to enjoy seeing the soldiers fight.
-There's just something I find unseltting about
+There's just something I find unsettling about
 all this.*
 もしかすると、まだ女王の封印は解けきっておらず、
 自由に身動きできないのかもしれません。*
