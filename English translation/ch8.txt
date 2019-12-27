@@ -6,7 +6,7 @@ The HP of surrounding allies has been restored!
 テロップ：中央
 It's a recovery circle!**
 The HP of surrounding allies has been restored!
-（ヒーラーが使用したため効果範囲がアップ！）
+(Healers increase the range of effect!)
 
 <PL1>
 テロップ：中央
