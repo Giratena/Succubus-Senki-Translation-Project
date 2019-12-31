@@ -7527,7 +7527,6 @@ active, we might be able to subdue her easily...
 I think we should hasten our efforts and strike
 as soon as possible.
 
-
 <CM84>
 Boy：上
 Hey, mister!
@@ -7730,9 +7729,9 @@ I signed the contract to confirm I had
 agreed to transfer my allies over.
 
 Greisa：上
-ふふ、三人も貸してくれてありがとよ。
-それじゃ、上に行こうか。
-お待ちかねの時間だぜ・・・❤
+Fufu- Thank you for the three people.
+Well then, let's go upstairs.
+We shouldn't keep you waiting...❤
 
 Greisa：上
 ほら、ベットに腰かけなよ。**
@@ -8223,24 +8222,24 @@ Greisa's Friend：上
 
 <CM54>
 Miles：上
-ふう・・・。
-いよいよ明日から敵との本格決戦か。*
-俺たちの行動次第で、
-敵に勝てるかどうか決まるかと思うと、
-やっぱりちょっと緊張するな。
-それにしても客間じゃなくて
-この部屋で雑魚寝させられるとはな。*
-出入り口には衛兵が立っているし、
-まるで軟禁でもされている気分だぜ。
+Phew...
+Tomorrow will be the true, decisive battle.*
+When I think about how our actions will determine 
+the fate of the battle, it's only natural
+I feel a little nervous.
+Nevertheless, this is no five star hotel either,
+sleeping in a room like this.*
+And with the guard standing in the door way,
+it feels like I'm under house arrest!
 
 <CM56>
 Nobus：上
-・・・・・・。**
-なあ、レイ・・・・。**
-いや、なんでもないんだ。忘れてくれ。**
-（ぼんやりした記憶がある。
-あれは本当にただの夢なんだろうか・・・。）*
-（でもミレニアちゃんがそんなことするわけ・・・。）
+....**
+Hey, um Ray...**
+No, It's nothing. Forget I said anything.**
+(I've been having vague memories lately.
+Were those really just dreams...?)*
+（But Mileena would never...）
 
 <CM58>
 Mirage：上
@@ -8644,7 +8643,7 @@ Lady：上
 Ray：上
 ・・・・・。
 
-バニーガール：下
+Bunny Girl：下
 あら、いらっしゃい。
 お兄さん、カジノは初めてかしら？*
 カジノなんて言っても村のすみっこにあるような、
@@ -8659,7 +8658,7 @@ Ray：上
 テロップ：中央
 100コインを手に入れた。
 
-バニーガール：下
+Bunny Girl：下
 それじゃ、楽しんでね。
 
 Woman：上
