@@ -6041,7 +6041,7 @@ This place surrounded by craggy mountains
 was originally an old castle inhabited by
 monsters.
 In fact, this old castle was once the place 
-where the succubus queen was previously sealed.*
+where the succubus Queen was previously sealed.*
 As you can see, the only route to the castle is 
 from the west side, due to it's various 
 geographical features.
@@ -6064,48 +6064,50 @@ the enemies will no longer phase through our
 weapons. The odds are vastly in our favour.
 Now then, we will move to explain the detailed
 movements of eatch of our squads.*
-Firstly, could the knights of the second order
-and the knights of the fourth order make
+Firstly, could the Knights of the Second Order
+and the Knights of the Fourth order make
 themselves present.
 
-第二騎士団団長：上
+Leader of the Second Order：上
 Understood! We await your command.
 
 Miles：上
 (Hmm... Now that I can see the map, the road is 
 pretty wide. Wide enough for even a considerably 
 sized army to invade.）
-（しかし、この任務、
-俺たちにはあまり向いていないかもしれない。）*
-（まだまだ俺たちの部隊は少人数だ。
-他の騎士団と比べれば、
-どうしても数で見劣りする。）
-（まあ、無難に戦功をあげられればよしとするか。）
+(But, an attack such as this might not as 
+well suited for us.）*
+(Our forces are still small. 
+The other knights vastly outnumber us.）*
+(Well, if it wins the war, I'm all game.)
 
 Mizuhide：上
-レイさん、ユミルさん、ノブさん。
-こちらへ来てください。第九騎士団には、
-別室でその動きについて詳しい説明を行います。
+Ray, Miles, Nobus.
+Please join me. We'll explain the movements of
+the Knights of the Ninth Order in a 
+seperate room.
 
 Mizuhide：上
-さて、それでは
-第九騎士団の任務を説明させていただきます。*
-実は、みなさんには先ほど説明した任務とは
-全く別の任務を遂行してもらうことになっています。*
-それは敵の居城へ奇襲をしかけ、
-女王を仕留めるという重大な任務です。
+Now that everyone is settled,
+I'd like to explain the Ninth Order's mission.*
+The truth is, you have been tasked with an
+entirely different mission to everyone else.*
+That is, a surprise attack on the enemy
+castle. You've been tasked with the mission
+of bring down the Queen herself.
 
 Ray：上
-・・・・！
+...!
 
 Mizuhide：上
-総力戦に見せかけていますが、
-主力部隊はむしろおとりです。*
-他の騎士団が派手に交戦して、
-敵の主力を城の正面ルートに引き付けている間に、
-手薄になった敵の城にレイさんたちが奇襲をしかけます
-そして、敵の本隊が戻ってこないうちに、
-聖剣の力を駆使して迅速に女王を滅ぼすのです。
+Though it may look like an all out attack,
+our main force is just a facade.*
+While the other knights distract the enemy with
+their showy swordsmanship, Ray's forces will make
+a surprise attack on the unarmed enemy castle.
+Then, use the power of the holy sword to quickly
+bring down the Queen before the enemy's
+main forces return.
 
 Miles：上
 なるほどな。俺たちは人数は少ないが
