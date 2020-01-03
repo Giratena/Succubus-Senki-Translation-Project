@@ -6006,7 +6006,7 @@ Mizuhide：上
 <OP1>
 テロップ：中央
 Come morning,
-I got a notification that the mission debrief would。*
+I got a notification that the mission debrief would*
 be happening today.*
 We hurried up to the conference room at the
 royal castle.*
@@ -6015,8 +6015,8 @@ knights were gathered in the conference room
 along with us.
 
 テロップ：中央
-The Chancellor and Mitsuhide entered the room,
-as if to demand everyone's attention.
+The Chancellor and Mizuhide entered the room,
+as if demanding everyone's attention.
 It seems the mission debrief was about to start.
 
 Chancellor：上
@@ -6027,8 +6027,8 @@ Based on the decipherment of old documents,
 we have discovered the enemy hideout as a 
 result of our investigation scouts.
 The enemy's ringleader is known as the [Queen].**
-When succubus appeared hundereds of years ago,
-it was said that they disapeared when this
+When succubus appeared hundreds of years ago,
+it was said that they disappeared when this
 Queen was sealed.
 Today, we follow in those footsteps, and put 
 an end to the succubus by eliminating 
@@ -6038,7 +6038,7 @@ Mizuhide：上
 Now then, we have currently determined the 
 location of the enemy castle.*
 This place surrounded by craggy mountains
-was originally an old castle inhabibted by
+was originally an old castle inhabited by
 monsters.
 In fact, this old castle was once the place 
 where the succubus queen was previously sealed.*
