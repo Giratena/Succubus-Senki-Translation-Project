@@ -6072,9 +6072,9 @@ themselves present.
 Understood! We await your command.
 
 Miles：上
-（ふむ・・・。
-地図を見る限り、思ったより道は広い。
-これなら、かなりの大軍でも侵攻できるな。）
+(Hmm... Now that I can see the map, the road is 
+pretty wide. Wide enough for even a considerably 
+sized army to invade.）
 （しかし、この任務、
 俺たちにはあまり向いていないかもしれない。）*
 （まだまだ俺たちの部隊は少人数だ。
