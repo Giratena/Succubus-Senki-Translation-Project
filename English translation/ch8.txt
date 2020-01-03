@@ -6005,42 +6005,46 @@ Mizuhide：上
 
 <OP1>
 テロップ：中央
-朝、目を覚ますと、
-今日、任務の説明があるという通達が、ついに来た。*
-僕らは急ぎ王城の会議室に向かった。
-部屋に入ると、会議室には
-ほかの騎士団長たちも集まっていた。
+Come morning,
+I got a notification that the mission debrief would。*
+be happening today.*
+We hurried up to the conference room at the
+royal castle.*
+When we entered the room, various other 
+knights were gathered in the conference room 
+along with us.
 
 テロップ：中央
-大臣とミツヒデが部屋に入り、
-ピンと空気が張り詰める。
-いよいよ、侵攻作戦の説明がはじまるようだ。
+The Chancellor and Mitsuhide entered the room,
+as if demanding everyone's attention.
+It seems the mission debrief was about to start.
 
 Chancellor：上
-騎士団長の諸君、
-今回君たちに集まってもらったのは他でもない、
-サキュバスの本拠地へと侵攻作戦を実行するためだ。
-古文書の解読を踏まえて、
-諜報部隊に調査を行わせた結果、
-敵の本拠地が判明した。
-そこに敵の首魁、「女王」と呼ばれる個体がいる。**
-数百年前にサキュバスが登場した時も、
-この女王と呼ばれる個体を封印することで、
-部下のサキュバスどもは姿を消したという。
-我々もこれにならい、女王を討ち倒し、
-サキュバスたちとの戦いに終止符を打つのである！
+Gentleman of the knights,
+I have gathered you all today with the purpose
+of invading the succubus stronghold.
+Based on the decipherment of old documents,
+we have discovered the enemy hideout as a 
+result of our investigation scouts.
+The enemy's ringleader is known as the [Queen].**
+When succubus appeared hundereds of years ago,
+it was said that they disapeared when this
+Queen was sealed.
+Today, we follow in those footsteps, and put 
+an end to the succubus by eliminating 
+the Queen directly!
 
 Mizuhide：上
-さて、今回、我々が突き止めた敵の居城はここです。**
-険しい山に囲まれたこの地には、
-もともと古びて魔物の住みかとなっていた
-古城がありました。
-実はこの古城こそが、
-かつて夢魔の女王が封印されていた場所であったらしく
-今はサキュバスたちの根拠地となっています。
-見ての通り断崖絶壁に囲まれた地形ですから、
-道と言えるのは
-城の西方のこちら側のルートしかありません。
+Now then, we have currently determined the 
+location of the enemy castle.*
+This place surrounded by craggy mountains
+was originally an old castle inhabibted by
+monsters.
+In fact, this old castle was once the place 
+where the succubus queen was previously sealed.*
+As you can see, because of the various 
+geographical features, the only route to the
+castle is from the west side.
 
 Chancellor：上
 道が一本であるということはすなわち、
