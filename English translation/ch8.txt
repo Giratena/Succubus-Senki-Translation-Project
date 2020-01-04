@@ -6171,11 +6171,11 @@ Although it is only a hypothosis at this point,
 please forgive my doubts...
 
 Miles：上
-いや、そいつは構わねえよ。
-お互い命のかかった話だ。*
-それに俺たちの奇襲の成否が、
-勝敗を分けるかもしれねぇ。
-過度と言われるぐらいに注意してもおかしくはないさ。
+Hey, no sweat. I understand.
+Lives are at stake here.*
+The outcome of this war depends on the success 
+of this surprise attack, so extra caution 
+is to be expected.
 
 Mizuhide：上
 そう言っていただけると、こちらとしても助かります。**
