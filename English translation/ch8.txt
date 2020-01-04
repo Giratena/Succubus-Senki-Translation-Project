@@ -6017,7 +6017,7 @@ along with us.
 テロップ：中央
 The Chancellor and Mizuhide entered the room,
 as if demanding everyone's attention.
-It seems the mission debrief was about to start.
+It seemed the mission debrief was about to start.
 
 Chancellor：上
 Gentleman of the knights,
@@ -6056,14 +6056,14 @@ advantage. That is why I summoned you all here.
 Now, study this map.
 Before the road following the castle, you'll
 encounter the enemy's army around here.
-The enemy will retaliate with ferice resistance, 
+The enemy will retaliate with fierce resistance, 
 but if we can strike with enough force,
 I believe we can break through.
 And now under our current army formations,
 the enemies will no longer phase through our
 weapons. The odds are vastly in our favour.
 Now then, we will move to explain the detailed
-movements of eatch of our squads.*
+movements of each of our squads.*
 Firstly, could the Knights of the Second Order
 and the Knights of the Fourth order make
 themselves present.
@@ -6075,7 +6075,7 @@ Miles：上
 (Hmm... Now that I can see the map, the road is 
 pretty wide. Wide enough for even a considerably 
 sized army to invade.）
-(But, an attack such as this might not as 
+(But, an attack such as this might not be as 
 well suited for us.）*
 (Our forces are still small. 
 The other knights vastly outnumber us.）*
@@ -6085,7 +6085,7 @@ Mizuhide：上
 Ray, Miles, Nobus.
 Please join me. We'll explain the movements of
 the Knights of the Ninth Order in a 
-seperate room.
+separate room.
 
 Mizuhide：上
 Now that everyone is settled,
@@ -6111,9 +6111,9 @@ main forces return.
 
 Miles：上
 I see... Even though our group is small,
-our fighting prowness is high.
+our fighting prowess is high.
 We'll take the Queen by surprise.
-So then Mitsuhide, what route do we take?**
+So then Mizuhide, what route do we take?**
 No matter how much we attract the enemy forces,
 it'll be hard to make a surprise attack
 if this road is the only path.
@@ -6131,7 +6131,7 @@ the west side of the succubus castle, which is on
 the other side, right?
 This village is on the east of the succubus 
 castle, opposite the main battlefield. Beats me
-how we'd get the the castle this way...
+how we'd infiltrate the castle this way...
 
 Mizuhide：上
 Because of the nature of this attack,
@@ -6142,7 +6142,7 @@ No one else is aware of the details I am
 about to tell you.
 I will do my best to keep convey this information
 as vaguely as possible.*
-A more indepth explaination about the surprise 
+A more in depth explanation about the surprise 
 attack will be explained later at the site.
 Forgive me, for I cannot go into details now.
 
@@ -6162,12 +6162,12 @@ Ray：上
 
 Mizuhide：上
 Could it be possible they truly worked out the 
-location of the holy sword in the forest, 
+location of the holy sword in the forest 
 without external information...?
 Advanced level succubus or not,
 it's location would be difficult to determine,
 especially through that magical barrier.
-Although it is only a hypothosis at this point,
+Although it is only a hypothesis at this point,
 please forgive my doubts...
 
 Miles：上
