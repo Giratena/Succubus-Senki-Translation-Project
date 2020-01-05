@@ -6006,8 +6006,8 @@ Mizuhide：上
 <OP1>
 テロップ：中央
 Come morning,
-I got a notification that the mission debrief would*
-be happening today.*
+I got a notification that the mission debrief 
+would be happening today.
 We hurried up to the conference room at the
 royal castle.*
 When we entered the room, various other 
