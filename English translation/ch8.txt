@@ -6178,65 +6178,68 @@ of this surprise attack, so extra caution
 is to be expected.
 
 Mizuhide：上
-そう言っていただけると、こちらとしても助かります。**
-レイさんたちには、情報統制のために
-今晩はこのまま城内で過ごしていただき、
-明くる朝、出陣してもらいます。
-第九騎士団の兵隊のみなさんには、
-詳細は伝えず先に移動命令を出しました。
-今は近くの村に待機してもらっています。
-明日はひそかに彼らと合流し、
-目的地へと出発することになるでしょう。*
-以上で説明は終わりです。
-ではまた明日の朝、お会いしましょう。
+Your words mean much to me, thank you.**
+In order to ensure this information is contained,
+Ray's group will spend the night in the castle, 
+and arrive at the entrance come morning.
+The soldiers of the Ninth Order will not be
+given details until after the order to move out.
+I'll await you at the nearby village.
+I will join you all tomorrow in secret at the
+mentioned destination.*
+This ends our mission debrief.
+We shall meet once again tomorrow.
 
 Chancellor：上
-賢者どの少しお話が・・・。
+Wise Sage, may I talk with you for a second...?
 
 Mizuhide：上
-はい。ただいま向かいます。
+Of course. Right away.
 
 テロップ：中央
-ミツヒデは大臣に呼ばれると部屋から出て行った。
+Mitsuhide exited the room, summoned by the 
+Chancellor.
 
 Chancellor：上
-賢者どの、例の作戦ですが・・・。**
-漏洩しないようにするのも大事ですが、
-漏洩したときの保険を打つのも大事であると
-年配の私からはアドバイスさせていただきます。
+Wise Sage, our current stratergy...**
+Some elderly wisdom. Not only is it important 
+that our stratergy is not leaked, it is also 
+important to take precautions if it does.
 
 Mizuhide：上
-ふむ。大臣さま、詳しくお聞かせ願えますか。
+Hmm... What do you mean by that, Chancellor?
 
 Chancellor：上
-情報が漏れないように万全を期しているのは
-分かります。しかし、完璧に見えても
-どこか穴はあるものです。
-ましてや相手は未知の魔物です。
-どのような手を打ってくるか分からない。
-未知がある以上想定外も当然あるでしょう。
-ですから、リスクの大きい局面では、自分の予想外に
-対処する手をあらかじめ打っておくことが
-大きな意味を持つものなのです。
+I understand we are doing everything to prevent
+information from being leaked. However, no plan
+is perfect.
+Our foes are demons that even we do not 
+understand, we have no idea what their hand 
+could be.
+An unknown foe can spur unknown outcomes.
+Therefore, when the stakes are high, it's
+vital we are prepared for any scenario.
 
 Mizuhide：上
-・・・！**
-なるほど。僕の考えが足りませんでした。
-勉強になります。
+...!**
+I see. I had not given it thought.
+Consider me enlightened.
 
 Chancellor：上
-第九騎士団が行軍するルートはこれですか。
-ふむ・・・。この地形、もしわたしなら・・・・。
+Is this the route the Knights of the Ninth Order
+will take...? Hmm... These geographical features,
+perhaps if...
 
 Mizuhide：上
-確かにその危険性はありますね・・・。
-それならここでこうすれば・・・。
+It is certainly a dangerous possibility...
+But, if we did this here... 
 
 Chancellor：上
-おお、その対処なら仮に心配が杞憂に終わっても、
-こちらのリスクは最小に抑えられます。
-さすがは賢者殿。よい手です。
-では、その分の手配は・・・。
+Oh, well said. If that happens, then the risk
+should be minimalised without concern.*
+I would have expected no less from you, 
+Wise Sage. Ourstanding work. Now then, 
+about our arrangements...
 
 <CM0>
 Miles：上
