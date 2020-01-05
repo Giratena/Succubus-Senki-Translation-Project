@@ -6023,9 +6023,9 @@ Chancellor：上
 Gentleman of the knights,
 I have gathered you all today with the purpose
 of invading the succubus stronghold.
-Based on the decipherment of old documents,
-we have discovered the enemy hideout as a 
-result of our investigation scouts.
+Based on the decipherment of old documents, 
+our investigation scouts have discovered the 
+enemy hideout.
 The enemy's ringleader is known as the [Queen].**
 When succubus appeared hundreds of years ago,
 it was said that they disappeared when this
@@ -6153,9 +6153,8 @@ Is there any reason for concern?
 Mizuhide：上
 Yes.**
 Ever since the Breast Succubus Alice showed up at
-the base of the holy swords,
-I sense danger that our movements are being leaked 
-to the succubus somewhere, somehow.
+the base of the holy swords, I sense that our 
+movements are somehow being leaked.
 
 Ray：上
 ...!
@@ -6243,59 +6242,64 @@ about our arrangements...
 
 <CM0>
 Miles：上
-くっ、やべぇ状況だぜ。
-このままじゃ俺たち・・・。*
-なに、逃げて時間を稼ぐ？正気か？
-そんなことしても全滅するだけじゃねぇか。*
-ミツヒデの言葉を信じる・・・、か。**
-ノブに裏切られたばかりだってのに、
-よく他人の言葉を信じられるな。*
-ちっ、俺はお前に付いて行くって決めたんだ。
-お前がミツヒデの作戦に乗るってんなら、
-それに従うさ！
-よし！
-それなら、時間稼ぎするのを目的に据えて、
-手短に戦術を話すぜ。
+Ugh, this isn't good Ray.
+At this rate we'll be...*
+What, flee and buy time? You sure? Even if we did
+that, we'd be annihilated!*
+I want to believe Mitsuhide...**
+It's just after Nobus betrayed us, I'm having a hard
+time having faith in the words of others.*
+Dammit, I decided to follow you here.
+If you believe in Mitsuhide's stratergy,
+then you can count on me!
+Alright!
+If so, let's discuss tactics on how we can buy time.
 
 Miles：上
-まず、敵の歩兵部隊の配置だが、
-正面と右に多く展開されている。*
-俺たちが通ってきた道、つまり左側は、
-敵が手薄なようだ。
+First thing to note is that the arrangement of 
+enemy forces have been deployed mostly on the
+right hand side of us.
+The road on our side, the left side...
+seems to have fewer enemies.
 
 Miles：上
-敵の遠距離部隊について見ると、
+Upon looking at the enemies long range troops,
 
 Miles：上
-正面の崖の上に展開しているみたいだな。
-左右の崖に陣取っているのは、
-回復術士のようだぜ。
-この歩兵と遠距離兵の配置から考えて、
-もし時間稼ぎをするのであれば・・・。
+See that cliff in front of us?
+It looks like the forces taking positions there
+are mostly healers.
+Considering the placement of their infantry
+and healer units, we should stall...
 
 Miles：上
-左の道を通って歩兵部隊を避けつつ、
+While avoiding troops through the left road,
 
 Miles：上
-この奥の岩陰まで逃げて、
-敵の遠距離部隊から身を隠すのがベストだろう。*
-歩兵もこの狭い道じゃあ一気に入ることはできない。
-おあつらえ向きに回復スポットもある。*
-ここでなら、少しの間なら耐えられると思うぜ。**
-逃げるときの注意点だが、風の聖剣が使えない以上、
-敵の術で魅了されたりしないように
-気を付ける必要がある。
-幸いにエスナ姫のお守りは無事だ。
-うまく使えばある程度は敵の術をしのげるだろう。
+And then retreat to the study cover of these
+rocks. It's our best bet to stay out of range
+of the enemies long range forces.
+The road is too narrow for more than one unit
+to pass through, and there's a great healing 
+circle here as well.
+I think if we retreat here, we might be able to
+hold out...*
+We'll need to be careful to not fall to the
+enemies charms as well, since we don't have 
+the holy sword of wind anymore.
+Fortunately though, we still have Princess 
+Etsuna's amulet. If used well, we'll be able
+to shurg off the enemies effects to some extent.
 
 Miles：上
-ちなみに聖剣は・・・。
+By the way, about the holy swords...
 
 Miles：上
-あの崖の上か。
-あそこまで敵に襲われながら登るのは不可能だな。*
-ちくしょう、ノブめ。後でこってりとっちめてやる！
-そのためにも今は生き残らねぇとな！
+That cliff over there?
+It's impossible to reach while being
+attacked by enemies.
+Damn it Nobus... I'm going to survive this no 
+matter what! Because I get my hands on you...!
 
 <CM1>
 Ninja Girl：中央
