@@ -6196,13 +6196,13 @@ Mizuhide：上
 Of course. Right away.
 
 テロップ：中央
-Mitsuhide exited the room, summoned by the 
+Mizuhide exited the room, summoned by the 
 Chancellor.
 
 Chancellor：上
-Wise Sage, our current stratergy...**
-Some elderly wisdom. Not only is it important 
-that our stratergy is not leaked, it is also 
+Wise Sage, about our current strategy...**
+Some elderly wisdom to consider. Not only is it important 
+that our strategy is not leaked, it is also 
 important to take precautions if it does.
 
 Mizuhide：上
@@ -6235,9 +6235,9 @@ But, if we did this here...
 
 Chancellor：上
 Oh, well said. If that happens, then the risk
-should be minimalised without concern.*
+should be minimised without concern.*
 I would have expected no less from you, 
-Wise Sage. Ourstanding work. Now then, 
+Wise Sage. Outstanding work. Now then, 
 about our arrangements...
 
 <CM0>
@@ -6246,11 +6246,11 @@ Ugh, this isn't good Ray.
 At this rate we'll be...*
 What, flee and buy time? You sure? Even if we did
 that, we'd be annihilated!*
-I want to believe Mitsuhide...**
+I want to believe Mizuhide...**
 It's just after Nobus betrayed us, I'm having a hard
 time having faith in the words of others.*
 Dammit, I decided to follow you here.
-If you believe in Mitsuhide's stratergy,
+If you believe in Mizuhide's strategy,
 then you can count on me!
 Alright!
 If so, let's discuss tactics on how we can buy time.
@@ -6276,20 +6276,20 @@ Miles：上
 While avoiding troops through the left road,
 
 Miles：上
-And then retreat to the study cover of these
+And then retreat to the sturdy cover of these
 rocks. It's our best bet to stay out of range
-of the enemies long range forces.
+of the enemies' long range forces.
 The road is too narrow for more than one unit
 to pass through, and there's a great healing 
 circle here as well.
 I think if we retreat here, we might be able to
 hold out...*
 We'll need to be careful to not fall to the
-enemies charms as well, since we don't have 
+enemies' charms as well, since we don't have 
 the holy sword of wind anymore.
 Fortunately though, we still have Princess 
-Etsuna's amulet. If used well, we'll be able
-to shurg off the enemies effects to some extent.
+Esuna's amulet. If used well, we'll be able
+to shrug off the enemies effects to some extent.
 
 Miles：上
 By the way, about the holy swords...
