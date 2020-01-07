@@ -5744,42 +5744,44 @@ cheers of the townsfolk as the knights depated.
 
 
 Miles：上
-へ、せっかくならあっちに参加したかったぜ。
-すげぇ声だ。
+Ah, I'd love to join them if I could...
+Get a load of those cheers!
 
 Nobus：上
-いよいよ、敵との決戦、か。
-国のみんなのためにも・・・。
-よし、頑張ろう！
+At long last, the final battle.
+Right, let's do out best!
+For our country...!
 
 Mizuhide：上
-レイさんたち、おはようございます。
-昨夜はあのような扱いをすることになり、
-申し訳ありませんでした。
-レイさんたちの部隊は、
-ここから少し離れた村に待機してもらっています。
-そこで合流してから、目的地へと向かいましょう。
+Good morning everyone.
+Please forgive me for treating you all as 
+I did last night.
+As discussed, Ray's forces will stand stationed 
+in the village a little further out from here.
+Then after I join you, we head to our destination.
 
 Miles：上
-よし、出陣式に出られなかった分、
-しっかりと手柄をあげてやろうぜ。
-戦いが終わったあとにちやほやされてやる！
+Roger that. We might not be able to leave out the
+front, but being part of a secret service is 
+something I can get behind.
+There'll be time for festivities once the
+fight is over!
 
 Soldier：上
-団長！副団長！
-お待ちしておりました。*
-先にこのような場所へ派遣されて、
-困惑していたところです。*
-王都の騎士団たちが敵の本拠地へ出陣したと、
-もっぱらの噂です。
-我々は新参者だから外されてしまったのですか？
+Sir Ray, Sir Miles!
+We've waited for your arrival.*
+We were all quite confused, being sent to
+such a place.*
+The Knights of the Royal Captial have departed
+towards enemy terrirory.
+Have we been excluded because we are newcomers?
 
 Miles：上
-そんなことはない。安心しな！**
-詳しくは話せないが、
-これから俺たちは重要な任務につく。
-淫魔との戦いにとって大事な作戦だ。
-時間があまりない。すぐにでも出陣するぜ。
+Heh, nothing of the sort. Rest easy!**
+I can't give exact details, but we've been tasked 
+with an especially important mission.
+An important plan for the battle with the enemy.
+There is not much time.すぐにでも出陣するぜ。
 本隊が攻め込むタイミングに、
 合わせないといけないからな。
 
