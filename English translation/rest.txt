@@ -3661,7 +3661,7 @@ My strength was squeezed by Mirage...
 <CM0>
 テロップ：中央
 While walking through the town, 
-a robed man speaks out to you.
+a robed man speaks out.
 
 Leon：上
 Um, excuse me.

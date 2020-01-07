@@ -5733,14 +5733,15 @@ OPをスキップしますか？
 
 <OP2>
 テロップ：中央
-・・・・・。**
-夜が明けた。
-いよいよ出撃のときだ。*
-僕たちはあまり人目につかないようにこっそりと、
-城の裏門の方に集まった。*
-正門の方では今、
-大々的に出陣式をやっているらしい。
-見送る市民たちの歓声がここまで聞こえてくるほどだ。
+....**
+It was the dawn of morning.
+The time to depart had finally arrived.*
+We gathered in secret at the back of the castle,
+careful to not attract public attention.*
+At the front gate, they seemed to be hosting
+a grand depature ceremony. I could even hear the 
+cheers of the townsfolk as the knights depated.
+
 
 Miles：上
 へ、せっかくならあっちに参加したかったぜ。
