@@ -5929,83 +5929,88 @@ Nobus：上
 ......❤
 
 Ray：上
-っ・・・！！
+Ugh...!
 
 テロップ：中央
-崖の上には聖剣を持ったノブが立っていた。**
-うつろな目をしたノブは、Luminaraに言われるままに、
-聖剣を彼女のもとへと運んでいく。
+There on the top of the cliff with the 
+holy swords stood Nobus.*
+The hollow-eyed Nobus carried the Holy Swords to
+Luminara, doing as she instructed.
 
 Miles：上
-ノブ！お前何考えてやがるんだ！**
-早くその聖剣をこっちに渡せ！
-このままじゃ全滅するぞ！
+Nobus! What the heck are you thinking!?**
+Throw the swords back to us!
+If you don't, we'll all be annihilated!
 
 Nobus：上
-・・・・・・・❤
+......❤
 
 Mileena：上
-\vo[mi60]うふふ❤
-無駄だよ。ノブくんはいまわたしの操り人形なの。
-何を言っても聞こえないよ。
-\vo[mi61]こんばんは。わたしはMileena。
-淫魔軍の諜報部隊の隊長。
-中級サキュバスのMileena。
+\vo[mi60]Teehee-❤
+It's no use. Nobby is my puppet now-
+No matter what you say, he can't hear you.
+\vo[mi61]Good evening- I'm the captian of 
+the succubus secret intelligence force,
+the intermediate succubus Mileena。
 
 Mileena：上
-\vo[mi62]レイくんやユミルくんとは、
-前、王都で会ったね。
-久しぶり❤
+\vo[mi62]I've met Ray and Miles 
+before at the Royal Capital.
+It's been awhile-❤
 
 Miles：上
-お前は、ノブと仲良さそうに話していた女・・・！
-サキュバスだったのか！*
-くそぉ、ノブを返しやがれ！
+You, you're the woman who Nobus was getting
+friendly with earlier...!
+You were a succubus the entire time!
+Damn it! Turn Nobus back!
 
 Mileena：上
-\vo[mi63]やぁん。怖ーい。
-ノブくん助けて❤
+\vo[mi63]Uwaah- You're scaring me-
+Help me Nobby-❤
 
 テロップ：中央
-Mileenaに抱き着かれたノブは、
-恍惚とした表情を浮かべた。*
-そして、彼女に促されるままに、
-その槍先を僕たちに突き付けてきたのだ。
+Mileena clung to Nobus' side, as he stared
+motionless with an entraced expression.*
+Then, reacting to Mileena's hug, he
+pointed his spear at us.
 
 Ray：上
-・・・・・・。
+....
 
 Miles：上
-ありえねぇよ。ノブが裏切って情報を流していたなんて。
-信じらんねぇ・・・。*
-退路が断たれた状態で敵は圧倒的多数・・・。
-聖剣は奪われて、
-そのうえ、中級サキュバスが３体だと・・・。
-ちくしょう。こんなの無理じゃねぇか・・・。**
-俺たちもう全滅するしか・・・。
+Impossible! Nobus was betraying us by leaking 
+information the entire time. 
+I don't believe it...
+The enemy has us comepletely surrounded...
+The Holy Swords have been taken away,
+and if that wasn't bad enough, 
+there are 3 intermediate level succubus...**
+Damn it. There's no way out...
+We've lost...
 
 Luminara：上
-\vo[r9]あはは♪その顔、それが見たかったの。
-絶望が気持ちいいー♪*
-\vo[r10]もし降伏するなら、
-恋人みたいにラブラブで搾り取ってあげてもいいよ？
-キスをまぶして気持ちよーく逝かせてあ・げ・る❤
+\vo[r9]Ahaha!-♪ That's the face I wanted to see-
+Despair is so delicious-♪*
+\vo[r10]But if you surrender now, we'll squeeze you
+dry and share sweet love like passinate lovers?
+We can make out and kiss and feel so, so good-❤
 
 テロップ：中央
-Luminaraの高笑いがひびく。
-艶めかしい無数のサキュバスに囲まれて、
-下級の兵たちは既に理性を失いかけているようだ。
-このまま敗北するしか道はないのだろうか・・・。**
-そのときミツヒデが
-Luminara達に聞こえない小さな声で
-僕に話しかけてきた。
+Luminara's laughter echoed all around us.**
+Surrounded by countless amounts of voloptuous,
+seductive succubus, soldiers were already 
+losing control of their willpower.
+Did we just come here only to be defeated...?**
+In that moment, 
+Mitsuhide spoke to me in a small voice that 
+Luminara and the rest couldn't hear.
 
 Mizuhide：上
-（レイさん。ボクに作戦があります。）**
-（今は無理に戦わず、向こうの岩陰に隠れて、
-時間を稼いでください。）*
-（まだ希望は断たれていません！
-ボクを信じてください！）
+(Ray, I have a plan.)**
+(Without fighting too excessively, head everyone 
+towards the rocks over there to buy time.）*
+(Hope is not lost yet!
+Please, trust me!）
 
 <OP1>
 テロップ：中央
