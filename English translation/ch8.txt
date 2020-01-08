@@ -5780,59 +5780,58 @@ Miles：上
 Heh, nothing of the sort. Rest easy!**
 I can't give exact details, but we've been tasked 
 with an especially important mission.
-An important plan for the battle with the enemy.
-There is not much time.すぐにでも出陣するぜ。
-本隊が攻め込むタイミングに、
-合わせないといけないからな。
+An special plan for the battle with the enemy.
+There is not much time. We'll arrive soon.
+We must match the timing of our main forces'
+attack!
 
 Soldier：上
-おお、了解です！
+Oh! You can count on us!
 
 テロップ：中央
-こうして僕たちは兵隊たちと合流し、
-目的地へと向かって出陣した。*
-後をつけられていないか慎重に気を配りながら、
-あまり整備されていない街道や、
-山の中の道を進み、
-そうして目的地の村まで
-あと少しというところまでやってきた。
+And so we rejoined with the rest of our forces,
+and headed towards the target destination.*
+While taking careful attention that we weren't 
+being followed, we traveled through the rugged
+mountain pass in the direction of the village.
 
 Mizuhide：上
-すっかり暗くなりましたね。
-今日はこの辺で夜営でしょうか。
+It's getting quite dark isn't it?
+Shall we set up camp and rest for the day?
 
 Miles：上
-そうだな。ちょうど少し開けたところがあるし、
-ここらで一晩明かすことにしよう。
-レイ、それでいいか？
+Too right, there's a little opening over
+there where we can set up camp.
+How about it Ray?
 
 Ray：上
-・・・・・・♪
+...♪
 
 Nobus：上
-今日は俺が夜中の見張り当番だ。
-二人はぐっすり眠って疲れを取ってくれ。
+I'm on watch duty tonight.
+Get a good rest for tomorrow you two.
 
 テロップ：中央
-大きな障害に出会うことなくここまで来れた。
-すこぶる順調な旅路に思えた。*
-だが・・・・。
+We had nearly arrived without any major obstacles.
+Things seemed to be going smoothly.*
+But...
 
 Nobus：上
-ふぅ・・・。少し寒いな・・・。**
-（レイたちはしっかり寝たようだ。
-他の見張りの兵隊もここからは遠い。）*
-（今がチャンスだな。
-俺は今から、レイたちの聖剣を奪って・・・。）*
-ん？俺は今、なんて・・・。
+Brrr... It's a little cold...**
+(Everyone else seems to be sleeping soundly.
+I can't see the other lookout guards, they
+must be further out.)
+(If I wanted to, 
+I could take the holy swords right now...）*
+Huh? What, what am I thinking...?
 
 Mileena：上
-\vo[mi57]ノブくん❤やっほー❤**
-\vo[mi58]これまでたっぷりサービスしてあげた、
-そのお代をもらいに来たよ。
+\vo[mi57]Nobby!-❤ Yoohoo-❤**
+\vo[mi58]You've been getting lots of services from me 
+until now, so I've come to recieve my payment-
 
 Mileena：上
-\vo[mi59]ノブくんがずっとしたがっていた、
+\vo[mi59]Nobby's been so obedient,
 「自分にしかできないこと」させてあげる❤
 きゃはは❤
 
