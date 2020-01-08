@@ -5823,7 +5823,7 @@ I can't see the other lookout guards, they
 must be further out.)
 (If I wanted to, 
 I could take the holy swords right now...）*
-Huh? What, what am I thinking...?
+Huh? Wait, what am I thinking...?
 
 Mileena：上
 \vo[mi57]Nobby!-❤ Yoohoo-❤**
@@ -5831,100 +5831,102 @@ Mileena：上
 until now, so I've come to recieve my payment-
 
 Mileena：上
-\vo[mi59]Nobby's been so obedient,
-「自分にしかできないこと」させてあげる❤
-きゃはは❤
+\vo[mi59]Nobby's been very obedient, so it's time to 
+make you do [a little something that I can't]-❤
+Kyahaha-❤
 
 Nobus：上
-何だ今の映像はっ！
-うあぁっ・・・❤❤
+An, an illusion!?
+Uwaaah...❤❤
 
 Soldier：上
-団長！副団長！起きてください！
-た、大変です！！
+Sir Ray, Sir Miles, wake up at once!
+S, somthing terrible has happened!
 
 Ray：上
-・・・・・・！！！
+...!!!
 
 Miles：上
-んだよ、何事だ・・・って、うおぉ！！
+What? Did something happen- ....Whoaa!
 
 テロップ：中央
-目を覚ますと周囲の崖の上に、
-大量のサキュバスたちが陣取っていた。
-その数はゆうに100を超えそうだ。
-振り返ると、僕たちが来た道が岩でふさがれている。
-さっきの大きな音はこの落石の音だったらしい。
+As we woke up, we were entirely surrounded by 
+groups of succubus on cliff tops.
+There was at least over 100 of them.
+And looking back, the road we came through was
+blocked by rocks. That must have been the loud
+noise we heard earlier.
 
 Mizuhide：上
-待ち伏せされていた・・・？
-ありえない！どうして！
+We've been ambushed?
+Inconceivable! 
 
 Luminara：上
-\vo[r1]あは❤やっと気が付いた？
-でも、もう遅いよ。
-包囲は完成しているの。
-\vo[r2]あんたらの情報は全部筒抜け。
-ここに来るのだってわかってたんだから。
+\vo[r1]Aha-❤ So you've finally noticed?
+But, you're too slow-
+You're completely surrounded-
+\vo[r2]All your information got leaked.
+We knew you were coming here from the start.
 
 Miles：上
-お前はLuminara！
-俺たちが倒した、
-王都に攻め込んできた淫魔じゃねえか！
+You, you're Luminara!
+The succubus we defeated at the Royal Capital!
 
 Luminara：上
-\vo[r3]へー、覚えてたんだ。
-あの時はよくも、わたしの顔に泥を塗ってくれたわね！*
-\vo[r4]あの敗北はまだ忘れていないわ。
-今回は万全の態勢で、
-アンタたちにリベンジしに来たの！
+\vo[r3]Ah- So you remember me.
+You disgraced me, how dare you!-*
+\vo[r4]I haven't forgotten our last encounter-
+Now, I have the perfect oppertunity
+for revenge!
 
 Croix：上
-うふふ。Luminaraちゃんだけじゃないのよ。
-お久しぶりね。自警団の坊やたち。
+(Giggle) And it's not just Luminara-
+It's been awhile hasn't it? Mercenary Boys-
 
 Ray：上
-・・・・・！！
+...!!
 
 Croix：上
-村で会ったときと比べて、
-おいしく育ったわね❤*
-約束したでしょ？たっぷりレベルを吸ってあげるって。
-あなたたちの力、わたしがもらってあげるわ❤*
-そうだ自己紹介していなかったっけ。
-わたしは中級サキュバスのCroix。
-得意技はレベルドレイン❤よろしくね。うふふ❤
+You've become so big and delicious now
+compared to the time we met in the village-❤*
+Do you remember our promise? Now I can suck up
+all your levels in exchange for your power-❤*
+Ah, that's right. I didn't even introduce myself-
+I am the intermediate succubus Croix.
+Level draining is my speciality-❤ 
+It's a pleasure to meet you- Teehee-❤
 
 Miles：上
-へっ、確かにすげえ数だがな！
-いくら中級サキュバスがやって来たって、
-俺たちには聖剣があるんだ！
-お前らまとめてぶった切ってやるぜ！
+Heh. Well I admit you've got numbers,
+but no matter how many intermediate succubi
+there are, we still have the holy swords!
+I'll cut you all down to size!
 
 Luminara：上
-\vo[r5]ぷっ。あははは♪
-調子に乗っちゃってさ。おっかしいー❤
+\vo[r5]Pfft- Ahahaha!-♪
+You're getting ahead of yourself don't you think?
+Hi-larious-❤
 
 Miles：上
-な、なに笑ってやがる。てめぇ。
+You...! What's so funny?
 
 Luminara：上
-\vo[r6]これ見えるー？
-アンタらの聖剣、いまあたしの手元にあるんだよー？
+\vo[r6]See this?-
+Your holy swords are with us now-
 
 Miles：上
-ば、ばかなっ・・・！！
-そんなはず！！
+F, foolish...!!
+Impossible!
 
 Luminara：上
-\vo[r7]サキュバスには触れられない聖剣を、
-どうやって奪ったのか不思議？
-それはねぇ・・・。
-\vo[r8]この子に盗ってきてもらったんだよ。
-ねー、ノブくん❤
+\vo[r7]Wondering how we got the Holy Swords
+without being able to touch them?
+Well now...
+\vo[r8]That's because we had this kid steal them
+for us- Right, Nobby?-❤
 
 Nobus：上
-・・・・・・・❤
+......❤
 
 Ray：上
 っ・・・！！
