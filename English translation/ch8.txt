@@ -5739,8 +5739,8 @@ The time to depart had finally arrived.*
 We gathered in secret at the back of the castle,
 careful to not attract public attention.*
 At the front gate, they seemed to be hosting
-a grand depature ceremony. I could even hear the 
-cheers of the townsfolk as the knights depated.
+a grand departure ceremony. I could even hear the 
+cheers of the townsfolk as the knights departed.
 
 
 Miles：上
@@ -5772,15 +5772,15 @@ Sir Ray, Sir Miles!
 We've waited for your arrival.*
 We were all quite confused, being sent to
 such a place.*
-The Knights of the Royal Captial have departed
-towards enemy terrirory.
+The Knights of the Royal Capital have departed
+towards enemy territory.
 Have we been excluded because we are newcomers?
 
 Miles：上
 Heh, nothing of the sort. Rest easy!**
 I can't give exact details, but we've been tasked 
 with an especially important mission.
-An special plan for the battle with the enemy.
+A special plan for the battle with the enemy.
 There is not much time. We'll arrive soon.
 We must match the timing of our main forces'
 attack!
@@ -5828,7 +5828,7 @@ Huh? Wait, what am I thinking...?
 Mileena：上
 \vo[mi57]Nobby!-❤ Yoohoo-❤**
 \vo[mi58]You've been getting lots of services from me 
-until now, so I've come to recieve my payment-
+until now, so I've come to receive my payment-
 
 Mileena：上
 \vo[mi59]Nobby's been very obedient, so it's time to 
@@ -5841,7 +5841,7 @@ Uwaaah...❤❤
 
 Soldier：上
 Sir Ray, Sir Miles, wake up at once!
-S, somthing terrible has happened!
+S, something terrible has happened!
 
 Ray：上
 ...!!!
@@ -5852,7 +5852,7 @@ What? Did something happen- ....Whoaa!
 テロップ：中央
 As we woke up, we were entirely surrounded by 
 groups of succubus on cliff tops.
-There was at least over 100 of them.
+There were at least over 100 of them.
 And looking back, the road we came through was
 blocked by rocks. That must have been the loud
 noise we heard earlier.
@@ -5876,7 +5876,7 @@ Luminara：上
 \vo[r3]Ah- So you remember me.
 You disgraced me, how dare you!-*
 \vo[r4]I haven't forgotten our last encounter-
-Now, I have the perfect oppertunity
+Now, I have the perfect opportunity
 for revenge!
 
 Croix：上
@@ -5893,7 +5893,7 @@ Do you remember our promise? Now I can suck up
 all your levels in exchange for your power-❤*
 Ah, that's right. I didn't even introduce myself-
 I am the intermediate succubus Croix.
-Level draining is my speciality-❤ 
+Level draining is my specialty-❤ 
 It's a pleasure to meet you- Teehee-❤
 
 Miles：上
@@ -5949,7 +5949,7 @@ Mileena：上
 \vo[mi60]Teehee-❤
 It's no use. Nobby is my puppet now-
 No matter what you say, he can't hear you.
-\vo[mi61]Good evening- I'm the captian of 
+\vo[mi61]Good evening- I'm the captain of 
 the succubus secret intelligence force,
 the intermediate succubus Mileena。
 
@@ -5970,7 +5970,7 @@ Help me Nobby-❤
 
 テロップ：中央
 Mileena clung to Nobus' side, as he stared
-motionless with an entraced expression.*
+motionless with an entranced expression.*
 Then, reacting to Mileena's hug, he
 pointed his spear at us.
 
@@ -5981,7 +5981,7 @@ Miles：上
 Impossible! Nobus was betraying us by leaking 
 information the entire time. 
 I don't believe it...
-The enemy has us comepletely surrounded...
+The enemy has us completely surrounded...
 The Holy Swords have been taken away,
 and if that wasn't bad enough, 
 there are 3 intermediate level succubus...**
@@ -5992,17 +5992,17 @@ Luminara：上
 \vo[r9]Ahaha!-♪ That's the face I wanted to see-
 Despair is so delicious-♪*
 \vo[r10]But if you surrender now, we'll squeeze you
-dry and share sweet love like passinate lovers?
+dry and share sweet love like passionate lovers?
 We can make out and kiss and feel so, so good-❤
 
 テロップ：中央
 Luminara's laughter echoed all around us.**
-Surrounded by countless amounts of voloptuous,
+Surrounded by countless amounts of voluptuous,
 seductive succubus, soldiers were already 
 losing control of their willpower.
 Did we just come here only to be defeated...?**
 In that moment, 
-Mitsuhide spoke to me in a small voice that 
+Mizuhide spoke to me in a small voice that 
 Luminara and the rest couldn't hear.
 
 Mizuhide：上
@@ -6313,10 +6313,10 @@ Damn it Nobus... When I get my hands on you...
 <CM1>
 Ninja Girl：中央
 Ninja Girl**
-A succubus bellonging to Mileena's intelligence
+A succubus belonging to Mileena's intelligence
 forces.*
 She specialises in assassination and gathering 
-information through apporaching and 
+information through approaching and 
 neutralising her targets.
 She silently sneaks up to her targets in their 
 sleep and drains their energy by squeezing them
@@ -6331,19 +6331,19 @@ Because they usually kill to work in secret,
 those who enjoy playing with the weak 
 are rarely satisfied.
 When with men outside of assassination missions, 
-they slate their desires by teasing men by showing
-off their various endownments and skills.
+they sate their desires by teasing men by showing
+off their various endowments and skills.
 
 <CM2>
 Drain Imp：中央
 Drain Imp (Red)**
-A lesser Drain Succubus bellonging 
+A lesser Drain Succubus belonging 
 to Croix's forces.*
 Though not particularly strong, they can exhibit
 impressive amounts of strength when stealing
 the strength of their foes.
 The power they drain cannot be stored for long
-and will dissapear after a short while.
+and will disappear after a short while.
 However, because they gain a small amount of 
 that power each time, they end up killing large
 amounts of men to become powerful succubus.
@@ -6352,13 +6352,13 @@ and footjobs, they enjoy blowjobs the most,
 sucking energy directly through their mouths.
 If you let them feast on you thinking they're 
 weak, they'll drain you rapidly, and the power 
-ballance will quickly shift in their favour.
+balance will quickly shift in their favour.
 Extreme caution is advised.
 
 <CM3>
 Drain Imp：中央
 Drain Imp (Green)**
-A lesser Drain Succubus bellonging 
+A lesser Drain Succubus belonging 
 to Croix's forces.*
 They specialise in stealing foe's defensive
 power to protect themselves.*
@@ -6381,7 +6381,7 @@ Originally human.
 Although it's rare for a succubus to use recovery
 magic, her healing abilities were obtained 
 before she became a succubus.
-She was embarassed by her strong sexual compusions
+She was embarrassed by her strong sexual compulsions
 as a human, but her succubus side won over and now
 she constantly seduces men with her exposed chest.
 She is a relatively simple enemy who distracts men
@@ -6406,14 +6406,14 @@ before she became a succubus.
 Because she comes from a different area than 
 the green Busty Healer, her sect and clothes 
 are different.*
-The two weren't aquainted with each other prior
+The two weren't acquainted with each other prior
 to becoming succubus, but after being assigned
 together they became instant close friends.
 If sent together on the same mission, they'll
 work together to squeeze men's semen until
 there's no more.
 Men who experience their double paizuri will
-meet their end asending to heaven without 
+meet their end ascending to heaven without 
 exception.
 
 <CM9>
