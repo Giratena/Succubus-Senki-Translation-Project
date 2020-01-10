@@ -6419,9 +6419,9 @@ exception.
 <CM9>
 Sniper：中央
 Sniper**
-A lesser sniper succubus belonging to Luminara's
-forces who specialises in long range support.*
-遠距離攻撃といえば魔法が戦場の主力であり、
+A long range support lesser sniper succubus 
+belonging to Luminara's forces.*
+Long range attacksといえば魔法が戦場の主力であり、
 威力に欠ける弓矢は、
 あまり戦闘で用いられないのが普通である。
 しかし、彼女の場合、
