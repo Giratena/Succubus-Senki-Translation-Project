@@ -6441,11 +6441,11 @@ she currently fights under Mileena's command.
 <CM6>
 Luminara：中央
 Luminara**
-中級サキュバス。
-投げキッスでの魅了に特化した能力を持つ。*
-前回の王都攻略戦での敗北にめげず、
-通称「唇の魔女」と呼ばれる上級サキュバスの特訓を
-受けて、前回よりもパワーアップした。
+An Intermediate Succubus specialising in charming
+foes with her blown kisses.*
+Not being discouraged at her defeat at the royal 
+capital, she took intensive training from the 
+[Mouth Witch] and is now more powerful than ever.
 魔力を絞ることで超長距離まで届くスナイプキス、
 魔力を空中に貯めて、複数の相手をまとめて洗脳する
 ハーレムキスレインなどの新技が脅威である。
