@@ -92,21 +92,22 @@ We'll survive no matter what!
 
 <AT39>
 Miles：上
-うっ、ううっ・・・❤❤
+Oogh, ooooaagh...❤❤
 
 Luminara：上
-\vo[r50]くすくす❤
-解除しちゃうんだ。
-目先の快楽に負けて、バッカみたい❤
-\vo[r51]ほら、そんな愚かな人間たちは、
-わたしに服従するのがお似合いなのよ。
-んーっちゅ❤
+\vo[r50]Teehee-❤ So you cancelled it-
+Surrendering just from the promise of pleasure,
+what a fool-❤
+\vo[r51]Hora- Such foolish humans 
+fit well to submit to the likes of me-
+Mm-wah-❤
 
 タイトル：中央
-ハーレムキスレイン（範囲5の相手に洗脳（永続）を付与）
+Harem Rain Kiss 
+(Inflicts Brainwash+ on foes within 5 spaces)
 
 Luminara：上
-\vo[r41]きゃはは❤
+\vo[r41]Kyahaha-❤
 これでアンタたちはわたしの忠実な奴隷よ。
 もうこの唇には逆らえない・・・♪
 \vo[r42]さあ、わたしのご褒美が欲しければ、
