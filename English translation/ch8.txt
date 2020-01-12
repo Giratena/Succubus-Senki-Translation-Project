@@ -173,52 +173,55 @@ We've been surrounded by enemies!
 Uwaah!!
 
 Luminara：上
-\vo[r15]Ho, ho, how can this be?
+\vo[r15]H, h, how can this be?
 
 Luminara：上
-\vo[r16]きゃあ！
+\vo[r16]Kyaah!!
 
 Luminara：上
-\vo[r17]痛っぁ・・・。ううっ、崖から落ちちゃったじゃん。
-あり得ないんですけど！
+\vo[r17]Yowch... Ooh, falling off clifs hurt-
+What gives!?
 
-第三騎士団団長：上
-第九騎士団のみんな！よくぞ耐えてくれた！**
-僕たち第三騎士団が援軍に来たからには、
-もう大丈夫だ！
+Third Order Leader：上
+Knights of the Ninth Order! You held on for us!**
+The Knights of the Third reinforcements have come,
+so rest assured, help has arrived!
 
-第三騎士団団長：上
-レイ君、ユミル君！
-キミたちの聖剣だ。受け取りたまえ！
+Third Order Leader：上
+Sir Ray, Miles!
+These holy swords bellong to you. 
+Take them!
 
 Miles：上
-ははっ、ここで援軍到着かよ！
-奇襲を読んでたってわけか！
-やるじゃねえかミツヒデ！
+Haha! So the reinforcements have arrived!
+They must have predicted the surprise attack!
+Way to go Mizuhide!
 
 Mizuhide：上
-間に合った！
-よかった・・・。
-実はレイさんたちとの作戦会議のあとで・・・。
+We came just in time!
+Thank goodness...
+Actually, after the meeting with Ray...
 
 Miles：上
-こまかい話はあとだ。
-今は敵が混乱している隙に一気に叩くぜ！
+Chat about the details later.
+Right now, we need to hit the enemy hard while 
+they're still confused!
 
-第三騎士団団長：上
-周囲の下級サキュバスは僕たちに任せてくれ。
-第九騎士団のみんなは敵のリーダーを頼む！
+Third Order Leader：上
+Leave the surrounding lesser succubus to us.
+Go forth and take out the enemy leaders!
 
 <AT16>
 Luminara：上
-\vo[r18]ああもう、陣形がぐちゃぐちゃ・・・。
-せっかくの完璧な包囲網が台無しじゃない。*
-\vo[r19]でも、ふん、望むところよ！
-アンタらと直接対決して、コテンパンにしてあげるわ！
+\vo[r18]Aaagh! Our formations are all messed up...
+Our perfect trap, totally spoiled.*
+\vo[r19]But, hmph, you're right were we want you!
+I'll come down there are kill you myself!-
 
 Croix：上
-そうね。Luminaraちゃんに賛成するわ。
-まずは英雄くんたちを快楽で虜にしてしまいましょう。*
+Oh yes- I like they way you think Luminara-
+First, let's enthral all the heroes and turn 
+them into our slaves-
 聖剣の英雄さえ堕としてしまえば、
 援軍の騎士団ぐらい、
 わたしたち3人で吸いつくせるものね。うふふ❤
@@ -3547,7 +3550,7 @@ Croixにレベルを吸いつくされて、僕は力尽き、**
 あちこちで団員たちの嬌声があがるなか、
 主人公もCroixに襲われていた。
 
-第三騎士団団長：上
+Third Order Leader：上
 レイ君！無事か！
 被害は出たが、こちらはあらかた片付いたところだ。
 なっ・・・！
@@ -3559,7 +3562,7 @@ Croix：上
 Ray：上
 ううっ・・・・❤Croix様ぁ・・・❤❤
 
-第三騎士団団長：上
+Third Order Leader：上
 レイ君・・・。
 くそ、正気に戻るんだ！*
 キミたちの聖剣なしでは
@@ -3622,7 +3625,7 @@ Ray：上
 了解しました、Croix様・・・❤
 悪者は排除しますぅ・・・❤
 
-第三騎士団団長：上
+Third Order Leader：上
 くっ、完全に魅了されているか・・・。
 まさか英雄の騎士団と戦うはめになるとはな・・・。*
 全員、気を引き締めてかかれ！
@@ -4216,7 +4219,7 @@ Luminaraに搾りつくされて
 主人公たちの物語はその幕を閉じのであった。
 
 <AT35-13>
-第三騎士団団長：上
+Third Order Leader：上
 レイ君！無事か！
 被害は出たが、こちらはあらかた片付いたところだ。
 なっ・・・！
@@ -4232,7 +4235,7 @@ Luminara：上
 額にべっとりわたしのキスマークを付けられて、
 くすくす・・・。気持ちよさそうな顔しているでしょ？
 
-第三騎士団団長：上
+Third Order Leader：上
 レイ君・・・。
 くそ、正気に戻るんだ！*
 キミたちの聖剣なしでは、
@@ -4255,7 +4258,7 @@ Luminara：上
 第三騎士団団員：上
 （ごくり・・・。）
 
-第三騎士団団長：上
+Third Order Leader：上
 おい、お前たち。気をしっかり持つんだ！
 我々が勝てなければ、聖剣は敵の手に渡るんだぞ！
 ここで負けてどうする！
@@ -4286,7 +4289,7 @@ Luminara：上
 あうぅ・・・❤❤*
 Luminara様ぁ・・❤❤
 
-第三騎士団団長：上
+Third Order Leader：上
 お前たち、気をしっかり保つんだ！
 うわっ、やめろ、同士討ちをするな！
 
