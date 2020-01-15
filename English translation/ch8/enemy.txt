@@ -1224,41 +1224,42 @@ fall in love with my legs. Fufufu-❤
 
 <(65538)Luminara133>
 アクティブ：上
-\vo[r40]魔力チャージOK♪
-さあ、わたしの投げキッスの前にひれ伏しなさい。
-ハーレムキスレイン❤んーっちゅ、ちゅ、ちゅ❤
+\vo[r40]Magic Charm OK!-♪
+Now, grovel before my blown kisses.
+Harem Rain kiss-❤Mmmwah- Chu- Chu--❤
 
 タイトル：中央
-ハーレムキスレイン（範囲5の相手に洗脳（永続）を付与）
+Harem Rain Kiss (Permanent Brainwash to foes in 5 spaces)
 
 アクティブ：上
-\vo[r41]きゃはは❤
-これでアンタたちはわたしの忠実な奴隷よ。
-もうこの唇には逆らえない・・・♪
-\vo[r42]さあ、わたしのご褒美が欲しければ、
-頑張りなさい。そこの邪魔ものどもをたおすのよ！
+\vo[r41]Kyahaha-❤
+Now all of you are my faithful slaves-
+No longer will you defy my lips...♪
+\vo[r42]Now then, if you want rewards,
+do your best- Knock down all intrusions!
 
 アクティブ：上
-\vo[r43]きゃはは❤
-これでアンタはわたしの忠実な奴隷よ。
-もうこの唇には逆らえない・・・♪
-\vo[r44]残り1人なのに虜にされちゃって・・・。
-くすくす❤もうアンタたち終わりね❤
+\vo[r43]Kyahaha-❤
+Now all of you are my faithful slaves-
+No longer will you defy my lips...♪
+\vo[r44]Even the last person standing got
+charmed... Teehee-❤
+You've all already lost-❤
 
 Miles：上
-へっ、させねぇぜ！
+Heh, nice try!
 
 アクティブ：上
-\vo[r45]ちっ、邪魔が入ったみたいね。
-本当に厄介な剣だわ。*
-\vo[r46]ねえ、風の聖剣の使い手の剣士さん、
-その力、解除してみる気はない？*
-\vo[r47]余計な抵抗しないで、
-わたしの投げキッスを浴びれば、
-とーっても気持ちよくなれると思うのだけど。
+\vo[r45]Tch- Looks like it was blocked-
+That's sword's a real nuisance-*
+\vo[r46]Hey- Mr. Holy Sword user solider-
+Won't you try canceling that power?*
+\vo[r47]If you don't try to resist my kisses, 
+I bet you'd be able to feel really good-
 
 Miles：上
-ふ、ふざけるな！そんな提案に乗るわけねえだろうが！
+As, as if! 
+I'd never do something that ridiculous!
 
 アクティブ：上
 \vo[r48]えー、いいじゃん。
