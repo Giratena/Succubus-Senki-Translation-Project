@@ -147,7 +147,7 @@ var StringTable = {
 	MapPosChoose_Unit: 'Is this unit okay?',
 	MapPosChoose_Pos: 'Is this position okay?',
 	
-	Discard_Warning: 'This item cannot be discareded.',
+	Discard_Warning: 'This item cannot be discarded.',
 	
 	StockItem_ItemDiscard: 'Throw away this item?',
 	StockItem_Extract: 'Take',
