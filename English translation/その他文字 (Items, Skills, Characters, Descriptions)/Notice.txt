@@ -31,11 +31,11 @@ all ally units have acted.
 [ch4]
 <<<<<<<
 The succubus' aroma will drift into the map every 
-3 turns. It divides affect unit's willpower by 3,
+3 turns. It reduces the affected unit's willpower to one third,
 and inflicts the 'arousal' status.
 
 You can cure this status by using Princess Estuna's
-amulet. It can be used indefinitely, but not
+amulet. It can be used infinitely, but not
 consecutively. Use it wisely.
 
 [ch5]
@@ -45,7 +45,7 @@ Units under the effect of this status will
 automatically take a suicidal option on their 
 turn.
 <<<<<<<
-Units cannot be controled when seduced, and
+Units cannot be controlled when seduced, and
 this state usually lasts for two turns.
 <<<<
 ここで冒険をあきらめますか？
@@ -53,7 +53,7 @@ this state usually lasts for two turns.
 [ch9]
 <<<<<<<
  【Victory Condition】
-Reach the capture point
+Reach the capture point.
 
 
 [rest]
