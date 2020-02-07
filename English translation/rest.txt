@@ -1233,7 +1233,7 @@ Nobus：上
 
 <OP0>
 テロップ：中央
-We defended the village from the succubus, and
+We defended the village from the succubi, and
 headed towards the capital to report our findings.
 
 Miles：上
@@ -1254,7 +1254,7 @@ Ray：上
 ...!
 
 Miles：上
-We need to report this to the Knights of Order right 
+We need to report this to the Order of Knights right 
 away.* 
 We'll make a new demon counter plan with the Order,
 and while doing so, create a name for 
@@ -1331,7 +1331,7 @@ Hey brother, fill 'er up once more!
 
 Man：上
 Ohoho, drink to your heart's content-♪
-I owe you my life thanks to you guys.
+I owe you guys my life.
 Drink all you want, it's on the house!
 
 Soldier：上
@@ -1347,7 +1347,7 @@ Ray：上
 
 Miles：上
 Wahaha♪
-Ray, you're not getting sober too, are you?*
+Ray, you're not getting drunk too, are you?*
 Victory is sweet.
 Honour is only received without humility.
 That's the best way to approach this!
@@ -1420,15 +1420,15 @@ and organize our equipment for what's to come.
 
 <OP2>
 テロップ：中央
-With the sage rescued we were summoned by him
-at a room in the king's castle.
+With the sage rescued, 
+he summoned us to a room in the king's castle.
 
 Mizuhide：上
 Ah, mercenaries. You arrived.**
 Firstly, let me express my thanks for putting
-your lives on the line for rescuing me.
+your lives on the line to rescue me.
 I cannot thank you enough.
-I owe you a great deal of debt, so I request
+I owe you a great debt, so I request
 you make use of any knowledge I have.*
 I will not stand for these demons to do as they 
 please with our country.
@@ -1465,12 +1465,12 @@ blessing of 'divine protection' from the goddess.
 This protection safely warded them from the
 dragons' attacks, and allowed their blades to
 strike true.
-But, in some cases people can carry this 
+But in some cases, people can carry this 
 'protection' within them without a blessing. This
 crystal is used to analyze that type of protection.
 The white colour you see indicates the protection
 of light, and the green colour indicates the
-protection of the wind.
+protection of wind.
 
 Nobus：上
 So what does that have to do with the monsters
@@ -1479,7 +1479,7 @@ we've been fighting?
 Mizuhide：上
 Of course, allow me to explain.**
 Are you familiar with the name of those monsters?**
-We call them succubus, or in old Japanese terms
+We call them succubi, or in old Japanese terms
 'In-ma'. However, in old archaic literature, 
 they are referred to as 'Mu-ma'.
 Take a look at these inscriptions. 
@@ -1524,10 +1524,10 @@ due to the combination of Ray's and Miles'
 attributes.
 
 Miles：上
-...aah. I see.
+...Aah. I see.
 Wind and Light huh?*
 I didn't even think about that. I guess 
-all of your studying really paid off Mizuhide.
+all of your studying really paid off, Mizuhide.
 
 Nobus：上
 Oh... So is divine protection rare?
@@ -1535,9 +1535,9 @@ Oh... So is divine protection rare?
 Mizuhide：上
 No, not particularly rare. There are many
 who come to possess divine protection.*
-It is slightly curious though about the
+It is slightly curious, though, about the
 divine protection of light. It's quite rare...*
-But yes, some of the Knights of Order have 
+But yes, some members of the Order of Knights have 
 blessings, for example.
 
 Ray：上
@@ -1618,7 +1618,7 @@ Hora, look at me...
 
 ：スチル
 The girl named Mileena sat next to Nobus
-on the bed, and stared at him in the face.
+on the bed, and stared at his face.
 
 Mileena：上
 \vo[mi11]All those troubling things, you want to
@@ -1627,12 +1627,12 @@ I only want to help you Nobby.
 
 Nobus：上
 Ooh...**
-(Whoa, when I look into her eyes
+(Whoa, when I look into her eyes,
 it feels like I'm being sucked in.
 I never noticed how beautiful they were.)
 
 Mileena：上
-\vo[mi12]Hora, you can tell me anything... right?
+\vo[mi12]Hora, you can tell me anything... Right?
 
 Nobus：上
 Uhh, so actually...
@@ -1640,11 +1640,11 @@ Uhh, so actually...
 テロップ：中央
 Nobus told Mileena everything that happened.**
 Ray and Miles having special blessings, the
-combination type needed suppress the succubus,
+combination type needed suppress the succubi,
 and that he didn't have any special blessings.
-The first time they saw succubus at the village,
+The first time they saw succubi at the village,
 how easily he was seduced by their charms,*
-and how he was fell instantly the moment he saw
+and how he fell instantly the moment he saw
 the Boobie Succubus at the academy.
 
 Nobus：上
@@ -1692,11 +1692,11 @@ troubling your mind...❤
 
 <OP4>
 テロップ：中央
-Defeating the succubus stowing away within 
+Defeating the succubi stowing away within 
 the church,*
 we set to work searching through 
 books in the church basement, in an attempt
-to investigate the legends behind the holy sword.
+to investigate the legends behind the Holy Swords.
 
 Ray：上
 ...
@@ -1724,7 +1724,7 @@ and haven't found anything.*
 History books, agricultural documents,
 village chief journals...*
 There are many things here, but about the legend
-of a holy sword five hundred years ago?
+of the Holy Swords five hundred years ago?
 I'm not so sure.
 I get the feeling there aren't many older tomes
 here.*
@@ -1746,12 +1746,12 @@ it doesn't look old at all...
 
 Mizuhide：上
 Not at all, look at not the cover 
-but the contents. This font and style is 
+but the contents. This font and style are 
 reminiscent of the old kingdom era.
-This would date it anywhere between five hundred
+That would date it anywhere between five hundred
 to six hundred years old.*
 Based on the concepts, I'd base it close to
-the era in the ongoing war with succubus.
+the era in the ongoing war with succubi.
 
 Nobus：上
 Ah... I think I understand.
@@ -1792,8 +1792,8 @@ Some "seal, spring"...?
 
 Miles：上
 The seal of the spring!
-That's the spring where the holy sword was
-sealed off! I bet that's what it is!
+That's the spring where the Holy Swords were
+sealed off! I'm sure of it!
 
 Mizuhide：上
 Indeed, this seems to be worthy of investigation.**
@@ -1810,15 +1810,14 @@ We won't know what lies on the journey ahead.
 Be prepared for anything.
 
 Nobus：上
-Well said.
-It will be difficult to replenish
-our resources within the forest,
-so we'd better recruit troops and buy equipment
-while we can.
+Well said.**
+It will be difficult to replenish our resources 
+within the forest, so we'd better recruit troops 
+and buy equipment while we can.
 
 Miles：上
 Although our main goal is to search for the 
-holy sword, as the Knights of the Order, we also
+Holy Swords, as Knights of the Order, we also
 have a duty to ensure this region's safety.
 If we can take up any missions before we leave,
 our allies will earn battle experience and
@@ -3803,7 +3802,7 @@ The demons are a serious threat
 because they spring up suddenly, and attack the
 people of the village.
 It would seem they don't like to attack 
-in groups, so I don't think the Knights of Order
+in groups, so I don't think the Order of Knights
 would have any problems.
 But with the sudden attacks,
 by the time the Order comes the damage 
@@ -3837,7 +3836,7 @@ Nice to meet you. I'm Mileena.
 
 Nobus：上
 Oho, if it isn't Ray.**
-This young lady called Mileena, invited me while 
+This young lady, Mileena, invited me while 
 I was out drinking. I've been staying here since.
 
 Mileena：上
@@ -3845,7 +3844,7 @@ Mileena：上
 at his own party.*
 \vo[mi4]So, I started to chat with him.**
 \vo[mi5]When it's only two people,
-You can talk for ages and ages...
+you can talk for ages and ages...
 It was a fun evening.
 
 Nobus：上
@@ -3900,14 +3899,14 @@ right? I thought so. Here, take this.
 <CM47>
 Soldier：上
 Ah. Good morning!
-I've been keeping a records of all the people 
+I've been keeping record of all the people 
 in town.
 But because of yesterday's attack, I wasn't able
 to account for the people who ran away, so 
 I guess I'll have to start over again...
 It's not just limited to townspeople, keeping
-records are incredibly important.*
-I'd recommend recording things down whenever 
+records is incredibly important.*
+I'd recommend recording things whenever 
 possible so you don't find yourself in a bind.*
 
 テロップ：中央
@@ -3938,14 +3937,14 @@ Man：上
 I used to live outside the castle walls,
 but now I'm taking refuge inside the castle in
 anticipation of the next attack.
-They are demons though right?
-I heard they're monsters who take the forms of
+They are demons though, right?
+I heard they're monsters who take the form of
 sexy women.
 I recall one time I saw a drop dead sexy woman,
 and she tried to beckon me closer.*
 If I wasn't with my daughter at the time, I might
-have been swayed,*
-not that I couldn't have resisted her seduction 
+have been swayed.*
+Not that I couldn't have resisted her seduction, 
 of course, oh-ho.*
 
 <CM12>
@@ -4789,7 +4788,7 @@ Aaaagh-❤
 <CM9>
 Knight of 3rd Order：上
 Ah, you must be the hero I've heard rumors about.
-I am the head of the Knights of Order.*
+I am the head of the Order of Knights.*
 I have heard of your activities. The weakness of 
 the enemy has been revealed at last.
 With you at our side, we will not be defeated.
@@ -4841,8 +4840,8 @@ past the people.
 
 Soldier：上
 Excuse me, could you please step aside?
-Ooh, I can't see a thing even when using the tips 
-of my toes... Although I can almost see it...
+Ooh, I can't see a thing even when standing on the
+tips of my toes... Although I can almost see it...
 Ah, if it isn't Sir Hero! Oh, please excuse
 my awkward posture just now.*
 The truth is, the beautiful and renowned Princess 
@@ -4850,37 +4849,38 @@ Esuna is out shopping in that high class
 store over there, 
 but the crowd is proving to be a bit of a bother.**
 I've only just come out of the country to work in
-the capital, so I want to see Princess Esuna at
+the capital, so I wanted to see Princess Esuna at
 least once. 
-I thought I'd catch her during some sight seeing, 
+I thought I'd catch her during some sightseeing, 
 but I can't see a thing...*
 Er, um, my apologies...
 I will be returning to my duties.
 
 テロップ：中央
 If textboxes are obstructing images, you can 
-temporarily hide them by pressing left and right 
-on the arrow keys. It's handy for when you want 
-to see images and animations clearly. Simply press
-the left and right keys again to revert back.
+temporarily hide them by pressing the left or right 
+arrow keys. 
+It's handy for when you want to see images and 
+animations clearly. Simply press
+the left or right arrow keys again to revert back.
 
 <CM18>
 Soldier：上
-What to do what to do...
+What to do, what to do...
 So 'Skill' raises accuracy and crit rates...*
 'Speed' increases evasion,
-but 'luck' increases crit and evasion...*
+but 'Luck' increases crit and evasion...*
 So you can avoid enemy attacks with high speed,
 and unleash fatal strikes with high luck,
 I see...
 In other words, high skill is just as important
-as the weapon accuracy rates. I might need to
-rely on allies with high skill when fighting
-faster units. Hmm....
+as the weapon accuracy rates.* 
+I might need to rely on allies with high 
+skill when fighting faster units. Hmm....
 
 Soldier：上
 Oh? Are you studying too?
-If that's the case I'll give you this.
+If that's the case, I'll give you this.
 
 <CM27>
 Mizuhide：上
@@ -4897,11 +4897,11 @@ couldn't make me happier.
 <CM19>
 Man：上
 Even with these new kinds of monsters,
-the Knights of Order have already started counter
+the Order of Knights has already started counter
 attacking. 
 As expected from our country's knight squadron. 
-They're quite dependable.
-But when the enemies tried to attack the capital
+They're quite dependable.*
+But when the enemies tried to attack the capital,
 I admit I was fearing the worst.
 Aah, please get rid of those demons quickly.
 
@@ -4910,7 +4910,7 @@ Man：上
 Did you hear?
 The princess recently came to visit one of the 
 shops around here.
-The royal lineage in this region is known 
+The royal family in this region is known 
 for their exceptional ability to create
 various magical artifacts. 
 And now, it seems you can buy the resources used
@@ -4937,11 +4937,11 @@ Here, these are some trial goods. Have fun.
 
 <CM20>
 Elderly Lady：上
-I ought to think the price of food should be
+I think the price of food should be
 kept as low as possible in times like these.
 But during the war, prices just continue to rise.
 As only the rural areas of the country have
-been attacked, this years harvest will be taking
+been attacked, this year's harvest will be taking
 a significant impact.
 Oh, what to do...
 We ought to manage our resources well.
@@ -4986,9 +4986,9 @@ Ray：上
 
 Girl：上
 Kyaah!!
-Hey, release me! Let go of my arm will you?
+Hey, release me! Let go of my arm, will you?
 This doesn't concern you big brother, really!
-Why do you have poke your nose in things?
+Why do you have to poke your nose in things?
 You think you're cool by trying to help this boy?
 Hmph, well in that case, what if we do this?
 Hora- Get him Micah-❤
@@ -5010,7 +5010,7 @@ Ooh- You like this? Does it feel good?
 
 Girl：上
 Ehehe- Micah's techniques are unmatched.
-she can shatter even someone like you in a matter
+She can shatter even someone like you in a matter
 of seconds.
 
 Girl：上
@@ -5061,8 +5061,8 @@ Ray：上
 Th, that's not...❤ Aaah-❤
 
 Girl：上
-Mhm- that's totally it-**
-Even if I rub up against your crotch like this,
+Mhm- That's totally it-**
+If I rub up against your crotch like this,
 your mind goes blank, and you can't think about
 anything else.
 Hora? Am I wrong?
@@ -5070,10 +5070,10 @@ Should I stroke faster?
 
 Ray：上
 Aah-❤ Aah-❤ No more-❤
-Uuugh-❤ It's feels so good-❤ Aaah-❤
+Uuugh-❤ It feels so good-❤ Aaah-❤
 
 Girl：上
-Ho-ra- men are easily by defeated by girls.
+Ho-ra- Men are easily by defeated by girls.
 It's not like it matters if you're gonna lose to 
 us girls anyway. Teehee- You realize that right?
 
@@ -5104,7 +5104,7 @@ for this! I'll have my revenge!
 Girl：上
 Ooh, all talk and no trousers-❤
 And speaking of which, hora.
-Your penis has become quite big too hasn't it?-❤
+Your penis has become quite big too, hasn't it?-❤
 
 Boy：上
 Ooaah-❤
@@ -5120,7 +5120,7 @@ Boy：上
 Ooh oooh-❤ I..❤
 
 Girl：上
-Aha- You're shaking your hips too aren't you?
+Ara- You're shaking your hips too, aren't you?
 Are you okay with that? You're going to submit,
 being massaged by a girl's hand. 
 Are you gonna ejaculate and go pew pew?
@@ -5129,7 +5129,7 @@ Boy：上
 Aah, aah-❤ Aah-❤
 
 Girl：上
-...as if I'd let that happen. Idiot-❤
+...As if I'd let that happen. Idiot-❤
 Hora- I'm already done with massaging your balls.
 Now run off somewhere like a good boy.
 
@@ -5143,7 +5143,7 @@ how pathetic-❤
 
 Girl：上
 Ha-ha, because big brother deserted him, I got
-all that boy's money didn't I?
+all that boy's money, didn't I?
 Doesn't that make you mad?
 
 Ray：上
@@ -5170,7 +5170,7 @@ so all you need to do is go pew pew pew, when I
 go stroke stroke stroke-❤
 My big brother is already feeling so good, even 
 just tracing my fingers around this place here
-feels great right?
+feels great, right?
 Rub rub-❤ Squeeze squeeze-❤
 When I do this your mind becomes blank and empty-❤
 Hora- Submit to my handjob-❤
@@ -5186,16 +5186,16 @@ Ray：上
 Aiee-❤ Aah.... It feels soo good!-❤
 
 Girl：上
-Tee-hee- You collapsed and feel to your knees-
+Tee-hee- You collapsed and fell to your knees-
 Couldn't you endure the pleasure?
 
 Girl：上
 Ahaha- How pathetic- You should have stood up for
 justice, but now you're surrendering yourself to
-some girls handjob-❤
-Micah's heavenly handjob feels great doesn't it?
+some girl's handjob-❤
+Micah's heavenly handjob feels great, doesn't it?
 You'd normally need to pay a lot of gold to get 
-this kind of service you know? 
+this kind of service, you know? 
 But now you're getting it for free. 
 What a great deal-
 
@@ -5232,7 +5232,7 @@ Ray：上
 ...!
 
 Girl：上
-Wai- stop, I'm against violence!
+Wai- Stop, I'm against violence!
 Let go of my collar. Aaah-!!
 I'll remember this!
 I'm gonna humiliate you if it's the last thing
@@ -5251,12 +5251,12 @@ it's not much but here, you can have it!
 
 <CM21>
 Girl：上
-Ah-! He's here he's here!
+Ah-! He's here, he's here!
 He came!
 
 テロップ：中央
 As you walk around the corner of the street,
-The girl from before called out for me.
+the girl from before called out to me.
 
 Ray：上
 ...!
@@ -5277,7 +5277,7 @@ Ugh, good grief. This is the guy you wanted
 me to try and humiliate?*
 Mm, nice to meet you.
 I'm this girl's elder sister.
-It sounds like you were bothering her awhile ago.
+It sounds like you were bothering her a while ago.
 And, I don't want to cause any trouble but,
 could you look here?
 Mmm....❤
@@ -5301,7 +5301,7 @@ Lady：上
 Om-❤ Mmm-❤ Mmph-❤
 How are my kiss techniques?-❤ I can use them to 
 coil around your tongue...❤ Mm-❤
-Fufu- has your body lost it's strength?
+Fufu- Has your body lost it's strength?
 You've already become limp and floppy-*
 And now, to grasp your penis as well...**
 Kissing you while stroking your penis...❤
@@ -5320,7 +5320,7 @@ Aaaooh-❤❤❤❤
 Lady：上
 Aha- That was quick-❤
 You came already-❤
-Was my kissing masturbation techniques that good?
+Was my kissing masturbation technique that good?
 
 Ray：上
 Haah... Aahh...
@@ -5334,7 +5334,7 @@ Fufu- Anything else you want me to do?
 Girl：上
 That was amazing big sister!-
 You wore him down so quickly!*
-Fufu- you see that?
+Fufu- You see that?
 That's what you get when you mess with me.
 Serves you right-♪ Kyahaha!
 
@@ -5349,7 +5349,7 @@ Now then.
 Hora- You need to show this guy what you're 
 capable of too.
 If you don't teach him that "there's no way I can
-win against this girl", he'll hold a grudge
+win against this girl," he'll hold a grudge
 against you and cause trouble later.
 You need to drive the pleasure into his body so 
 he becomes your convenient slave. 
@@ -5359,7 +5359,7 @@ Girl：上
 You got it big sister!
 Let me try from now on.*
 Fufu- I'll show you the full extent of my charms.
-Hora, Holding both your feet like this and...
+Hora, holding both your feet like this and...
 
 Ray：上
 Oooh, aaah-❤ aaaah-❤
@@ -5388,7 +5388,7 @@ Aah-❤ Aah-❤ Aaaah-❤❤
 
 Lady：上
 Fufu- That looks like it feels really good-❤
-How does it make you feel as a person to
+How does it make you feel as a person, to
 enjoy being stepped on by such a young girl?
 
 Girl：上
@@ -5398,7 +5398,7 @@ must be more important than your pride-❤
 Lady：上
 You've come this far, so just fall together with
 us-❤ Mm. I'll seal your mouth with my kiss...*
-Fufu- now you won't be able to raise your voice at
+Fufu- Now you won't be able to raise your voice at
 all-❤ Mmchu-❤ Slurp-❤ Ommph-❤
 
 Ray：上
@@ -5408,8 +5408,8 @@ Girl：上
 Kyahaha-❤ It must feel amazingly good for your
 hands and feet to thrash about like that-❤*
 Is that alright? Once your body experiences what 
-it's like to cum trampled under a girls feet,
-you won't be able to defy us anymore will you?
+it's like to cum, trampled under a girl's feet,
+you won't be able to defy us anymore, will you?
 It's gonna be tough if you can't even resist-❤
 Oah! Ha!-❤
 
@@ -5417,9 +5417,9 @@ Lady：上
 Ahuhuhu-❤ It's impossible to resist...
 Those eyes are of someone who has completely
 fallen-❤
-Bewildered by the stimulation of her feet, Mmph-❤
+Bewildered by the stimulation of her feet- Mmph-❤
 Spoiled by my enchanting kisses-
-Your brain has already turned to mush hasn't it?
+Your brain has already turned to mush, hasn't it?
 Hora, it's okay-❤**
 Fall.**
 Submit.**
@@ -5428,21 +5428,21 @@ and we'll show you heaven-❤
 Hora, mmchu-❤ Omm-❤
 
 Ray：上
-Mm-❤ Mmp-❤ Mm-❤ OOomph-❤❤
+Mm-❤ Mmp-❤ Mm-❤ Ooomph-❤❤
 Ooaaaaa...❤❤❤❤❤❤❤❤
 
 Girl：上
 Aha- Pew pew pew-! You came-❤**
 Teehee-♪
 You lost to the feet of a girl younger than you,
-and ejaculated going spurt spurt splurtー❤
+and ejaculated going spurt spurt spurtー❤
 What do you feel? Misery? Happiness?
 Fufu- Well, you don't seem miserable at all-❤*
 It's clear the pleasure is way to much for you, 
 even your melted face is screaming
 "This is the best, step on me more!-❤"
 Ahaha- How pathetic-♪
-Isn't that right? hora hora hora-❤
+Isn't that right? Hora hora hora-❤
 Aren't you going to prove me wrong?
 Why don't you try going against me, if you aren't
 satisfied with being stepped on?
@@ -5456,7 +5456,7 @@ Spurt it all out, as my feet trample your penis-❤
 
 Girl：上
 Owaah- Now my feet are all sticky.
-How many times have you came now? Can't you stop 
+How many times have you cum now? Can't you stop 
 yourself from ejaculating? Tee-hee-❤
 
 Girl：上
@@ -5485,21 +5485,20 @@ awkwardly hiding the giant stain on my pants
 as I made my way back to the inn.*
 My wallet had been completely completely looted,
 and to add insult to injury,
- 
-I could still feel the harsh judgments of those 
-that spotted me making it back to the inn.
+I could still feel the harsh judgmental looks of 
+those that spotted me making it back to the inn.
 
 <CM16>
 Man：上
 Ah,
-You must be the new forces sent by the Knights of
-Order!
-The fact that the Knights of Order are able to 
+you must be the new forces sent by the Order of 
+Knights!
+The fact that the Order of Knights is able to 
 offer support to such a rural town is very 
 reassuring.
-Oh? A record containing old lore you say?**
+Oh? A record containing old lore, you say?**
 If that's what you're looking for,
-I believe the church preserves things like those.
+I believe the church preserves things like that.
 If any books on that exist, they'll be there.
 
 <CM23>
@@ -5515,10 +5514,10 @@ monsters meet a swift end. I beg of you.
 <CM30>
 Elderly Lady：上
 Oh my, my immense thanks for coming to such a
-far village, Knights of Order.*
-Any old legends in this area you say?
+far village, Order of Knights.*
+Any old legends in this area, you say?
 So that's what you're looking for.*
-I heard a story from my grandfather once about a
+I heard a story from my grandfather once, about a
 demon who was sealed away in a spring somewhere.*
 They say monsters run amok around that spring to 
 this day, eating any Heroes that come close.
@@ -5541,15 +5540,15 @@ Soldier：上
 Some of the villagers have gone missing...
 There have been many reports of monsters being
 sighted in the forest.
-Those who are with the Knights of Order,
+Those who are with the Order of Knights,
 please take care when you venture into the forest...
-OOoh...
+Ooh...
 Aah- My reward, where's my reward...?-❤
 
 <CM24>
 Boy：上
-For some time my grandpa used to be an 
-administrator of the church, but he's just now 
+For some time, my grandpa used to be an 
+administrator of the church, but he's just 
 been succeeded by a beautiful sister.
 She's so beautiful and smart!
 You should meet her as soon as you can-!
@@ -5584,7 +5583,7 @@ Hi mister soldier！**
 I bet people in the war have
 really big muscles-
 Is it alright if I touch them?
-Ooh thanks a bunch-**
+Ooh, thanks a bunch-**
 Wow, amazing! They're so hard-**
 Now to play a little trick.
 Ei-*
@@ -5609,11 +5608,11 @@ by a young girl-❤
 So then, hora!
 It would be bad if you're enjoying it, 
 even if I tweak them with my fingers like this.
-You know what it means if you're enjoying it 
+You know what it means if you're enjoying it, 
 right?*
 Aha-❤ You're moaning from this too?
-that's really bad.*
-Hora, in that case I'll tease you over and over
+That's really bad.*
+Hora- In that case, I'll tease you over and over
 again until you get used to it.
 Ei, twist twist-❤
 
@@ -5623,13 +5622,13 @@ Aah, aah...❤
 Girl：上
 Whoa-
 You didn't actually cum 
-from just having your nipples teased did you?
+from just having your nipples teased, did you?
 Ufufu-❤ What a quickshot-❤
-You're adorable Mr. Soldier-❤
+You're adorable, Mr. Soldier-❤
 
 Girl：上
-Oh whoa. You came to me again?
-Is this the forth time already?*
+Oh, whoa. You came to me again?
+Is this the fourth time already?*
 It's like you've become a complete slave 
 to my nipple fondling (giggle)-❤*
 Hm? You want me to touch them again?
@@ -5641,16 +5640,16 @@ Do you want me to touch them again?
 
 Girl：上
 (Giggle) 
-Okay okay- You don't need to beg like that-*
+Okay, okay- You don't need to beg like that-*
 You must be really desperate to have your nipples 
 touched...
 What a helpless perverted man-❤
 Hora, I guess it can't be helped. Alright then.
 By first squeezing your nipples between my 
 fingers... Ei-❤ Twist twist twistー♪
-Aha, you look like you're really enjoying it.
+Ara, you look like you're really enjoying it.
 Mr. Soldier is melting away by a young girl's 
-finger tips, how cute-❤
+fingertips, how cute-❤
 
 Ray：上
 Agh, aah...❤ Aaaah-❤❤
@@ -5672,11 +5671,11 @@ you came again anyway-
 That's right, it's because of my energy drain.
 I've been absorbing your power this whole time.*
 It's true, young village girls don't suddenly tease
-peoples nipples. Didn't you know that?*
-Ufufu- but even though you're losing your mind,
-your nipples are still getting stiff aren't they?*
+people's nipples. Didn't you know that?*
+Ufufu- But even though you're losing your mind,
+your nipples are still getting stiff, aren't they?*
 I bet they want to be touched again-❤
-Isn't that right Mr. Pervert?-❤*
+Isn't that right, Mr. Pervert?-❤*
 Going pew pew with your nipples is more important
 than having your stats drained.*
 It's okay, I love people like you-❤
@@ -5691,7 +5690,7 @@ Ufufu-❤ You went pew pew and came while
 moaning like a girl-
 Did that feel good?
 The more you cum, the more of your
-stats I absorb.
+stats I absorb.*
 You'll be powerless to do anything except be 
 around young girls... But you still don't want 
 your nipples to stop being teased.
@@ -5706,9 +5705,9 @@ I'll make you spurt your semen
 while touching your nipples so much, 
 you won't be able to think of anything at all...
 You don't have an ounce of reasoning left 
-to make your own decisions anymore do you?*
+to make your own decisions anymore, do you?*
 (Giggle) You want your nipples touched so much
-you can't even speak can you?*
+you can't even speak, can you?*
 They're throbbing so much, I bet you can't even 
 attempt to endure now-*
 I guess there's no way around it-
@@ -5716,22 +5715,22 @@ Ho-ra, I'll start flicking them
 with my index finger. Ei-❤
 
 Ray：上
-Ah, Aiee-❤❤❤
+Ah, aiee-❤❤❤
 
 Girl：上
 (Giggle) To be ejaculating from this stimulation,
-you really have become weak haven't you?-*
+you really have become weak, haven't you?-*
 You're cumming just with one flick of my fingers.
 Aah-❤*
 Even this semen is starting to wear out, and 
 your once strong body is already growing thin.*
 You would have made a great commander,
 but now you're just a weakling-❤*
-But but! I've already got this far with you
+But but! I've already gotten this far with you
 so I'm not gonna stop!-❤*
 Hora, take this!-❤ Ei-❤
 I'm going to tease your nipples over and over
-againー❤
+again-❤
 
 Ray：上
 Aah-❤ Aaaah-❤
@@ -5743,17 +5742,17 @@ Isn't that a waste?*
 It's all been taken away... 
 How will you get strong enough to defeat 
 all the monsters now? Teehee-❤
-But you're happy now aren't you?
+But you're happy now, aren't you?
 The way your face melts in desire 
 when you see me...
-You don't care one bit right? 
+You don't care one bit, right? 
 As much as I want to keep touching you,
 I think I'll stop-❤
 I should probably leave you with a bit of power 
 left, so I won't tease your nipples anymore.
 I already have so much of your strength,
 I think I'll go for an adventure myself-
-Take care alright? Mr. Weak weak Hero-❤
+Take care, alright? Mr. Weak weak Hero-❤
 
 <CM37>
 Man：上
@@ -5766,7 +5765,7 @@ see their parents again are constantly muttering
 "I have to see the priestess again".
 The scar that the demons left them is deep.
 I wonder if they'll ever be able to live a normal
-live again...
+life again...
 
 <CM35>
 Man：上
@@ -5813,45 +5812,46 @@ Mizuhide：上
 Ah, greetings Ray.**
 The combining process of the two maps 
 is going well.*
-The legend of a kingdom five hundred years ago... 
-It's making me giddy just thinking about it,
-don't you feel the same?
+The legend of a kingdom from five hundred years 
+ago...*
+It's making me giddy just thinking about it, don't
+you feel the same?
 
 Mizuhide：上
-I now understand the legend behind the succubus.
+I now understand the legend behind the succubi.
 Allow me to explain.*
-It's a story recorded in history books of the
+It's a story recorded in the history books of
 kingdoms that existed five hundred years ago.
 According to these records...
-"Monsters known as succubus suddenly appeared,
-a demon who sucks the life force out of humans.*
-The succubus could not be defeated,
-even when fought with magic or swords*
-The succubus increased their numbers by possessing
-women. Their influence spreading to various
+"Monsters known as succubi suddenly appeared,
+demons that suck the life force out of humans.*
+The succubi could not be defeated,
+even when fought with magic or swords.*
+The succubi increased their numbers by possessing
+women, their influence spreading to various
 villages all over the country.
 During this time, there was
-a commoner man who had no name.*
+a male commoner with no name.*
 He was an abstaining child,
 born with markings on both hands, and with that
-power, was able to touch the succubus.
-However, he was a uncivilized man who
-often found himself mingling with succubus.*
+power, was able to touch the succubi.
+However, he was an uncivilized man who
+often found himself mingling with succubi.*
 There were even rumours he was conversing with 
 the succubus queen herself.*
 And so a noble was sent to monitor and guide the
 man during his travels.*
 After many battles, they finally managed
 to track down the succubus queen.*
-But when before the succubus queen, the child who 
-had been born with the markings revealed his 
-true nature, and turned on human race. 
+But when he stood before the succubus queen, the 
+child who had been born with the markings revealed
+his true nature, and turned on the human race. 
 And so, the noble who traveled with him was
-forced to destroy him with the holy sword,
+forced to destroy him with the Holy Swords,
 and sealed away the demon queen.
-At that time, the sword had been corrupted by
-the queen, and was never able to be used again.*
-The sword was sealed away in a sacred spring,
+At that time, the swords had been corrupted by
+the queen, and were never able to be used again.*
+The swords were sealed away in a sacred spring,
 deep into the forest of the great tree in the 
 south.
 ...**
@@ -5864,17 +5864,17 @@ there was large amount of discrimination between
 the commoners and the rich. 
 Perhaps he was treated harshly as a commoner,
 despite his activities.* 
-A Hero who was bashed by the country he tried
+A Hero who was ostracized by the country he tried
 to save... What a sad story.
 
 Mizuhide：上
 You want to ask about the magical barrier?
-What's prompted you to ask about that?*
-Ah I see, you're wounding why didn't the succubi
-place the magical crystals from within
+What prompted you to ask about that?*
+Ah, I see, you're wondering why the succubi didn't
+place the magical crystals within
 the barrier instead, right?
 Of course, placing the crystals within the barrier
-that they power may seem easy, but it's actually
+they power may seem easy, but it's actually
 quite difficult, for technical reasons.
 I'll spare you the details, but essentially,
 if you were to generate magic from within the 
@@ -5894,7 +5894,7 @@ I was fortunate to be able to use such ground
 breaking technology on that fateful day.*
 The Princess is nothing short of a genius when
 it comes to making magical equipment.*
-Even the amulet you have Ray, while it's design 
+Even the amulet you have, Ray, while it's design 
 may seem simple, it's actually quite complicated
 and intricate.
 It could very much be considered a royal treasure,
@@ -5906,7 +5906,7 @@ I will continue working on what I can.
 
 Mizuhide：上
 You want to know the full extent of my knowledge
-about succubus?
+about succubi?
 Understood. Let me explain.
 Based off our combat reports within the region,
 the characteristics of succubus form a
@@ -5917,11 +5917,11 @@ The middle class succubi take the place of
 commanders,*
 the lesser succubi take the place of 
 foot soldiers,*
-And lastly, the greater succubi take the place
+and lastly, the greater succubi take the place
 of generals.
 That's what we know at the moment.**
 Although there have not been many sightings of 
-greater succubus, the reports that do exist have 
+greater succubi, the reports that do exist have 
 said that they annihilate villages in an instant.
 
 <CM66>
@@ -5957,11 +5957,11 @@ so he's great at giving haircuts.
 
 Miles：上
 I had a bunch of livestock and sheep back at home.
-Hair, fur or wool, it's important to keep your it
+Hair, fur or wool, it's important to keep it
 in good condition!
 
 Mizuhide：上
-Really! is that so?**
+Really! Is that so?**
 In my case, I got my hair cut by the barber 
 at the Royal Academy.
 So you all cut your own hair, do you?
@@ -5969,10 +5969,10 @@ Were Ray and Nobus also originally farmers?
 
 Miles：上
 Ray was also a farmer. Nobus worked in the 
-weapons dealership.
+weapons shop.
 
 Nobus：上
-Well, they call it a weapons dealership,
+Well, they call it a weapons shop,
 but we also sold farming tools
 and just about everything else.
 We only sold weapons because my father 
@@ -5983,10 +5983,10 @@ Miles：上
 We would borrow weapons and pretend
 to be soldiers, but we also trained hard.*
 As a band of mercenaries, Nobus's
-weapons dealership was indispensable.
+weapons shop was indispensable.
 
 Mizuhide：上
-I see I see...
+I see, I see...
 
 Miles：上
 Hm...? Are you, taking notes?
@@ -5994,9 +5994,9 @@ You're not writing down what I'm saying, are you?
 
 Mizuhide：上
 Ah, well... All your activities have been nothing
-short of impressive.
+short of impressive.*
 Someday, I'd like to document the war of the 
-succubus and all your efforts into the books
+succubi and all your efforts into the books
 of history.
 So, I want to gather as much information as I
 can.

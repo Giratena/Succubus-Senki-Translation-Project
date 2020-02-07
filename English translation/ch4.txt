@@ -5050,7 +5050,7 @@ Skip the opening?
 <OP1>
 テロップ：中央
 Mizuhide joined up with us within a few
-days after arriving in the village.
+days of arriving in the village.
 
 Mizuhide：上
 It's been a while, Lord Ray!
@@ -5112,17 +5112,17 @@ But something feels strange about this...❤
 Uhh...
 
 Priestess：上
-(Giggle) Just relax okay?
-you're all getting slack and sloppy expressions.*
+(Giggle) Just relax, okay?
+You're all getting slack and sloppy expressions.*
 But do not fear, this is a safe place.
-Continue to relax, and let your heavy body
-sink into the chair...
+Continue to relax, and let your heavy bodies
+sink into the chairs...
 Come, my followers.
 Please help our guests relax and feel at home...❤
 
 Devout Girl：上
-Of course priestess.**
-In that case I'll sit next to you.
+Of course, priestess.**
+In that case, I'll sit next to you.
 Excuse me-
 
 Miles：上
@@ -5146,7 +5146,7 @@ Ah...❤
 Devout Girl：上
 There there, what a good boy.
 That's it, there's no need to think...*
-Gentle, slow caresses... fluffy pleasure...
+Gentle, slow caresses... Fluffy pleasure...
 It's like you're sleeping above the clouds-❤
 It's okay to let your body give in to this...❤
 
@@ -5160,7 +5160,7 @@ Ray：上
 
 Priestess：上
 Teehee- Even the mind of the leader is already
-melting away in our aroma, isn't he?*
+melting away in our aroma, isn't it?*
 But actually, this aroma is my special blend
 of sexy pheromones that make men fall
 madly in love...❤
@@ -5238,8 +5238,8 @@ Even the leader here is, mmm...*
 I can see your melted expression-❤*
 You're drooling everywhere,
 and your vacant eyes are filled with hearts-❤*
-And now with this, the heroes we heard
-rumors about are under our control.*
+And now with this, 
+the rumoured heroes are under our control.*
 It was so easy,
 ufufu- I can't help but laugh.
 
@@ -5269,7 +5269,7 @@ and the light dispels the surrounding pink mist!
 
 Priestess：上
 Ugh, my sexy aroma...**
-Ufufu. As I expected from the hero leading the
+Ufufu. As expected from the hero leading the
 new group of knights.
 This won't be so straightforward.
 
@@ -5278,7 +5278,7 @@ Who are you!
 Why are there succubi in the church!?
 
 Priestess：上
-Ufufu. We're not invading just
+Ufufu. We're not just invading
 with a head-on attack, you know-*
 We've been hiding in the village, and
 slowly adding to our numbers from the inside.*
@@ -5300,9 +5300,9 @@ Ufufu-❤
 
 <OP0>
 Chancellor：上
-And so, for going through the trouble of
-rescuing our wise sage,*
-The king himself would like to speak with you all
+And so, for going through the trouble of rescuing 
+our wise sage,*
+the king himself would like to speak with you all
 to personally thank you for your efforts.
 Please come right this way.
 
@@ -5312,7 +5312,7 @@ Ray：上
 King：上
 Ah, you have arrived.
 I believe this is the first time we have met,
-I am the governing king of this country.
+I am the king of this country.
 For rescuing the sage and defending our capital,
 I shall present you with this medal of honour.*
 But first, a small token of our gratitude.
@@ -5322,14 +5322,14 @@ Please, take this.
 
 King：上
 And here is your medal of honour.
-After evaluating your movements...*
+After evaluating your achievements...*
 I have decided to formally appoint you
-as a head commander in the Knights of Order,
+as a head commander in the Order of Knights,
 the defenders of our country.
 Normally, I would promote you to vice commander
 first, but these are desperate times.*
 I would also like to promote your mercenary group
-to vice commanders of the Knights of Order.
+to vice commanders of the Order of Knights.
 I trust that there are no objections?
 
 Ray：上
@@ -5339,10 +5339,10 @@ King：上
 Hmm, it seems not.**
 In that case, I hereby promote you all
 to head commander and vice commanders
-of the Knights of Order.
+of the Order of Knights.
 Work hard, and I will make efforts to ensure that
 you are rewarded accordingly.*
-So that you won't interfere with our other eight
+So that you won't interfere with the other eight
 squadrons, I will allow you to act freely
 throughout the kingdom.
 
@@ -5370,7 +5370,7 @@ Thank you very much, father.**
 It is nice to meet you. My name is Esuna,
 the kingdom's only princess. I'd like to
 express my gratitude for assisting our kingdom.
-As you approach to the south,
+As you approach the south,
 you may fight many dreadful monsters.
 So please, take this pendant.
 
@@ -5379,7 +5379,7 @@ Hold this pendant close to your chest,
 and it will calm and protect your heart.*
 The monsters currently attacking
 aim to deceive your heart and drain your life.*
-So I made this and infused it with my magic, it
+So I made this and infused it with my magic. It
 is my hope that its power will help you resist
 the monsters' influence, even if just a little.
 
@@ -5398,7 +5398,7 @@ Mizuhide：上
 Ray, Miles, Nobus...**
 Congratulations! From this point onwards, you
 are now officially recognized members of the
-Knights of Order.
+Order of Knights.
 From now on,
 you are now the head commander and vice commanders
 of the Ninth Order!
@@ -5410,10 +5410,10 @@ Mizuhide：上
 Hehehe, it's only natural to be so pleased.
 This is spectacular!*
 Even during war, you were able to join
-the Knights of Order as mercenaries.
+the Order of Knights as mercenaries.
 
 Chancellor：上
-Now, from this point onwards you will be
+Now, from this point onwards, you will be
 stationed at the southern gate as guards.*
 However, there is another, secret mission
 we'd like you to carry out.
@@ -5422,19 +5422,19 @@ Ray：上
 ...?
 
 Mizuhide：上
-We request that you search for the "holy sword"
+We request that you search for the "Holy Swords"
 of legend.*
 While I was deciphering an ancient document about
-succubi, I discovered a description of a holy
-sword used to deal with the succubus queen.
-It was sealed beneath the ground,
+succubi, I discovered a description of holy
+swords used to deal with the succubus queen.
+They were sealed beneath the ground,
 which is apparently located where
 Lord Ray's group will be posted.
 
 Mizuhide：上
 The text says...**
-"The sword which thwarted the queen and defeated
-the succubi, was sealed away in a fountain,
+"The swords which thwarted the queen and defeated
+the succubi, were sealed away in a fountain,
 never to be touched by the weak of heart..."
 It's a disturbing sentence, but if Lord Ray's
 group was able to defeat those succubi earlier,
@@ -5442,7 +5442,7 @@ I certainly believe they are not weak of heart.
 We have discovered the original location of this
 document. I'll transfer the map of its location
 to you. I will join you later.
-But for now, please seek out the holy sword,
+But for now, please seek out the Holy Swords,
 it may be our only hope.
 
 Chancellor：上
@@ -5458,7 +5458,7 @@ As soon as we are all ready, we will launch an
 attack on the enemy queen.
 
 Miles：上
-The holy sword, huh? It sounds like an old myth
+The Holy Swords, huh? It sounds like an old myth
 to me, but just hearing it reminds me of the
 thrilling stories I'd hear as a child.
 
@@ -5474,7 +5474,7 @@ Several days pass, and we finally arrive
 at a village before our new mission.*
 From this point onwards, we'll not only continue
 to exterminate the surrounding succubi,
-but also search for the "holy sword".
+but also search for the "Holy Swords".
 Our first step will be to gather information
 from the villagers.
 
@@ -5504,7 +5504,7 @@ Right, look lively everyone!
 Miles：上
 Hey Ray! Would you like to discuss tactics?**
 The aim of this fight is to overthrow the
-priestess succubus, but she's locked herself away
+succubus priestess, but she's locked herself 
 behind a magical barrier.
 I'm an amateur when it comes to magic though,
 so we should probably listen to what Mizuhide
@@ -5610,17 +5610,17 @@ to entrance men with her pheromones.*
 The former priest of the church stepped down,
 intended to be replaced by a new, younger priest.*
 But, before that happened, she killed him
-by sucking him dry, filling his place as the
+by sucking him dry, taking his place as the
 new manager of the church.
 She specializes in brainwashing others
 with her scent, which she uses to slowly grow
 her influence in the shadows of human society.
 She is exceptional at using her huge breasts,
 any man on the receiving end of her paizuri or
-Puff-Puff, will perish almost instantly.
+Puff-Puff will perish almost instantly.
 The types of pheromone effects can vary.**
 Smelling her cleavage drains the strength of
 others, turning them into her slaves, and
 the scent from her mouth causes extreme arousal.
-Those who she kisses are liable to climax in
+Those whom she kisses are liable to climax in
 an instant. Extreme caution is advised.
