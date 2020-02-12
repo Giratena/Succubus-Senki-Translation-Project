@@ -2245,13 +2245,13 @@ a good rest, I should be ready to use it again.
 
 Mizuhide：上
 Now that that's all sorted, we should be taking 
-our leave now as well.*
+our leave as well.*
 I myself would like to return to the capital to 
 devise a strategy on how we can fight back 
 against the succubus threat.
 
 Lamia：上
-Mmhmm. While our time together was short,
+Mmhmm- While our time together was short,
 it's been awhile since we've had visitors.
 I enjoyed myself quite a bit.
 I will entrust the holy swords to you all.
@@ -2263,7 +2263,7 @@ Bye bye-! Come again soon!
 
 テロップ：中央
 And so, we left the village as the Elves 
-saw us off.
+bidded us goodbye.
 
 Chancellor：上
 Soldiers of the Ninth Order.
@@ -2271,7 +2271,7 @@ You have all endured much hardship to
 obtain the Holy swords.
 I heard from our wise sage that despite the 
 disturbance of a powerful demon, you were able to 
-liberate the holy sword. Exceptional work.
+liberate the holy swords. Exceptional work.
 
 Ray：上
 ...♪
@@ -2298,7 +2298,7 @@ as well as the date and time.
 In order to prevent the disclosure of information,
 you will only be informed at the time of the 
 event, so keep that in mind.
-Along with the other soldiers, you must be
+But, along with the other soldiers, you must be
 fully prepared to engage the enemy at anytime.
 
 Nobus：上
@@ -2308,8 +2308,8 @@ Mizuhide：上
 As you all are in possession of the holy swords,
 your duties will be slightly different from the
 other soldiers.
-Before you engage the enemy, ensure you have
-plenty of supplies that will last.*
+Before you engage the enemy, ensure you stock up
+on supplies that will last.*
 There's no telling what situation you'll find 
 yourselves in, so please be cautious in how you
 prepare your weapons and equipment.
@@ -2318,7 +2318,7 @@ Ray：上
 ...
 
 テロップ：中央
-If this invasion is carried out, we won't be 
+If this invasion carries out, we won't be 
 returning to the capital for awhile.*
 This may be the last time we'll see the treasury
 and shops. We'll need to take careful preparations
