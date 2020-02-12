@@ -7416,12 +7416,12 @@ No! My muscles must be even stronger!
 Hunggh, hungh....! 
 
 テロップ：中央
-Unit stats have limit caps.
-Basic classes have a limit of 15, advanced classes
-have 20, and master classes cap at 30.
+Unit stats have limits.
+Basic classes have a stat limit of 15, advanced 
+classes have 20, and master classes cap at 30.
 HP is capped at 500 regardless of a unit's class.
 Even if permanent stat boosting items are used,
-this limit cannot be exceeded.*
+this limit cannot be exceeded.
 However, by using items or equipment that 
 increase stats, it's possible to go over 
 the limit cap of 30.
