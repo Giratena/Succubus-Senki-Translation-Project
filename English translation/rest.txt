@@ -2230,7 +2230,7 @@ curse's temptation from this point onwards...?
 Nobus：上
 How are you holding up you two?
 You've been using the holy swords quite a bit now,
-especially you Ray, are you alright?
+especially you Ray. Are you alright?
 
 Ray：上
 ...♪
@@ -2244,7 +2244,7 @@ the sword would be too much for me, but after
 a good rest, I should be ready to use it again.
 
 Mizuhide：上
-Now that that's all sorted, we should be taking 
+Now that that's all sorted, we should take 
 our leave as well.*
 I myself would like to return to the capital to 
 devise a strategy on how we can fight back 
@@ -2252,10 +2252,10 @@ against the succubus threat.
 
 Lamia：上
 Mmhmm- While our time together was short,
-it's been awhile since we've had visitors.
+it's been a while since we've had visitors.
 I enjoyed myself quite a bit.
 I will entrust the holy swords to you all.
-Give the Succubus Queen a worthy slaying!
+Give the Succubus Queen a worthy beating!
 I'll be looking forward to the next time we meet!
 
 Elf：上
@@ -2266,7 +2266,7 @@ And so, we left the village as the Elves
 bidded us goodbye.
 
 Chancellor：上
-Soldiers of the Ninth Order.
+Knights of the Ninth Order.
 You have all endured much hardship to 
 obtain the Holy swords.
 I heard from our wise sage that despite the 
@@ -2278,11 +2278,11 @@ Ray：上
 
 Chancellor：上
 While your team was on duty, we have been scouting
-the whereabouts of the succubus castle.*
+for the whereabouts of the succubus castle.*
 We finally succeeded in discovering its location
 a few days ago.*
 We are currently gathering forces from across the
-country in preparation to invade.
+country in preparation for our counterattack.
 
 Miles：上
 So all troops are being gathered
@@ -2290,8 +2290,8 @@ for a large scale attack?
 
 Chancellor：上
 Precisely. We have no means of taking them down 
-through a battle of endurance, so we must attack 
-their stronghold in one swift blow.
+through a battle of endurance, so we must 
+take down their stronghold in one swift blow.
 Now, the sage and I are currently 
 strategizing a draft of the invasion, 
 as well as the date and time.
@@ -2308,8 +2308,9 @@ Mizuhide：上
 As you all are in possession of the holy swords,
 your duties will be slightly different from the
 other soldiers.
-Before you engage the enemy, ensure you stock up
-on supplies that will last.*
+Before you engage the enemy, ensure you have 
+plenty of supplies to last through 
+the battles ahead.
 There's no telling what situation you'll find 
 yourselves in, so please be cautious in how you
 prepare your weapons and equipment.
@@ -2319,9 +2320,9 @@ Ray：上
 
 テロップ：中央
 If this invasion carries out, we won't be 
-returning to the capital for awhile.*
+returning to the capital for a while.*
 This may be the last time we'll see the treasury
-and shops. We'll need to take careful preparations
+and shops. We'll need to make careful preparations
 for when the time comes.
 
 <OP8>
@@ -7471,12 +7472,12 @@ and weapons you need.
 
 Elderly Lady：上
 Strike a light! You're the leader of the Ninth 
-Order! So you've returned to the capital
+Order! So you've returned to the capital,
 have you?
 Thanks to all your fighting, we've somehow managed
 survive even the Succubus attacks, eh?
 Hang in there!
-Oh before I forget, take this.
+Oh, before I forget, take this.
 
 Elderly Lady：上
 We've been saving up this money since the time
@@ -7506,12 +7507,12 @@ There has been much misfortune recently, maybe
 something might have happened back at her home?
 
 Nobus：上
-Ah I see. Thanks for letting me know.**
+Ah, I see. Thanks for letting me know...**
 ...**
 Ah, Ray!**
-Yeah, we've stayed at that inn for awhile now.
+Yeah, we've stayed at that inn awhile now.
 I guess wanted to stick with something familiar. I 
-was asking some people in town about it actually.
+was asking some people in town about it, actually.
 I guess I'd better find someplace new to stay.**
 (Sigh...)**
 Oh no, I'm not down or anything.
@@ -7520,7 +7521,7 @@ Yeah, it's just a change of inn. I'll be fine.
 <CM65>
 Mizuhide：上
 Ah, greetings Ray.**
-I've currently been analyzing succubus battle
+I am currently been analyzing succubus battle
 records from various places, but something has
 been troubling me.
 At present, there's been no current documentation 
@@ -7532,7 +7533,7 @@ she enjoyed seeing the soldiers fight.
 If the Queen has truly been revived, then why hasn't
 she revealed herself yet...? There's something I 
 find unsettling about all this.
-Perhaps the Succubus's Queen's seal hasn't been
+Perhaps the Succubus Queen's seal hasn't been
 released yet, so she can't move freely.*
 If that's the case, then it makes sense why she
 hasn't revealed herself yet. If the seal is still
@@ -7543,7 +7544,7 @@ as soon as possible.
 <CM84>
 Boy：上
 Hey, mister!
-You're soldiers right? Y-y-you have to help!*
+You're soldiers, right? Y-y-you have to help!*
 My friend has gotten lost in a cave.
 If they don't show up soon, it'll be real bad!*
 Please, you have to follow me...!!
