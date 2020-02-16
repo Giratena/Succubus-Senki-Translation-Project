@@ -7445,20 +7445,20 @@ Princess Esuna's inventions have been a huge help.
 <CM79>
 Soldier：上
 What's this...?
-When using equipment to raise stats,
-using the same equipment has no effect.
+When I use stat raising equipment, equipping the
+same item twice has no effect.
 So even if I equip two rings of magic, 
-I can only gain the effect of one...*
-Huh, I had no idea about this. I'd better
-not equip two of these rings at once.
+I'll only gain the effect of one...*
+Huh, I had no idea about this. I suppose it's 
+useless to equip two of these rings at once.
 
 Soldier：上
 Hm? Are you also here to study?
-Here, have this.
+Here, you can have this.
 
 Soldier：上
 This ring is real handy since it raises all stats, 
-but it's no use equipping more than one, you know?*
+but alas, it's no use equipping more than one.*
 Do you have any duplicate equipment on anyone?
 You should check over your units when you can.
 
