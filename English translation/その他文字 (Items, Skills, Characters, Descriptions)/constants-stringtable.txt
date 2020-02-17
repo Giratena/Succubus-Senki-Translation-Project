@@ -208,7 +208,7 @@ var StringTable = {
 	
 	DurabilityType_Max: 'Full Recovery',
 	DurabilityType_Half: 'Halve',
-	DurabilityType_Break: 'Destoryed',
+	DurabilityType_Break: 'Destroyed',
 	
 	Chapter_Header: 'Chapter ',
 	Chapter_Footer: '',
