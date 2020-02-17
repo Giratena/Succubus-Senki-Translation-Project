@@ -2321,9 +2321,9 @@ Ray：上
 テロップ：中央
 If this invasion carries out, we won't be 
 returning to the capital for a while.*
-This may be the last time we'll see the treasury
-and shops. We'll need to make careful preparations
-for when the time comes.
+This may be the last time for us to visit the 
+treasury and shops, so we'll need to plan our
+preparations accordingly.
 
 <OP8>
 テロップ：中央
