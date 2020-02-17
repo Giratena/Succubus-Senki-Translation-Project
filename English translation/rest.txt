@@ -2327,6 +2327,8 @@ for when the time comes.
 
 <OP8>
 テロップ：中央
+The Ch8 English Translation ends here.
+Stay tuned for the next translation in ch9!*
 奇襲を受けてから軍を進めること一日、**
 僕たちは待ち伏せを避けるために、
 当初の目的地の街ではなく、
