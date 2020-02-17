@@ -1,8 +1,8 @@
-<PL1>
+﻿<PL1>
 テロップ：中央
 Nothing can be heard...**
 When investigating the unusual house,
-you find dried up corpse of a man.*
+you find a dried up corpse of a man.*
 It seems you were too late...
 
 <PL0>
@@ -1394,7 +1394,7 @@ Skip the opening?
 
 <OP0>
 兵隊：上
-This, this is terrible...!!
+T-this is terrible...!!
 
 Ray：上
 ...?
@@ -1556,3 +1556,6 @@ other enemies.
 Those who are engulfed in these heart kisses are 
 said to experience indescribable euphoria, and 
 will mindlessly swear their allegiance to her.
+
+
+

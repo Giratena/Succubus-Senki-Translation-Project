@@ -1,4 +1,4 @@
-<AT0>
+﻿<AT0>
 Lamia：上
 Everyone okay?
 Is the transfer process complete?
@@ -436,7 +436,7 @@ You know I love you so much...❤
 Ray：上
 Aoooh-❤
 I, also...❤ My Queen...❤*
-Oooh, ca, can't... Must, resist-
+Oooh, ca-can't... Must, resist-
 
 Queen Mirage：上
 Come on- Please-❤
@@ -707,7 +707,7 @@ Ray：上
 ...
 
 Alice：上
-\vo[a84]It, it's no use pointing your swords!
+\vo[a84]It's no use pointing your swords!
 Everyone goes limp and mindless
 the moment they get close to Alice!
 \vo[a85]Hora- Feel the sexual aura from Alice's 
