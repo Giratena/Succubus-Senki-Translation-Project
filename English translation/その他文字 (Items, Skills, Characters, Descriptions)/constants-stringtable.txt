@@ -1,4 +1,4 @@
-﻿
+
 var StringTable = {
 	LoadSave_SaveQuestion: 'Save to this file?',
 	LoadSave_NoLoad: 'No data to be loaded',
@@ -65,7 +65,7 @@ var StringTable = {
 	Config_LoadCommand: 'Load Command',
 	Config_LoadCommandDescription: 'Set the ability to load during combat.',
 	Config_AutoCursor: 'Auto Cursor',
-	Config_AutoCursorDescription: 'Set the cursor over the leader at the start of player phase.',
+	Config_AutoCursorDescription: 'Set the curser over the leader at the start of player phase.',
 	Config_MouseOperation: 'Mouse Functionality',
 	Config_MouseOperationDescription: 'Toggle mouse support.',
 	Config_MouseCursorTracking: 'Mouse Cursor',
@@ -208,7 +208,7 @@ var StringTable = {
 	
 	DurabilityType_Max: 'Full Recovery',
 	DurabilityType_Half: 'Halve',
-	DurabilityType_Break: 'Destroyed',
+	DurabilityType_Break: 'Destoryed',
 	
 	Chapter_Header: 'Chapter ',
 	Chapter_Footer: '',
