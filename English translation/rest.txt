@@ -506,7 +506,7 @@ Ugh, dammit!
 テロップ：中央
 We had reached a dead end.
 The woman who took my things had
-nowhere left to run.
+no where left to run.
 
 Lady：上
 Wait, it's not what you think, ahaha...
@@ -2330,26 +2330,30 @@ preparations accordingly.
 The Ch8 English Translation ends here.
 Stay tuned for the next translation in ch9!*
 With the surprise attack leaving us one 
-day to advance our army,*
-僕たちは待ち伏せを避けるために、
-当初の目的地の街ではなく、
-その隣にある小さな村に向かっていた。
-僕とユミルとノブはお互いにほとんど無言で、
-暗く重たい雰囲気が僕たちの間に流れていた。*
-村に着くころにはすっかり日も落ち、
-夜中になっていた。
+day to advance our army, 
+we headed towards a small neighboring town 
+instead of our original destination to avoid 
+any further ambushes.
+Nobus and Miles were practically silent together,
+the heavy atmosphere upon us.*
+When we arrived at the vilage, night had fallen,
+it was midnight.
 
 Mizuhide：上
-ふぅ・・・。
-これでようやく一息つけますね。*
-レイさんたちと外部との接触を断つことで、
-情報が漏れる可能性はほぼなくせた、
-と思っていたのですが、
-まさか夢に侵入して記憶を見る術があるとは・・・。
-サキュバスのことはまだまだ分からないことばかりです。*
-大臣殿のアドバイスに従い、万が一のことを考えて、**
-奇襲されたときのリスクが高い、
-渓谷地帯に援軍を呼んでおいたのが功を奏しました。
+Phew...
+At last, we can finally catch our breath.*
+With Ray's group separated from the other
+knights, I thought there would be no possibility 
+of our movements being leaked.
+But able to see our memories through dreams...
+There is still much about the succubus I
+don't understand.
+Knowing that, the Chancellor and I prepared 
+a fail safe, in the rare event things were 
+to go wrong.
+With the high risk of being ambushed at the
+cliffs, it seems we were right to summon
+reinforcements there.
 
 Miles：上
 ミツヒデや大臣さまの采配には、
