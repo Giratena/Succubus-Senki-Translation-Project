@@ -2329,7 +2329,8 @@ preparations accordingly.
 テロップ：中央
 The Ch8 English Translation ends here.
 Stay tuned for the next translation in ch9!*
-奇襲を受けてから軍を進めること一日、**
+With the surprise attack leaving us one 
+day to advance our army,*
 僕たちは待ち伏せを避けるために、
 当初の目的地の街ではなく、
 その隣にある小さな村に向かっていた。
