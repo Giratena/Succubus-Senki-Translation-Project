@@ -2370,9 +2370,9 @@ leader of this squad, I have half a mind to
 cut you down right where you stand...!
 
 Nobus：上
-I, I... Yes, of course.**
+Ah... Yes, of course.**
 Not even I know exactly what happened,
-but I'll try my best to explain.
+but I'll try my best to explain.*
 But before that, I want to apologise with all 
 my heart... I'm so sorry, what I did 
 was unforgiveable...
@@ -2396,8 +2396,8 @@ should speak freely on this.
 
 Mizuhide：上
 Of course. I do want to hear more about the 
-enemy's magic though, so brief me on the details 
-of the situation once you've finished.
+enemy's magic though, so please do brief me on 
+the details of the situation once you've finished.
 
 テロップ：中央
 Mizuhide left the room.
@@ -2485,47 +2485,48 @@ Give me the most severe punishment possible.
 Miles：上
 .....**
 So, your memory was erased huh?**
-内通していながら、
-ずっと演技で俺たちを騙していたってことなら、
-俺はもうお前のことを信用できなくなったと思う。
+If you were always trying to decieve us with 
+some hidden agenda, I don't think I'd ever 
+trust you any more.
 But that's not the Nobus I know.**
-だが、術にかかっていただけということなら、
-同情の余地はある。*
-これまでだって、仲間が一時的に敵に操られることが、
-なかったわけじゃねえからな。*
-・・・・。ふぅ。**
-お前がそんな完璧な演技できるはずねえものな。
-ほんとよかったよ。*
-・・・・・だからって無罪放免とはいかねえ。
+Still, if you were under the enemy's spell like
+you say, I think there's some room for forgiveness.*
+After all, we've seen the kinds of ways our 
+enemies can manipulate people up until now
+haven't we?
+.... Pah.**
+That performance of yours was perfect!
+No kidding! It was really good.*
+As so I present to you....Not guilty!
 
 Nobus：上
-Gugh...
+Urgh...
 
 Miles：上
-レイ、お前も殴れよ。
-全力でいけ。
+Ray, you have to hit him too.
+Put your back into it.
 
 Ray：上
 ....!
 
 Nobus：上
-Gah...
+Uguh...!
 
 Nobus：上
 Oof...
 
 Nobus：上
-Guh...
+Uaagh...!
 
 Miles：上
-そんなんでいいのかよ。
-・・・まったくレイは優しいな。
+Is that it?
+...Ray, you're really are a kind person.
 
 Ray：上
-・・・・・。
+....
 
 Miles：上
-・・・まったく、レイは優しいな。
+...Ray, you're really are a kind person.
 
 Miles：上
 レイ。俺はこれでひとまず、
