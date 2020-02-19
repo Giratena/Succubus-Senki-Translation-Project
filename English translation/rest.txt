@@ -2422,29 +2422,28 @@ being used for information.
 And now, free from her spell, 
 he's only just remembering all the dreams 
 she forced him to have...
-淡々と、うつむきながら、
-自分自身の状況を整理するように、
-ノブは話した。
+Hanging his head in shame, Nobus continued 
+talking as he pieced together the details 
+in his head.
 
 Nobus：上
-ミレニアちゃんが言うには、
-心にスキマがある相手にだけ、
-夢の中に侵入する魔法はかけられるらしい。
-だから、レイやユミルではなく俺が狙われたんだ。
+Mileena told me she could only invade the dreams
+of those with gaps in their heart. That's why 
+she targeted me, and not Ray or Miles.
 
 Miles：上
-隙間・・・？
-そういえばサキュバスと戦うのが怖いって
-何回もお前言っていたな。
-その恐怖心を狙われたってわけか？
+Gaps...? Now that you mention it, 
+you mentioned a couple of times before that you 
+were afraid of fighting succubus. 
+Were they targeting you out of your fear?
 
 Nobus：上
-・・・・。いや、違うと思う。
-確かに戦うのは怖かったけど、
-それはそういうものとして俺は受け入れていた。
-戦う以上、怖いのは仕方ないから。
-それはそれでいいんだ。*
-でも・・・。恐怖じゃなくてさ。
+....No, I don't think so.
+It's true fighting them scared me a little,
+but I've come to terms with it.
+No matter how much you fight, it's only natural
+to be fearful at times. That's just how it is.*
+But... It's not because of my fear.
 不安とか、そういうのがずっと俺にはあった。*
 俺は、この旅が始まってから、二人に対して、
 劣等感みたいなものをずっと感じていたんだ。*
@@ -2467,7 +2466,7 @@ Nobus：上
 ・・・・・・。
 
 Ray：上
-・・・・・・・。
+.......
 
 Nobus：上
 俺は今、ひどく後悔している。**
@@ -2498,23 +2497,23 @@ Miles：上
 ・・・・・だからって無罪放免とはいかねえ。
 
 Nobus：上
-うっ・・・。
+Gugh...
 
 Miles：上
 レイ、お前も殴れよ。
 全力でいけ。
 
 Ray：上
-・・・・！
+....!
 
 Nobus：上
-ぐふっ・・・。
+Gah...
 
 Nobus：上
-げふっ・・・。
+Oof...
 
 Nobus：上
-うっ・・・。
+Guh...
 
 Miles：上
 そんなんでいいのかよ。
@@ -2866,14 +2865,14 @@ Haaah...❤
 Mileena：上
 \vo[mi55](Giggle) It's so cute when my dear Nobby 
 goes absendminded on my lap-❤
-Here, let me gently pat your head, okay?
+Here, I'll gently stroke your head, okay?
 \vo[mi56]There's still some time before dawn,
 is there anything else you want to talk about?
 
 テロップ：中央
 After a sweet, pleasure filled time, 
 I talked to her about everything.*
-While she pet my head on her lap, I talked non-
+While she petted my head on her lap, I talked non-
 stop about anything that came into my mind. what 
 happened today, what happened when I was a kid... 
 I would tell her I'd not good at talking, but
