@@ -2335,9 +2335,9 @@ we headed towards a small neighboring town
 instead of our original destination to avoid 
 any further ambushes.
 Nobus and Miles were practically silent together,
-the heavy atmosphere upon us.*
-When we arrived at the vilage, night had fallen,
-it was midnight.
+as the heavy atmosphere fell upon us.*
+When we arrived at the vilage, night had fallen.
+It was midnight.
 
 Mizuhide：上
 Phew...
@@ -2362,7 +2362,7 @@ Since you kept the reinforcements a secret to
 us, our enemies never suspected a thing.
 敵を騙すにはまず味方からっていうやつだな。
 ......**
-Anyways...**
+But enough about that...**
 Hey! Nobus. You owe us a damn good 
 explaintion for back there.*
 Choose your words carefully, because as the vice 
@@ -2370,50 +2370,58 @@ leader of this squad, I have half a mind to
 cut you down right where you stand...!
 
 Nobus：上
-I, I- of course I will.**
-自分でも、
-全部が分かっているわけじゃないけど、
-できる限り説明する。
-でも、その前にしっかり謝りたい・・・。
-本当にすまなかった・・・。*
-俺のせいでみんなを危険にさらしてしまった。
-敵に情報を盗まれ、
-そのうえ聖剣を奪って敵に差し出すなんて、
-下手すれば、みんなあの場で敵の手に堕ちていた。**
-俺は、俺はどうしたら償えるのか・・・。
+I, I... I'll try.**
+Not even I know exactly what happened,
+but I'll do my best to explain.
+But before that, I want to apologise with all 
+my heart... I'm so sorry, what I did 
+was unforgiveable...
+Because of me, I put everyone in great danger.
+The succubus taking information from me, and not
+only that, I gave them the holy swords...
+Any lesser situation, and everyone would have 
+fallen into enemy hands.*
+How, how could I ever make up for what I've
+done...
 
 Ray：上
-・・・・・。
+....
 
 Miles：上
-謝るのも償うのも、
-詳しい事情を聞いてからだ。*
-ミツヒデ、いったん俺たち三人だけにしてくれねぇか。
-俺たちは幼馴染だ。腹を割って話したい。
+Apologizing... Compensating...
+Let's hear all the details first yeah?*
+Mizuhide, give us a moment could you?
+Nobus, Ray and I go way back. I want
+to speak freely.
 
 Mizuhide：上
-分かりました。
-敵の魔術の情報などは聞いておきたいので、
-ひと段落したら、また詳しい事情を教えて下さい。
+I understand. I do want to hear more about the 
+enemy's magic though, so brief me on the details 
+of the situation once you've finished.
 
 テロップ：中央
-ミツヒデは部屋を出て行った。
+Mizuhide left the room.
 
 Nobus：上
-・・・・。**
-分かった。
-話す。
+....**
+Alright.
+I'll talk.
 
 テロップ：中央
-ノブはこれまでの経緯を話し始めた。**
-学園でミツヒデを救出したあと、
-泊っている宿屋でミレニアに術をかけられたらしいこと。*
-それ以降、毎晩夢の中でミレニアに誘惑され、
-快楽の代わりに記憶を盗み見られていたこと。*
-しかし、翌朝になるとその記憶がすべて消えていて、
-自分でも内通者にされていた自覚がなかったこと。*
-そして、今は彼女の術が解けたからか、
-夢の中での出来事もすべて思い出したこと・・・。*
+Nobus started talking about everything that had
+happened.*
+After rescuing Mizuhide at the acadamy,
+Mileena must have placed him under her spell
+while staying at the inn.
+Since then, she tempted him in his dreams
+every night, exchanging her pleasure for
+his information.
+But, as any memories of his dreams vanished 
+before morning, not even he knew he was
+being used for information.
+And now, free from her spell, 
+he's only just remembering all the dreams 
+she forced him to have...
 淡々と、うつむきながら、
 自分自身の状況を整理するように、
 ノブは話した。
