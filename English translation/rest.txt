@@ -2358,9 +2358,9 @@ reinforcements there.
 Miles：上
 Mizuhide... You and the Chancellor really 
 saved our skins back there.*
-Since you kept the reinforcements a secret to
-us, our enemies never suspected a thing.
-敵を騙すにはまず味方からっていうやつだな。
+Since you kept the reinforcements a secret to us, 
+our enemies never suspected a thing. To fool your
+enemy, you must first fool your allies, right?
 ......**
 But enough about that...**
 Hey! Nobus. You owe us a damn good 
@@ -2370,9 +2370,9 @@ leader of this squad, I have half a mind to
 cut you down right where you stand...!
 
 Nobus：上
-I, I... I'll try.**
+I, I... Yes, of course.**
 Not even I know exactly what happened,
-but I'll do my best to explain.
+but I'll try my best to explain.
 But before that, I want to apologise with all 
 my heart... I'm so sorry, what I did 
 was unforgiveable...
@@ -2381,8 +2381,8 @@ The succubus taking information from me, and not
 only that, I gave them the holy swords...
 Any lesser situation, and everyone would have 
 fallen into enemy hands.*
-How, how could I ever make up for what I've
-done...
+I don't know how could I ever make up for what 
+I've done...
 
 Ray：上
 ....
@@ -2391,11 +2391,11 @@ Miles：上
 Apologizing... Compensating...
 Let's hear all the details first yeah?*
 Mizuhide, give us a moment could you?
-Nobus, Ray and I go way back. I want
-to speak freely.
+Nobus, Ray and I go way back. I think we
+should speak freely on this.
 
 Mizuhide：上
-I understand. I do want to hear more about the 
+Of course. I do want to hear more about the 
 enemy's magic though, so brief me on the details 
 of the situation once you've finished.
 
@@ -2442,51 +2442,53 @@ Nobus：上
 It's true fighting them scared me a little,
 but I've come to terms with it.
 No matter how much you fight, it's only natural
-to be fearful at times. That's just how it is.*
+to be fearful at times. That's just how things are.*
 But... It's not because of my fear.
-不安とか、そういうのがずっと俺にはあった。*
-俺は、この旅が始まってから、二人に対して、
-劣等感みたいなものをずっと感じていたんだ。*
-一番ガタイもよくて、頑丈なはずの俺が、
-サキュバスが相手だと、全然ダメで、
-真っ先に敵の術にかかっていつも二人に助けられてた。
-そのうえさ、
-ミツヒデを救出した後に、
-二人に光と風の加護があるって分かっただろ。
-サキュバスを倒すには、二人がいれば十分なんだって
-事実を突きつけられたみたいで、
-俺は自分の無力さに、余計に落ち込んだ。
-話がどんどん大きくなっていく中で、
-この自警団に、俺は必要ないんじゃないか、
-もう居場所なんてないんじゃないかって不安で・・・。
-そんなとき、ミレニアちゃんが、
-俺に優しく居場所を提供してくれたんだ。*
-甘い言葉の裏に、悪意があるってわかってた。
-でも、ダメだと思いながらも夢の中では抗えなかった。*
-・・・・・・。
+For a long time now, I've been suffering from
+feelings of uselessness.
+Since we started our adventure, you two have
+become so much better than I am...*
+Having the sturdiest build means nothing when 
+fighting against succubus...I couldn't even hold
+my ground when we first encounted them.
+And to top it all off,
+after rescuing Mizuhide, I found out you two 
+had the blessings of light and wind.
+The fact that only two people were needed to 
+defeat the succubus made me feel powerless,
+and that no one needed me anymore...
+As our adventure got bigger, I felt if I wasn't 
+needed as a mercenary, I wouldn't be of 
+any use anywhere else...
+And then, Mileena came. She was kind to me, 
+and offered me a place to stay.*
+I knew beneath her honeyed words she was using me,
+but even though I knew, I was powerless to resist 
+her in my dreams.
+......
 
 Ray：上
 .......
 
 Nobus：上
-俺は今、ひどく後悔している。**
-俺はレイやユミルみたいに、強い人間にはなれない。
-体ばかり大きくても、簡単に不安になっちまう、
-弱い人間なんだ。
-そんな俺がずるずるとこの団にいたばかりに、
-みんなを危険な目にあわせてしまった。*
-俺はどんな処分でも受け入れる。
-追放されても・・・、しょ、処刑されてもかまわない。*
-頼む、俺は許されるべきじゃない。
-俺に厳しい罰を与えてくれ。
+But now, I regret terribly what I've done.**
+Someone like me will never be as strong as Ray
+or Miles. I may be burly, but what's the point
+if I'm weak on the inside...
+All I did was drag our group down and put
+everyone in great danager.*
+I'll accept any kind of punishment you give me.
+Banishment or even...execution.*
+Someone like me doesn't deserve forgiveness.
+Give me the most severe punishment possible.
 
 Miles：上
-・・・・・。**
-記憶を消されていたんだな。**
+.....**
+So, your memory was erased huh?**
 内通していながら、
 ずっと演技で俺たちを騙していたってことなら、
 俺はもうお前のことを信用できなくなったと思う。
-そんなの俺の知っているノブじゃねえからよ。**
+But that's not the Nobus I know.**
 だが、術にかかっていただけということなら、
 同情の余地はある。*
 これまでだって、仲間が一時的に敵に操られることが、
