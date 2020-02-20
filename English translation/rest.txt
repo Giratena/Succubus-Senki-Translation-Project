@@ -2520,42 +2520,50 @@ Uaagh...!
 
 Miles：上
 Is that it?
-...Ray, you're really are a kind person.
+...Ray, you really are a kind person.
 
 Ray：上
 ....
 
 Miles：上
-...Ray, you're really are a kind person.
+...Ray, you really are a kind person.
 
 Miles：上
-レイ。俺はこれでひとまず、
-手打ちにするのがいいんじゃないかと思う。
-ノブのことを処刑したりはしない。
-これ以上の罰を、いま加えるべきだとは思わねえ。
+Ray. For the time being I think we just
+settle this in our own way.
+Executing just isn't my thing.
+Say what you will, but any punishment more than
+this, and I want nothing to do with it.
 
 Nobus：上
-なっ・・・。**
-この程度で許されていいはずがない。
-せめて追放に・・・。
+But...**
+What I did was unforgiveable...
+Banish me, at least...
 
 Miles：上
-本気で何発も殴ったってのに、「この程度」か。
-ほんと頑丈だよな、お前。*
-もちろん、普通なら処刑もありな内容だ。
-だが、相手はサキュバス。
-術にかけられて一時的に寝返って、
-それでいちいち処刑してちゃたまらねえよ。**
-俺はな、別に同情だけで罰を軽くしたんじゃねえぜ。
-先のことも考えたうえで、この処罰がいいと考えたんだ。*
-自分の価値を分かってねぇようだが、
-お前は十分戦力になる。*
-だから、幼馴染としてではなく、
-この団の副団長として、
-お前を追放したり処刑したりしない。
+Don't you get it do you Nobus? 
+This isn't about how many times I hit you.*
+Of course the normal punishment would be 
+execution, but this is succubus we're talking
+about.
+We've seen what their magic can do first hand.
+They can gain temporary control over our
+soldiers and make them attack each other.
+Being temporarily charmed is different from 
+ouright betrayal.*
+And don't think I'm bailing you out just because
+of sympathy either. We've seen a lot since we
+started fighting as mercenaries. You know that.
+And with that in mind, I can't think of any 
+better punishment than this.*
+You're not just worth more than you know, 
+you're our friend, Nobus.
+So, not only as your friend, but as the 
+vice commander of the Ninth Order, you will
+not be banished or exceuted.
 
 Nobus：上
-えっ・・・・。
+You... you mean it...?
 
 Miles：上
 まず第一に、お前は優劣を気にしているようだがな、
