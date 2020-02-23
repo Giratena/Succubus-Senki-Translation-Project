@@ -2678,13 +2678,14 @@ and eventally came to a conclusion.*
 After everyone had settled down we spoke to 
 Mizuhide about what had happened and planned
 our next course of action.
-まずはノブにかかっていた魔術を解析して、
-安全を確保してからにしたい、というのも理由らしい。*
-この先どう動くかはまだ秘密だが、
-この村には１日ほど滞在して、
-追手が来る前にすぐ出発することになるという。
-短い時間だが、
-物資を補給したり、体の疲れを取ることにしよう。
+First we checked Nobus for any external magic,
+and confirmed he was ok and well.*
+Our movements after that were mostly kept secret.
+Miles estemates we'll have at least a day before 
+our pursurers arrive at our current location.
+Though our time here will be short, we should
+replenish our supplies and rest up as much 
+as we can.
 
 <ED0>
 テロップ：中央
@@ -6014,7 +6015,7 @@ used them for his hobbies.
 At the time, few people needed weapons.
 
 Miles：上
-We would borrow weapons and pretend
+It's true we'd borrow weapons and pretend
 to be soldiers, but we also trained hard.*
 As a band of mercenaries, Nobus's
 weapons shop was indispensable.
