@@ -4923,9 +4923,10 @@ knowledgeable.*
 So if there's anything you don't understand,
 please feel free to ask!*
 I even have information on things concerning 
-succubi and the like as well.*
-Helping Heroes like you save our country 
-couldn't make me happier.
+succubi and other things like it.*
+It couldn't make me happier to assist the 
+heroes who saved our capital.
+
 
 <CM19>
 Man：上
