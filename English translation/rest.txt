@@ -1069,8 +1069,8 @@ Easy mode enhancements only apply during battle.
 
 <TK0>
 テロップ：中央
-You can change the protagonist's face artwork 
-to a silhouette
+If you chose, you can change the protagonist's 
+face artwork to a silhouette.
 
 テロップ：中央
 The face has been set to use artwork.
@@ -1224,12 +1224,13 @@ Disabled.
 
 <TK1>
 Nobus：上
-はあ・・・。**
-思い出すだけで顔が赤くなっちまうよ。**
-殺されかけたんだけどよ、
-でも、気持ちよかったなぁ・・・って思っちまう。*
-次、またあんなモンスターと戦うことになったら、
-おれちゃんと戦えるのかな・・・。
+Aahhh, ahh....**
+Just remembering what happened makes my 
+face go red.*
+I could have been killed, so why can't I think
+about anything other than how good it felt...?*
+I wonder how I'll be able to cope the next time 
+I fight against those types of monsters...
 
 <OP0>
 テロップ：中央
@@ -2520,13 +2521,15 @@ Uaagh...!
 
 Miles：上
 Is that it?
-...Ray, you really are a kind person.
+...as expected, your kindness 
+outshines all of us Ray.
 
 Ray：上
 ....
 
 Miles：上
-...Ray, you really are a kind person.
+...as expected, your kindness 
+outshines all of us Ray.
 
 Miles：上
 Ray. For the time being I think we just
@@ -6017,7 +6020,7 @@ At the time, few people needed weapons.
 Miles：上
 It's true we'd borrow weapons and pretend
 to be soldiers, but we also trained hard.*
-As a band of mercenaries, Nobus's
+And as a band of mercenaries, Nobus's
 weapons shop was indispensable.
 
 Mizuhide：上
@@ -6030,11 +6033,11 @@ You're not writing down what I'm saying, are you?
 Mizuhide：上
 Ah, well... All your activities have been nothing
 short of impressive.*
-Someday, I'd like to document the war of the 
-succubi and all your efforts into the books
-of history.
-So, I want to gather as much information as I
-can.
+Someday, I'd like to fully document the war of the 
+succubus and all your efforts and preserve them 
+books of history.
+And if I'm to do that, I'll need to gather as
+much information as I can.
 
 Nobus：上
 You're thinking of writing a history book,
@@ -6062,8 +6065,8 @@ You should try to be more careful.
 Nobus：上
 Aah, thanks for the heads up.**
 Well, my body is study enough, 
-I think I'll manage.*
-I'll take all physical damage over all 
+so I think I'll manage.*
+I'd take all physical damage over all 
 those weird succubus type attacks any day!
 
 <CM68>
