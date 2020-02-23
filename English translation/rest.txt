@@ -2623,32 +2623,35 @@ As the vice commander of this army, I think
 if we're all to succeed, we need you.
 .......**
 If you're ever feeling down in the future,
-you can always talk with Ray or me.
-団員を不安にさせたのなら、半分は俺の落ち度さ。
-偉そうに聞こえるかもしれねえが、俺の考えは以上だ。
+you can always talk with Ray or me.*
+As a tactics adviser, if any members of our
+group feel down, I feel as if the fault is mine.
+The least I can do is listen.
 
 Nobus：上
-・・・・。**
-ユミルの言うことには、もっともなところもあると思う。**
-先のことなんて全然考えていなかったし・・・。
-確かに普通の魔物との戦いも、
-この先あるのかもしれない。
-でも、やっぱり俺は怖いんだ。
-みんなをピンチに追いやった自分が許せないし、
-俺にこの団の中に居場所があるのか、自信がない・・。
-こんな心の弱さを抱えたままじゃ、
-またサキュバスの術にかかってしまうんじゃないかって、
-怖い・・・。
+....**
+You know, are some really good points.**
+I never thought about it that way. I was
+so focused on how I was at the moment that
+I didn't think about the future.
+Maybe I do have a better chance at battling
+regular demons.
+But, I'm still afraid. After putting everyone 
+in danger, and the location of our whereables, 
+I just don't know if I have faith in myself...
+With the weakness of my heart as it is,
+I'm afriad the succubus could get me again.
 
 Miles：上
-レイ、お前はどう思う？
-ノブを許すべきか、それとももっと罰を与えるべきか。
+Ray, what do you think?
+Should we forgive Nobus? Or is more punishment
+in order?
 
 Ray：上
-・・・・・。
+....
 
 Miles：上
-そうだな。確かに俺たちが殴っただけじゃあ、
+So that's how it is. 確かに俺たちが殴っただけじゃあ、
 他の団員に示しが付かねえか。*
 ノブ、お前はしばらくの間、副団長からは降格だ。**
 こんな出来合いの団だから、
@@ -2685,12 +2688,12 @@ Nobus：上
 <ED0>
 テロップ：中央
 We forgot about the woes of the world,
-drinking merrily as time passed us by.*
+drinking merrily as the time passed us by.*
 The drinks the Elves served us seemed to restore
-our energy. Despite drinking away, our tiredness
-disappeared.
-We rigorously prepared ourselves to break the 
-Succubus Queen's curse the next day.
+our energy, and despite drinking away, our 
+tiredness never seemed to set in.
+The next day, we rigorously prepared ourselves to
+break the Succubus Queen's curse.
 
 テロップ：中央
 On that same evening...
