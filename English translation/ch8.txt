@@ -1,4 +1,4 @@
-﻿<PL0>
+<PL0>
 テロップ：中央
 It's a recovery circle!**
 The HP of surrounding allies has been restored!

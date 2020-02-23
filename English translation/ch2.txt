@@ -1,4 +1,4 @@
-﻿<PL1>
+<PL1>
 テロップ：中央
 Nothing can be heard...**
 When investigating the unusual house,
