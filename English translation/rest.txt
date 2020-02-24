@@ -1851,7 +1851,7 @@ Elf：上
 This is our village's specialty made fine wine.
 It even has a bit of Alraune honey mixed in-
 I didn't think humans could comprehend such 
-tastes, I guess I have much to learn-
+tastes. I guess I have much to learn-
 
 Nobus：上
 A feast like this reminds me of the one we had
@@ -1867,13 +1867,13 @@ How should I explain this...*
 Sorry Miles, I'll let you take this one!
 
 Miles：上
-Eheh. Alright, listen up!
+Heh Alright, listen up!
 How did we get here, you may ask...?*
 It all started in our humble hometown village...!
 
 Elf：上
 Whoa- You guys are amazing!
-So that's why you're called Heroes.*
+So that's why they call you heroes.*
 And not only that, you're a good talker as well-
 You're interesting to listen to.
 
@@ -8612,10 +8612,10 @@ his horse and rode off with his subordinates.
 
 <CM74>
 Man：上
-こんな田舎の村に兵隊さんがぞろぞろと、
-びっくりしました。*
-この村は温泉が有名なんですよ。
-まあ、ゆっくりしていってください。
+I would have never expected soldiers to show up
+in this village in the country.*
+Our village is known for it's renown hotsprings.
+Please, rest as much as you need.
 
 <CM81>
 Man：上
