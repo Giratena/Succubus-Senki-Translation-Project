@@ -8564,44 +8564,51 @@ get done, then it's not bad at all...
 I'll think a bit more about this.
 
 Mizuhide：上
-少しでもお役に立てたのなら、よかったです。
-三人は僕にとって命の恩人ですから。
+Of course, always happy to help, even if it's
+just a little. I owe the three of you my live
+after all.
 
 <CM60>
 Miles：上
-よお、レイ。**
-ノブのこと、お前はどう思う？**
-俺はさっきはああ言ったけどよ、
-たぶん、幼馴染としての個人的感情が、
-けっこう入っちまっていると思う。
-この先、ノブがまた敵の魔術で裏切るかもしれない、
-それならここで置いて行ったほうがいいかもしれない。
-そんな風にもやっぱり考えちまうんだ。
-だけど、たぶんここであいつを置いて行けば、
-あいつはもう立ち直れないと思う。*
-それが俺は嫌なのさ。**
-ああ、我ながら甘っちょろい気がするぜ。
+Hey, Ray.**
+Now that I think about it, you never did say
+much to Nobus back there, did you?*
+I know we've been childhood friends for 
+ages now, and maybe my feelings got in the way
+a bit, but I stick by what I said.
+Nobus better not make a habit of falling under
+the enemies spell all the time, or else I'd have 
+to consider leaving him behind where it's safe.
+Well, I say that, but in truth if we left him
+behind, I don't know if the poor guy could
+take it.
+He'd probablly hate for it wouldn't he?**
+But we need to think positive. We'll get through
+it together. We have no choice!
 
 <CM61>
 Knight of 3rd Order：上
-やあ、レイ君。
-これから僕たちは移動して、
-主戦場の平原に合流する予定さ。
-僕ら第三騎士団は、通称「疾風の騎士団」と
-呼ばれるぐらい機動力には自信があってね。
-これから出発してもおそらく開戦に間に合うはずだよ。
-賢者さまもそこを見越して、
-僕たちにこの任務を任せたんだろうね。*
-賢者さまの話によればキミたちは奇襲をするんだろう？
-どこをどういう風に攻めるつもりなのかまでは
-聞いていないけれど、
-少しでもキミらの任務の成功率をあげるためにも、
-できる限り敵を正面に引き付けておくよ。
-お互い頑張ろうじゃないか。
+Salutations Sir Ray.
+From this point forwards we intend on moving
+to rejoin the fight on the main battlefield.
+They don't call the knights of the Third Order 
+the [Galeforce Guard] for nothing! We'll be 
+back to rejoin the others in a jiffy.
+That's right, they call us the [Galeforce Guard]
+after our exceptional mobility skills.
+We'll arrive back before they know it.
+The great sage Mizuhide can leave everything
+to us!*
+According him, you're going to make a surprise
+attack right?
+I haven't heard when, where, or how it'll happen,
+but we'll do our best to stall and attract the
+enemy's attention on the battlefield for you.
+Every little bit matters, so keep at it!
 
 テロップ：中央
-そういうと、第三騎士団の団長は馬に乗り、
-部下を率いて出発していった。
+Then, the leader of the Third Order got up on 
+his horse and rode off with his subordinates.
 
 <CM74>
 Man：上
