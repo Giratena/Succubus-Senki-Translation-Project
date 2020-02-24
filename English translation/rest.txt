@@ -8619,48 +8619,53 @@ Please, rest as much as you need.
 
 <CM81>
 Man：上
-よお、兄ちゃん。
-こんな時間に出歩くなんて、夜遊びかい？*
-この辺の村にはけっこうそういう遊び場が多いんだぜ。
-すぐ近くにある鍛冶の街が、ほぼ女人禁制なもんで、
-色町なんかは近くの村に置かれているのさ。
-ここんところ可愛い子も増えているって話だし、
-おれも今夜が楽しみだぜ。ぐへへ。
+Hey man! Walking around a place like this...
+Are you here to check out the nightlife?*
+There's tons of stuff to to check out around here.
+The other town next to this one may be famous for
+it's blacksmiths, but almost all woman are
+prohibited there.
+So, I heard rumors that all the gals have been 
+heading here instead, and I thought I'd head out
+and have some fun tonight! Heheheh-
 
 <CM75>
 Woman：上
-うふふ。お兄さん、うちのカジノで遊んでいきませんか？**
-ちょっとした息抜きですよ。
-お金だってあんまりかかりません。*
-ほら、これがチラシ。
-ここに書いてある地図のところにお店があります。
-ぜひ来てくださいね❤
+Ufufu- Hey young man, 
+won't you play at our casino?*
+It can be quite relaxing, 
+and it doesn't cost much gold either.*
+Hora- Here's our flyer.
+Our shop is written on the map right here.
+Don't keep us waiting now, ok?-❤
 
 <CM76>
 Lady：上
-こんばんは。お兄さん。
-この辺じゃ見ない顔だね。
-観光の人？
-知っているかもしれないけど、
-この村はねぇ、温泉が有名なんだよ。*
-ねえねえ、お兄さんけっこうかっこいいじゃん。
-あとでさぁ、あそこの温泉に一人で来てくれない？*
-一緒にお風呂・・・❤
-入ろうよ。ね？
+Good evening young man.
+I haven't seen your face around these parts.
+Are you a tourist?
+You might not know this, but our town is
+famous for it's hotsprings.*
+Now that I think about it, you're quite the 
+handsome man aren't you? Why not come and join 
+me at the hotsprings later? Just the two of us.
+We'll bathe together...❤
+It'll be fun right?
 
 <CM77>
 Ray：上
-・・・・・。
+.....
 
 Lady：上
-あ、さっきの男の子じゃん。
-やったー、来てくれたんだ。*
-ふふ、それじゃ一緒に入ろっか。
-あっ、ちょっとスケベな目で私の体見ているな。
-このエッチ❤
-ま、その辺はあとのお楽しみ。
-脱衣所は男女別だから、
-キミはあっちから入ってね。
+Ah, if it isn't the boy from earlier!
+Hooray! You made it-*
+Fufu- Well then, shall we both go in?
+Ooh, you're looking at my body with such 
+lecherous eyes- Aren't we frisky-❤
+Well, I look forward to seeing you later.
+The dressing rooms are gender specific,
+so you'll need to enter your dressing room
+from over there-
 
 Lady：上
 ふふ、狭いけどなかなか雰囲気のあるお風呂でしょ？
@@ -8745,7 +8750,7 @@ Lady：上
 
 <CM87>
 Ray：上
-・・・・・。
+....
 
 Bunny Girl：下
 あら、いらっしゃい。
@@ -8760,10 +8765,10 @@ Bunny Girl：下
 まずはこのコインをサービスであげる。
 
 テロップ：中央
-100コインを手に入れた。
+Obtained 100 coins.
 
 Bunny Girl：下
-それじゃ、楽しんでね。
+Now then, enjoy yourself ok?
 
 Woman：上
 コインの購入はお店の外でできるわ。

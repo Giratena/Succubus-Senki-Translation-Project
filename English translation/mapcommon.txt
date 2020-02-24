@@ -160,11 +160,11 @@ Uugh... The power of the holy sword is...
 
 <MC4>
 テロップ：中央
-お金を発見した！
+Obtained Gold!
 
 <MC40>
 テロップ：中央
-お金を発見した！
+Obtained Gold!
 
 <MC115>
 ドレインインプ：上
