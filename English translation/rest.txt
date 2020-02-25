@@ -8767,7 +8767,7 @@ Is this your first time at the casino?*
 Well, I say casino, but it's more of
 a small gambling place in the corner of
 the village.
-You can by our coins with money, and use
+You can by our coins with money and use
 them to play games.*
 ゲームに勝てばコインがたくさん増えて、
 そのコインで特別な景品がもらえるわよ。*
