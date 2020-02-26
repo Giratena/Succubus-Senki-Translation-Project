@@ -1,7 +1,7 @@
 <PL2>
 テロップ：中央
-箱の中に隠れていたサキュバスが、
-襲い掛かってきた！
+A succubus hiding in the box suddenly
+leapt out!
 
 臆病サキュバス：上
 えへへ。押し倒しちゃいましたよぉ・・・❤❤**
@@ -5299,79 +5299,90 @@ OPをスキップしますか？
 
 <OP0>
 テロップ：中央
-若干の休養が終わり、
-いよいよ奇襲作戦の説明が始まった。
+After a some rest, 
+we started discussing the details of our
+surprise attack.
 
 Miles：上
-それでミツヒデ、
-この先のことについてそろそろ教えてくれ。*
-一体、どうやって奇襲をしかけるつもりなんだ？**
-作戦会議の時の話によれば、
-敵の城に行くには山の西側から侵入する以外の、
-道がないんだろ？
+So Mizuhide,
+about that time where you said you were going to
+inform us what was going to happen...
+How on earth do you plan on us making a 
+surprise attack?*
+According to the strategic meeting we had at the
+castle, there's no way into the castle other than
+from the west side, right?
 
 Mizuhide：上
-確かに、そうお話しましたね。**
-サキュバスの城に行く道が、
-山の西側にしかないというのは、
-全くの嘘というわけではありません。
-実際に、500年前には、
-西側ルート以外では
-あの城にはたどり着けませんでしたから。
-しかし、実は、
-今の時代では多少事情が異なっているのです。
+You are pefectly correct, that is exactly what
+was discussed.*
+The only route into the succubus castle being
+from the west side of the mountain...is not a
+complete lie.
+In fact, five hundered years ago, entering the
+castle from anywhere else was impossible.*
+But in truth, the castle is a little different
+now to what it was then.
 
 Miles：上
-ほぉ・・・。
+Ohhh...
 
 Mizuhide：上
-この地図を見てください。
-古城を取り囲む山脈がこれですが・・・、*
-この山脈の東側のこの地点。**
-ここに今から200年ほど前に、
-一つの鉱山ができたのです。*
-非常に貴重な鉱石が見つかる鉱山でしたから、
-盛んに採掘され、
-その結果、山の反対側にまで道ができました。
-この坑道がサキュバスの城の裏手まで通じています。
+Please take a look at this map, spesifically the 
+mountain range that surrounds the old castle...
+See this point on the east side?**
+Around two hundered years from now, a mine was
+built here.*
+It was a mine where you could find many valuable
+ores, and as a result, the mine ended up going
+right through the mountain.
+It so happens that this mining tunnel leads to
+the rear entrance of the succubus castle.
 
 Ray：上
-・・・・！
+...!
 
 Mizuhide：上
-この鉱山の鉱石はすぐに掘りつくされ、
-50年も経たないで廃坑となりました。*
-今から見れば150年も前のことです。**
-昔のことですからこの鉱山のことは、
-周囲に住む村人にすらほぼ忘れ去られています。*
-ましてや、
-500年前の地理の知識しかないサキュバスたちは、
-この道を知らないはずです。
+Fifty years after it was built, the mine was 
+deprived of all it's resources and has been 
+abandoned ever since.
+It's been one hundered and fifty years 
+since then.*
+Because it was such a long time ago, the mine
+has since long been forgotten. Not even the local
+villagers know it exists.
+And that is to say nothing of the succubus, who
+only have knowlege of geography five hundered
+years ago, should know nothing about this mine.
 
 Miles：上
-なるほどな。
-それならサキュバスたちの意表をつけるかもしれねえ。*
-しかし、そんな古い坑道、今でも人が通れるのか？
+Ah I see I see!
+So by taking this route, should be able to catch
+the succubus by surprise eh?
+But would even be possible to pass through such
+an old tunnel?
 
 Mizuhide：上
-道が通行可能であることは、事前に調査済みです。**
-しかし、なにせ狭い洞窟ですので、
-馬などは当然通ることができませんし、
-大軍の移動にも向きません。
-それも加味したうえで、
-この奇襲任務がレイさんたちにあてがわれたわけです。
+I inquired in advance to whether this route is
+accessible or not.*
+Unfortunately, due to it's narrow size, horses
+naturally won't make it through, and neither will
+large armies.
+With all that in mind, we came to a decistion 
+that Ray's team would be best for this surprise
+mission.
 
 Miles：上
-俺たちは歩兵中心だし、少人数だからな。
-うってつけってわけだ。
+We're infantry centered, and small.
+It's the perfect mission for us.
 
 Mizuhide：上
-細かな点はまた移動中にお話します。
-本軍の開戦とタイミングを合わせる必要がありますし、
-急いで出発しましょう。
+I'll give further details while we're on the
+move. We need to time our attack at the exact
+time of our main forces, so we'll need to hurry.
 
 Ray：上
-・・・・・・♪
+......♪
 
 テロップ：中央
 こうして僕たちは、
