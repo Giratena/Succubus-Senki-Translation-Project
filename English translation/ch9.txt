@@ -5450,55 +5450,59 @@ We will slay our enemies!*
 Move out!!
 
 Soldier：上
-おおぉ！！！
+You heard him! Move out everyone!!!
 
-魔女チュチュ：上
-うふふ。ずいぶん大量にいるみたいね。
-これだけたくさんの男から、
-エナジーを吸えるなんて・・・。楽しみ。
+Chuchu：上
+Ufufu- Looks like there's quite a lot here-
+Being able to drain so many men at once...
+What a lovely treat-
 
-第二騎士団団長：上
-あの魔力の強さ・・・。
-噂に聞く上級淫魔とやらか。
+Leader of the 2nd Order：上
+Such strong magic...
+Could this be the rumored advanced level
+succubus we heard about?
 
-魔女チュチュ：上
-そうよ。その通り。
-わたしは上級淫魔のチュチュ。
-口紅の魔女なんて呼ばれているわ。
-わたしの口紅には男をメロメロにする、
-色んな魔術が込められているの。*
-この口紅を塗ってあげれば、下級サキュバスであっても
-決して侮れない強さを発揮できる・・・。
-あなたたちにこの快楽が耐えられるかしら。
-さあ、戦のはじまりよ！
-我が眷属たち、進め！
+Chuchu：上
+That's exactly right my dear soldiers-
+I'm the advanced level magical witch Chuchu.
+They call me the [Lipstick Witch].
+You'll find that my lipstick is filled with all 
+kinds of magic that can make even the strongest
+of men all lovey dovey.
+With this lipstick, even the weakest of succubus
+can become an irresistable sexual icon...
+I wonder if you'll be able to endure my pleasures?
+Now, let us begin!
+All forces, advance!
 
 Miles：上
-おい、見えてきたぞ。出口だ。**
-ここからは敵に見つからないように慎重に行くぜ。
+Hey I see it, that's gotta be the exit!**
+From here on out, let's move carefully so we
+don't alert any enemies.
 
 Mizuhide：上
-道中お話した通り、
-城の裏門に向かってください。*
-敵の警戒は正面に集中しているはずです。
-気取られずに一気にいきましょう！
+As discussed earlier,
+we should head towards the rear of the castle.*
+I suspect our enemies will be concentrated at the 
+front entrance, so we should be able to take 
+them by surprise!
 
 Slime Succubus：上
-諜報部の子たちによれば、
-敵が奇襲してくるかもって話だったけど、
-ほんとに来るのかな・・・？
+The ladies from the intelligence force said
+our enemies do a surprise attack, 
+but do you think it'll really happen...?
 
 Cowardly Succubus：上
-んー、どうだろう。
-それを掴んでいた諜報部のミレニア様が、
-英雄の騎士団にやられちゃったらしいし・・・。
-逆に罠だったんじゃないかな？
-偽の情報をつかまされておびき出されたんんだよ。
-たぶん。
+Ahh- Who knows.
+From what Miss Mileena said, it could even
+be the hero himself...
+But I'm sure they're just having us on... right?
+I'm sure just it's some kind of trick to catch us
+out...probably.
 
 Slime Succubus：上
-そうなのかな・・・。
-来ないといいなぁ・・・。
+Who knows...
+I sure hope no one comes though...
 
 Cowardly Succubus：上
 だいじょうぶ、だいじょうぶ。
@@ -5511,7 +5515,7 @@ Cowardly Succubus：上
 ん・・・・？何か外から物音が聞こえるような。
 
 Slime Succubus：上
-ひやぁ、敵襲！？
+Uwaaah!! Intruders!?
 
 <CM0>
 Miles：上
