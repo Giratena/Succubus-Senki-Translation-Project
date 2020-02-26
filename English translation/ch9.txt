@@ -5521,23 +5521,24 @@ Miles：上
 So, you'd like to hear my tactical advice?
 
 Miles：上
-俺たちの最終目標はあくまで敵の女王を倒すことだ。
-だから、今回の作戦の目標は、
-雑魚敵の殲滅ではなく目標地点へたどり着くことだぜ。
-目標地点は・・・。
+The objective of this mission is to ultimately
+defeat the enemy queen.
+Therefore, our objective this time is not to
+defeat all our enemies, but to reach the target
+point, which is located...
 
 Miles：上
-ここだな。**
-ミツヒデによれば、
-女王はこの城の最上階にいるらしい。*
-だから一番奥の扉を突破して、
-階段までたどり着けばいいってことだ。*
-さて進路上には邪魔になる扉がいくつかあるみたいだ。
+Here.**
+According to Mitsuhide,​​​ the queen seems to reside
+on the top floor of this castle.*
+So once we breaking through the back entrance,
+the only thing left is to reach the staris.*
+Although, there are a couple of doors that 
+may get in the way.
 
 Miles：上
-この二つの扉はたいして分厚くはないし、
-武器で壊せば、
-無理矢理突破することができるだろう。
+These two doors aren't that thick, so we should
+break them down with force using our weapons.
 
 Miles：上
 こっちの二つの扉は分厚い上にかんぬきもかけてある。
