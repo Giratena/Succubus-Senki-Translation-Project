@@ -5531,7 +5531,7 @@ Miles：上
 Here.**
 According to Mitsuhide,​​​ the queen seems to reside
 on the top floor of this castle.*
-So once we breaking through the back entrance,
+So once we break through the back entrance,
 the only thing left is to reach the staris.*
 Although, there are a couple of doors that 
 may get in the way.
@@ -5541,21 +5541,23 @@ These two doors aren't that thick, so we should
 break them down with force using our weapons.
 
 Miles：上
-こっちの二つの扉は分厚い上にかんぬきもかけてある。
-これを無理矢理破るのはかなり大変だろうな・・・。*
-ミツヒデによると
-この扉はスイッチで開閉できるようになっているらしい。
+The two doors here are bulky and bolted shut.
+We won't be able to break them by force...*
+According to Mizuhide, there should be a switch 
+around that can open and close them though.
 
 Miles：上
-スイッチはこことここにあるぜ。
+Said switchs are here, and here.
 
 Miles：上
-敵の主戦力は出払っていて、
-あまり守備兵の数はいないようだ。*
-敵の本拠地を守っているだけあって、
-厄介な能力の敵もいるだろうが、
-俺たちなら突破できるはずだ。
-聖剣を使いつつ、臆せずガンガン行こうぜ！
+Our enemies main forces will be out in the 
+front lines, so there don't appear to be too many 
+enemies around.
+Although when it comes to the enemy defenses,
+our enemies may have some troublesome abilities, 
+but it shouldn't be anything we can't handle.
+We have the holy swords after all, so we'll
+make it through easy!
 
 <CM1>
 Slime Succubus：中央
