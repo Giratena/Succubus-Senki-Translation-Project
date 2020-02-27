@@ -5562,8 +5562,8 @@ make it through easy!
 <CM1>
 Slime Succubus：中央
 Slime Succubus**
-スライムがサキュバスの魔力を浴びて、
-誕生した淫魔。
+A succubus created when a slime was bathed in
+succubus magic.*
 粘液ボディを活かして相手に快楽を与えてくる。
 能力は決して低くないのだが、
 過度に人間を怖がるため戦闘は苦手。
