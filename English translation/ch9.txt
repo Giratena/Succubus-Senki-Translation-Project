@@ -1,7 +1,7 @@
 <PL2>
 テロップ：中央
 A succubus hiding in the box suddenly
-leapt out!
+leaped out!
 
 Timid Succubus：上
 えへへ。押し倒しちゃいましたよぉ・・・❤❤**
@@ -5299,7 +5299,7 @@ OPをスキップしますか？
 
 <OP0>
 テロップ：中央
-After a some rest, 
+After some rest, 
 we started discussing the details of our
 surprise attack.
 
@@ -5314,12 +5314,12 @@ castle, there's no way into the castle other than
 from the west side, right?
 
 Mizuhide：上
-You are pefectly correct, that is exactly what
+You are perfectly correct, that is exactly what
 was discussed.*
 The only route into the succubus castle being
 from the west side of the mountain...is not a
 complete lie.
-In fact, five hundered years ago, entering the
+In fact, five hundred years ago, entering the
 castle from anywhere else was impossible.*
 But in truth, the castle is a little different
 now to what it was then.
@@ -5328,10 +5328,10 @@ Miles：上
 Ohhh...
 
 Mizuhide：上
-Please take a look at this map, spesifically the 
+Please take a look at this map, specifically the 
 mountain range that surrounds the old castle...
 See this point on the east side?**
-Around two hundered years from now, a mine was
+Around two hundred years from now, a mine was
 built here.*
 It was a mine where you could find many valuable
 ores, and as a result, the mine ended up going
@@ -5346,40 +5346,40 @@ Mizuhide：上
 Fifty years after it was built, the mine was 
 deprived of all it's resources and has been 
 abandoned ever since.
-It's been one hundered and fifty years 
+It's been one hundred and fifty years 
 since then.*
 Because it was such a long time ago, the mine
 has since long been forgotten. Not even the local
 villagers know it exists.
-And that is to say nothing of the succubus, who
-only have knowlege of geography five hundered
+And that is to say nothing of the succubus who,
+only having knowledge of geography five hundred
 years ago, should know nothing about this mine.
 
 Miles：上
 Ah I see I see!
-So by taking this route, should be able to catch
+So by taking this route, we should be able to catch
 the succubus by surprise eh?
-But would even be possible to pass through such
+But would it even be possible to pass through such
 an old tunnel?
 
 Mizuhide：上
-I inquired in advance to whether this route is
+I inquired in advance whether this route is
 accessible or not.*
 Unfortunately, due to it's narrow size, horses
 naturally won't make it through, and neither will
 large armies.
-With all that in mind, we came to a decistion 
+With all that in mind, we came to the decision 
 that Ray's team would be best for this surprise
 mission.
 
 Miles：上
-We're infantry centered, and small.
+We're infantry centered and small.
 The perfect mission for us!
 
 Mizuhide：上
 I'll give further details while we're on the
-move. We need to time our attack at the exact
-time of our main forces, so we'll need to hurry.
+move. We need to coordinate our attack with 
+our main forces, so we'll need to hurry.
 
 Ray：上
 ......♪
@@ -5392,13 +5392,13 @@ Miles：上
 Phew!
 Not exactly impossible to pass through,
 but man was that a tough walk.
-For being untouched for over one hundered 
+For being untouched for over one hundred 
 and fifty years, this place is in pretty 
 good shape
 
 Mizuhide：上
 Earthquakes in this region are rare, so I'd say
-the colapse of integreal structures is unlikely.*
+the collapse of integral structures is unlikely.*
 But despite all that, it is rather dark...
 A-agh!!
 
@@ -5411,7 +5411,7 @@ My apologies. Thank you very much.
 
 Miles：上
 ......**
-Hey, Nobus. Will you really ok going through
+Hey, Nobus. Will you really be ok going through
 with this?
 
 Nobus：上
@@ -5440,7 +5440,7 @@ We have confirmed the advancing enemy troops.
 There are large battalions heading this way!
 
 Leader of the 2nd Order：上
-At long last, the desicive battle is upon us...
+At long last, the decisive battle is upon us...
 Alright.*
 All squads, listen up!
 Our forces outnumber our enemies!
@@ -5470,7 +5470,7 @@ You'll find that my lipstick is filled with all
 kinds of magic that can make even the strongest
 of men all lovey dovey.
 With this lipstick, even the weakest of succubus
-can become an irresistable sexual icon...
+can become an irresistible sexual icon...
 I wonder if you'll be able to endure my pleasures?
 Now, let us begin!
 All forces, advance!
@@ -5489,7 +5489,7 @@ them by surprise!
 
 Slime Succubus：上
 The ladies from the intelligence force said
-our enemies do a surprise attack, 
+our enemies have prepared a surprise attack, 
 but do you think it'll really happen...?
 
 Timid Succubus：上
@@ -5529,10 +5529,10 @@ point, which is located...
 
 Miles：上
 Here.**
-According to Mitsuhide,​​​ the queen seems to reside
+According to Mizuhide,​​​ the queen seems to reside
 on the top floor of this castle.*
 So once we break through the back entrance,
-the only thing left is to reach the staris.*
+the only thing left is to reach the stairs.*
 Although, there are a couple of doors that 
 may get in the way.
 
@@ -5566,10 +5566,10 @@ This succubus was created when a slime was bathed
 in succubus magic.*
 She pleasures her enemies by taking advantage
 of her slimy body.*
-Although quite strong, her excessesive fear of 
+Although quite strong, her excessive fear of 
 humans renders her ineffective in battle, so she 
 resides at the castle and not on the front lines.
-Incidentally, her fear of humans steems from
+Incidentally, her fear of humans stems from
 the fact that humans hunt slimes as they provide
 valuable materials for potions.
 Afraid of being approached by enemies, she
