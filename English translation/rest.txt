@@ -429,11 +429,13 @@ face, and the game difficulty.
 
 <AT55>
 情報：なし
-【クリア後拠点について】
-ハードモードクリア（強くてニューゲーム）
-おめでとうございます。*
-クリア後の拠点では、「情報収集」から、
-拠点イベントの回想ができます。
+【About investigating after battle】
+Congratulations on clearing the game both normally
+and on hard mode! Your efforts are worthy of a 
+true tactical mastermind!
+When using the [Gather information] option
+after clearing the game, you'll now be able to
+view past town events.
 
 情報：なし
 【クリア後拠点について】
