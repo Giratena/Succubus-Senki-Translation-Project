@@ -105,35 +105,37 @@ The HP of surrounding allies has been restored!
 
 <PL6>
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
 
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
-（ヒーラーが使用したため効果範囲がアップ！）
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+(Healers increase the range of effect!)
 
 <AT0>
 Miles：上
-よし。見張りは倒せたな。
-侵入成功だ・・・。
+Perfect, we managed to get past any lookout
+guards. We've successfully invaded...!
 
 Mizuhide：上
-ここからは、守備兵の数も多いですし、
-さすがに見つからずに進むのは難しいでしょう。*
-ならば、敵の増援が来る前に、
-一気に女王のいる最上階へ進みましょう！
+From here on out, there'll be many other soldiers
+from within the castle so proceeding through the
+castle may prove difficult.*
+So, let's continue onwards to where the queen 
+resides on top floor before any renforcements 
+arrive!
 
 Miles：上
-最初の目標はこの奥の階段だな。
+The stairs to top floor must be up ahead. We
+should make that our goal. 
 
 Mizuhide：上
-ええ、そこまで進んだら、
-持ってきたこの結界装置で通路を封鎖します。
+Indeed, if we manage to make it that far
 
 情報：情報
  【Victory Condition】
-Arrive at Objective Point
+Reach the Objective Point
 
 Succubus Maid B：上
 どうなっている！
