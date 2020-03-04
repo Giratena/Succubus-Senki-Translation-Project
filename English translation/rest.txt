@@ -2358,13 +2358,10 @@ preparations accordingly.
 
 <OP8>
 テロップ：中央
-The Ch8 English Translation ends here.
-Stay tuned for the next translation in ch9!*
-With the surprise attack leaving us one 
-day to advance our army, 
-we headed towards a small neighboring town 
-instead of our original destination to avoid 
-any further ambushes.
+With the surprise attack leaving us one day to 
+advance our army, we headed towards a small 
+neighboring town instead of our original 
+destination to avoid any further ambushes.**
 Nobus and Miles were practically silent together,
 as the heavy atmosphere fell upon us.*
 When we arrived at the vilage, night had fallen.
@@ -2426,8 +2423,8 @@ Nobus, Ray and I go way back. I think we
 should speak freely on this.
 
 Mizuhide：上
-Of course. I do want to hear more about the 
-enemy's magic though, so please do brief me on 
+Of course. Although I do want to hear more about
+the enemy's magic, so please do brief me on 
 the details of the situation once you've finished.
 
 テロップ：中央
@@ -2463,9 +2460,9 @@ of those with gaps in their heart. That's why
 she targeted me, and not Ray or Miles.
 
 Miles：上
-Gaps...? Now that you mention it, 
-you mentioned a couple of times before that you 
-were afraid of fighting succubus. 
+Gaps...? Now that you mention it, you mentioned a 
+couple of times before that you were afraid of 
+fighting succubus. 
 Were they targeting you out of your fear?
 
 Nobus：上
@@ -2493,9 +2490,9 @@ needed as a mercenary, I wouldn't be of
 any use anywhere else...
 And then, Mileena came. She was kind to me, 
 and offered me a place to stay.*
-I knew beneath her honeyed words she was using me,
-but even though I knew, I was powerless to resist 
-her in my dreams.
+I suspected beneath her honeyed words she was 
+using me, but even though I knew, I was powerless
+to resist her in my dreams.
 ......
 
 Ray：上
@@ -2525,7 +2522,9 @@ you say, I think there's some room for forgiveness.*
 After all, we've seen the kinds of ways our 
 enemies can manipulate people up until now
 haven't we?
-.... Pah.**
+.......**
+....**
+Pah, ahahaha!**
 That performance of yours was perfect!
 No kidding! It was really good.*
 As so I present to you....Not guilty!
@@ -2534,7 +2533,7 @@ Nobus：上
 Urgh...
 
 Miles：上
-Ray, you have to hit him too.
+Go on Ray, you have to hit him too.
 Put your back into it.
 
 Ray：上
@@ -2564,7 +2563,7 @@ outshines all of us Ray.
 Miles：上
 Ray. For the time being I think we just
 settle this in our own way.
-Executing just isn't my thing.
+There'll be no execution while I'm in charge.
 Say what you will, but any punishment more than
 this, and I want nothing to do with it.
 
@@ -2580,7 +2579,7 @@ Of course the normal punishment would be
 execution, but this is succubus we're talking
 about.
 We've seen what their magic can do first hand.
-They can gain temporary control over our
+They can even gain temporary control over our
 soldiers and make them attack each other.
 Being temporarily charmed is different from 
 ouright betrayal.*
@@ -2600,7 +2599,7 @@ You... you mean it...?
 
 Miles：上
 And now, all this talk about feeling useless or
-useful is just frivolous.
+useful is just frivolous.*
 We're all members of the knights here aren't we? 
 It doesn't matter if you're first or second, it's
 about working as a team.
@@ -2639,7 +2638,7 @@ Nobus：上
 
 Miles：上
 Secondly, in case you forgot, our fight won't
-end once the succubus are defeated.*
+end once the succubus are gone.*
 I may be a commander for now, but after this,
 that'll be it.*
 After this war is over, we'll be fighting 
@@ -2648,7 +2647,7 @@ recognised as a true knight.
 Don't you see? Your strong physical bulk may
 not be useful now, but later on, you'll be
 the best asset our group could ever ask for.
-And  you saw it just now as well didn't you?
+And you saw it just now as well didn't you?
 Even if we hit you... You're so tough
 why, we couldn't even make you flinch!
 So I'm going to tell you straight.
@@ -2663,12 +2662,12 @@ The least I can do is listen.
 
 Nobus：上
 ....**
-You know, are some really good points.**
+You know, those are some really good points.**
 I never thought about it that way. I was
 so focused on how I was at the moment that
 I didn't think about the future.
 Maybe I do have a better chance at battling
-regular demons.
+regular demons.*
 But, I'm still afraid. After putting everyone 
 in danger, and the location of our whereables, 
 I just don't know if I have faith in myself...
@@ -2677,8 +2676,8 @@ I'm afriad the succubus could get me again.
 
 Miles：上
 Ray, what do you think?
-Should we forgive Nobus? Or is more punishment
-in order?
+Should we forgive Nobus? Or is more severe
+punishment in order?
 
 Ray：上
 ....
@@ -8651,7 +8650,7 @@ Please, rest as much as you need.
 <CM81>
 Man：上
 Hey man! Walking around a place like this...
-Are you here to check out the nightlife?*
+Are you here to check out the nightlife?
 There's tons of stuff to to check out around here.
 The other town next to this one may be famous for
 it's blacksmiths, but almost all woman are
@@ -8689,8 +8688,8 @@ Ray：上
 
 Lady：上
 Ah, if it isn't the boy from earlier!
-Hooray! You made it-*
-Fufu- Well then, shall we both go in?
+Hooray! You made it-
+Teehee- Well then, shall we both go in?
 Ooh, you're looking at my body with such 
 lecherous eyes- Aren't we frisky-❤
 Well, I look forward to seeing you later.
@@ -8727,14 +8726,14 @@ Whenever I touch your nipples, you
 twitch a little.
 Ahaha! You're really sensitive.
 It seems even with your strong muscles, 
-your nipples are weak huh?*
+your nipples are weak huh?
 By just pinching your nipples with my
 fingers like this, your body ends up
-squirming around. Teehee...❤*
+squirming around. Teehee...❤
 But that's not all...**
 This place down here seems to have gotten 
 real big too*
-Hora...❤
+Whoa...❤
 
 テロップ：中央
 She reached for my swollen penis with her hands.**
@@ -8745,8 +8744,8 @@ Lady：上
 (Giggle) Did you think I was going to touch you
 there? It wouldn't be very lady-like of me
 to do that.
-Besides, your penis isn't somewhere that
-would feel good anyway isn't it?*
+Besides, your penis isn't a place that
+would feel good anyway right?*
 So I'll just caress your thighs.
 Circling, teasing movements just like this...❤*
 (Giggle) Whenever I stroke your thighs with the
@@ -8764,7 +8763,7 @@ But despite that, she would flaunt her body
 at me whenever our bodies touched, even as
 we exited the hot spring.
 After we bathed together, the tension in my 
-groin hadn't subsided and if anything it was
+groin hadn't subsided and if anything, it was
 even harder than before.
 
 Lady：上
@@ -8828,11 +8827,11 @@ After that, you must be soo tired-
 Hey you know what? I can cure your 
 tiredness if you like-*
 Ufufu- Just come over here ok?
-It's ok to bury your face in my breasts-
+Bury your face in my breasts, I don't mind-
 Hora...❤
 
 Mirage：上
-My breasts will make all the tiredness go away-❤
+My breasts will make all that tiredness go away-❤
 
 Mirage：上
 Fufu- You say that, but your body is trembling- 
@@ -8842,7 +8841,7 @@ Mirage：上
 See?- It's so calming between my breasts isn't it?
 Just forget about all those bad things ok?*
 It feels so good doesn't it...?-❤
-Oh Ray-❤*
+Oh Ray...❤*
 Ok- That's enough for now.
 Aww, don't give me that sad look-*
 Come to me on your own, and I'll give you as many
@@ -8910,7 +8909,7 @@ Ray：上
 Ahh... It's so nice here...
 
 Mirage：上
-Ahh- Bathing in hotwater is really revitalizing huh?-*
+Ahh- Bathing in hotwater is really revitalizing huh?-**
 Well I say that, but my body is only an illusion,
 so the water doesn't really do much for me.
 But, it really sets the mood huh? Right?
@@ -8940,7 +8939,7 @@ Ahiee....❤
 Mirage：上
 If we do this in the hot springs, things'll get 
 really heated huh? I bet your mind has gone
-completely blank-*
+completely blank-
 Wrapped up in hot water and warm flesh,
 let's take away all the tiredness of the day-
 Puff-Puff, Puff-Puff...❤
@@ -8956,7 +8955,7 @@ Sure, go ahead and let it all out in the bath-
 Oh Ray- You were always premature ejaculator-❤*
 You're gradually losing resistance to my body-
 It won't be long before you surrender to 
-my body entirely-
+me entirely-
 If this keeps up, I wonder what will happen
 when we finally meet at the castle...? Then we 
 can spend time together, for real! (Giggle)
