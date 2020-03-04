@@ -22,7 +22,7 @@ The HP of surrounding allies has been restored!
 テロップ：中央
 It's a recovery circle!**
 The HP of surrounding allies has been restored!
-(Healers increased the range of effect!)
+(Healers increase the range of effect!)
 
 <PL7>
 テロップ：中央
