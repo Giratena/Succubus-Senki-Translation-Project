@@ -3785,13 +3785,12 @@ Leon joined the party!
 Leon：上
 I see...**
 What a shame, I suppose it is out of my hands.
-If you change your mind, 
-please come speak with me again.
+If you change your mind, please come speak with 
+me again.
 
 <CM1>
 Man：上
-Oh, hello.
-You want to chat...?
+Oh, hello. You want to chat...?
 Eeh, alright, but keep it short.
 
 Man：上
@@ -3811,8 +3810,8 @@ While walking down the road,
 you see the glitter of something shiny.
 
 テロップ：中央
-While walking down the road, you see the glitter of
-something shiny.
+While walking down the road, you see the glitter 
+of something shiny.
 
 <CM5>
 Soldier：上
