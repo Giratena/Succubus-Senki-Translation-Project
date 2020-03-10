@@ -5340,13 +5340,12 @@ Timid Succubus：上
 
 <OP1>
 テロップ：中央
-OPをスキップしますか？
+Skip the opening?
 
 <OP0>
 テロップ：中央
-After some rest, 
-we started discussing the details of our
-surprise attack.
+After some rest, we started discussing the details
+of our surprise attack.
 
 Miles：上
 So Mizuhide,
@@ -5417,12 +5416,12 @@ that Ray's team would be best for this surprise
 mission.
 
 Miles：上
-We're infantry centered and small.
-The perfect mission for us!
+Ah becase we're infantry centered and small!
+It's the perfect mission for us.
 
 Mizuhide：上
 I'll give further details while we're on the
-move. We need to coordinate our attack with 
+move. We must to coordinate our attack with 
 our main forces, so we'll need to hurry.
 
 Ray：上
@@ -5433,12 +5432,10 @@ And so, we at long last departed for succubus
 castle.
 
 Miles：上
-Phew!
-Not exactly impossible to pass through,
-but man was that a tough walk.
-For being untouched for over one hundred 
-and fifty years, this place is in pretty 
-good shape
+Phew! Not exactly impossible to pass through,
+but man was that a tough walk.*
+For being untouched for over one hundred and fifty
+years, this place is in pretty good shape!
 
 Mizuhide：上
 Earthquakes in this region are rare, so I'd say
@@ -5514,19 +5511,18 @@ You'll find that my lipstick is filled with all
 kinds of magic that can make even the strongest
 of men all lovey dovey.
 With this lipstick, even the weakest of succubus
-can become an irresistible sexual icon...
+can become an irresistible sexual icon...*
 I wonder if you'll be able to endure my pleasures?
-Now, let us begin!
-All forces, advance!
+Now, let us begin! Advance, my pretties!
 
 Miles：上
 Hey I see it, that's gotta be the exit!**
-From here on out, let's move carefully so we
-don't alert any enemies.
+From here on out, let's move carefully so we don't
+alert any enemies.
 
 Mizuhide：上
-As discussed earlier,
-we should head towards the rear of the castle.*
+As discussed earlier, we should head towards the 
+rear of the castle.*
 I suspect our enemies will be concentrated at the 
 front entrance, so we should be able to take 
 them by surprise!
@@ -5628,9 +5624,9 @@ A big breasted, timid succubus.**
 Though her revealing dress doesn't match her 
 personality at all,*
 it helps when she occasionally needs to seduce 
-non-resisting men from a distance as a way of 
-getting out of danger.
-She flails her seduction techniques about,
+non-resisting men from a distance as a way to 
+get out of danger.
+She usually flails her seduction techniques about,
 draining a man's willpower until they can't resist
 before moving to attack their penis directly.
 If she catches your penis between her soft tits
