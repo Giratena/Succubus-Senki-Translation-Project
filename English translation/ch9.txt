@@ -2734,14 +2734,14 @@ unleashed their surprise attack, but in the end
 you're all just boys- It was an easy victory-♪
 
 テロップ：中央
-第九騎士団は壊滅し、
-女王奇襲作戦は失敗に終わった。*
-今回の戦の損失は大きく、
-この後人間の王国は、
-みるみる窮地に立たされることとなる。
-魔王城の冷たい床で横たわり、
-胸の大きなサキュバスの餌食となって、
-僕らの冒険はその幕を閉じたのであった。
+With the Ninth Order eliminated, the surprise 
+attack on the Succubus Queen fell through.*
+The losses of the war were significant, and later
+the human capital quickly found themselves in a
+dire predicament.
+And so, our adventure game to an end, a fallen
+victim to a succubus with a huge chest, lying on
+the cold hard cloor of the demon castle.
 
 <AT3-3>
 テロップ：中央
