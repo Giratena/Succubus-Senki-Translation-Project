@@ -3,7 +3,7 @@ Translations for Succubus Senki, scripts will be sent to the developer who will 
 Check out our discord here! https://discord.gg/QJppHcu
 If you like my translations, consider supporting me on patreon! -> https://www.patreon.com/Giratena
 
-The following FAQ is taking from the Succubus Senki Server.
+The following FAQ has been taken from the Succubus Senki Server.
 All channels discribed refer to the channels within the discord server.
 
 
