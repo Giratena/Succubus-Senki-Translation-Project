@@ -650,35 +650,35 @@ Hypnotic Puff-Puff Encouragement
 
 <(65537)Dancer0>
 アクティブ：上
-風の舞でみんなに力を・・・♪
+Feel the rush of the wind everyone...♪
 
 タイトル：中央
-そよ風の舞（周囲8マスの味方の速さ大アップ）
+Gale Dance (Big speed boost to allies in 8 spaces)
 
 <(65537)Dancer1>
 アクティブ：上
-風の舞でみんなに力を・・・♪
+Feel the rush of the wind everyone...♪
 
 タイトル：中央
-そよ風の舞（周囲8マスの味方の速さ大アップ）
+Gale Dance (Big speed boost to allies in 8 spaces)
 
 <(65537)Dancer2>
 アクティブ：上
-風の舞でみんなに力を・・・♪
+Feel the rush of the wind everyone...♪
 
 タイトル：中央
-そよ風の舞（周囲8マスの味方の速さ大アップ）
+Gale Dance (Big speed boost to allies in 8 spaces)
 
 <(65537)Dancer3>
 アクティブ：上
-わたしの踊りでみんなをパワーアップ♪
+Feel my dance! Feel the power-♪
 
 タイトル：中央
-高揚の舞（味方全体の攻撃力大アップ）
+Firestorm Dance (All allies gain Attack UP)
 
 Succubus Elf：上
-わたしたちに裏切ってくれたあなたにも
-応援の踊りをしてあげる❤
+I'll help out and dance for those who betrayed us
+too-❤
 
 <(65537)Dancer5>
 アクティブ：上
