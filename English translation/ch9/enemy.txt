@@ -728,36 +728,36 @@ Gale Dance (Big speed boost to allies in 8 spaces)
 
 <(65537)Dancer3>
 アクティブ：上
-Feel my dance! Feel the power-♪
+Feel my dance everyone! Feel the power-♪
 
 タイトル：中央
 Firestorm Dance (All allies gain Attack UP)
 
-Succubus Elf：上
+アクティブ：上
 I'll help out and dance for those who betrayed us
 too-❤
 
 <(65537)Dancer5>
 アクティブ：上
-Feel my dance! Feel the power-♪
+Feel my dance everyone! Feel the power-♪
 
 タイトル：中央
 Firestorm Dance (All allies gain Attack UP)
 
-Succubus Elf：上
-I'll help out and dance for those who betrayed us
-too-❤
+アクティブ：上
+And all you who double crossed for us, I'll dance
+for you too-❤
 
 <(65537)Dancer4>
 アクティブ：上
-Feel my dance! Feel the power-♪
+Feel my dance everyone! Feel the power-♪
 
 タイトル：中央
 Firestorm Dance (All allies gain Attack UP)
 
-Succubus Elf：上
-I'll help out and dance for those who betrayed us
-too-❤
+アクティブ：上
+And all you who double crossed for us, I'll dance
+for you too-❤
 
 <(65537)Dancer6>
 アクティブ：上
@@ -784,465 +784,500 @@ Become aroused as you stare at my sexy, lewd
 body-❤
 
 アクティブ：上
-発情したお猿さんみたいに、はぁはぁ息を荒げている。
-お姉さんの踊りでそうなっちゃったの？
-ふふっ、かわいい❤
-ねえ、そんな状態になってまで戦う必要あるのかな？
-もう剣を下ろして、気持ちいいのに身を任せちゃおうよ。*
-そこでじっとしててくれれば、
-お姉さんのお尻とかおっぱいで、
-気持ちよくしてあげてもいいんだけどなぁ❤
-あは❤攻撃が鈍った♪
-もう陥落寸前だねー❤
+You're panting and moaning like an animal in heat.
+That's not because of my dancing is it?
+Ufufu- What a cutie-❤
+Hey- Do you really need to fight until you become
+like that?*
+Your sword is already starting to waver, just 
+let your body be guided by the pleasure.*
+Then, if you only stood still.... I could even 
+use my tits and ass to make you feel good-❤
+Aha-❤ Your attacks are getting duller-♪
+You're already about to cave in aren't you?❤
 
 アクティブ：上
-ムラムラしているのが丸わかり。
-そんな状態じゃあ、視線だって簡単に誘導できちゃう。*
-ほら。こんな風に腰をふれば、
-ここに目が吸い寄せられちゃうんでしょ？
-くすくす。体勢が崩れて攻撃に失敗しちゃったね❤
-この調子で、
-わたしの踊りでたっぷり惑わせてあ・げ・る❤
+I can tell you're totally infacuated-
+When you're like this, I can easily guide your
+gaze to where I want it to be.*
+Hora- A sway of my hips like this, and your eyes
+just can't help but be drawn to them right?*
+Teehee- And just like that you lost your compsure
+and your chance to attack-❤*
+In this way, I'll use my dancing to seduce your
+confused, tempted, mind-❤
 
 アクティブ：上
 I sway my body back in forth, moaning lewdly by
 going 'Ooh, uwaah-❤', and then all the men turn
 into monkeys-
-あなたももう目が釘付け・・・❤
-ほら、お姉さんの舞で誘惑してあげる❤
+Your eyes are already transfixed on me too...❤
+Hora- Fall to the temptations of my dancing-❤
 
 アクティブ：上
-男の人はわたしの踊りを見ているだけで、
-頭がふわふわ・・・❤
-中には我慢できないでシコシコ始めちゃう人もいるの。
-侵入者さんも、目がとろーんとしてきた。
-もっと見とれていいのよ？くすくす・・・❤
+Just a single glance at my dancing, and a man's
+mind goes all soft and fluffy...❤ Some people 
+can't even resist, and start to masturbate...
+Even Mr. Intruder's eyes are starting to go hazy-
+You can stare more if you like?
+Teehee...❤
 
 アクティブ：上
-腰をくねらせて、どう？
-見とれちゃう？*
-男の子を虜にしちゃう妖しい踊り・・・❤
-好きなだけ見ていいのよ。
+How are you finding the sway of my hips?
+Fascinating, right?*
+This bewitching dance causes boys to become
+captivated....❤ Go on- You can stare as much as 
+you like-
 
 アクティブ：上
-踊りを踊りながら、
-うっふーんってあざとくアピールしちゃう❤*
-おっぱいもお尻もこんな風に揺らされると、
-ムラムラしちゃうかな？
-くすくす・・❤
+My audiences love it when I moan as I dance,
+they say it increases my appeal-❤*
+And when I sway my boobs and but like this, 
+I wonder if that turns you on too?
+Teehee...❤
 
 <(65545)Dancer0>
 アクティブ：上
-風の舞でみんなに力を・・・♪
+Feel the rush of the wind everyone...♪
 
 タイトル：中央
-そよ風の舞（周囲８マスの味方の速さ大アップ）
+Gale Dance (Big speed boost to allies in 8 spaces)
 
-<(65545)Dancer1>
+<(65537)Dancer1>
 アクティブ：上
-風の舞でみんなに力を・・・♪
+Feel the rush of the wind everyone...♪
 
 タイトル：中央
-そよ風の舞（周囲８マスの味方の速さ大アップ）
+Gale Dance (Big speed boost to allies in 8 spaces
 
 <(65545)Dancer2>
 アクティブ：上
-風の舞でみんなに力を・・・♪
+Feel the rush of the wind everyone...♪
 
 タイトル：中央
-そよ風の舞（周囲８マスの味方の速さ大アップ）
+Gale Dance (Big speed boost to allies in 8 spaces)
 
 <(65545)Dancer3>
 アクティブ：上
-わたしの踊りでみんなをパワーアップ♪
+Feel my dance everyone! Feel the power-♪
 
 タイトル：中央
-高揚の舞（味方全体の攻撃力大アップ）
+Firestorm Dance (All allies gain Attack UP)
 
-Succubus Elf：上
-わたしたちに裏切ってくれたあなたにも
-応援の踊りをしてあげる❤
+アクティブ：上
+I'll help out and dance for those who betrayed us
+too-❤
 
 <(65545)Dancer5>
 アクティブ：上
-わたしの踊りでみんなをパワーアップ♪
+Feel my dance everyone! Feel the power-♪
 
 タイトル：中央
-高揚の舞（味方全体の攻撃力大アップ）
+Firestorm Dance (All allies gain Attack UP)
 
-Succubus Elf：上
-わたしたちに裏切ってくれたあなたにも
-応援の踊りをしてあげる❤
+アクティブ：上
+And all you who double crossed for us, I'll dance
+for you too-❤
 
 <(65545)Dancer4>
 アクティブ：上
-わたしの踊りでみんなをパワーアップ♪
+Feel my dance everyone! Feel the power-♪
 
 タイトル：中央
-高揚の舞（味方全体の攻撃力大アップ）
+Firestorm Dance (All allies gain Attack UP)
 
-Succubus Elf：上
-わたしたちに裏切ってくれたあなたにも
-応援の踊りをしてあげる❤
+アクティブ：上
+And all you who double crossed for us, I'll dance
+for you too-❤
 
 <(65545)Dancer6>
 アクティブ：上
-あはん❤ってエッチな声をあげながら、
-体をくねらせてあげるの。
-そうすると男の人はみんなお猿さんになっちゃう。
-って、うふふ・・・。もうメロメロみたいだね。
-踊りに見とれてボケーっとしちゃっている❤*
-そのままじっとわたしの方を見てて？
-気持ちいい世界に連れて行ってあげる。
+I sway my body back in forth, moaning lewdly by
+going 'Ooh, uwaah-❤', and then all the men turn
+into monkeys-
+...Oh! Ufufu- And you've gone all lovey dovey
+already haven't you? Just staring at my dance 
+without a single bad thought in your head-❤
+You just keep staring ok? I'll take you to a whole
+world of pleasure.
 
 アクティブ：上
-くすくす・・・❤
-もうすっかりはぁはぁしちゃって、
-お姉さんのダンスそんなによかったかな？
-ねえ、そんなにメロメロじゃあ、攻撃も当たらないよ？
-ほら、余裕で避けれちゃう。*
-わたしのお尻とかおっぱいばっかり見ているもんね。
-当たるわけがない。
-うふふ♪もっと見せつけてあげる❤
-たくさんエッチな体を見て、
-興奮しちゃえ❤
+Teehee...❤
+You're already panting and moaning so heavilly...
+Are you enjoying watching me dance that much?
+Hey- You can't land an attack on me at all if
+you're this love struck right? Hora- I can dodge
+it so easily...
+You're only looking at my breasts and butt,
+aren't you? There's no way you'd be able to hit 
+me. Ufufu-♪ I'll flash my body at you even more-❤
+Become aroused as you stare at my sexy, lewd
+body-❤
 
 アクティブ：上
-発情したお猿さんみたいに、はぁはぁ息を荒げている。
-お姉さんの踊りでそうなっちゃったの？
-ふふっ、かわいい❤
-ねえ、そんな状態になってまで戦う必要あるのかな？
-もう剣を下ろして、気持ちいいのに身を任せちゃおうよ。*
-そこでじっとしててくれれば、
-お姉さんのお尻とかおっぱいで、
-気持ちよくしてあげてもいいんだけどなぁ❤
-あは❤攻撃が鈍った♪
-もう陥落寸前だねー❤
+You're panting and moaning like an animal in heat.
+That's not because of my dancing is it?
+Ufufu- What a cutie-❤
+Hey- Do you really need to fight until you become
+like that?*
+Your sword is already starting to waver, just 
+let your body be guided by the pleasure.*
+Then, if you only stood still.... I could even 
+use my tits and ass to make you feel good-❤
+Aha-❤ Your attacks are getting duller-♪
+You're already about to cave in aren't you?❤
 
 アクティブ：上
-ムラムラしているのが丸わかり。
-そんな状態じゃあ、視線だって簡単に誘導できちゃう。*
-ほら。こんな風に腰をふれば、
-ここに目が吸い寄せられちゃうんでしょ？
-くすくす。体勢が崩れて攻撃に失敗しちゃったね❤
-この調子で、
-わたしの踊りでたっぷり惑わせてあ・げ・る❤
+I can tell you're totally infacuated-
+When you're like this, I can easily guide your
+gaze to where I want it to be.*
+Hora- A sway of my hips like this, and your eyes
+just can't help but be drawn to them right?*
+Teehee- And just like that you lost your compsure
+and your chance to attack-❤*
+In this way, I'll use my dancing to seduce your
+confused, tempted, mind-❤
 
 アクティブ：上
-あはん❤ってエッチな声をあげながら、
-体をくねらせてあげるの。
-そうすると男の人はみんなお猿さんになっちゃう。
-あなたももう目が釘付け・・・❤
-ほら、お姉さんの舞で誘惑してあげる❤
+I sway my body back in forth, moaning lewdly by
+going 'Ooh, uwaah-❤', and then all the men turn
+into monkeys-
+Your eyes are already transfixed on me too...❤
+Hora- Fall to the temptations of my dancing-❤
 
 アクティブ：上
-男の人はわたしの踊りを見ているだけで、
-頭がふわふわ・・・❤
-中には我慢できないでシコシコ始めちゃう人もいるの。
-侵入者さんも、目がとろーんとしてきた。
-もっと見とれていいのよ？くすくす・・・❤
+Just a single glance at my dancing, and a man's
+mind goes all soft and fluffy...❤ Some people 
+can't even resist, and start to masturbate...
+Even Mr. Intruder's eyes are starting to go hazy-
+You can stare more if you like?
+Teehee...❤
 
 アクティブ：上
-腰をくねらせて、どう？
-見とれちゃう？*
-男の子を虜にしちゃう妖しい踊り・・・❤
-好きなだけ見ていいのよ。
+How are you finding the sway of my hips?
+Fascinating, right?*
+This bewitching dance causes boys to become
+captivated....❤ Go on- You can stare as much as 
+you like-
 
 アクティブ：上
-踊りを踊りながら、
-うっふーんってあざとくアピールしちゃう❤*
-おっぱいもお尻もこんな風に揺らされると、
-ムラムラしちゃうかな？
-くすくす・・❤
+My audiences love it when I moan as I dance,
+they say it increases my appeal-❤*
+And when I sway my boobs and but like this, 
+I wonder if that turns you on too?
+Teehee...❤
 
 <(65546)Dancer0>
 アクティブ：上
-風の舞でみんなに力を・・・♪
+Feel the rush of the wind everyone...♪
 
 タイトル：中央
-そよ風の舞（味方全体の速さ大アップ）
+Gale Dance (Big speed boost to allies in 8 spaces)
 
-Succubus Elf：上
-うふふ❤
-裏切り者くんも頑張れー❤
-パワーアップさせてあげる❤
+アクティブ：上
+Ufufu-❤
+You do your best too traitors-❤
+I'll give you a big power up-❤
 
 <(65546)Dancer1>
 アクティブ：上
-風の舞でみんなに力を・・・♪
+Feel the rush of the wind everyone...♪
 
 タイトル：中央
-そよ風の舞（味方全体の速さ大アップ）
+Gale Dance (Big speed boost to allies in 8 spaces
 
-Succubus Elf：上
-うふふ❤
-裏切り者くんも頑張れー❤
-パワーアップさせてあげる❤
+アクティブ：上
+Ufufu-❤
+You do your best too traitors-❤
+I'll give you a big power up-❤
 
 <(65546)Dancer2>
 アクティブ：上
-風の舞でみんなに力を・・・♪
+Feel the rush of the wind everyone...♪
 
 タイトル：中央
-そよ風の舞（味方全体の速さ大アップ）
+Gale Dance (Big speed boost to allies in 8 spaces)
 
-Succubus Elf：上
-うふふ❤
-裏切り者くんも頑張れー❤
-パワーアップさせてあげる❤
+アクティブ：上
+Ufufu-❤
+You do your best too traitors-❤
+I'll give you a big power up-❤
 
 <(65546)Dancer3>
 アクティブ：上
-わたしの踊りでみんなをパワーアップ♪
+Feel my dance everyone! Feel the power-♪
 
 タイトル：中央
-高揚の舞（周囲8マスの味方の攻撃力大アップ）
+Firestorm Dance (All allies gain Attack UP)
 
 <(65546)Dancer4>
 アクティブ：上
-わたしの踊りでみんなをパワーアップ♪
+Feel my dance everyone! Feel the power-♪
 
 タイトル：中央
-高揚の舞（周囲8マスの味方の攻撃力大アップ）
+Firestorm Dance (All allies gain Attack UP)
 
 <(65546)Dancer5>
 アクティブ：上
-わたしの踊りでみんなをパワーアップ♪
+Feel my dance everyone! Feel the power-♪
 
 タイトル：中央
-高揚の舞（周囲8マスの味方の攻撃力大アップ）
+Firestorm Dance (All allies gain Attack UP)
 
 <(65546)Dancer6>
 アクティブ：上
-あはん❤ってエッチな声をあげながら、
-体をくねらせてあげるの。
-そうすると男の人はみんなお猿さんになっちゃう。
-って、うふふ・・・。もうメロメロみたいだね。
-踊りに見とれてボケーっとしちゃっている❤*
-そのままじっとわたしの方を見てて？
-気持ちいい世界に連れて行ってあげる。
+I sway my body back in forth, moaning lewdly by
+going 'Ooh, uwaah-❤', and then all the men turn
+into monkeys-
+...Oh! Ufufu- And you've gone all lovey dovey
+already haven't you? Just staring at my dance 
+without a single bad thought in your head-❤
+You just keep staring ok? I'll take you to a whole
+world of pleasure.
 
 アクティブ：上
-くすくす・・・❤
-もうすっかりはぁはぁしちゃって、
-お姉さんのダンスそんなによかったかな？
-ねえ、そんなにメロメロじゃあ、攻撃も当たらないよ？
-ほら、余裕で避けれちゃう。*
-わたしのお尻とかおっぱいばっかり見ているもんね。
-当たるわけがない。
-うふふ♪もっと見せつけてあげる❤
-たくさんエッチな体を見て、
-興奮しちゃえ❤
+Teehee...❤
+You're already panting and moaning so heavilly...
+Are you enjoying watching me dance that much?
+Hey- You can't land an attack on me at all if
+you're this love struck right? Hora- I can dodge
+it so easily...
+You're only looking at my breasts and butt,
+aren't you? There's no way you'd be able to hit 
+me. Ufufu-♪ I'll flash my body at you even more-❤
+Become aroused as you stare at my sexy, lewd
+body-❤
 
 アクティブ：上
-発情したお猿さんみたいに、はぁはぁ息を荒げている。
-お姉さんの踊りでそうなっちゃったの？
-ふふっ、かわいい❤
-ねえ、そんな状態になってまで戦う必要あるのかな？
-もう剣を下ろして、気持ちいいのに身を任せちゃおうよ。*
-そこでじっとしててくれれば、
-お姉さんのお尻とかおっぱいで、
-気持ちよくしてあげてもいいんだけどなぁ❤
-あは❤攻撃が鈍った♪
-もう陥落寸前だねー❤
+You're panting and moaning like an animal in heat.
+That's not because of my dancing is it?
+Ufufu- What a cutie-❤
+Hey- Do you really need to fight until you become
+like that?*
+Your sword is already starting to waver, just 
+let your body be guided by the pleasure.*
+Then, if you only stood still.... I could even 
+use my tits and ass to make you feel good-❤
+Aha-❤ Your attacks are getting duller-♪
+You're already about to cave in aren't you?❤
 
 アクティブ：上
-ムラムラしているのが丸わかり。
-そんな状態じゃあ、視線だって簡単に誘導できちゃう。*
-ほら。こんな風に腰をふれば、
-ここに目が吸い寄せられちゃうんでしょ？
-くすくす。体勢が崩れて攻撃に失敗しちゃったね❤
-この調子で、
-わたしの踊りでたっぷり惑わせてあ・げ・る❤
+I can tell you're totally infacuated-
+When you're like this, I can easily guide your
+gaze to where I want it to be.*
+Hora- A sway of my hips like this, and your eyes
+just can't help but be drawn to them right?*
+Teehee- And just like that you lost your compsure
+and your chance to attack-❤*
+In this way, I'll use my dancing to seduce your
+confused, tempted, mind-❤
 
 アクティブ：上
-あはん❤ってエッチな声をあげながら、
-体をくねらせてあげるの。
-そうすると男の人はみんなお猿さんになっちゃう。
-あなたももう目が釘付け・・・❤
-ほら、お姉さんの舞で誘惑してあげる❤
+I sway my body back in forth, moaning lewdly by
+going 'Ooh, uwaah-❤', and then all the men turn
+into monkeys-
+Your eyes are already transfixed on me too...❤
+Hora- Fall to the temptations of my dancing-❤
 
 アクティブ：上
-男の人はわたしの踊りを見ているだけで、
-頭がふわふわ・・・❤
-中には我慢できないでシコシコ始めちゃう人もいるの。
-侵入者さんも、目がとろーんとしてきた。
-もっと見とれていいのよ？くすくす・・・❤
+Just a single glance at my dancing, and a man's
+mind goes all soft and fluffy...❤ Some people 
+can't even resist, and start to masturbate...
+Even Mr. Intruder's eyes are starting to go hazy-
+You can stare more if you like?
+Teehee...❤
 
 アクティブ：上
-腰をくねらせて、どう？
-見とれちゃう？*
-男の子を虜にしちゃう妖しい踊り・・・❤
-好きなだけ見ていいのよ。
+How are you finding the sway of my hips?
+Fascinating, right?*
+This bewitching dance causes boys to become
+captivated....❤ Go on- You can stare as much as 
+you like-
 
 アクティブ：上
-踊りを踊りながら、
-うっふーんってあざとくアピールしちゃう❤*
-おっぱいもお尻もこんな風に揺らされると、
-ムラムラしちゃうかな？
-くすくす・・❤
+My audiences love it when I moan as I dance,
+they say it increases my appeal-❤*
+And when I sway my boobs and but like this, 
+I wonder if that turns you on too?
+Teehee...❤
 
-<(65539)バード9>
-Cherish：上
-ふぅ、やっぱり一筋縄でいかなさそう。
-さすがは英雄さん。*
-でも、わたしの声を聞いて、
-脳がとろけちゃわない男の人はいないんですよ？
-うふふ❤
+<(65539)Bard9>
+アクティブ：上
+Hmmph. As it seems, you didn't come here 
+though ordinary means. As expected of a hero.*
+But then again, there isn't a man who's mind won't
+melt when listening to my voice is there?
+Ufufu-❤
 
 タイトル：中央
-蠱惑の歌
-
-Cherish：上
-くすくす❤
-目がとろんして、気持ちよさそう・・・❤*
-そのとろとろな脳みそなら、
-わたしの命令がすっとしみ込んでくるでしょ？
-さあ、味方同士で争いなさい❤
-
-Cherish：上
-嘘・・・。わたしの歌を聞いて正気を保つだなんて・・・。
-く、悔しいです。
-
-<(65539)バード0>
-アクティブ：上
-ふふっ、もうわたしの足にメロメロじゃないですか。
-さっき踏んであげたのがそんなによかったんですか？*
-まったく・・・。
-ちょっと足で気持ちよくさせられただけで、
-サキュバスに尻尾ふっちゃって。救いがたいですね。
-ほら、足で挟み込んでさっさと射精させてあげましょう。
-ワンちゃんはそこでじっとしてなさい。ふふっ❤
+Song of Seduction
 
 アクティブ：上
-くすくす❤
-え？なんで笑うのかって？
-だってあなた・・・。
-私の足ばっかり見て、もうメロメロじゃないですか。
-さっきの足コキ、そんなによかったんですか？*
-わたしの足技の気持ちよさ、
-すっかり体が覚えちゃいましたね。
-こうやって足を乗せられたら、もう逆らえないんでしょう？
-ほらほら！
-どんどん扱いてあげますよ。
-足裏に圧迫されて気持ちいいんでしょ。変態男❤
-もうメロメロなら、手間かけさせないでください。
-さっさと射精して、
-わたしの足に屈服の証をさしだすのよ。えい！
+Teehee-❤ Your eyes are getting drowsy... 
+It feels soo good...❤*
+Just allow my commands to sink into that sticky, 
+melted mind of yours ok?
+Now- Fight your allies-❤
 
 アクティブ：上
-くすくす❤
-え？なんで笑うのかって？
-だってあなた・・・。
-私の足ばっかり見て、もうメロメロじゃないですか。
-さっきの足コキ、そんなによかったんですか？*
-わたしの足技の気持ちよさ、
-すっかり体が覚えちゃいましたね。
-こうやって足を乗せられたら、もう逆らえないんでしょう？
-ほらほら！
-どんどん扱いてあげますよ。
-足裏に圧迫されて気持ちいいんでしょ。変態男❤
-もうメロメロなら、手間かけさせないでください。
-さっさと射精して、
-わたしの足に屈服の証をさしだすのよ。えい！
+No way... How did you manage to keep your santiy
+while listning to my voice...?
+Ugh, that's annoying...
+
+<(65539)Bard0>
+アクティブ：上
+Ufufu- You're already infatuated with my feet 
+aren't you? Were you that happy to have been
+stepped on earlier?
+Seriously... Just a bit of pleasure from my feet, 
+and your little tail down here starts wagging up 
+and down for succubus. What a hopeless case-
+Hora- How about I make you cum between my feet
+right now? Just sit there like a good little
+doggy. Ufufu-❤
 
 アクティブ：上
-あは❤わたしの足に見とれてメロメロ。
-さっきの足コキの感触が忘れられないんだ。*
-足フェチの変態さんを仕留めるのは楽でいいですね。
-ちょっと足で男の弱点をいじめてあげれば、
-すぐに負けてくれるんですから。
-棒立ちで、はぁはぁ言っているだけなら、
-こっちから行きますよ？
-ほら、足裏でペニスをすりすり・・・❤
-ぷぷっ、マゾ豚さんはあっという間に
-腰砕けになっちゃいましたね。
-そのまま膝をガクガクさせながら射精したら？変態❤
+Teehee-❤
+Eh? Why am I laughing?
+Well, that's because... 
+The only thing you're staring at is my feet,
+you're entirely infacuated with them- Were you 
+that pleased with my footjob from earlier?
+Your body has completely memorised the 
+pleasurableness of my foot techniques hasn't it?*
+When I place my feet on you like this, you just
+can't oppose me anymore can you?*
+Hora hora! I'll stroke you faster and faster-
+It feels good to be pressured from both sides
+between my feet right? What a perverted man-❤
+If you're already head over heels for me, then
+don't waste my time. Quickly ejaculate and spread 
+the proof of your surrender onto my feet- Eei!
 
 アクティブ：上
-ふふっ、もうわたしの足にメロメロじゃないですか。
-さっき踏んであげたのがそんなによかったんですか？*
-まったく・・・。
-ちょっと足で気持ちよくさせられただけで、
-サキュバスに尻尾ふっちゃって。救いがたいですね。
-ほら、足で挟み込んでさっさと射精させてあげましょう。
-ワンちゃんはそこでじっとしてなさい。ふふっ❤
+Teehee-❤
+Eh? Why am I laughing?
+Well, that's because... 
+The only thing you're staring at is my feet,
+you're entirely infacuated with them- Were you 
+that pleased with my footjob from earlier?
+Your body has completely memorised the 
+pleasurableness of my foot techniques hasn't it?*
+When I place my feet on you like this, you just
+can't oppose me anymore can you?*
+Hora hora! I'll stroke you faster and faster-
+It feels good to be pressured from both sides
+between my feet right? What a perverted man-❤
+If you're already head over heels for me, then
+don't waste my time. Quickly ejaculate and spread 
+the proof of your surrender onto my feet- Eei!
 
 アクティブ：上
-くすくす❤
-え？なんで笑うのかって？
-だってあなた・・・。
-私の足ばっかり見て、もうメロメロじゃないですか。
-さっきの足コキ、そんなによかったんですか？*
-わたしの足技の気持ちよさ、
-すっかり体が覚えちゃいましたね。
-こうやって足を乗せられたら、もう逆らえないんでしょう？
-ほらほら！
-どんどん扱いてあげますよ。
-足裏に圧迫されて気持ちいいんでしょ。変態男❤
-もうメロメロなら、手間かけさせないでください。
-さっさと射精して、
-わたしの足に屈服の証をさしだすのよ。えい！
+Aha-❤ You're staring lovelingly at my feet. You 
+just couldn't forget the pleasure of my footjob 
+from earlier.
+Taking down a perverted foot fetishist is a walk
+in the park- I just tease a man's weak point with
+my feet a little, and they instantly give in-
+Well? Don't just stand there moaning, why don't
+you come over here to me? Hora- I'll wrap my soles
+around your penis and rub it up and down...❤
+Pfft- You collasped like the masochist pig you
+are in the blink of an eye- What if you ejaculated
+like this while your body is trembling? Pervert-❤
 
 アクティブ：上
-足にメロメロになってるくせに、
-戦うふりなんてしちゃって。
-くすくす・・・❤
-分かってますよ？
-足でいじめてほしくて来たんでしょ？
-戦う気なんてはじめから無い。
-ほおら、つま先でペニスをなでてあげます。
-耐えてごらんなさい？*
-くすくす、膝から崩れ落ちちゃいましたね。
-まったくマゾ男はこれだから・・・❤*
-いいですよ。たっぷり踏みつけて、
-気持ちいい敗北に導いてあげます。
-感謝しなさい、マゾ豚❤
+Ufufu- You're already infatuated with my feet 
+aren't you? Were you that happy to have been
+stepped on earlier?
+Seriously... Just a bit of pleasure from my feet, 
+and your little tail down here starts wagging up 
+and down for succubus. What a hopeless case-
+Hora- How about I make you cum between my feet
+right now? Just sit there like a good little
+doggy. Ufufu-❤
 
 アクティブ：上
-あは❤わたしの足に見とれてメロメロ。
-さっきの足コキの感触が忘れられないんだ。*
-足フェチの変態さんを仕留めるのは楽でいいですね。
-ちょっと足で男の弱点をいじめてあげれば、
-すぐに負けてくれるんですから。
-棒立ちで、はぁはぁ言っているだけなら、
-こっちから行きますよ？
-ほら、足裏でペニスをすりすり・・・❤
-ぷぷっ、マゾ豚さんはあっという間に
-腰砕けになっちゃいましたね。
-そのまま膝をガクガクさせながら射精したら？変態❤
+Teehee-❤
+Eh? Why am I laughing?
+Well, that's because... 
+The only thing you're staring at is my feet,
+you're entirely infacuated with them- Were you 
+that pleased with my footjob from earlier?
+Your body has completely memorised the 
+pleasurableness of my foot techniques hasn't it?*
+When I place my feet on you like this, you just
+can't oppose me anymore can you?*
+Hora hora! I'll stroke you faster and faster-
+It feels good to be pressured from both sides
+between my feet right? What a perverted man-❤
+If you're already head over heels for me, then
+don't waste my time. Quickly ejaculate and spread 
+the proof of your surrender onto my feet- Eei!
 
 アクティブ：上
-男がこのステージの上に来るなんて、
-許しがたい行為です。
-そんな無礼者は足で踏みつけますよ？
-ん？足で踏むって聞いてなに興奮しているんですか？
-ふふっ、もしかして変態さん？*
-なら、こうやって足でスリスリされて、
-それだけで出しちゃったりするのかな？
-いいですよ？足の裏にさくっと負けても。
+Even though you're clearly in love with my feet,
+you're still trying to fight.
+Teehee...❤
+But I know better don't I? You came here because 
+you wanted to be teased by my feet didn't you?
+You never wanted to fight us from the start.
+Hoora- I'll brush the tips of my toes against your
+penis. Try to endure ok?*
+Teehee- Your knees gave in and colapsed- That's
+exactly what a masochist male would do...❤*
+Ok then. I'll step on you lots and guide you to
+a blissful defeat. Express your gratitude, 
+masochist pig-❤
 
 アクティブ：上
-ねえ、なに土足でステージを荒らしているんですか。
-ああ、だから男は許しがたい・・・。*
-そんなあなたは私の足で踏みつけて、罰を与えます。
-踏みつけられることがどういうことか理解して、
-しっかり反省してください。
-って、なに大きくしているの？
-こうやってゲシゲシ踏まれてそれで大きくするなんて、
-変態じゃないですか。
-無礼者で変態とかっ、最低ですね。
-ほらほら！踏まれてささっと死んじゃってくださいよ。*
-くすくす・・・❤
-こんな刺激でそんなに気持ちよさそうな顔しちゃって。
-ドピュって出しちゃいますか？
+Aha-❤ You're staring lovelingly at my feet. You 
+just couldn't forget the pleasure of my footjob 
+from earlier.
+Taking down a perverted foot fetishist is a walk
+in the park- I just tease a man's weak point with
+my feet a little, and they instantly give in-
+Well? Don't just stand there moaning, why don't
+you come over here to me? Hora- I'll wrap my soles
+around your penis and rub it up and down...❤
+Pfft- You collasped like the masochist pig you
+are in the blink of an eye- What if you ejaculated
+like this while your body is trembling? Pervert-❤
 
 アクティブ：上
-ステージに入り込む無礼者は、
-わたしの足で成敗してあげます。*
-こうやって足の裏をぴったりペニスにつけて、
-そのまま前後にゆっくり擦ってあげるんです。
-そうすれば・・・。
+A man coming up on this stage is an inexcuseable
+act, and insolent men end up being stepped on 
+by my feet you know?
+Hm? You find it aroused to hear I'm going to step
+on you with my feet? Fufu- Are you perhaps a
+pervert?
+If that's the case, I wonder if even just being 
+rubbed by my feet like this would cause you to 
+cum? 
+But even if you succumbed quickly to the soles of 
+my feet, you wouldn't mind right?
+
+アクティブ：上
+Hey, what are you doing up on stange?
+Aaah, this is why I just can't forgive men...*
+Someone like you needs to be taught a lessing by 
+being trampled on by my feet. Reflect on your 
+actions and about what it means to be stepped on.
+...huh? Why are you...are you getting harder?
+Becoming hard while being stepped on and squished 
+like this... you're a pervert aren't you?
+Insoltent perverts are the worst aren't they?
+Hora hora! I'll step on you until you pass out.*
+Teehee...❤
+What a pleasure drunk expression you have.
+Are you gonna go squirt?
+
+アクティブ：上
+Those who rudely intrude on stage will be punished
+by my feet.*
+I clasp my soles tightly around their penis, and 
+slowly stroke it up and down, just like this.
+And then when I do that...
 ふふっ、もう気持ちよくてとろけそうですか？
 男はほんと他愛ないですね。*
 ぬちゅぬちゅ我慢汁の音がしてきましたよ？
