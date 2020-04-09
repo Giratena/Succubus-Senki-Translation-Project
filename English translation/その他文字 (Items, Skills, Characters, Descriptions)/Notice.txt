@@ -59,25 +59,27 @@ Reach the capture point.
 [rest]
 <<<<<<<
 【About Special Options】
-拠点にある「特殊オプション」を選択すると、
-主人公の顔グラを変更したり、
-難易度を変更することができます。
+When selecting [Special Options], you can change
+various game settings such as chaging the 
+protagonist's face, or the game difficulty.
 
 <<<<<<<
-【クリア後拠点について】
-クリアおめでとうございます。
-クリア後の拠点では、「情報収集」から、
-拠点イベントの回想ができます。
+【After Clearing the Game】
+Congradulations on beating Succubus Senki!
+After beating the game, you can revisit any town
+events from the [Investigate] menu.
 
-２週目以降のプレイには特典があります。周回プレイを
-する場合は、拠点の「終了」を選んで新規ゲームをス
-タートしてください。
-
+You now have access some extra features when 
+playing through the game a second time. To start 
+a new playthrough, select the [Quit Game] option
+and start a new game. 
 
 <<<<<<<
-【アップデート内容について】
-クリア後拠点のサブクエストが１つ追加されました。
+【About Updated Content】
+One paralogue has is noe accessable after beating
+the game.
 
-また周回プレイ特典が実装されました。周回プレイをす
-る場合は、拠点の「終了」を選んで新規ゲームをスタ
-ートしてください。
+There are also new features when playing through
+the game a second time. To start a new 
+playthrough, select the [Quit Game] option and 
+start a new game. 
