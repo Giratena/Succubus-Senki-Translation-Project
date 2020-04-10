@@ -2,10 +2,17 @@ This is fan made translation provided by me! Giratena2008.
 To patch the game, please move "game.exe" and "data.dts" in this 
 folder into the source game folder.
 
-As of now, Ch1~8 has been translated.
+As of now, Ch1~9 has been translated!
 
 If you have any bugs/typos to report, or if you'd like to support the translation,
 please let me know on the translation discord server!-> https://discord.gg/rxsQSPZ
+
+You can also view translation progress on github:
 https://github.com/Theguysayhi/Dreamon-Senki-Translation
 
-Hope you enjoy the game ^^ -Giratena2008
+If you enjoy the English translation, I hope you'll consider supporting me on
+either discord or patreon being a solo translator is tough, so any help
+at all is appreciated ^^
+https://www.patreon.com/Giratena
+
+With all that said, hope you enjoy the game, and enjoy the translation! ^^ -Giratena2008
