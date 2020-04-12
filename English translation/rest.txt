@@ -1,4 +1,4 @@
-<AT40>
+﻿<AT40>
 Lady：上
 Whoa- You've bought quite a bit tonight-
 Thank you♪*
@@ -536,7 +536,7 @@ Ugh, dammit!
 テロップ：中央
 We had reached a dead end.
 The woman who took my things had
-no where left to run.
+nowhere left to run.
 
 Lady：上
 Wait, it's not what you think, ahaha...
@@ -574,7 +574,7 @@ Ray：上
 Uwah...❤
 
 Lady：上
-Oh? The effects are already staring to show.**
+Oh? The effects are already starting to show.**
 That feeling of your penis getting hard and
 your mind starting to go blank?*
 You just swallowed some of my special aphrodisiac-
@@ -759,7 +759,7 @@ you'll never forget the pleasure of
 ejaculating between my breasts ever again-
 But, if you want to experience it again, get some 
 more items from the treasury for us, alright?*
-Ara ara- What a big dopy grin you have.
+Ara ara- What a big dopey grin you have.
 Just like a good domesticated obedient dog-
 Good boy, good boy!❤
 
@@ -837,7 +837,7 @@ got stolen because you were too busy
 ogling my boobies? How embarrassing-
 Anyways-
 You've been talking and staring at my boobies
-for awhile now, you know?
+for a while now, you know?
 You mustn't have wanted your belongings back
 that badly after all-
 Teehee-❤
@@ -948,7 +948,7 @@ Eiyah-❤
 
 Ray：上
 Ah-❤ Afuu-❤
-Amaz, aaah!❤*
+Amaz-aaah!❤*
 My waist, my waist is melting!❤ It's so good!!❤
 Hiayaa!❤❤
 
@@ -1067,7 +1067,7 @@ the cloth seal item before progressing.
 テロップ：中央
 The "Call Mirage" command has now been added
 via the "Gather Information" menu.
-※ Available cloth seal must be unequipped.
+※ Cloth seal must be unequipped.
 
 <TK4>
 テロップ：中央
@@ -1599,7 +1599,7 @@ That is correct.**
 As you are only local mercenaries, I wouldn't
 have expected you to know, but you happened to
 come across a potent combination.
-I'll inform the knights so they can re-organize 
+I'll inform the knights so they can reorganize 
 their chain of command to match this new 
 combination.
 We were only able to retreat, but with this,
@@ -1795,7 +1795,7 @@ of magic. It won't get dirty easily.
 Miles：上
 Let's see here...**
 Hmm, this script kinda looks like squiggly 
-earth worms.*
+earthworms.*
 I can't make heads or tails of it, 
 not to mention reading it.*
 Huh? On this page here,
@@ -2112,7 +2112,7 @@ Fufu- What a bad, bad Hero-
 Although, just this amount of energy isn't enough
 for a complete revival...*
 At most, I'll only be able to come out once 
-in awhile and pester Mr. Ray for a bit.
+in a while and pester Mr. Ray for a bit.
 Even now, I'm already reaching my limit...
 
 Mirage：上
@@ -2124,7 +2124,7 @@ submissively pleasuring you too-.
 Well. It's your life, right?-
 Ugh, I'm already at my limit for today...
 In my current state, I'll only be able to come out
-once in awhile to help Mr. Ray with his urges...
+once in a while to help Mr. Ray with his urges...
 
 Mizuhide：上
 Are you okay Ray!?
@@ -2162,7 +2162,7 @@ I could hear the voice of woman claiming to be
 the Queen, but I couldn't see her figure.*
 Instead, I was overwhelmed by a harem lower level 
 succubus illusions. I fought and drove them away 
-with with my life.
+with my life.
 But the holy sword of light is stronger after all,
 so I guess the Queen's magic must be stronger 
 there.
@@ -2190,7 +2190,7 @@ to suppress the power of curses.*
 When I carried the holy sword around the forest,
 I would carry it around wrapped with this cloth.*
 If you wear it around your body,
-you should be able to suppress curse's effect.
+you should be able to suppress the curse's effect.
 
 Mizuhide：上
 I see. Slightly on topic, I'd like to bring up 
@@ -2294,7 +2294,7 @@ Bye bye-! Come again soon!
 
 テロップ：中央
 And so, we left the village as the Elves 
-bidded us goodbye.
+bid us goodbye.
 
 Chancellor：上
 Knights of the Ninth Order.
@@ -2330,7 +2330,7 @@ In order to prevent the disclosure of information,
 you will only be informed at the time of the 
 event, so keep that in mind.
 But, along with the other soldiers, you must be
-fully prepared to engage the enemy at anytime.
+fully prepared to engage the enemy at any time.
 
 Nobus：上
 Understood.
@@ -2404,7 +2404,7 @@ Not even I know exactly what happened,
 but I'll try my best to explain.*
 But before that, I want to apologise with all 
 my heart... I'm so sorry, what I did 
-was unforgiveable...
+was unforgivable...
 Because of me, I put everyone in great danger.
 I gave the succubi important information. And not
 only that, I gave them the holy swords...
@@ -2516,7 +2516,7 @@ Miles：上
 So, your memory was erased, huh?**
 If you were always trying to deceive us with 
 some hidden agenda, I don't think I'd ever 
-trust you any more.
+trust you anymore.
 But that's not the Nobus I know.**
 Still, if you were under the enemy's spell like
 you say, I think there's some room for forgiveness.*
@@ -2570,7 +2570,7 @@ this, and I want nothing to do with it.
 
 Nobus：上
 But...**
-What I did was unforgiveable...
+What I did was unforgivable...
 Banish me, at least...
 
 Miles：上
@@ -2657,7 +2657,7 @@ if we're all to succeed, we need you.
 If you're ever feeling down in the future,
 you can always talk with Ray or me.*
 As a tactics adviser, if any members of our
-group feel down, I feel as if the fault is mine.
+group feels down, I feel as if the fault is mine.
 The least I can do is listen.
 
 Nobus：上
@@ -2704,8 +2704,8 @@ I'm so sorry, both of you.
 Even despite what I did, you...
 
 テロップ：中央
-And so, we discussed Nobus' situation and
-eventally came to a conclusion.*
+And so, after discussing Nobus' situation,
+we eventually came to a conclusion.*
 .....**
 After everyone had settled down, we spoke to 
 Mizuhide about what had happened and planned
@@ -2883,7 +2883,7 @@ Mileena：上
 \vo[mi45]Mmhmm- I love you too Nobby-❤**
 \vo[mi46]I'll pamper you lots by stroking you with my hand.
 Don't worry about holding back okay?
-Cum when ever you like-❤
+Cum whenever you like-❤
 \vo[mi47]Hora- Stroke stroke- Stroke stroke...❤
 Being touched by my hand feels soo good, 
 doesn't it?
@@ -2916,7 +2916,7 @@ Haaah...❤
 
 Mileena：上
 \vo[mi55](Giggle) It's so cute when my dear Nobby 
-goes absendminded on my lap-❤
+goes absentminded on my lap-❤
 Here, I'll gently stroke your head, okay?
 \vo[mi56]There's still some time before dawn,
 is there anything else you want to talk about?
@@ -3292,7 +3292,7 @@ Elf：上
 Umm, so... 
 I guess that explains why you
 were doing... "that", huh...?
-I don't mean to judge other peoples hobbies...
+I don't mean to judge other people's hobbies...
 But if you really need to do that, "thing" then I 
 think you should probably keep it to your room...
 Yeah... Um, sorry!
@@ -3370,12 +3370,12 @@ overflowing with precum-
 I'll use it all to coat and lubricate the tip
 okay? Ooh yeah- I bet that feels good-*
 You were trying to resist me earlier, but this 
-time you're letting me do what ever I like as 
+time you're letting me do whatever I like as 
 your mouth drools with saliva-
 And even though someone else might see us,
 you're showing no signs of resisting at all-*
 You're just a masochist who lets little girls
-play with him how ever they please-❤ Teehee♪
+play with him however they please-❤ Teehee♪
 
 Ray：上
 Ooh-❤ Oooooh...❤
@@ -3663,7 +3663,7 @@ Ray：上
 Ahh... It's so nice here...
 
 Mirage：上
-Ahh- Bathing in hotwater is really revitalizing huh?-**
+Ahh- Bathing in hot water is really revitalizing huh?-**
 Well I say that, but my body is only an illusion,
 so the water doesn't really do much for me.
 But, it really sets the mood huh? Right?
@@ -3925,7 +3925,7 @@ After we finished drinking, I was asked
 if I would like to stay here for the night.
 It's a good place, and the meals are 
 delicious.* 
-It will be a while before we make our
+It will be awhile before we make our
 way to the capital, so I was thinking of
 setting up base here in the meantime.
 
@@ -4048,7 +4048,7 @@ Huh? You can't? There's something you need to
 prepare for? Hmmph- Our big brother so busy- 
 But hey now...
 Wouldn't it be more fun to play with us rather 
-than do those things...?❤ Eiyah-!
+than doing those things...?❤ Eiyah-!
 
 Ray：上
 ...!
@@ -4082,7 +4082,7 @@ How about it? Just follow us okay...?
 
 Woman：上
 Ahnn-❤
-Don't say such a mean things.*
+Don't say such mean things.*
 Ah that's right- 
 I'll give you my specialty Puff-Puff-❤
 There's no man that can resist this.
@@ -4550,7 +4550,7 @@ Ray：下
 Uh...❤
 
 Woman：下
-Ahnn-❤ Don't say such a mean things.**
+Ahnn-❤ Don't say such mean things.**
 Hora, I'll give you my specialty Puff-Puff. 
 There's no man that can resist me once under 
 these.
@@ -4646,7 +4646,7 @@ stop resisting
 Woman：上
 Ufufu-
 Having raw cowgirl sex while having your face
-buryied between my breasts...❤
+buried between my breasts...❤
 Everyone becomes a regular once we do this.
 
 テロップ：中央
@@ -4755,7 +4755,7 @@ stop resisting.
 Woman：上
 Ufufu-
 Having raw cowgirl sex while having your face
-buryied between my breasts...❤
+buried between my breasts...❤
 Everyone becomes a regular once we do this.
 
 テロップ：中央
@@ -4846,8 +4846,8 @@ Fufu- but even just this feels amazing right?
 Woman：上
 When someone slips between the two of us,
 no man can last longer than three minutes.*
-Fufu... And you're going to ejaculate soon too,
-splurting pathetically between out breasts,
+Fufu... And you're going to ejaculate splurting
+pathetically between our breasts,
 aren't you? Mmhmm-
 
 Woman：上
@@ -5146,7 +5146,7 @@ Aah-❤ Aah-❤ No more-❤
 Uuugh-❤ It feels so good-❤ Aaah-❤
 
 Girl：上
-Ho-ra- Men are easily by defeated by girls.
+Ho-ra- Men are easily defeated by girls.
 It's not like it matters if you're gonna lose to 
 us girls anyway. Teehee- You realize that right?
 
@@ -5220,7 +5220,7 @@ all that boy's money, didn't I?
 Doesn't that make you mad?
 
 Ray：上
-Well thats...❤ You can't jus-❤
+Well that's...❤ You can't jus-❤
 Ah, aaiee-❤
 
 Girl：上
@@ -5278,9 +5278,9 @@ Big brother here was to become a regular customer?*
 Tee-hee... But you'd better make sure you bring 
 lots of money then-❤
 Because we won't do it for free-
-Now, let's say good bye to Mr. Penis by
+Now, let's say goodbye to Mr. Penis by
 rubbing our palms against him... Bye bye!❤
-Lets meet again soon-❤ Pat pat- Rub rub-❤
+Let's meet again soon-❤ Pat pat- Rub rub-❤
 
 Ray：上
 Aiaaah-❤
@@ -5417,7 +5417,7 @@ Ugh, oogh...
 Lady：上
 Ara ara. He may be a fool, but his mind is totally 
 empty, he won't be able to understand you-❤
-Completely lovely dovey, and cute-❤
+Completely lovey dovey, and cute-❤
 Now then.
 Hora- You need to show this guy what you're 
 capable of too.
@@ -5858,7 +5858,7 @@ You drove away the succubi,
 and peace has returned to the village.*
 Oooh... 
 I don't think I can ever forget her though...*
-I know I have to get her our of my head but...
+I know I have to get her out of my head but...
 Ooooh, my priestess...
 
 <CM28>
@@ -6061,7 +6061,7 @@ Mizuhide：上
 I see, I see...
 
 Miles：上
-Hm...? Are you, taking notes?
+Hm...? Are you taking notes?
 You're not writing down what I'm saying, are you?
 
 Mizuhide：上
@@ -6739,7 +6739,7 @@ body heat and smell, even from the shadows.
 Ahh- That's too bad.
 You made such an adorable face when I 
 teased you. It was really fun-
-Well, lets mingle later after the seal is broken.
+Well, let's mingle later after the seal is broken.
 We can continue later if you still feel like it-
 All the best for tomorrow♪ I'll do my best too.
 
@@ -6903,7 +6903,7 @@ Of cause, he was physically strong, but he also
 had strength in his heart...
 Even though everyone called him a monster.
 At any rate, he was someone who managed to do 
-what you all intend on doing, singlehandedly.
+what you all intend on doing, single handedly.
 
 Mizuhide：上
 Mmhmm... I see.
@@ -6945,7 +6945,7 @@ slave, I'll end up hurting everyone I tried to
 save up until now".
 And so, he, willingly...**
 He willingly took his own life.
-Right before he turned to the enemies side.*
+Right before he turned to the enemy's side.*
 The Queen, nearly on the brink of death, was
 not able to absorb his energy because of his
 actions.
@@ -7081,7 +7081,7 @@ Nobus：上
 
 テロップ：中央
 Hm? Where could he be going?
-Nobus started to aimlessly wanter off in a 
+Nobus started to aimlessly wander off in a 
 different direction away from the encampment.
 It seems strange behaviour for being drunk...**
 What should I do...
@@ -7089,7 +7089,7 @@ What should I do...
 テロップ：中央
 Nobus walked to the root of a tree a little 
 further away from the encampment.*
-He sat down, took at blanket out of his bag,
+He sat down, took a blanket out of his bag,
 and lay down on the ground.
 
 ：上
@@ -7212,7 +7212,7 @@ likes- So? What do you want me to do?*
 Would you like me to stroke you up and down with 
 my hands? Make you melt with the suction of my
 mouth? Or maybe... 
-You'd like to me to step on you with my feet?**
+You'd like me to step on you with my feet?**
 I really feel like a handjob right now though-
 So- What do you think Ray?
 Want me to grasp your penis with my hands?
@@ -7363,7 +7363,7 @@ Elf：上
 Umm, so... 
 I guess that explains why you
 were doing... "that", huh...?
-I don't mean to judge other peoples hobbies...
+I don't mean to judge other people's hobbies...
 But if you really need to do that, "thing" then I 
 think you should probably keep it to your room...
 Yeah... Um, sorry!
@@ -7391,7 +7391,7 @@ and disappeared.
 
 <CM57-2>
 Mirage：上
-Mm-? You summoned be again, what's wrong?
+Mm-? You summoned me again, what's wrong?
 Could you have wanted me to make you feel good-?
 
 Mirage：上
@@ -7434,12 +7434,12 @@ overflowing with precum-
 I'll use it all to coat and lubricate the tip
 okay? Ooh yeah- I bet that feels good-*
 You were trying to resist me earlier, but this 
-time you're letting me do what ever I like as 
+time you're letting me do whatever I like as 
 your mouth drools with saliva-
 And even though someone else might see us,
 you're showing no signs of resisting at all-*
 You're just a masochist who lets little girls
-play with him how ever they please-❤ Teehee♪
+play with him however they please-❤ Teehee♪
 
 Ray：上
 Ooh-❤ Oooooh...❤
@@ -7510,7 +7510,7 @@ I place it over someone's head, and then it
 identifies if they're human or not.
 They've only just been distributed to important
 cities such as the royal capital. But thanks to
-this, we can prevent demons from infiltrating.
+This way, we can prevent demons from infiltrating.
 It's quite worrisome when you know they can
 disguise themselves as humans after all, so 
 Princess Esuna's inventions have been a huge help.
@@ -7583,7 +7583,7 @@ Ah, I see. Thanks for letting me know...**
 ...**
 Ah, Ray!**
 Yeah, we've stayed at that inn awhile now.
-I guess wanted to stick with something familiar. I 
+I guess I wanted to stick with something familiar. I 
 was asking some people in town about it, actually.
 I guess I'd better find someplace new to stay.**
 (Sigh...)**
@@ -7662,7 +7662,7 @@ clothing and slowly exposed her breasts.
 
 Greisa：上
 Fufu- No one around will see this so don't 
-worry you can rest easy. From here, you're is the 
+worry you can rest easy. From here, you're the 
 only person who can see anything.
 So? Are you sure you don't want to have a good 
 time with us?*
@@ -7705,7 +7705,7 @@ You want to slip that big thing between
 something don't you?
 
 テロップ：中央
-Dispite having no business there, I entered the 
+Despite having no business there, I entered the 
 bar and went towards the two women who talked to 
 me the other day.
 
@@ -7869,7 +7869,7 @@ fuck your penis make you want to touch them?
 What a perv-❤
 But that's fine by me. You can touch them
 as well. If you can manage, that is-
-I'll cursh your penis with my soft breasts!
+I'll crush your penis with my soft breasts!
 
 Ray：上
 Ahiee!❤❤ Aah, too, too fast...!❤
@@ -7933,7 +7933,7 @@ Mm? You're worried about the mark on my tongue?
 Well, you'll find out later in a bit-
 Let's not think about such complicated things
 right now, just enjoy the pleasure.
-Check it out- I'll use my tounge to scrub the
+Check it out- I'll use my tongue to scrub the
 length of your penis and head to make you 
 instantly cum over and over again-❤
 
@@ -8022,7 +8022,7 @@ Greisa：上
 For example, if I placed the servant crest on 
 someone's penis, and then squeezed it between my 
 breasts...❤
-My paizuri would feel so overwhemingly pleasurable,
+My paizuri would feel so overwhelmingly pleasurable,
 any man would be rendered completely mindless-*
 In short, all of your allies are our slaves.
 They can't live without us anymore-
@@ -8202,10 +8202,10 @@ Who's the third?
 
 Greisa's Friend：上
 That's the third person...
-And, the forth?
+And, the fourth?
 
 Greisa's Friend：上
-Forth person, check!
+Fourth person, check!
 And now, who's the last person?
 
 Greisa's Friend：上
@@ -8346,7 +8346,7 @@ the fate of the battle, I guess it's only natural
 I feel a little nervous.
 Nevertheless, this is no five star hotel either,
 sleeping in a room like this.*
-And with the guard standing in the door way,
+And with the guard standing in the doorway,
 it feels like I'm under house arrest!
 
 <CM56>
@@ -8648,14 +8648,14 @@ his horse and rode off with his subordinates.
 Man：上
 I would have never expected soldiers to show up
 in this village in the country.*
-Our village is known for it's renowned hot springs.
+Our village is renowned for it's hot springs.
 Please, rest as much as you need.
 
 <CM81>
 Man：上
 Hey man! Walking around a place like this...
 Are you here to check out the nightlife?
-There's tons of stuff to to check out around here.
+There's tons of stuff to check out around here.
 The other town next to this one may be famous for
 it's blacksmiths, but almost all women are
 prohibited there.
@@ -8912,7 +8912,7 @@ Ray：上
 Ahh... It's so nice here...
 
 Mirage：上
-Ahh- Bathing in hotwater is really revitalizing huh?-**
+Ahh- Bathing in hot water is really revitalizing huh?-**
 Well I say that, but my body is only an illusion,
 so the water doesn't really do much for me.
 But, it really sets the mood huh? Right?
@@ -11072,7 +11072,7 @@ Girl：上
 <CM125>
 テロップ：中央
 While walking down the street with a bag of items
-from the treasury, I hear footsteeps behind me.
+from the treasury, I hear footsteps behind me.
 
 Lady：上
 きゃ！**
