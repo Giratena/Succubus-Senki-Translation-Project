@@ -137,34 +137,34 @@
 
 <MC15>
 テロップ：中央
-直前のターンに使用したので、
-まだ使用することができない！
+You can't use this on the turn
+after you used it!
 
 <MC32>
 Miles：上
-くっ・・・。もう持たねえか。
-体から力が抜けて・・・。
+Ugh... It's gone already?
+I can feel my strength fading...
 
 <MC18>
 Miles：上
-くっ・・・。もう持たねえか。
-体から力が抜けて・・・。
+Ugh... It's gone already?
+I can feel my strength fading...
 
 <MC19>
 Ray：上
-ううっ・・・・。聖剣の力が・・・。
+Uugh... The power of the holy sword is...
 
 <MC14>
 Ray：上
-ううっ・・・・。聖剣の力が・・・。
+Uugh... The power of the holy sword is...
 
 <MC4>
 テロップ：中央
-お金を発見した！
+Obtained Gold!
 
 <MC40>
 テロップ：中央
-お金を発見した！
+Obtained Gold!
 
 <MC115>
 ドレインインプ：上

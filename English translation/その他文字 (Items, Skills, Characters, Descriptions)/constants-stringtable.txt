@@ -28,7 +28,7 @@ var StringTable = {
 	Marshal_UnitStatus: 'Check unit statuses.',
 	Marshal_Shop: 'Buy items',
 	Marshal_Bonus: 'Exchange renown for items.',
-	Marshal_ItemUse: 'Use items',
+	Marshal_ItemUse: 'Use items.',
 	Marshal_ClassChange: 'Change a unit\'s class.',
 	
 	ItemUse_Unit: 'Ally',
@@ -89,7 +89,7 @@ var StringTable = {
 	
 	ItemChange_UnitItemFull: 'Unit cannot hold any more items.\nPlease press the cancel or confirm key.',
 	ItemChange_TradeTitle: 'Exchange with this item?',
-	ItemChange_StockSendTitle: 'Sent this item to the convoy?',
+	ItemChange_StockSendTitle: 'Send this item to the convoy?',
 	ItemChange_StockThrowTitle: 'Discard this item?',
 	ItemChange_StockItemFull: 'The convoy is full.\nPlease exchange or discard an item.',
 	ItemChange_TargetItem: 'Target Item',
@@ -144,10 +144,10 @@ var StringTable = {
 	ReverseWeapon_Magic: 'Mag.',
 	ReverseWeapon_Physics: 'Phys.',
 	
-	MapPosChoose_Unit: 'Is this unit ok?',
-	MapPosChoose_Pos: 'Is this position ok?',
+	MapPosChoose_Unit: 'Is this unit okay?',
+	MapPosChoose_Pos: 'Is this position okay?',
 	
-	Discard_Warning: 'This item cannot be discareded.',
+	Discard_Warning: 'This item cannot be discarded.',
 	
 	StockItem_ItemDiscard: 'Throw away this item?',
 	StockItem_Extract: 'Take',
@@ -208,7 +208,7 @@ var StringTable = {
 	
 	DurabilityType_Max: 'Full Recovery',
 	DurabilityType_Half: 'Halve',
-	DurabilityType_Break: 'Destoryed',
+	DurabilityType_Break: 'Destroyed',
 	
 	Chapter_Header: 'Chapter ',
 	Chapter_Footer: '',

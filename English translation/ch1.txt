@@ -14,7 +14,7 @@ but please, use this to get rid of the fiends.
 - X: Cancel
 - Blue Tiles indicate spaces units may move
 - Red Tiles indicate spaces units may attack
-- Left Ctl Key: Skip Dialogue
+- Left Ctrl Key: Skip Dialogue
 - Right Click/Space Bar: Skip Events
 - F4 Key: Full Screen
 - The Mouse is also compatible
@@ -24,7 +24,7 @@ How to play:
 1. Select a Unit
 2. Choose where to move
 3. Attack an enemy
-The enemys turn follows when 
+The enemy's turn follows when 
 all ally units have acted.
 
 情報：情報
@@ -90,7 +90,7 @@ Village Girl：上
 Ooh, my HP has become 1 again...**
 Ufufu- you already know what you want your big 
 sister to do, don't you?*
-Hora- Just relax, okay?-❤
+Hora- Just relax, okay?❤
 I can suck more of your energy right?
 
 テロップ：中央
@@ -144,7 +144,7 @@ Ufufu, even though I just inserted it,
 the pleasure is unbearable right?*
 If you accept the pleasure, it'll feel even
 better than if you were resisting～*
-So... Hora. You want more of this pleasure right?
+So... Hora- You want more of this pleasure right?
 
 Village Girl：上
 Aaah～
@@ -549,7 +549,7 @@ Shoot even more, shoot until you die...
 It's the best～❤
 
 Determined Girl：上
-Hora hora. How does it feel to have your 
+Hora Hora- How does it feel to have your 
 face jostled between my breasts?～❤*
 It's like heaven right?
 Drown in the breasts of your enemy,
@@ -600,7 +600,7 @@ Village Girl：上
 Alright, time to go to the next village.
 
 Determined Girl：上
-Mmhm-♪ I'm looking forward to it～
+Mmhm♪ I'm looking forward to it～
 
 <TK0>
 Ray：上
@@ -654,7 +654,7 @@ Ah, ooaaah～❤
 Succubus：上
 Ara ara- Does it feel good 
 to be made stupid?*
-If I whisper in your ear like this...*
+If I whisper in your ear like this...
 It's like my succubus voice is melting
 your ears right?～❤
 Fufu...～❤
@@ -1144,7 +1144,7 @@ Nobus：上
 
 Miles：上
 If we can defend this town, we'll hit it huge!
-Lets do this!
+Let's do this!
 
 Ray：上
 ...
@@ -1178,3 +1178,6 @@ from the villagers!
 
 テロップ：中央
 All units gained experience.
+
+
+

@@ -31,11 +31,11 @@ all ally units have acted.
 [ch4]
 <<<<<<<
 The succubus' aroma will drift into the map every 
-3 turns. It divides affect unit's willpower by 3,
+3 turns. It reduces the affected unit's willpower to one third,
 and inflicts the 'arousal' status.
 
 You can cure this status by using Princess Estuna's
-amulet. It can be used indefinitely, but not
+amulet. It can be used infinitely, but not
 consecutively. Use it wisely.
 
 [ch5]
@@ -45,7 +45,7 @@ Units under the effect of this status will
 automatically take a suicidal option on their 
 turn.
 <<<<<<<
-Units cannot be controled when seduced, and
+Units cannot be controlled when seduced, and
 this state usually lasts for two turns.
 <<<<
 ここで冒険をあきらめますか？
@@ -53,31 +53,33 @@ this state usually lasts for two turns.
 [ch9]
 <<<<<<<
  【Victory Condition】
-Reach the capture point
+Reach the capture point.
 
 
 [rest]
 <<<<<<<
 【About Special Options】
-拠点にある「特殊オプション」を選択すると、
-主人公の顔グラを変更したり、
-難易度を変更することができます。
+When selecting [Special Options], you can change
+various game settings such as chaging the 
+protagonist's face, or the game difficulty.
 
 <<<<<<<
-【クリア後拠点について】
-クリアおめでとうございます。
-クリア後の拠点では、「情報収集」から、
-拠点イベントの回想ができます。
+【After Clearing the Game】
+Congradulations on beating Succubus Senki!
+After beating the game, you can revisit any town
+events from the [Investigate] menu.
 
-２週目以降のプレイには特典があります。周回プレイを
-する場合は、拠点の「終了」を選んで新規ゲームをス
-タートしてください。
-
+You now have access some extra features when 
+playing through the game a second time. To start 
+a new playthrough, select the [Quit Game] option
+and start a new game. 
 
 <<<<<<<
-【アップデート内容について】
-クリア後拠点のサブクエストが１つ追加されました。
+【About Updated Content】
+One paralogue has is noe accessable after beating
+the game.
 
-また周回プレイ特典が実装されました。周回プレイをす
-る場合は、拠点の「終了」を選んで新規ゲームをスタ
-ートしてください。
+There are also new features when playing through
+the game a second time. To start a new 
+playthrough, select the [Quit Game] option and 
+start a new game. 

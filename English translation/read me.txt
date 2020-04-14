@@ -1,11 +1,22 @@
-This is fan made translation provided by Giratena2008.
+This is fan made translation provided by me! Giratena2008.
 To patch the game, please move "game.exe" and "data.dts" in this 
-folder into the source game folder.
+folder into the source game folder. 
 
-As of now, Ch1~5=7 has been translated.
+To add the extra voices for Mileena, Cherish, Luminara, and Alice,
+Unzipe the file named 追加ボイス.zip, and place the contents in
+Materials > Voice. These characters will now have voiced dialogue!
+
+As of now, Ch1~9 has been translated!
 
 If you have any bugs/typos to report, or if you'd like to support the translation,
 please let me know on the translation discord server!-> https://discord.gg/rxsQSPZ
+
+You can also view translation progress on github:
 https://github.com/Theguysayhi/Dreamon-Senki-Translation
 
-Hope you enjoy the game ^^
+If you enjoy the English translation, I hope you'll consider supporting me on
+either discord or patreon being a solo translator is tough, so any help
+at all is appreciated ^^
+https://www.patreon.com/Giratena
+
+With all that said, hope you enjoy the game, and enjoy the translation! ^^ -Giratena2008
