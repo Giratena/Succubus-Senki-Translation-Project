@@ -16,7 +16,7 @@ https://github.com/Theguysayhi/Dreamon-Senki-Translation
 
 If you enjoy the English translation, I hope you'll consider supporting me on
 either discord or patreon being a solo translator is tough, so any help
-at all is appreciated ^^
+at all is appreciated and helps me work on translations more ^^
 https://www.patreon.com/Giratena
 
 With all that said, hope you enjoy the game, and enjoy the translation! ^^ -Giratena2008
