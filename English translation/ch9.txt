@@ -121,18 +121,17 @@ Mizuhide：上
 From here on out, there'll be many other soldiers
 from within the castle, so proceeding through the
 castle may prove difficult.
-So, let's continue onwards to where the queen 
-resides on top floor before any reinforcements 
-arrive!
+So, let's continue onwards to the queen on the top
+floor, before any reinforcements arrive!
 
 Miles：上
 The stairs to the top floor must be up ahead. We
 should make that our goal. 
 
 Mizuhide：上
-Indeed, if we manage to make it that far, I will
-set up the magical barrier I brought with me and 
-cordon off any reinforcements.
+Indeed, if we manage to make it that far, I can 
+cordon off any reinforcements with the magical
+barrier I brought with me.
 
 情報：情報
  【Victory Condition】
