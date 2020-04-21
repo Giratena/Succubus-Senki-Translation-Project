@@ -1,9 +1,13 @@
 # Succubus-Senki-Translation
-Translations for Succubus Senki, scripts will be sent to the developer who will then patch them into the game.
+IMPORTANT NOTE: You cannot patch the game with these files. 
+The game comes with the most up to date version on Dlsite! 
+
+This is the translation script for Succubus Senki. I translate the script and send it to
+the developer who patches them into the game!
 Check out our discord here! https://discord.gg/QJppHcu
 If you like my translations, consider supporting me on patreon! -> https://www.patreon.com/Giratena
 
-The following FAQ has been taken from the Succubus Senki Server.
+The following FAQ has been taken from the Succubus Senki Discord Server.
 All channels discribed refer to the channels within the discord server.
 
 
