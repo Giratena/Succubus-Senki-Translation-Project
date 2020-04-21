@@ -6,6 +6,7 @@ This is the translation script for Succubus Senki. I translate the script and se
 the creator of the game who patches them into the game!
 
 Check out our discord here! https://discord.gg/QJppHcu
+
 If you like my translations, consider supporting me on patreon! -> https://www.patreon.com/Giratena
 
 The following FAQ has been taken from the Succubus Senki Discord Server.
