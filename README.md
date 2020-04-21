@@ -1,6 +1,6 @@
 # Succubus-Senki-Translation
 IMPORTANT NOTE: You cannot patch the game with these files. 
-The game comes with the most up to date version on Dlsite! 
+The most recent patch can be found whenever the game is updated on Dlsite.
 
 This is the translation script for Succubus Senki. I translate the script and send it to
 the developer who patches them into the game!
