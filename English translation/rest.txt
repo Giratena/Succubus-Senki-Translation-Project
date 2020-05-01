@@ -8985,12 +8985,9 @@ We should be safe inside the barrier for now.*
 Hm? Why I didn't activate it when we were being 
 ambushed? Well the truth is, because of the way 
 the device works, it can only be used indoors.
-It relies on the space between walls and ceilings
-to sustain the barrier so even if used outside,
-it wouldn't be stable at all.
-壁や天井をベースにして、
-足りない部分を結界で補う作りなので、
-屋外で使っても結界を維持できないんです。
+The barrier relies on the space between walls 
+and ceilings to sustain itself, so even if I 
+used it outside, it wouldn't be easy to maintain.
 
 Mizuhide：上
 ちなみに、この結界装置はエスナ姫の特製品でして、
