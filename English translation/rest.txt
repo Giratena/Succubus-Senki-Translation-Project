@@ -8980,12 +8980,14 @@ My strength was squeezed by Mirage...
 
 <CM62>
 Mizuhide：上
-ふぅ・・・。
-結界の中だと安心できますね。*
-ん？どうして結界を、
-奇襲されたときに張らなかったのか、ですか？*
-それは、この手の結界装置は、
-基本的に室内でしか使えないからです。*
+Phew...
+We should be safe inside the barrier for now.*
+Hm? Why I didn't activate it when we were being 
+ambushed? Well the truth is, because of the way 
+the device works, it can only be used indoors.
+It relies on the space between walls and ceilings
+to sustain the barrier so even if used outside,
+it wouldn't be stable at all.
 壁や天井をベースにして、
 足りない部分を結界で補う作りなので、
 屋外で使っても結界を維持できないんです。
