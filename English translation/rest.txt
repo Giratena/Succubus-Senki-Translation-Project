@@ -9020,16 +9020,16 @@ Nobus：上
 Huff... Puff...
 I rushed over here as fast as a could, so my
 breathing is rough.
-Our enemies may be extremely strong, but with
-your strength guiding us, we can fight.*
+Our enemies may be extremely strong, but with your
+strength guiding us, we can still take them on.*
 When the holy sword recoil kicks in, you can count
 on me to shield everyone the best I can.
 
 <CM73>
 Leon：上
-レシナの街でレイ団長に声をかけてから、
+with the town of Reshina でレイ団長に声をかけてから、
 ついにここまで来ました・・・。*
-地元ではあまりうだつの上がらない毎日。
+地元ではあまりうだつの上がらない毎日。 
 レイさんに声をかけて本当に正解でしたよ。*
 家には兄さんたちや妹がいます。
 彼らにしっかり報奨金を持ち帰ってあげたいです。*
