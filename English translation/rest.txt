@@ -9027,43 +9027,48 @@ on me to shield everyone the best I can.
 
 <CM73>
 Leon：上
-with the town of Reshina でレイ団長に声をかけてから、
-ついにここまで来ました・・・。*
-地元ではあまりうだつの上がらない毎日。 
-レイさんに声をかけて本当に正解でしたよ。*
-家には兄さんたちや妹がいます。
-彼らにしっかり報奨金を持ち帰ってあげたいです。*
-今のうちに、団員の体力はわたしが回復します。
-万全の状態で、上の階へ上り、
-きっと女王を倒しましょう！
+It's been awhile since I called out to you in the 
+town of Reshina, and we've finally come this 
+far...
+The days that passed in my hometown were desolate
+of hope. Meeting you was truly the right call to
+make.
+I have brothers and sisters at home. When I get 
+back, I hope to bring back something worthy of
+celebration.
+For now, I'll do my best to aid our allies.
+Let's advance up the stairs when we're ready.
+There's no doubt we will defeat the Queen!
 
 <CM63>
 Slime Succubus：上
-えいやぁ！
+Aaugh!
 
 テロップ：中央
-結界のはての方を見ると、
-サキュバスが中に侵入しようと
-あれこれ試みているのが見えた。
-槍で斬りつけたりしているようだが、
-結界はビクともしない。
-さすがはミツヒデの結界だ。
+Upon looking at the other end of the barrier,
+various succubus can be seen trying various
+things in an attempt to get past.
+Despite slashing at it with their spears, the
+barrier was unmoving. As one would expect from
+Mizuhide's barrier.
 
 Slime Succubus：上
-ううっ、だめです。全然ビクともしません・・・。
+Oogh, it's no use. I can't even make as much as
+a dent...
 
 メイドサキュバスA：上
-物理的に破壊するのは難しそうですね。**
-魔法はどうでしょうか。
-んっ、ちゅっ❤
+It seems difficult to destroy physically doesn't
+it?*
+How about a little magic then?
+Mmwah-❤
 
 テロップ：中央
-メイドのサキュバスが投げキッスをすると、
-ハート型の魔力がふわふわと飛び、
-結界にぶつかった。
-ハートは結界をすり抜けたが、
-すぐに光が薄くなり消えてしまった。
-どうやら魔法も無効化してしまうようだ。
+When the maid succubus blew a kiss, the heart
+shaped magic lightly flew with a gentle pulse
+and struck the barrier.
+The heart slipped through the barrier and quickly
+faded into thin air. Apparently it seemed to 
+nullify magic as well.
 
 メイドサキュバスA：上
 少しであれば、透過するようですが、
