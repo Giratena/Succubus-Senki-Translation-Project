@@ -8990,34 +8990,40 @@ and ceilings to sustain itself, so even if I
 used it outside, it wouldn't be easy to maintain.
 
 Mizuhide：上
-ちなみに、この結界装置はエスナ姫の特製品でして、
-普通の結界装置と違って、結界外に魔力タンクを
-置かなくてもいいという特徴があります。
-けっこう前になりますが、
-王立学園で淫魔に襲われたときも、
-この装置のおかげでボクは命拾いしました。
-レイさんたちとエスナ姫には感謝してもしきれません。
-その恩を返すためにも、僕は身命を賭して
-レイさんたちと一緒に戦う覚悟です。
+By the way, this barrier device is specifically
+made by Princess Etsuna. Unlike other barriers,
+it doesn't require a magic generator to use.
+It was quite awhile ago, but when the succubus 
+attacked the royal acadamy, this was the
+device that saved me.
+I can't thank your group and Princess Etsuna 
+enough.*
+So, If it means I can return the favour for
+all that you've done, I'm prepared risk my life 
+fighting with you.
 
 Mizuhide：上
-以前もお話しましたが、
-この結界装置はエスナ姫の特製品でして、
-結界外に魔力タンクを置かなくてもいいのが強みです。
-けっこう前になりますが、
-王立学園で淫魔に襲われたときも、
-この装置のおかげでボクは命拾いしました。
-レイさんたちとエスナ姫には感謝してもしきれません。
-その恩を返すためにも、僕は身命を賭して
-レイさんたちと一緒に戦う覚悟です。
+I mentioned this earlier, but this barrier was
+made specifically by Princess Etsuna. Unlike
+other barriers, it doesn't need a magic tank.
+It was quite awhile ago, but when the succubus 
+attacked the royal acadamy, this was the
+device that saved me.
+I can't thank your group and Princess Etsuna 
+enough.*
+So, If it means I can return the favour for
+all that you've done, I'm prepared risk my life 
+fighting with you.
 
 <CM72>
 Nobus：上
-はぁ、はぁ・・・。
-ここまで大急ぎで来たから、息が上がりそうだ。*
-敵はけっこう強いけど、レイたちの力があれば戦える。
-聖剣の反動が来たときは、
-俺が少しでも盾になれるよう頑張るよ。
+Huff... Puff...
+I rushed over here as fast as a could, so my
+breathing is rough.
+Our enemies may be extremely strong, but with
+your strength guiding us, we can fight.*
+When the holy sword recoil kicks in, you can count
+on me to shield everyone the best I can.
 
 <CM73>
 Leon：上
