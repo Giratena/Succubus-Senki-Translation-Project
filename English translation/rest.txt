@@ -9071,35 +9071,38 @@ faded into thin air. Apparently it seemed to
 nullify magic as well.
 
 メイドサキュバスA：上
-少しであれば、透過するようですが、
-結界に入ってすぐに消えてしまいますね。*
-これでは、奥にいる侵入者に当てるのは難しそうです。
-むぅ・・・、困ったものです。
+Well, that seemed to penatrate the barrier for a 
+little bit, but it vanishes almost instantly.
+Hitting the intruders inside like this would be
+difficult. Oogh... I'm starting to really worry.
 
 Slime Succubus：上
-早く突破しないと女王様が・・・。
+If we don't break through quickly, our Queen 
+will be...!
 
 メイドサキュバスA：上
-あなたたちはひとまずもう一度魔力結晶を探しなさい。
-結界の外には必ず、魔力結晶があるはずです。
+Ok, for now, search again for any magical storage
+crystals. For a magical barrier to exists, I 
+expect they must be using one somewhere.
 
 Slime Succubus：上
-はい、わかりました！
+Yes! Understood!
 
 メイドサキュバスA：上
-さて、どうするか・・・。**
-うむ・・・・。
-ん、あれは？
+Now then, what to do...**
+Ugh...
+Hm? What's this?
 
 テロップ：中央
-メイドは、離れたところから様子を見ていた
-僕に気が付いた。*
-スカートの端を持ち上げながら、
-深々とおじぎをすると僕に話しかけてきた。
+The maid noticed I was watching them from a
+distance.*
+She took a quiet bow while lifting the edges of 
+her skirt, and began talking to me.
 
 メイドサキュバスA：上
-どうも。こんにちは。お客様。
-お見苦しいところをお見せしました。*
+How do you do? I did not see you there, dear 
+guest. I... exposed a rather unsightly part of 
+my personality.
 噂に聞く英雄の騎士団なだけあって、
 城内にまで侵入した手筈、お見事でしたわ。*
 この結界もたいそう堅固なものですね。
