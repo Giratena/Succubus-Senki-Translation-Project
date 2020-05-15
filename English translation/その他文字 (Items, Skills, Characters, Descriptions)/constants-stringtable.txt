@@ -69,7 +69,7 @@ var StringTable = {
 	Config_MouseOperation: 'Mouse Functionality',
 	Config_MouseOperationDescription: 'Toggle mouse support.',
 	Config_MouseCursorTracking: 'Mouse Cursor',
-	Config_MouseCursorTrackingDescription: 'Set the cursor to pursue the mouse movements.',
+	Config_MouseCursorTrackingDescription: 'Set the cursor to pursue mouse movements.',
 	Config_Voice: 'Voice Volume',
 	Config_VoiceDescription: 'Set the voice volume',
 	Config_RealBattleScaling: 'Magnified combat screen',
