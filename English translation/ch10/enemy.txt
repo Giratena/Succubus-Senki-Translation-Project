@@ -1,4 +1,4 @@
-<(65538)乳魔アリス@11>
+<(65538)Alice@11>
 アクティブ：上
 \vo[a195]Here I go!❤
 Energy Drain, Giga!
@@ -19,10 +19,10 @@ Ehehe, useless, useless!
 That holy sword barrier is so strong, not even
 Alice can break it!
 
-<(65538)乳魔アリス@258>
+<(65538)Alice@258>
 アクティブ：上
-\vo[a195]いっくよー❤
-エイジドレイン・ギガ！
+\vo[a195]Here I go!❤
+Energy Drain, Giga!
 
 タイトル：中央
 Giga Energy Drain (Mini++ on all units)
@@ -42,72 +42,72 @@ You blocked my spell with that barrier!*
 wrapped up in Alice's boobies?
 Even though it would feel soo good...❤
 
-<(65538)乳魔アリス@2>
+<(65538)Alice@2>
 アクティブ：上
-Come to me, my dollies!
+Come to me, my dolls!
 
 タイトル：中央
 Summon Marionettes
 
-<(65538)乳魔アリス@4>
+<(65538)Alice@4>
 アクティブ：上
-さらにもう一個追加しちゃうよ！
-おっぱい人形の群れに溺れちゃえ！
+Let's add some more to the mix!
+Drown in my swarm of boobie dolls!
 
 タイトル：中央
 Summon Marionettes
 
-<(65538)乳魔アリス@1>
+<(65538)Alice@1>
 アクティブ：上
-うふふ。さらに追加の仲間を呼んであげる！
+Ufufu, I'll summon even more allies!
 
 タイトル：中央
-マジックチャージ
+Magic Charge
 
-<(65538)乳魔アリス@3>
+<(65538)Alice@3>
 アクティブ：上
-まだまだお人形のストックはいっぱいあるんだから！
+There's more dolls where that came from!
 
 タイトル：中央
-マジックチャージ
+Magic Charge
 
-<(65538)乳魔アリス@10>
+<(65538)Alice@10>
 アクティブ：上
-\vo[a194]さあ、
-お兄さんたちの体をみんな小さくしてあげる❤
+\vo[a194]Come on, I'll make all my big brother's
+bodies smaller-❤
 
 タイトル：中央
-マジックチャージ
+Magic Charge
 
-<(65538)乳魔アリス@255>
+<(65538)Alice@255>
 アクティブ：上
-\vo[a194]さあ、
-お兄さんたちの体をみんな小さくしてあげる❤
+\vo[a194]Come on, I'll make all my big brother's
+bodies smaller-❤
 
 タイトル：中央
-マジックチャージ
+Magic Charge
 
-<(65538)乳魔アリス@256>
+<(65538)Alice@256>
 アクティブ：上
-\vo[a194]さあ、
-お兄さんたちの体をみんな小さくしてあげる❤
+\vo[a194]Come on, I'll make all my big brother's
+bodies smaller-❤
 
 タイトル：中央
-マジックチャージ
+Magic Charge
 
-<(65538)乳魔アリス@257>
+<(65538)Alice@257>
 アクティブ：上
-\vo[a194]さあ、
-お兄さんたちの体をみんな小さくしてあげる❤
+\vo[a194]Come on, I'll make all my big brother's
+bodies smaller-❤
 
 タイトル：中央
-マジックチャージ
+Magic Charge
 
-<(65538)乳魔アリス@0>
+<(65538)Alice@0>
 アクティブ：上
-\vo[a283]体、そんなに小さくなっても、
-ちゃんとアリスに立ち向かおうとするんだ？
-えらいね❤
+\vo[a283]You're seriously trying to oppose Alice,
+even with such a small body?
+That's amazing-❤
 \vo[a284]それじゃあ、そんなお兄さんに、
 アリスからご褒美だよ❤
 
