@@ -108,11 +108,11 @@ Magic Charge
 \vo[a283]You're seriously trying to oppose Alice,
 even with such a small body?
 That's amazing-❤
-\vo[a284]それじゃあ、そんなお兄さんに、
-アリスからご褒美だよ❤
+\vo[a284]Well then. Such a good big brother,
+deserves a reward from Alice!❤
 
 アクティブ：上
-\vo[a296]くすくす。ずいぶん小さくなっちゃったね、
+\vo[a296]Teehee- ずいぶん小さくなっちゃったね、
 お兄さん❤小っちゃくなっちゃうと、
 だんだん理性も働かなくなってくるでしょ？
 \vo[a297]難しいこと考えられなくなって、
