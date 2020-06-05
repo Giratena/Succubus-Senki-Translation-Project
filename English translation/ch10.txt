@@ -3874,10 +3874,11 @@ enemies. The enemy boss is in front, and the
 other succubus are to the left and right.
 
 Miles：上
-俺たちは三方向から包囲されている形だ。
-決してこちらに有利な布陣とは言えないな。*
-この状況を打破するために取れる手としては、
-３つあると思うぜ。*
+The dolls have us surrounded from three 
+directions. I can't say this is the best
+position to be in.
+The way I see it, there are three possible ways
+to break through this situation.*
 １つ目が、速攻で左右の淫魔を倒す作戦だ。
 雑魚を手早く始末できれば、
 そこからは敵のリーダーに集中できるだろう。
