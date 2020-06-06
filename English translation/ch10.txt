@@ -3688,67 +3688,69 @@ Skip the opening?
 
 <OP0>
 テロップ：中央
-わずかな小休止のあと、
-僕たちは階段を上り、
-女王のいる最上階を目指していた。
-結界で道をふさいだおかげで、
-背後から襲われる心配はない。
-今は急いで駆け上がることだけが重要だ。
+After a short break, we went up the stairs and
+headed for the top floor, where the queen 
+resides.
+Thanks to the magic barrier, there was no fear
+of being attacked from behind. Now all that 
+mattered was to rush up and continue onwards.
 
 Mizuhide：上
-目の前にある扉を開ければ、
-小部屋に出ます。*
-そこを突破すれば、最上階までもうすぐのはずです。
+We can leave through this small room by opening
+this door.*
+If we can break through this point, I expect we
+will reach the top floor very soon.
 
 Nobus：上
-おい、あれは・・・！
+Hey, that's...!
 
 Alice：上
-\vo[a180]階下が騒がしいと思っていたけど、
-ふふ。奇襲してきたのって
-英雄のお兄さんたちだったんだ。
-\vo[a181]あたし、ずっと退屈してたの。
-誰と戦っても、
-みんなすぐにアリスのおっぱいに負けちゃうから。
-\vo[a182]でも、お兄さんたちは違ったね。**
-\vo[a183]今度は油断なんてしない。
-さあ、アリスといっぱい遊ぼう！
+\vo[a180]I thought it was noisy downstairs, fufu-
+So it was my big brothers making their heroic 
+surprise attack!
+\vo[a181]I've been soo bored lately...
+Because matter who I fight, everyone immediately 
+loses to Alice's boobies-
+\vo[a182]But, my big brothers are different right?**
+\vo[a183]This time I won't be so careless.
+Now, Alice is gonna play with you lots!
 
 Miles：上
-聖剣を解放したときに襲ってきた、
-上級淫魔じゃねえか！*
-レイが深手を負わせたと思ったが、
-まだ生きていやがったのか。
+Hey! You're the advanced succubus that attacked us
+when we released the holy sword aren't you!*
+I thought Ray defeated you for good, how are you 
+still alive?
 
 Mizuhide：上
-Alice。
-かつての僕は、あなたに手も足も出ずに敗れ、
-醜態をさらしました。
-しかし、今度は負けません。**
-僕たち人間が勝つためにも、
-あなたにはそこをどいてもらいます！
+Alice.
+Before, I disgraced myself because my hands and 
+feet were bound and I couldn't move.
+However, this time I won't lose.**
+So for the sake of human kind, we will cast you
+out here and now!
 
 Alice：上
-\vo[a184]きゃは。そうこなくっちゃ❤
+\vo[a184]Kyaha- That's the spirit❤
 
 Alice：上
-\vo[a185]でもでも、一回あたしに挟まれちゃった人は
-あたしのおっぱいの味、覚えているよね？*
-\vo[a186]起きていても寝ていても、
-ずーっと頭から離れないアリスのおっぱいの感触❤*
-\vo[a187]なんなら、寝返っちゃう？
-あたしの味方になったら、
-このおっぱいでたくさん気持ちいいことしてあげるよ。
-\vo[a188]ほらほらー❤
-いっぱい見せつけちゃうんだから。
+\vo[a185]But but! Someone who's been caught by 
+me once... still remembers the experience of my 
+boobs right?
+\vo[a186]Whether your awake, or sleeping...
+Never leaving your mind, the feel of Alice's boobs❤*
+\vo[a187]If you like, why don't you betray everyone now?
+If you're on my side, I can make you feel good all
+the time with these boobies-
+\vo[a188]Hora hora-❤
+Get a good look and stare-
 
 Mizuhide：上
-ふ、ふざけないでください！
-僕たちがそんな程度の誘惑で・・・。
+Oh please! S-Surely you jest!
+As if we'd be tempted now...
 
 Alice：上
-\vo[a-]えー、こんな風にむぎゅーって両手で押さえても
-ダメ？
+\vo[a-]Ehh? Even if I were to squeeze them together
+with both hands like this?
 
 Mizuhide：上
 Ahhhh... Oooh...❤**
@@ -3757,40 +3759,41 @@ pound... Hunngh, I know I shouldn't, but I can't
 take my eyes off her...!)
 
 Alice：上
-\vo[a190]あはん❤エッチな視線♪
-ほらぁ、パイズリするみたいにユサユサさせてぇ、*
-\vo[a191]「おねがーい❤アリスのために戦って？」って
-おねだりしちゃうよー❤
+\vo[a190]Ahnn❤ Such a sexy sight♪
+Hora- Just like a paizuri, bouncing up and down...*
+\vo[a191]It makes you want to beg and say "pleease-❤
+I wanna fight for Alicee!"❤
 
 Miles：上
-おっと、茶番はそこまでだぜ。
-俺の仲間に余計なマネはするんじゃねぇ。
+I hate to break it to you, but this farce has 
+gone on long enough. For one, I doubt any of us
+talk like that, yeah?
 
 Miles：上
-風の聖剣が俺たちを守り、
-レイの光の聖剣がお前を倒す。*
-覚悟しな！
+The sword of wind will protect us, and Ray's
+sword of light will defeat you.*
+Prepare yourself!
 
 Ray：上
-・・・・・・。
+......
 
 Alice：上
-\vo[a192]くす❤こわーい❤
-でも、あたしだって一人じゃないんだから。*
-\vo[a193]行くよ。あたしのお人形さんたち。
-聖剣のお兄さんを
-おっぱいでメロメロのふにゃふにゃにしちゃいなさい❤
+\vo[a192]Kuhu-❤ Sca-ry❤
+But, I'm not just by myself.*
+\vo[a193]Go, my dollies!
+Turn my holy sword weilding big brother into 
+lovey dovy ragdoll with your breasts!❤
 
 Paizuri Doll：上
-ハイ。アリス様。
+Understood Mistress Alice.
 
 Paizuri Doll：上
-アリス様にお作りいただいたこの体デ、
-敵を搾りトリマス。
+We were squeeze our enemies with the bodies that
+Mistress Alice gave us.
 
 Nobus：上
-くっ、挟み撃ちか・・・。
-迎え撃つ！
+Ogh, attacked from both sides...
+It's an ambush!
 
 <OP1>
 Alice：上
