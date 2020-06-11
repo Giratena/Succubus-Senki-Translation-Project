@@ -1410,7 +1410,7 @@ from me!
 
 Nobus：上
 Could the queen really be behind this door?
-So this is it...
+It's finally time...
 
 Ray：上
 ....
@@ -1424,7 +1424,7 @@ Ray：上
 
 Mizuhide：上
 Right, lets head onwards!
-Time to end this war!
+Time to put an end to this war!
 
 <AT19>
 テロップ：中央
