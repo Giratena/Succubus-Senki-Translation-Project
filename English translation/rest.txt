@@ -1635,7 +1635,7 @@ Mileena：上
 Teehee, this dish is our inn's pride and joy,
 so make sure to eat up okay? Huh, oh...?
 \vo[mi9]...
-Nobby, is something wrong?
+Nobu, is something wrong?
 You look depressed.
 
 Nobus：上
@@ -1644,7 +1644,7 @@ No, it's nothing.
 It's not something I want to talk about...
 
 Mileena：上
-\vo[mi10]Don't say such things Nobby.
+\vo[mi10]Don't say such things Nobu.
 Hora, look at me...
 
 ：スチル
@@ -1654,7 +1654,7 @@ on the bed, and stared at his face.
 Mileena：上
 \vo[mi11]All those troubling things, you want to
 tell me all about them.
-I only want to help you Nobby.
+I only want to help you Nobu.
 
 Nobus：上
 Ooh...**
@@ -1692,7 +1692,7 @@ But now I wonder if I'm even qualified
 to be their friend...
 
 Mileena：上
-\vo[mi13]Oh Nobby...**
+\vo[mi13]Oh Nobu...**
 \vo[mi14]It's going to be alright!
 Whenever you get sad, I'll always be here to
 cheer you right up! Come on!
@@ -1711,7 +1711,7 @@ Nobus：上
 Uaahh...❤
 
 Mileena：上
-\vo[mi17]Just relax Nobby...
+\vo[mi17]Just relax Nobu...
 That's it... There's no need to think-❤*
 \vo[mi18]Let my body squeeze out all the bad things
 troubling your mind...❤
@@ -1741,7 +1741,7 @@ If I have to look through another book,
 my head is going to explode.
 
 Mizuhide：上
-R, really? Personally, I think it's exhilarating 
+R-really? Personally, I think it's exhilarating 
 to be surrounded by so many books. 
 There's nothing quite like it.
 
@@ -1776,16 +1776,16 @@ Seems to be in pretty good condition to me,
 it doesn't look old at all...
 
 Mizuhide：上
-Not at all, look at not the cover 
-but the contents. This font and style are 
-reminiscent of the old kingdom era.
+Not at all, look at not the cover but the 
+contents. This font and style are reminiscent 
+of the old kingdom era.
 That would date it anywhere between five hundred
 to six hundred years old.*
 Based on the concepts, I'd base it close to
-the era in the ongoing war with succubi.
+the era in the ongoing war with the succubi.
 
 Nobus：上
-Ah... I think I understand.
+Oh... I think I get it now.
 
 Mizuhide：上
 The reason why the book is in such good condition
@@ -1918,8 +1918,8 @@ kingdom's greatest sage, and met the king...
 Because the Elves had been isolated from the
 outside world, they seemed to take a big 
 interest in us.
-Everyone feasted and drunk merrily 
-to Miles' stand up exaggerated stories and tales.
+Everyone feasted and drunk merrily to Miles' 
+improvised exaggerated stories and tales.
 
 <OP6>
 Miles：上
@@ -1941,7 +1941,7 @@ You've all worked hard,
 so get some good rest now, okay?-
 
 Miles：上
-Ehehe...
+Eheheh...
 It was nothing special-
 
 Ray：上
@@ -1963,7 +1963,7 @@ Hora- Just take a look at my breasts?
 Why, if I sway them just a little like this...
 
 Mizuhide：上
-Aaooh...❤ Please stop that-❤
+Aoughhh...❤ P-Please stop that-❤
 Aah-❤ Aaah-❤❤
 
 Alraune：上
@@ -1976,7 +1976,7 @@ medicine to help suppress her influence.
 Hora- Please drink it, and rest up.
 
 Mizuhide：上
-O, of course. That would be a great help...
+O-Of course. That would be a great help...
 
 テロップ：中央
 After repelling that strong succubus,
@@ -2020,8 +2020,8 @@ I've shrunk too,
 a mere shadow of my once cool beauty type body...*
 But... This big breasted loli body isn't half bad
 either-*
-Maybe Mr. Hero here might even end up
-liking this one better-
+Maybe, Mr. Hero here might even end up liking 
+this one better-
 
 Mizuhide：上
 Ah, good morning Ray.
@@ -2034,7 +2034,7 @@ Ufufu-
 Are you curious why other people can't see me?*
 I'm the curse placed on the holy sword-
 So only the wielder can see my form.*
-It's possible to touch and talk of course,
+It's possible for us to touch and talk of course,
 but only with the owner of the sword. 
 Which means...
 
@@ -2062,7 +2062,7 @@ That boy called you Ray just now, is that your
 name? It's nice to meet you Ray, I hope we
 can get along-❤
 But instead of fancy greetings, I'll just
-service you lots with my blowjob?*
+service you lots with my blowjob okay?*
 Mm, slurp, slurrrp-❤ Mmwah mwah-❤
 Suck, suuck-❤ Slurp-❤
 
@@ -2128,7 +2128,7 @@ once in a while to help Mr. Ray with his urges...
 
 Mizuhide：上
 Are you okay Ray!?
-Your body suddenly started wildly convulsing,
+Your body suddenly started convulsing wildly,
 what on earth happened...?
 
 テロップ：中央
@@ -2142,12 +2142,12 @@ I'll call Lamia and her cohorts at once.
 Let's hear what they have to say.
 
 Lamia：上
-Mhm...
+Hmm...
 From what I can see, it appears the curse of the
 succubus has completely dispelled...
-Please tell me what happened during the time you
-broke the seal of the holy sword, so I might 
-discover the cause of all this.
+Please, tell me what happened during the time you
+broke the seal of the holy sword. I might be able
+to discover the cause behind this.
 
 Ray：上
 ...
@@ -2178,7 +2178,7 @@ Wait here. I have something for you
 might help.
 
 Lamia：上
-Hora- Take this,
+Hora, take this.
 Use it well.
 
 Lamia：上
@@ -2189,8 +2189,8 @@ As the name suggests, it's a cloth with the power
 to suppress the power of curses.*
 When I carried the holy sword around the forest,
 I would carry it around wrapped with this cloth.*
-If you wear it around your body,
-you should be able to suppress the curse's effect.
+If you wear it around your body, you should be 
+able to suppress the curse's effect.
 
 Mizuhide：上
 I see. Slightly on topic, I'd like to bring up 
@@ -2204,16 +2204,16 @@ Nobus：上
 Ah yeah, you wouldn't know because you two were
 both sleeping.*
 We actually... Wanted to try playing with the 
-sword a bit while you were out,*
-but we got hit by a burst of light, 
+sword a bit while you were out...*
+But we got hit by a burst of light, 
 and couldn't touch it at all.*
 Since we couldn't really interact with it, 
 it was a pain to move around.*
-So Lamia, can no one else touch the holy sword
+Lamia, can no one else touch the holy sword
 apart from the wielder?
 
 Lamia：上
-No. If the wielder of the holy sword gives their
+No so. If the wielder of the holy sword gives their
 consent, others will also be able to touch it.*
 It's more of a defense system that prevents it
 from being stolen by succubus, you see. 
@@ -2244,8 +2244,8 @@ Mizuhide：上
 Following that, could we get permission to touch 
 the holy sword of light as well Ray?*
 Perfect. You have my gratitude.
-Now I can investigate the remains of the curse
-directly.
+Now with this, I can investigate the remains of
+the curse directly.
 
 Ray：上
 ...♪
@@ -2599,7 +2599,7 @@ Nobus：上
 You... you mean it...?
 
 Miles：上
-And now, all this talk about feeling useless or
+Now, all this talk about feeling useless or
 useful is just frivolous.*
 We're all members of the knights here aren't we? 
 It doesn't matter if you're first or second, it's
@@ -2747,7 +2747,7 @@ The repeating dream I've been having each night.
 I guess tonight is no different.
 
 Mileena：上
-\vo[mi19]Yoo-hoo- Nobby-
+\vo[mi19]Yoo-hoo- Nobu-
 You did great work out there today-*
 \vo[mi20]I'll give you a big hug as always, okay?❤
 
@@ -2756,13 +2756,13 @@ Millena. We, we have to stop this.
 I, I don't want to betray Ray or....
 
 Mileena：上
-\vo[mi21]Don't worry about it Nobby-
+\vo[mi21]Don't worry about it Nobu-
 What was it you said? This is just a dream.
 None of this is real-
-\vo[mi22]Even if Nobby fawns over my breasts, 
+\vo[mi22]Even if Nobu fawns over my breasts, 
 even if he goes pew, pew, over and over...
 In the end, it's just a dream.
-\vo[mi23]Besides Nobby,
+\vo[mi23]Besides Nobu,
 I don't want you to save up all those bad
 thoughts. I just want to help.
 \vo[mi24]This isn't anything to do with betrayal at all-
@@ -2779,13 +2779,13 @@ So I can't show you my memories, no matter what.
 Mileena：上
 \vo[mi25]Aww, you're thinking too hard about
 all this-*
-\vo[mi26]Hora- Look Nobby. Look at my chest-❤
+\vo[mi26]Hora- Look Nobu. Look at my chest-❤
 They're so big and soft, and when you cling to 
 them, they're so fluffy aren't they?
 \vo[mi27]Yesterday, I held you between these,
 and it felt so good, didn't it?
 We could do the same today... if you like?
-\vo[mi28]And then all of Nobby's unpleasant thoughts,
+\vo[mi28]And then all of Nobu's unpleasant thoughts,
 can just spurt all out, right?-
 
 ：スチル
@@ -2812,14 +2812,14 @@ Ooh, oooh....
 Mileena：上
 \vo[mi31]Don't worry.
 Even if you don't say, I know what you want-*
-\vo[mi32]Let your strength fade Nobby,
+\vo[mi32]Let your strength fade Nobu,
 just entrust your body to me okay...?
 
 Mileena：上
 \vo[mi33]Hora- Stroke stroke... Stroke stroke...❤**
 \vo[mi34]It feels soo good to be stroked while sucking
 on my breasts, doesn't it?
-My dear Nobby is so cute-❤
+My dear Nobu is so cute-❤
 
 Nobus：上
 Stop, you're treating me like a child- 
@@ -2836,7 +2836,7 @@ so just relax, okay?
 you will have forgotten all about this dream-
 You'll feel so refreshed once this dream is over-
 \vo[mi38]So suckle and fawn over my boobies as much as 
-you can-❤ I'll be doing my best to make Nobby
+you can-❤ I'll be doing my best to make Nobu
 feel good too-❤
 \vo[mi39]Hora- Squeeeze...❤
 
@@ -2857,11 +2857,11 @@ My thoughts of pleasing her multiplied tenfold and
 my thoughts filled with images of her and just her.
 
 Mileena：上
-\vo[mi40]Teehee♪ You're so weak Nobby- 
+\vo[mi40]Teehee♪ You're so weak Nobu- 
 You've been completely charmed, 
 and even your eyes are full of hearts-❤
 \vo[mi41]But, 
-When Nobby is weak like this, 
+When Nobu is weak like this, 
 it makes me love him even more-❤
 
 Nobus：上
@@ -2869,7 +2869,7 @@ I, I love you too Mileenaaa...❤
 
 Mileena：上
 \vo[mi42]Ufufu- You're so obedient when you're charmed-
-Thank you Nobby-*
+Thank you Nobu-*
 \vo[mi43]Seeing you feel that way makes me happy-❤
 I love you too-❤*
 \vo[mi44]And on the topic of love,
@@ -2880,7 +2880,7 @@ Ooh, ooooh....❤
 I love you!❤ I love you Mileena-❤
 
 Mileena：上
-\vo[mi45]Mmhmm- I love you too Nobby-❤**
+\vo[mi45]Mmhmm- I love you too Nobu-❤**
 \vo[mi46]I'll pamper you lots by stroking you with my hand.
 Don't worry about holding back okay?
 Cum whenever you like-❤
@@ -2899,13 +2899,13 @@ Mileena：上
 My hand is all sticky-❤*
 \vo[mi49]Now then, just like last time,
 Let's see what kind of memories are melted into
-Nobby's semen- Sluurp...
+Nobu's semen- Sluurp...
 \vo[mi50]Mmm... I see. So that's what happened.**
 \vo[mi51]So those two will soon obtain the holy swords, 
 will they?*
 \vo[mi52]The holy sword of the hero...
 That could be a problem...*
-\vo[mi53]And compared with Nobby, he has nothing doesn't he?
+\vo[mi53]And compared with Nobu, he has nothing doesn't he?
 No blessing, no holy sword. Just those two...*
 \vo[mi54]You poor, poor thing,
 I'll always be here to comfort you-
@@ -2915,7 +2915,7 @@ Nobus：上
 Haaah...❤
 
 Mileena：上
-\vo[mi55](Giggle) It's so cute when my dear Nobby 
+\vo[mi55](Giggle) It's so cute when my dear Nobu 
 goes absentminded on my lap-❤
 Here, I'll gently stroke your head, okay?
 \vo[mi56]There's still some time before dawn,
