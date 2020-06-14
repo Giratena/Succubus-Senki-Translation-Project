@@ -2108,7 +2108,7 @@ Ray：上
 ....!
 
 Alice：上
-\vo[a505]Oh, you're awake, Mr. Leader♪**
+\vo[a505]Oh- You're awake, Mr. Leader♪**
 \vo[a506]Ufufu-♪
 You held out for a bit, but in the end I
 won didn't I? 
@@ -2411,7 +2411,7 @@ Mistress Alice...❤❤
 Ahahhhh...❤❤
 
 Alice：上
-\vo[a585]Ahaha-❤ You're being made fun for being a
+\vo[a585]Ahaha-❤ You're being made fun of for being a
 slave, but you look so happy.*
 \vo[a586]Your obedience is quite cute-❤
 Yes, this pleases me-*
@@ -2477,17 +2477,16 @@ slave for a long time-❤
 
 <AT19-5>
 テロップ：中央
-女王のいる部屋まで、
-あと一歩というところまで来たものの、*
-主人公は、アリスに敗北を喫し、
-城の地下牢に捕らえられてしまった。
+Only a few steps away from the queen's throne 
+room, the hero failed to defeat Alice, and was
+held captive in the castle dungeon.
 
 Ray：上
-・・・・！
+....!
 
 Alice：上
-\vo[a599]お、目が覚めた？リーダー君♪**
-\vo[a600]んふふー♪
+\vo[a599]Oh- You're awake, Mr. Leader♪**
+\vo[a600]Ufufu-♪
 かなり危なかったけど、
 結局あたしが勝っちゃったね。
 \vo[a601]あたしをあそこまで追い詰めるなんて、
@@ -3825,6 +3824,8 @@ It's an ambush!
 
 <OP1>
 Alice：上
+This scene is supposedly unused. If you see it,
+please let me know! - Giratena*
 きゃは。そうこなくっちゃ❤
 
 Alice：上
@@ -4028,6 +4029,8 @@ it doesn't melt between her abundantly large
 breasts.
 
 Alice：中央
+This dialogue is supposedly unused. If you see
+it, please let me know! - Giratena*
 Alice**
 数少ない上級淫魔の一人。
 現存する淫魔の中でも屈指の実力を誇っている。*
@@ -4038,6 +4041,8 @@ Alice**
 
 <CM4>
 Succubus Dolls：中央
+This dialogue is supposedly unused. If you see
+it, please let me know! - Giratena*
 Succubus Dolls**
 Aliceの魔力を受けて動いている乳魔の人形。**
 魔導人形の作成はかなり難易度が高いために、
