@@ -5895,8 +5895,9 @@ Allow me to explain.*
 It's a story recorded in the history books of
 kingdoms that existed five hundred years ago.
 According to these records...
-"Monsters known as succubi suddenly appeared,
-demons that suck the life force out of humans.*
+"Monsters known succubus appeared suddenly. A type of
+demon capable of sucking the life force itself out 
+of humans.
 The succubi could not be defeated,
 even when fought with magic or swords.*
 The succubi increased their numbers by possessing
@@ -5904,9 +5905,9 @@ women, their influence spreading to various
 villages all over the country.
 During this time, there was
 a male commoner with no name.*
-He was an abstaining child,
-born with markings on both hands, and with that
-power, was able to touch the succubi.
+He was a child negliected by society. He was born with
+markings on both hands that gave him the power to 
+touch the demons.
 However, he was an uncivilized man who
 often found himself mingling with succubi.*
 There were even rumours he was conversing with 
@@ -5919,24 +5920,24 @@ But when he stood before the succubus queen, the
 child who had been born with the markings revealed
 his true nature, and turned on the human race. 
 And so, the noble who traveled with him was
-forced to destroy him with the Holy Swords,
+forced to strike him down with the Holy Swords,
 and sealed away the demon queen.
 At that time, the swords had been corrupted by
 the queen, and were never able to be used again.*
 The swords were sealed away in a sacred spring,
 deep into the forest of the great tree in the 
-south.
+south."
 ...**
 There are many other details written here,
 but this is definitely the legend we heard about.*
-For a Heroic story of legend, it's full of
+For a heroic story of legend, it's full of
 contempt.*
 Compared to the kingdom that we live in now,
 there was large amount of discrimination between 
 the commoners and the rich. 
 Perhaps he was treated harshly as a commoner,
 despite his activities.* 
-A Hero who was ostracized by the country he tried
+A Hero ostracized by the country he tried
 to save... What a sad story.
 
 Mizuhide：上
@@ -5948,11 +5949,9 @@ the barrier instead, right?
 Of course, placing the crystals within the barrier
 they power may seem easy, but it's actually
 quite difficult, for technical reasons.
-I'll spare you the details, but essentially,
-if you were to generate magic from within the 
-barrier,*
-it would become unstable and difficult
-to maintain.*
+I'll spare you the details, but essentially if 
+magic was generated from within the barrier, it 
+would become unstable and difficult to maintain.
 Oh? But I was using a magical crystal within the 
 barrier I was generating at the Royal Academy, 
 you say?
@@ -5960,14 +5959,14 @@ Ahh, you have a good memory.**
 The truth is, that was a newly developed magical
 generator created by Princess Esuna herself.
 I was actually planning to use it for my studies.
-Up until now, creating a barrier with a 
-magical crystal within was a difficult matter,*
+Up until now, creating a barrier with a  magical 
+crystal within was a difficult matter,*
 I was fortunate to be able to use such ground
 breaking technology on that fateful day.*
 The Princess is nothing short of a genius when
 it comes to making magical equipment.*
-Even the amulet you have, Ray, while it's design 
-may seem simple, it's actually quite complicated
+Even the amulet you have Ray, while it's design 
+may seem simple, is actually quite complicated
 and intricate.
 It could very much be considered a royal treasure,
 so keep it safe now, alright?
@@ -5998,7 +5997,7 @@ said that they annihilate villages in an instant.
 
 <CM66>
 Miles：上
-Mm,hmhmm hmmm, hm♪
+Mm, hmhmm hmmm, hm♪
 Hm, hmhmhmhmm- Hmm♪*
 Oh, Ray!
 I was just cutting Nobus' hair.
@@ -6006,14 +6005,14 @@ I was just cutting Nobus' hair.
 Nobus：上
 All this fighting has left my hair all messy
 and unkempt.*
-I thought I'd get it a little shorter.
+I thought I'd get it a little shorter. I don't
+get how some war soldiers can have it so long.
 
 Miles：上
 Want me to cut your hair too, Ray?
 Your hair is growing too.* 
-It can get hot with too much hair,
-and this is the only village 
-in the southern territory.
+It can get hot with too much hair, and this is 
+the only village in the southern territory.
 
 Mizuhide：上
 Hello there.
@@ -6024,8 +6023,8 @@ Ah, Mizuhide!
 Haircuts! Haircuts.
 
 Nobus：上
-Miles has pretty dexterous fingers.
-so he's great at giving haircuts.
+Miles has pretty dexterous fingers, so he's great
+at giving haircuts.
 
 Miles：上
 I had a bunch of livestock and sheep back at home.
@@ -6067,8 +6066,8 @@ Mizuhide：上
 Ah, well... All your activities have been nothing
 short of impressive.*
 Someday, I'd like to fully document the war of the 
-succubus and all your efforts and preserve them 
-books of history.
+succubui and all your efforts and preserve them 
+in the history books.
 And if I'm to do that, I'll need to gather as much
 information as I can.
 
