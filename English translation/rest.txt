@@ -9084,9 +9084,10 @@ If we don't break through quickly, our Queen
 will be...!
 
 Succubus Maid A：上
-Ok, for now, search again for any magical storage
-crystals. For a magical barrier to exists, I 
-expect they must be using one somewhere.
+OK. For now, search again for any magical storage
+crystals.*
+There has to be one for a magical barrier to exist.
+I expect they have to be using one somewhere...
 
 Slime Succubus：上
 Yes! Understood!
