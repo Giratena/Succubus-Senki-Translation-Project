@@ -9110,11 +9110,10 @@ my personality.
 As expected from the rumored hero, your plan to
 invade our castle was magnificent.*
 This barrier is exceedingly solid isn't it?
-We don't appear to be breaking it at all.
-We're stuck
-So... 
-I hope you'll allow me to continue my futile
-efforts for a bit.
+It's not even close to breaking at all.
+There's nothing more we can do...
+So, I hope you'll allow me to continue these
+futile efforts, even for a little while.
 
 テロップ：中央
 In saying that, the Succubus Maid parted her 
