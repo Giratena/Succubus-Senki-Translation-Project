@@ -1,26 +1,27 @@
 
-<(65536)Priestess10>
-アクティブ：上
+
+<(65536)Priestess@10>
+ダミー：上
 That's it, become mesmerized by my aroma-❤
 
 タイトル：中央
 [Sexual Aroma] (Inflicts Charm on Aroused foes. Rng1)
 
-<(65536)Priestess11>
-アクティブ：上
+<(65536)Priestess@11>
+ダミー：上
 I'll brainwash you with my pheromones-❤
 
 タイトル：中央
 [Sexual Aroma] (Inflicts Charm on Aroused foes. Rng1)
 
-<(65536)Priestess12>
-アクティブ：上
+<(65536)Priestess@12>
+ダミー：上
 Ho-ra～ Relax, and become my slaves-❤
 
 タイトル：中央
 [Sexual Aroma] (Inflicts Charm on Aroused foes. Rng1)
 
-<(65536)Priestess13>
+<(65536)Priestess@13>
 アクティブ：上
 I'll make all of you cum like mad
 with my superior pheromones-❤
@@ -55,8 +56,8 @@ fall madly in love with me-❤
 Uwah! You dodged it...?
 But how?
 
-<(65536)Priestess0>
-アクティブ：上
+<(65536)Priestess@0>
+ダミー：上
 Ho-ra- Now that my body is covered in special
 pheromones, you can finally relax and enjoy-
 Teehee-❤
@@ -197,7 +198,7 @@ Go ahead- Fall in love with my
 sweet pheromones-❤
 Pshew---❤
 
-<(65537)Village Girl0>
+<(65537)Village Girl@0>
 アクティブ：上
 Hey mister, you're with the knights who're 
 gonna protect the village, right?*
@@ -243,7 +244,7 @@ It's okay, you don't mind if you lose to a girl
 way younger than you and ejaculate your semen
 prematurely going pew, pew-❤
 
-<(65540)Village Girl57>
+<(65540)Village Girl@57>
 アクティブ：上
 Hey, mister blowjob lover-❤
 Come over here, okay?
@@ -261,7 +262,7 @@ I'll give you a big sloppy blowjob-❤
 get closer-❤ You couldn't resist could you? 
 How pathetic-
 
-<(65540)Village Girl8>
+<(65540)Village Girl@8>
 アクティブ：上
 Hey, mister blowjob lover-❤
 Come over here, okay?
@@ -279,7 +280,7 @@ I'll give you a big sloppy blowjob-❤
 get closer-❤ You couldn't resist could you? 
 How pathetic-
 
-<(65540)Village Girl9>
+<(65540)Village Girl@9>
 アクティブ：上
 Fufu- Like what you see?❤**
 When I lick and suck the air like this, it's 
@@ -290,7 +291,7 @@ big suck, but for real-❤
 タイトル：中央
 [Seductive Mouth Opening](Apporach+Charm)
 
-<(65540)Village Girl10>
+<(65540)Village Girl@10>
 アクティブ：上
 Hey, mister blowjob lover-❤
 Come over here okay?
@@ -309,7 +310,7 @@ if you come closer-❤
 get closer-❤ You couldn't resist could you? 
 How pathetic-
 
-<(65540)Village Girl0>
+<(65540)Village Girl@0>
 アクティブ：上
 Yaay～❤ I get to suck on mister's huge penis
 by jerking him off with the suction of my mouth-
@@ -353,7 +354,7 @@ Fufu- It's fine if you can't resist-
 Surrender to my mouth, and shoot lots of
 your semen going pew pew pew-❤
 
-<(65539)Devout Girl0>
+<(65539)Devout Girl@0>
 アクティブ：上
 If it's okay, I'd like to pleasure you with my 
 hands.*
@@ -400,7 +401,7 @@ Fufu- it'll feel so good your mind will go blank.
 Won't you come here?
 I'll spoil you with my breasts-❤
 
-<(65538)Devout Girl10>
+<(65538)Devout Girl@10>
 アクティブ：上
 Ufufu- I can tell you've been staring
 at my chest-❤
@@ -416,7 +417,7 @@ I'll brainwash you with the scent of my breasts-❤
 タイトル：中央
 [Brainwashing Puff-Puff Encouragement] (Treachery+Approach)
 
-<(65538)Devout Girl0>
+<(65538)Devout Girl@0>
 アクティブ：上
 Ufufu-
 Let's do lots of nice things on the bed, okay?*
@@ -521,7 +522,7 @@ Ufufu- Your facial expression is melting away...
 That's it, just give in... *
 Relax... Submit to me...❤
 
-<(65543)Devout Girl0>
+<(65543)Devout Girl@0>
 アクティブ：上
 Ufufu. 
 We can do lots of pleasurable things on the bed.*
@@ -621,7 +622,7 @@ Ufufu- your facial expression is melting away-
 That's it, just relax...
 Submit to me...❤
 
-<(65541)Blowjob Bandit0>
+<(65541)Blowjob Bandit@0>
 アクティブ：上
 I have confessed my sins and repented... Not-❤
 After I was caught as a bandit, they turned me
