@@ -3,10 +3,11 @@ To patch the game, please move "game.exe" and "data.dts" in this
 folder into the source game folder. 
 
 To add the extra voices for Mileena, Cherish, Luminara, and Alice,
-Unzipe the file named 追加ボイス.zip, and place the contents in
+Unzip the file named 追加ボイス.zip, and place the contents in
 Materials > Voice. These characters will now have voiced dialogue!
+(There are multple zips files. Unzip them all and place the contents in the voice folder)
 
-As of now, Ch1~9 has been translated!
+As of now, Ch1~10 has been translated!
 
 If you have any bugs/typos to report, or if you'd like to support the translation,
 please let me know on the translation discord server!-> https://discord.gg/rxsQSPZ
