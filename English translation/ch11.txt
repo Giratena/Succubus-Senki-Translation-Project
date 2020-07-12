@@ -21,16 +21,16 @@ The HP of surrounding allies has been restored!
 <AT16>
 Queen Mirage：上
 Fufu, I see your sword hand is trembling.
-恐怖と恍惚と、その両方と戦いながら、
-それでも武器を取るのね。
+Fear... ecstasy... You fight both of these
+things and still you take up arms against me?
 迎え撃ってあげる。
-でも、その前に・・・。
+But, before that...
 
 Queen Mirage：上
 出なさい。剣に封じられていたわたしの残滓よ。
 
 Ray：上
-・・・・！
+...!
 
 Mini Mirage：上
 うふふ。ようやく実体化できた。**
