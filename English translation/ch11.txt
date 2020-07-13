@@ -219,8 +219,8 @@ Queen Mirage：上
 Ahn, energy is flowing into me... The taste is
 quite nice. (Giggle) The scars you all
 inflicted upon me are healing up as well.
-I was prepared to sustain a little damage
-as your capture would lead to you healing me.*
+I was prepared to sustain a little damage as your
+capture would lead to you healing me.*
 Perhaps you thought you could land a hit on me
 while I was weakened?*
 What a shame. I let you hit me so I could get
@@ -231,7 +231,7 @@ Now you shall give up your life force and
 become my norishment.
 
 Queen Mirage：上
-あん❤
+Ahn❤
 腰をビクンって跳ねさせて、
 そんなによかったのかしら。
 入れているだけで脳みそとろとろになっちゃう
