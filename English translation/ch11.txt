@@ -1477,7 +1477,7 @@ us, silly child❤
 Queen's Illusion B：上
 Were you too busy thinking about defeating us?
 Or maybe...*
-You were wanting us to suround and shower
+You desire us to suround and shower
 you in affection...? Kuhuhu❤
 
 アクティブ：上
@@ -2288,13 +2288,12 @@ That large man, prevented my spell from
 reaching...!?
 
 テロップ：中央
-Affecting by the queen's art, Nobus
-turned around in a daze and began slashing
-at me.
+Affected by the queen's art, Nobus turned around
+in a daze and slashed at me.
 
 テロップ：中央
-But, narrowly dodging the attack, I move towards
-the queen, and strike her down with one swift
+But, narrowly dodging the attack, I moved towards
+the queen, and struck her down with one swift
 blow!
 
 Ray：上
@@ -2304,7 +2303,7 @@ Queen Mirage：上
 F-Foolish...**
 To think that I,
 the succubus queen, would...*
-By a human being...!**
+and by a human being...!**
 Kyaaaaahhh....!!!!
 
 Miles：上
@@ -2323,7 +2322,6 @@ Mizuhide：上
 We are victorious!
 We did it!
 
-
 Nobus：上
 Oogh...
 
@@ -2335,31 +2333,33 @@ Aaagh, somewhat...**
 As expected, the succubus queen's magic was
 really quite something... My head feels like
 it's swimming through custard....
-女王のことがずっと頭に浮かんで、
-おかしいぐらいムラムラして・・・。*
-ううっ、どうにかなりそうだよ・・・。**
-でも・・・、俺たち、勝ったんだよな。**
-ははっ！見たか！！
-こんな俺でも・・・・。*
-こんな俺でもお前たち二人の力になれたんだ・・・！
+The queen was the only thing I could think about,
+I was so aroused I could go crazy...*
+Oough, I'll get over it eventurally though...**
+But... did... did we win?**
+Haha! Did you see that!?
+Even someone like me...*
+Even someone like me was able to help both of
+you out after all...!
 
 Ray：上
-・・・・♪
+....♪
 
 Miles：上
-ああ！よくやったぜノブ！**
-それにレイも！
-とっさにかわしながら斬りかかるなんてさすがだぜ！*
-お前ら二人ともよくやった。
-これで俺たちの勝利だ！
-敵の大将を倒したんだ！
+You can say that again! Well done Nobus!**
+And you too Ray!
+You struck her down without even as much as a
+hesitation!
+You both did well.
+And with this, victory is ours!
+The enemy general has been defeated!
 
 テロップ：中央
-そのころ、主戦場の平原にて。
+Meanwhile, on the main battlefield...
 
 Soldier：上
-右翼前線崩壊しました！
-敵のサキュバス、本陣へ向かって迫っています！*
+Our rightwing front has been breached! 
+Enemy succubus are heading towards our main camp!*
 本陣ももう連戦でボロボロ・・・。
 団長、このままでは全滅します！
 
@@ -2396,7 +2396,7 @@ Chuchu：上
 なっ・・・・・。
 女王様の魔力が消えた・・・・！？*
 そんなバカな・・・・。
-ありえない！
+Impossible!
 いったい何が・・・！？
 
 Soldier：上
@@ -2546,25 +2546,25 @@ Nobus：上
 偽者
 
 タイトル：中央
-【ボイス】　砂糖しお（ルミーネ）
+【Voice Actor】　砂糖しお（ルミーネ）
 
 タイトル：中央
-【ボイス】　大山チロル（モルジア）
+【Voice Actor】　大山チロル（モルジア）
 
 タイトル：中央
-【ボイス】　陽向葵ゅか（ミレニア）
+【Voice Actor】　陽向葵ゅか（ミレニア）
 
 タイトル：中央
-【ボイス】　沢野ぽぷら（チェリッシュ）
+【Voice Actor】　沢野ぽぷら（チェリッシュ）
 
 タイトル：中央
-【ボイス】　山田じぇみ子（アリス）
+【Voice Actor】　山田じぇみ子（アリス）
 
 タイトル：中央
-【シナリオ・ゲーム制作】　色仕掛けまとめブログ
+【Game Production and Scenario】　色仕掛けまとめブログ/Irojikake Matome Blog
 
 タイトル：中央
-【Special Thanks】　Ci-enのサポーターのみなさま
+【Special Thanks】　To all valued supporters on Ci-en
 
 タイトル：中央
 Thank you for playing!
