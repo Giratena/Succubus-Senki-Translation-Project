@@ -2288,50 +2288,53 @@ That large man, prevented my spell from
 reaching...!?
 
 テロップ：中央
-女王の術にかかったノブが、
-もうろうとしながら、
-僕に斬りかかってくる。
+Affecting by the queen's art, Nobus
+turned around in a daze and began slashing
+at me.
 
 テロップ：中央
-しかし、僕はそれをかわし、
-女王へと、一気に斬りかかった！
+But, narrowly dodging the attack, I move towards
+the queen, and strike her down with one swift
+blow!
 
 Ray：上
-はあああっ！！
+Haaaaaaagh!
 
 Queen Mirage：上
-そんなバカな・・・。**
-このわたしが、
-夢魔の女王が・・・。*
-人間ふぜいに・・・・っ！！**
-きゃあああああっ・・・・！！！
+F-Foolish...**
+To think that I,
+the succubus queen, would...*
+By a human being...!**
+Kyaaaaahhh....!!!!
 
 Miles：上
-やったのか・・・。
+Did we do it...?
 
 Miles：上
-俺たち、ついに女王を倒したのか・・・！！
+W-We finally defeated the queen...!!
 
 テロップ：中央
-女王の消滅とともに、
-部屋に充満していた怪しい光も、
-見る間に姿を消した。
-みなに安堵の表情が広がっていく。
+Along with the queen's dissapearance, the room
+filled with a ommunius light, and quickly
+dissapeared.
+Everyone breathed a sigh of relief.
 
 Mizuhide：上
-ぼくたちが勝ちました！
-やったんです！
+We are victorious!
+We did it!
+
 
 Nobus：上
-ううっ・・・・。
+Oogh...
 
 Mizuhide：上
 Nobus, are you OK!?
 
 Nobus：上
-ああっ、なんとか・・・。**
-やっぱり夢魔の女王の術だけあってすごいな・・・。
-頭がめちゃくちゃくらくらする。*
+Aaagh, somewhat...**
+As expected, the succubus queen's magic was
+really quite something... My head feels like
+it's swimming through custard....
 女王のことがずっと頭に浮かんで、
 おかしいぐらいムラムラして・・・。*
 ううっ、どうにかなりそうだよ・・・。**
