@@ -2474,9 +2474,9 @@ Haha! We really did!**
 "whether someone does better than me", you told
 me to focus on what can be doing instead.
 Thank you for... saying what you did.**
-女王が術を放とうとしたとき、
-俺以外のやつだってあそこに駆け寄れた。
-だから、前の俺だったら他の人に任せてたかもしれない
+As the queen activated her magic, no one could
+have blocked it other than me. If it weren't for
+you, I might have left it to someone else.
 自分よりきっと他の人のほうがうまくできるから。**
 でも、ユミルの言葉に背中を押されたんだ。**
 誰にでもできるただの肉の壁・・・。
@@ -2578,7 +2578,7 @@ Actors
 
 タイトル：中央
 【Voice Actor】
-沢野ぽぷら Sawano Bobura
+沢野ぽぷら Sawano Popura
 (Cherish)
 
 タイトル：中央
