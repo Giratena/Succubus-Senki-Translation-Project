@@ -2358,21 +2358,23 @@ The enemy general has been defeated!
 Meanwhile, on the main battlefield...
 
 Soldier：上
-Our rightwing front has been breached! 
+Commander! Our rightwing front has been breached!
 Enemy succubus are heading towards our main camp!*
-本陣ももう連戦でボロボロ・・・。
-団長、このままでは全滅します！
+The continous attacks has left our stronghold
+in tatters as well... At this rate, we will be
+annihilated!
 
 第二騎士団団長：上
-ひるむな！戦え！
-俺たちがどれだけ長く持ちこたえられるかに、
-この戦いの勝敗がかかっている。
-敵をこの平原に引き付け続けろ！
-撤退はまだだ！
+We cannot falter! Fight!
+I do not know how long we can hold out, but our
+victory depends on this battle.
+Continue attacking the enemy on the field!
+We're not pulling out yet!
 
 Soldier：上
-団長！た、大変です！
-上級サキュバスが上空から本陣に！
+Commander! T-This isn't good!
+An advanced level succubus is approaching from
+the sky!
 
 Chuchu：上
 こちらの被害もそれなりに出たけれど、
