@@ -8,6 +8,7 @@ the creator of the game who patches them into the game!
 Check out our discord here! https://discord.gg/QJppHcu
 
 If you like my translations, consider supporting me on patreon! -> https://www.patreon.com/Giratena
+I occasionally put out side translations too!
 
 The following FAQ has been taken from the Succubus Senki Discord Server.
 All channels discribed refer to the channels within the discord server.
