@@ -2477,8 +2477,9 @@ Thank you for... saying what you did.**
 As the queen activated her magic, no one could
 have blocked it other than me. If it weren't for
 you, I might have left it to someone else.
-自分よりきっと他の人のほうがうまくできるから。**
-でも、ユミルの言葉に背中を押されたんだ。**
+After all, I was sure someone else could do it
+better.*
+But, your words were there to back me up Miles.**
 誰にでもできるただの肉の壁・・・。
 すごくカッコ悪いし、才能もへったくれもないけどさ。*
 でも、他の誰でもなく俺がやれたんだ。**
@@ -2578,7 +2579,7 @@ Actors
 
 タイトル：中央
 【Voice Actor】
-沢野ぽぷら Sawano Popura
+沢野ぽぷら Sawano Popula
 (Cherish)
 
 タイトル：中央
