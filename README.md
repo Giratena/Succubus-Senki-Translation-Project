@@ -1,5 +1,6 @@
 # Succubus-Senki-Translation
 https://www.dlsite.com/ecchi-eng/work/=/product_id/RE246337.html
+
 IMPORTANT NOTE: You cannot patch the game with these files. 
 The most recent patch can be found whenever the game is updated on Dlsite.
 
