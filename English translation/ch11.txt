@@ -2364,7 +2364,7 @@ The continous attacks has left our stronghold
 in tatters as well... At this rate, we will be
 annihilated!
 
-第二騎士団団長：上
+2nd Order Leader：上
 We cannot falter! Fight!
 I do not know how long we can hold out, but our
 victory depends on this battle.
@@ -2377,61 +2377,63 @@ An advanced level succubus is approaching from
 the sky!
 
 Chuchu：上
-こちらの被害もそれなりに出たけれど、
-所詮は人間。
-わたしたちには敵わないわ。
-さあ、この唇で直接引導を渡してあげる❤
-騎士団の団長さん❤
+Even causing as much damage as this...
+In the end you are just humans.
+You are no match for us-
+Come now, I'll give you a final peck on the
+check with my lipstick, Mr. Commander❤
 
-第二騎士団団長：上
-ちぃっ、最後まで俺たちはあきらめはしない！
-来い、悪魔め！
-
-Chuchu：上
-なに・・・？
-
-第二騎士団団長：上
-敵の城の方から光が・・・・。
-まさか。
+2nd Order Leader：上
+W-We won't give in until the very end!
+Bring it on, you demon!
 
 Chuchu：上
-なっ・・・・・。
-女王様の魔力が消えた・・・・！？*
-そんなバカな・・・・。
+What is...?
+
+2nd Order Leader：上
+The light from the enemy castle...
+It can't be!
+
+Chuchu：上
+Wha....
+The queen's magic dissapeared....!?*
+Such foolishness....
 Impossible!
-いったい何が・・・！？
+What on earth is....!?
 
 Soldier：上
-報告！
-敵の下級サキュバスが
-次々に姿を消していきます！
-いったい何が起きて・・・。
-我々は奇跡でも目撃しているのでしょうか・・・・。
+Commander!
+Enemy lower class succubus are dissapearing one
+after the other!
+What on earth is happening...
+This has to be some kind of miracle...!
 
-第二騎士団団長：上
-奇跡などではない！
-英雄の騎士団がやってのけたのだ！*
-諸君。聞け！**
-敵の女王は英雄の騎士団の奇襲を受けて、
-討ち滅ぼされた！*
-サキュバスどもの魔力は、
-その影響で急激に弱まっている！*
-もはや窮地は脱したのだ！
-むしろ今こそ反撃の好機！*
-残党を討ち滅ぼすぞ、わたしに続け！
+2nd Order Leader：上
+It's no miracle!
+The order of heroes have done it!*
+Listen up you lot!**
+The enemy queen has been felled by the order of
+hero's surprise attack!*
+It's causing the succubus' magic to rapidly
+weaken!*
+Our predicament is over!
+Now is the time to attack!*
+Finish off the survivors, and 
 
 Chuchu：上
-くっ、そんなまさか、女王様が滅ぼされるなんて・・・。**
-ええい。女王様の加護無しでは、
-この数の人間には勝てないわ。*
-魔力の残っているものだけでも、急いで撤退よ！
-散りなさい！*
-何が何でも逃げのびて、
-女王様復活のために潜伏するのよ！
+Tch! I-I don't believe it, how could our queen
+be defeated...**
+Ooh- Without the queen's protection, we can't*
+win against this many humans!*
+We need to withdraw while we still have magic 
+remaining! Everyone disburse!*
+Escape by any means nessicary, and conceal
+yourselves for the sake of our queen's
+resurrection!
 
-第二騎士団団長：上
-逃がすな！
-ここで悪の根を断つのだ！
+2nd Order Leader：上
+Don't let anyone escape!
+Cut off the roots of evil here and now!
 
 テロップ：中央
 サキュバスとの平原での決戦は、
