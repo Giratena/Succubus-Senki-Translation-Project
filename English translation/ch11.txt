@@ -2459,7 +2459,7 @@ It's because of you that we're safe!
 Thank you!
 
 Woman：上
-Eeek! It's him!! Over here!!
+Eeek! It's him! Over here!!
 Mr. Hero!
 
 Miles：上
@@ -2480,48 +2480,50 @@ you, I might have left it to someone else.
 After all, I was sure someone else could do it
 better.*
 But, your words were there to back me up Miles.**
-誰にでもできるただの肉の壁・・・。
-すごくカッコ悪いし、才能もへったくれもないけどさ。*
-でも、他の誰でもなく俺がやれたんだ。**
-ユミルのアドバイスのおかげだよ。
+Just a meat shield that anyone can use...
+Incredibly clumsy, and no special tallents.*
+But even so, that doesn't mean I can't be useful.**
+Thank you for showing me that.
 
 Miles：上
-へ、面と向かって言われると照れるな。
-まあ、立ち直ってくれたようで俺はうれしいぜ！
+Haha, no need to act all flusted about it.
+I'm glad I could help you find your footing!
 
 Nobus：上
-それにレイ。お前ならきっと俺の攻撃ぐらいかわすだろう
-って思ったから突っ込めたんだ。レイの才能を信じてい
-なければ、あんなふうには動けなかったよ。
+And you too Ray. It was because I knew you'd
+block my attack I rushed in. I wouldn't have
+moved like that if I doubted your skill.
 
 Ray：上
-・・・・・・♪
+.....♪
 
 Miles：上
-さあさあ、身内での話はそこまでにしておこうぜ。**
-今は歓迎してくれるみんなに答えねえと。
-ほら、手を振りな。*
-後で故郷の村にも顔を見せに行こうぜ。
-ああ、ただの村人からここまで来れた。
-それだけでなんだか泣けてくるぜ。
+Hey now, let's save this talk of comradery for
+later yeah?*
+We should acknowledge the welcome everyone has
+prepared for us! Come on, wave your hands!*
+We should head over to make an appearance at our
+home village after this.*
+Ahh, to think we've come this far from just
+ordinary villagers. It's enough to bring a tear
+to my eye.
 
 Nobus：上
-でも、まだ終わりじゃないんだろ？**
-ユミルが言った通り、
-これからは平和を維持するためにも、
-普通の魔物と戦わなきゃな。
+But, we're not done with things yet right?**
+Like you said Miles, after this we'll have to 
+fight regular demons to maintain peace.
 
 テロップ：中央
-こうして、国の存亡をかけた
-サキュバスたちとの戦いは幕を閉じた。*
-多くの犠牲を出しながらも、
-サキュバスの攻撃を退けることに成功したのだ。*
-この戦いは、のちに賢者ミツヒデの手によって歴史書に
-副団長ユミルの手によって英雄物語につづられて、
-長く語り継がれることになったという。
-淫魔との戦いの物語の末尾に、
-ぼくらは勝利を刻み、
-栄光と平和を勝ち取ったのであった。
+And so, the life or death war with the succubus
+came to an end.*
+Though many sacrifices were made, our heroes
+succeeded in repelling the succubus attacks.*
+Records of the war, binded as a heroic tale by
+Miles and later in the books of history through
+the wise sage Mizuhide,
+was said to be handed down for many generations.**
+In the end of the succubus war tale, we emmerged
+victorious, and won glory and peace.
 
 <AT23>
 スクロール：中央
