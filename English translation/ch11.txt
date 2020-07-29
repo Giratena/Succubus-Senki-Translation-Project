@@ -2595,7 +2595,7 @@ Actors
 
 タイトル：中央
 【Special Thanks】
-All valued supporters on Ci-en
+To all valued supporters on Ci-en
 
 タイトル：中央
 Thank you for playing!
@@ -2605,32 +2605,32 @@ Queen Mirage：上
 (Giggle) You did well.
 But no matter how many illusions you defeat,
 it's no use isn't it?
-サキュバスは夢と霧の支配者。
-その女王たるわたしには、幻影を何度も
-作り直すことぐらい、造作もないのだから♪
+Succubus are the governors of fog and dreams.
+For a queen such as myself, I can recreate my
+illusions many times with ease♪
 
 タイトル：中央
 Phantom Revival
 
 Queen Mirage：上
-終わりのないハーレムで、
-せいぜい絶望することね❤
+Plunge into the depths of hoplessness with my
+my never ending harem-❤
 
 Queen Mirage：上
-ちっ、これ以上の復活は無理みたいね。
-あれだけの数の幻影を全部捌くなんて、
-たいしたものじゃない。
+Tch, I can't seem to recreate anymore than this.
+To have completely dealt with this many illusions...
+That could be quite the problem-
 
 テロップ：中央
-魔力が切れたことにより、
-女王のステータスが一部ダウンした！
+Due to the reduction of magic, the queen's
+status has weakened!
 
 <AT0>
 Ray：上
-ううっ・・・・。
+Ough....
 
 Queen Mirage：上
-あら、目が覚めた？**
+Ara, are you awake?**
 わたしに一撃を入れられたことは、褒めてあげる。
 でも、そこまでだったようね。*
 サキュバスの快楽に負けて、
