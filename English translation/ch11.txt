@@ -5796,7 +5796,7 @@ Mini Mirage：上
 
 <OP1>
 テロップ：中央
-OPをスキップしますか？
+Skip the opening?
 
 <OP0>
 テロップ：中央
@@ -6044,9 +6044,9 @@ Queen Mirage：中央
 The Succubus Queen Mirage.**
 The queen who governs over succubus.
 Possesses incredible magical power.*
-Though sealed by the holy sword of light,
-the seal began to weaken over time until her
-revival in the real world.
+Though she was sealed by the holy sword of light,
+the seal weakened over time, until she could be
+revived in the real world.
 As the seal hasn't completely lifted, she
 cannot move from the throne room. However, it's
 only a matter of time before the seal is undone.
