@@ -5808,8 +5808,8 @@ Skip the opening?
 
 <OP0>
 テロップ：中央
-乳魔アリスを倒した僕たちは、
-階段を急いで駆け上がった。*
+Having defeated the breast succubus Alice,
+we ran up the stairs as fast as we could.*
 サキュバスの女王がいる玉座の間が、
 もう目の前だ。
 
