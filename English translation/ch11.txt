@@ -5936,7 +5936,7 @@ Ooogh...❤
 
 Queen Mirage：上
 Fufu- Are you the leader of these soldiers?
-You're resisting a bit more aren't you?*
+You're really fighting it aren't you?*
 But, is all this fighting really necessary?
 What could be a more worthy goal in this world
 than feeling good?
@@ -6006,27 +6006,29 @@ our foe is going to be hard to pin down. Here's my
 tactics advice. Refer to it as you please. 
 
 Miles：上
-まず、今回の戦いは敵のボス、
-夢魔の女王ミラージュを倒すことが目標になる。
+First of all, for this fight our goal will be to
+defeat the enemy boss, the Succubus Queen Mirage.
 
 Miles：上
-厄介なのは女王が出した分身だな。
-数は５体。人数でいえば俺たちの方が多いが、
-問題は、倒してそれで終わりか分からねえってところだ。
-魔法で作り出した幻影なのだとしたら、
-いくらでも作り直せる可能性がある。
-その辺、どうなんだ。ミツヒデ。
+Though the amount of body doubles the queen made
+is troubling.*
+There are five of them at the moment. But though
+we still outnumber them, the problem is I don't
+know if defeating them will make them go away.
+If they're illusions created by magic, there's a
+possibility she can make as many as she likes.
+What say you Mizuhide? Is that about right?
 
 Mizuhide：上
-いくら夢魔の女王とはいえ、
-あのレベルの高度な幻影を、
-無尽蔵に作り出すことは難しいと思います。
-何回か復活させることはできるでしょうが、
-無限ではないなはずです。
-繰り返し倒せばいずれ幻影は尽きるかもしれません。
+Even for the succubus queen, I believe it would
+be difficult to produce an unlimited amount of
+such advanced illusions at that level.
+She'll be able to revive them a few times, but I
+doubt she can continue doing it forever. If we
+keep defeating them, the illusions may disappear.
 
 Miles：上
-ふむ。それならそれで手の打ちようはあるな。**
+Hmm... So that's seems to be an option...**
 どうも女王の本体は玉座から動く気がないようだ。
 あくまで幻影を使って俺たちを倒すのが狙いらしい。*
 幻影相手にてこずっている間に、
