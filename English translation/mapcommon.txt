@@ -1,16 +1,16 @@
 <MC116>
 テロップ：中央
-女性キャラ雇用ありでスタートします。**
-女性キャラが敵淫魔に攻撃を受けた際のセリフは、
-百合責めのセリフではなく、男性と戦闘した場合と同
-じセリフが表示されます。ご容赦ください。
+Female enemy characters can now be recruited.**
+The dialogue of a female character attacked by a
+succubus won't provide any yuri dialogue, and
+will appear as if fighting a man. Forgive me.
 
 <MC47>
 テロップ：中央
 ハードモード（２週目特典なし）でスタートします。**
-ハードモードは非常に難易度の高いモードです。**
-①敵の能力が上昇し、
-多くの場合、特殊なスキルを身につけています。*
+Hard mode is a very intense difficulty.**
+1. Enemies have more stats and in most cases,
+have special abilities.*
 ②戦闘で負傷すると、
 相手の技に応じて「弱点」が付与されることがあります
 一度付与された弱点は解除することができません。
