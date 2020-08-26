@@ -1312,10 +1312,10 @@ Nobus：上
 Aaagh, it must be that. Yeah, I know.
 They're evil demons. 
 But, um, when they, started to...
-The time I felt those soft breasts still lingers 
-in my mind...*
-When I'm asleep, when I'm awake, 
-it's like "I want it" even more.
+Well, the time I felt those soft breasts still
+lingers in my mind...*
+Even when I'm asleep or I'm awake, in my mind I
+think "I want to expreience that again."
 I can't help but feel concerned.
 
 Ray：上
@@ -1349,7 +1349,7 @@ To the heroes who saved our country!!!
 Miles：上
 Whoa-!!
 Now this is what I'm talking about.*
-It's like we've become instant Heroes!
+It's like we've become instant heroes!
 Hahaha! You'd better believe it.
 
 Ray：上
@@ -1358,7 +1358,7 @@ Ray：上
 Miles：上
 No kidding, nothing beats a good drink after a 
 sweet victory!
-Hey brother, fill 'er up once more!
+Hey good sir, fill 'er up once more!
 
 Man：上
 Ohoho, drink to your heart's content♪
@@ -1371,7 +1371,7 @@ I hate to imagine what would have happened if you
 had not come to our rescue.
 For some reason our attacks could not land at all,
 and yet, your swords cut right through them!*
-There is no doubt, you are surely Heroes!
+There is no doubt, you are surely heroes!
 
 Ray：上
 ...
@@ -1386,7 +1386,7 @@ That's the best way to approach this!
 Miles：上
 Hey now, no need to be modest～♪**
 We just saved everyone in the capital.
-If that's not what Heroes do, then I don't know 
+If that's not what heroes do, then I don't know 
 what is!
 So drink up! Yeah, that's it! We did it!
 
@@ -1408,9 +1408,9 @@ for you all to arrive at the castle tomorrow
 evening and listen to what he has to say. 
 
 Miles：上
-Ah, now that I think about it, where's Nobus?
+Ah. Now that I think about it, where is Nobus?
 I gotta have a toast with him too.*
-Hey, Nobus, where are you?
+Hey Nobus, where are you?
 
 ：上
 (Nobus is seen speaking with someone in the 
@@ -1427,10 +1427,10 @@ Nobus：上
 but they seem to be having fun.)
 
 Miles：上
-Oh, would you look at that. That's Nobus over 
+Oh! Would you look at that. That's Nobus over 
 there. Chatting up that cute girl.*
-Not only that, check out the size of her chest.
-Uugh, we only just fought succubi earlier, so 
+And whoa, check out the size of her chest.
+Uugh... we only just fought succubi earlier, so 
 seeing something like that makes my heart pound.
 But this is our friend we're talking about here,
 so I'll back off the smack.*
@@ -1438,16 +1438,15 @@ I always knew Nobus would be popular with
 the ladies! Ahaha♪
 
 テロップ：中央
-And so, the party lasted 
-well into the night.*
+And so, the party lasted well into the night.**
 The last words of that night conveyed by what
-seemed to be a commanding officer,*
+seemed to be a commanding officer...*
 "The chancellor has summoned you,
 so come to the castle tomorrow evening."*
 ...**
 What sort of duties he would give us, I had no 
 idea. Come morning, we'd better prepare ourselves
-and organize our equipment for what's to come.
+and organize our equipment for what's to come...
 
 <OP2>
 テロップ：中央
@@ -1480,7 +1479,7 @@ analyzer please?
 
 Miles：上
 Hm? 
-What, this crystal ball?
+What? This crystal ball...?
 
 ：スチル
 When Ray touched the crystal analyzer, it shone with
@@ -1683,7 +1682,7 @@ What do you think? Compared to them, I feel
 useless.*
 Ray and Miles are my childhood friends, 
 so I thought we'd always be on the same page.*
-But now they're becoming worthy Heroes,
+But now they're becoming worthy heroes,
 with special abilities, even...
 Compared to them, I'm just a regular guy.
 Before I heard about the divine protection,
@@ -1867,7 +1866,7 @@ we were invited to the Elf village for a
 big celebratory feast.
 
 Elf：上
-A toast to our new Heroes!
+A toast to our new heroes!
 
 Miles：上
 Whoa, this Elf liquor is great!
@@ -1930,7 +1929,7 @@ Ray：上
 Oogh...
 
 Elf：上
-You did well, Heroes-**
+You did well, heroes-**
 We're really sorry- We wanted to come and help,
 but that girl might have turned us into succubus,
 so the Snake Deity wouldn't let us get any closer.
@@ -3743,8 +3742,8 @@ Ray：上
 
 Leon：上
 Are you, perhaps Lord \pdb[0]?
-The one who defended the 
-town against the demon attack?
+The one who defended the town against the recent
+demon attack?
 Actually, I am quite confident 
 on the battlefield myself.*
 My specialty is healing allies. If it is alright,
@@ -3805,20 +3804,12 @@ It is very handy for omitting dialogue.
 You can also use the [Space Key]
 to skip events entirely.
 
-テロップ：中央
-While walking down the road, 
-you see the glittler of something shiny.
-
-テロップ：中央
-While walking down the road, you see the glittler 
-of something shiny.
-
 <CM5>
 Soldier：上
 Hmm? You want strong allies? Well in that case, 
 why not visit the tavern?*
-You can gain many followers,
-if you have enough renown, that is. 
+You can gain many followers, if you have enough
+renown, that is. 
 
 テロップ：中央
 Renown points are obtained depending on the 
@@ -3831,18 +3822,17 @@ location menu.
 <CM6>
 Soldier：上
 As a commander, it's important to keep your 
-allies close.
-But keep your enemies closer.
-You seem to have a keen eye for 
-observing both enemies and allies.*
+allies close, but keep your enemies closer.*
+You seem to have a keen eye for observing both
+enemies and allies.*
 Know your allies, but don't forget about your 
 enemies. That's what I always say. 
-Nothing is more important.
+Nothing is more important than that.
 
 テロップ：中央
-When pushing the [Right Click] or [X Key] 
-with the cursor in battle,
-you can check unit status and held items.
+When pushing the [Right Click] or [X Key] with the
+cursor in battle, you can check unit status and
+held items.
 Not only can you see ally information, but 
 enemy information as well.*
 Furthermore, if you press the [Right Arrow Key] 
@@ -3870,17 +3860,16 @@ I'd buy it for a high price, yeah?
 Let me know if you find one.
 
 Man：上
-The demons are a serious threat 
-because they spring up suddenly, and attack the
-people of the village.
-It would seem they don't like to attack 
-in groups, so I don't think the Order of Knights
-would have any problems.
-But with the sudden attacks,
-by the time the Order comes the damage 
-would have already been done.
-But now with you as our mercenary group, 
-the town can finally live in peace.
+The demons are a serious threat because they
+spring up and attack the people of the village
+without warning.
+It would seem they don't like to attack in groups,
+so I don't think the Order of Knights would have
+any problems.
+But with the sudden attacks, by the time the Order
+comes the damage would have already been done.*
+But now with you as our mercenary group, the town
+can finally live in peace.
 
 <CM3>
 Elderly Lady：上
@@ -3915,14 +3904,13 @@ Mileena：上
 \vo[mi3]I saw Nobus tired out and drinking alone 
 at his own party.*
 \vo[mi4]So, I started to chat with him.**
-\vo[mi5]When it's only two people,
-you can talk for ages and ages...
-It was a fun evening.
+\vo[mi5]When it's only two people, you can talk for ages
+and ages... It was a fun evening.
 
 Nobus：上
 She's the innkeeper here.
-After we finished drinking, I was asked
-if I would like to stay here for the night.
+After we finished drinking, she asked me if I 
+would like to stay here for the night.
 It's a good place, and the meals are 
 delicious.* 
 It will be awhile before we make our
@@ -3936,18 +3924,17 @@ Mileena：上
 テロップ：中央
 Mileena gave Nobus a hug, and his face turned 
 red with embarrassment.*
-Not wanting to interfere,
-I decided to give them some
-space and promptly left the inn.
+Not wanting to interfere, I decided to give them
+some space and promptly left the inn.
 
 <CM8>
 Soldier：上
 Uugh, I drank way too much last night...**
 There's no way I can do my duties with this 
 headache.*
-If you're feeling worse for wear,
-try some Panacea. It works for just about anything
-other than deadly poison.
+If you're feeling worse for wear, try some
+Panacea. It works for just about anything other 
+than deadly poison.
 You can only get such medicine from the capital
 though.*
 It's a tad expensive, but for the sake of my 
@@ -4021,9 +4008,8 @@ of course, oh-ho.*
 
 <CM12>
 Man：上
-Hey, bro! Are you worried about gold?**
-If so, you should make 
-friends with an Excavator!*
+Hey, man! Are you worried about gold?
+If so, you should make friends with an Excavator!*
 Excavators can collect items and gold from 
 dungeons. If you got one, I'd bet you'd end up 
 with a lot of money!
@@ -4034,8 +4020,8 @@ As I approached the entrance of the back alley,
 I was approached by two erotically clothed women.
 
 Woman：上
-He-y- Big brother-
-Wanna play with us for a bit?
+Hey there good looking-
+Wanna spend some time with us for a bit?
 Check out my outfit. Isn't it sexy?
 Fufu- I can tell you're peeking at my cleavage
 by the way you're blushing while looking away-❤
@@ -4057,8 +4043,7 @@ Woman：上
 Ehehe, caught your arm-
 My breasts are real big, aren't they...?*
 Look at this, I'm pressing them right up against
-you- You can feel how soft they are, 
-I don't mind-❤
+you- You can feel how soft they are. I don't mind-❤
 
 Ray：上
 Oh...❤
@@ -4069,23 +4054,23 @@ That girl has the biggest breasts in our shop.*
 When you have breasts that big, it's easy to
 wrap them around someone's arm.*
 I bet it'd feel really good to have your face 
-buried between them.*
+buried between them too.*
 Hora- Just imagine it...❤
 Just imagine her soft breasts, wrapping around 
-various body parts...
+your various body parts...
 It'd feel so good, your mind would become 
 blank with pleasure...
 
 Woman：上
-You know-...❤
-We can do even better things in our shop...❤
+You know...❤
+We can do even better things in our shop-❤
 How about it? Just follow us okay...?
 
 Woman：上
 Ahnn-❤
-Don't say such mean things.*
-Ah that's right- 
-I'll give you my specialty Puff-Puff-❤
+Don't say such mean things-*
+Oh that's right! Let me at least give you my
+specialty Puff-Puff-❤
 There's no man that can resist this.
 Look- I'll wrap my breasts around your face,
 and go rub rub...❤ Squish squish...❤
@@ -4100,9 +4085,9 @@ And big brother's place down here too... ufu-
 has gotten really hard-❤
 Did our breasts excite you that much? 
 Tee-hee...
-Come on... Won't you stay still?*
-I'll rub you over your clothing just like this, 
-rub rub-❤ Rub rub...❤*
+Come on... Just relax a bit with us okay?*
+I'll rub your penis over your clothing just like
+this, rub rub-❤ Rub rub...❤*
 I'll even squeeze and rub the tip of 
 your penis too, see?❤
 
@@ -4112,14 +4097,14 @@ Ughh...❤ Ahh...❤
 Woman：上
 Your moans are adorable-❤
 And your entranced expression is nice too.*
-That's it, just entrust yourself to the 
-pleasure...
+That's it. Just like that- Entrust yourself to
+the pleasure...
 
 Woman：上
 Sheesh, how mean-❤
 Alright then.*
-But if you ever find yourself 
-irresistibly aroused, be sure to visit us again.
+But if you ever find yourself irresistibly
+aroused, be sure to visit us again.
 We'll make you feel really good-❤
 
 Woman：上
@@ -4128,7 +4113,7 @@ Okay, just follow our lead♪*
 Come on. This way, this way. Follow us...❤
 
 Woman：上
-Is this your first time in an erotic shop?*
+Is this your first time in an erotic shop?
 Fufu- Let's do lots of nice things, okay?❤
 
 Woman：上
@@ -4182,8 +4167,8 @@ Ray：上
 Ahh...❤ Ughh...❤
 
 Woman：上
-I guess not even our big brother can resist being
-rubbed by your slippery pussy-❤
+I guess not even our strapping young man here can
+resist being rubbed by a slippery pussy-❤
 He's even voluntary shaking his waist...❤
 Ho-ra- It's slowly entering her pussy-❤
 There'll be a fine, but it's impossible
@@ -4201,7 +4186,7 @@ That blissful pleasure you feel just from
 insertion is incredibly popular with
 our customers-❤
 And when I use this pussy of mine to stroke and 
-bounce on my big brother's penis...❤
+bounce on a handsome cock like yours...❤
 
 Ray：上
 Hahiii-❤ Afuuu-❤
@@ -4296,8 +4281,8 @@ Ahnn-❤ I just started stroking you,
 and yet you're twitching so much-❤
 How cute-❤
 Hora hora～
-Ejaculate and submit to your 
-big sister's techniques-❤
+Ejaculate and submit to your big sister's
+techniques-❤
 
 Ray：上
 Ahh...❤ I'm going to...❤
@@ -4331,8 +4316,8 @@ Ray：上
 Ahh...❤ Uhh...❤
 
 Woman：上
-I guess not even our big brother can resist being
-rubbed by your slippery pussy-❤
+I guess not even our strapping young man here can
+resist being rubbed a slippery pussy-❤
 He's even voluntary shaking his waist...❤
 Ho-ra- It's slowly entering her pussy-❤
 There'll be a fine, but it's impossible
@@ -4350,7 +4335,7 @@ That blissful pleasure you feel just from
 insertion is incredibly popular with
 our customers-❤
 And when I use this pussy of mine to stroke and 
-bounce on my big brother's penis...❤
+bounce on a handsome cock like yours...❤
 
 Ray：上
 Hahiii-❤ Afuuu-❤
@@ -4382,8 +4367,8 @@ Ah... Nooo, I'm going to cum againnn...❤
 
 Woman：上
 Go ahead...❤
-Spurt out as much as you want 
-until your money is all gone-❤
+Spurt out as much as you want until your money
+is all gone-❤
 
 テロップ：中央
 After being milked dry by the older sisters,
@@ -6659,7 +6644,7 @@ Elf：上
 Congratulations!-♪
 Here's to clearing our trial!-*
 I heard about what happened.
-Everyone calls you all Heroes, don't they?
+Everyone calls you all heroes, don't they?
 That's so amazing- Ufufu♪
 To have been doing lewd things with such amazing
 people... And then drinking sake afterwards...!
@@ -7110,7 +7095,7 @@ I promptly left after that.
 
 <CM48>
 Elf：上
-You were great out there, Heroes!**
+You were great out there, heroes!**
 Being able to conquer the curse of the holy sword
 was nothing short of amazing!-*
 I didn't really think much of humans at first,
