@@ -2603,9 +2603,9 @@ Head translator- Giratena
 
 タイトル：中央
 【Special Thanks】
-To all the awesome people that helped proofread
-the translation on the Succubus Senki Translation
-discord server
+To all the awesome people that helped
+proofread the translation on the
+Succubus Senki Translation discord server
 
 タイトル：中央
 Thank you for playing!
@@ -5994,7 +5994,7 @@ Ray：上
 ....!
 
 Queen Mirage：上
--So you're this generation's holy sword user?**
+So you are this generation's holy sword user?**
 Very well.
 I will break you down with everything I have.
 
