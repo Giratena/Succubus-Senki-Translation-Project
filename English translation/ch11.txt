@@ -2553,7 +2553,7 @@ Chinbotsu Tower
 
 タイトル：中央
 【Animation】 とんこつ Tonkotsu 
-Colorisation： とんこつ (Tonkotsu), ㋔タニ(Otani),
+Colourisation-- とんこつ (Tonkotsu), ㋔タニ(Otani),
 色仕掛けまとめ (Irojikake Matome)
 
 タイトル：中央
