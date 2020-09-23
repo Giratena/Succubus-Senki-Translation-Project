@@ -1,5 +1,4 @@
-﻿
-<(65536)Succubus Maid A8>
+﻿<(65536)Succubus Maid A@8>
 アクティブ：上
 I can see how you were able to make it as far as
 this castle, but I'm afraid I don't intend on
@@ -38,7 +37,7 @@ I-Impossible! It's not working...**
 Is this the holy sword's doing? What dreadful
 powers...
 
-<(65536)Succubus Maid A0>
+<(65536)Succubus Maid A@0>
 アクティブ：上
 It would seem our dear guest appears to have quite
 a fondness for breasts- I can tell exactly from 
@@ -179,7 +178,7 @@ Let your body relax, and you will be able to
 ejaculate pleasurably as your penis is stroked
 through a lovely set of cleavage OK? Ufufu...❤
 
-<(65550)Succubus Maid A8>
+<(65550)Succubus Maid A@8>
 アクティブ：上
 I can see how you were able to make it as far as
 this castle, but I'm afraid I have no intentions
@@ -218,7 +217,7 @@ I-Impossible! It's not working...**
 This is the holy sword's doing? What dreadful
 powers...
 
-<(65550)Succubus Maid A0>
+<(65550)Succubus Maid A@0>
 アクティブ：上
 It would seem our dear guest appears to have quite
 a fondness for breasts- I can tell exactly from 
@@ -361,7 +360,7 @@ So, why don't we have a little fun? A reward for
 persevering until now. Our short time together
 will be wonderful so please, go ahead and enjoy.
 
-<(65538)Succubus MaidB0>
+<(65538)Succubus MaidB@0>
 アクティブ：上
 You cannot pass any further beyond this point.
 So, I shall turn your heart into mush by servicing
@@ -534,7 +533,7 @@ Well then please, be my guest. Please relax and
 enjoy yourself. I'll service you lots until you
 ejaculate, alright?
 
-<(65549)Succubus MaidB0>
+<(65549)Succubus MaidB@0>
 アクティブ：上
 You cannot pass any further beyond this point.
 So, I shall turn your heart into mush by servicing
@@ -705,28 +704,28 @@ reactions make me want to stimulate you more.
 There there- Let's pick up the pace shall we...?❤
 Submerge yourself in pleasure.
 
-<(65537)Dancer0>
+<(65537)Dancer@0>
 アクティブ：上
 Feel the rush of the wind everyone...♪
 
 タイトル：中央
 Gale Dance (Big speed boost to allies in 8 spaces)
 
-<(65537)Dancer1>
+<(65537)Dancer@1>
 アクティブ：上
 Feel the rush of the wind everyone...♪
 
 タイトル：中央
 Gale Dance (Big speed boost to allies in 8 spaces)
 
-<(65537)Dancer2>
+<(65537)Dancer@2>
 アクティブ：上
 Feel the rush of the wind everyone...♪
 
 タイトル：中央
 Gale Dance (Big speed boost to allies in 8 spaces)
 
-<(65537)Dancer3>
+<(65537)Dancer@3>
 アクティブ：上
 Feel my dance everyone! Feel the power-♪
 
@@ -737,7 +736,7 @@ Firestorm Dance (All allies gain Attack UP)
 I'll help out and dance for those who betrayed us
 too-❤
 
-<(65537)Dancer5>
+<(65537)Dancer@5>
 アクティブ：上
 Feel my dance everyone! Feel the power-♪
 
@@ -748,7 +747,7 @@ Firestorm Dance (All allies gain Attack UP)
 And all you who double-crossed for us, I'll dance
 for you too-❤
 
-<(65537)Dancer4>
+<(65537)Dancer@4>
 アクティブ：上
 Feel my dance everyone! Feel the power-♪
 
@@ -759,7 +758,7 @@ Firestorm Dance (All allies gain Attack UP)
 And all you who double-crossed for us, I'll dance
 for you too-❤
 
-<(65537)Dancer6>
+<(65537)Dancer@6>
 アクティブ：上
 I sway my body back and forth, moaning lewdly by
 going 'Ooh, uwaah-❤', and then all the men turn
@@ -836,28 +835,28 @@ And when I sway my boobs and butt like this,
 I wonder if that turns you on too?
 Teehee...❤
 
-<(65545)Dancer0>
+<(65545)Dancer@0>
 アクティブ：上
 Feel the rush of the wind everyone...♪
 
 タイトル：中央
 Gale Dance (Big speed boost to allies in 8 spaces)
 
-<(65537)Dancer1>
+<(65537)Dancer@1>
 アクティブ：上
 Feel the rush of the wind everyone...♪
 
 タイトル：中央
 Gale Dance (Big speed boost to allies in 8 spaces
 
-<(65545)Dancer2>
+<(65545)Dancer@2>
 アクティブ：上
 Feel the rush of the wind everyone...♪
 
 タイトル：中央
 Gale Dance (Big speed boost to allies in 8 spaces)
 
-<(65545)Dancer3>
+<(65545)Dancer@3>
 アクティブ：上
 Feel my dance everyone! Feel the power-♪
 
@@ -868,7 +867,7 @@ Firestorm Dance (All allies gain Attack UP)
 I'll help out and dance for those who betrayed us
 too-❤
 
-<(65545)Dancer5>
+<(65545)Dancer@5>
 アクティブ：上
 Feel my dance everyone! Feel the power-♪
 
@@ -879,7 +878,7 @@ Firestorm Dance (All allies gain Attack UP)
 And all you who double-crossed for us, I'll dance
 for you too-❤
 
-<(65545)Dancer4>
+<(65545)Dancer@4>
 アクティブ：上
 Feel my dance everyone! Feel the power-♪
 
@@ -890,7 +889,7 @@ Firestorm Dance (All allies gain Attack UP)
 And all you who double-crossed for us, I'll dance
 for you too-❤
 
-<(65545)Dancer6>
+<(65545)Dancer@6>
 アクティブ：上
 I sway my body back and forth, moaning lewdly by
 going 'Ooh, uwaah-❤', and then all the men turn
@@ -967,7 +966,7 @@ And when I sway my boobs and butt like this,
 I wonder if that turns you on too?
 Teehee...❤
 
-<(65546)Dancer0>
+<(65546)Dancer@0>
 アクティブ：上
 Feel the rush of the wind everyone...♪
 
@@ -979,7 +978,7 @@ Ufufu-❤
 You do your best too traitors-❤
 I'll give you a big power up-❤
 
-<(65546)Dancer1>
+<(65546)Dancer@1>
 アクティブ：上
 Feel the rush of the wind everyone...♪
 
@@ -991,7 +990,7 @@ Ufufu-❤
 You do your best too traitors-❤
 I'll give you a big power up-❤
 
-<(65546)Dancer2>
+<(65546)Dancer@2>
 アクティブ：上
 Feel the rush of the wind everyone...♪
 
@@ -1003,28 +1002,28 @@ Ufufu-❤
 You do your best too traitors-❤
 I'll give you a big power up-❤
 
-<(65546)Dancer3>
+<(65546)Dancer@3>
 アクティブ：上
 Feel my dance everyone! Feel the power-♪
 
 タイトル：中央
 Firestorm Dance (All allies gain Attack UP)
 
-<(65546)Dancer4>
+<(65546)Dancer@4>
 アクティブ：上
 Feel my dance everyone! Feel the power-♪
 
 タイトル：中央
 Firestorm Dance (All allies gain Attack UP)
 
-<(65546)Dancer5>
+<(65546)Dancer@5>
 アクティブ：上
 Feel my dance everyone! Feel the power-♪
 
 タイトル：中央
 Firestorm Dance (All allies gain Attack UP)
 
-<(65546)Dancer6>
+<(65546)Dancer@6>
 アクティブ：上
 I sway my body back and forth, moaning lewdly by
 going 'Ooh, uwaah-❤', and then all the men turn
@@ -1101,7 +1100,7 @@ And when I sway my boobs and butt like this,
 I wonder if that turns you on too?
 Teehee...❤
 
-<(65539)Bard9>
+<(65539)Bard@9>
 アクティブ：上
 Hmmph. As it seems, you didn't come here 
 though ordinary means. As expected of a hero.*
@@ -1124,7 +1123,7 @@ No way... How did you manage to keep your sanity
 while listening to my voice...?
 Ugh, that's annoying...
 
-<(65539)Bard0>
+<(65539)Bard@0>
 アクティブ：上
 Ufufu- You're already infatuated with my feet 
 aren't you? Were you that happy to have been
@@ -1301,7 +1300,7 @@ If that's the case, how about you submit to my
 succubus feet right now, and let your semen gush
 our? Masochist-❤
 
-<(65540)Slime Succubus0>
+<(65540)Slime Succubus@0>
 アクティブ：上
 Is my slime already getting you nice and hard?
 Teehee...♪*
@@ -1503,7 +1502,7 @@ I'll jerk my squishy slime stroking it up and down
 your penis, so let yourself feel better and 
 better- Just sit still until you cum OK?❤
 
-<(65544)Slime Succubus0>
+<(65544)Slime Succubus@0>
 Is my slime already getting you nice and hard?
 Teehee...♪*
 Hora- I'll move my slime around, and around, and
@@ -1704,7 +1703,7 @@ I'll jerk my squishy slime stroking it up and down
 your penis, so let yourself feel better and 
 better- Just sit still until you cum OK?❤
 
-<(65548)Slime Succubus0>
+<(65548)Slime Succubus@0>
 アクティブ：上
 Oough... You didn't just push the switch down did
 you...? That's no good at all- Please put it back.*
@@ -1877,7 +1876,7 @@ I'll jerk my squishy slime stroking it up and down
 your penis, so let yourself feel better and 
 better- Just sit still until you cum OK?❤
 
-<(65541)Timid Succubus0>
+<(65541)Timid Succubus@0>
 アクティブ：上
 Aha- I'll give my motionless, love-struck 
 intruder a special reward...❤
@@ -2103,7 +2102,7 @@ Hoora- You're gonna have so much fun with my
 breasts...❤ It seems you all like it very much
 when I do this don't youu...?❤
 
-<(65547)Timid Succubus0>
+<(65547)Timid Succubus@0>
 アクティブ：上
 Aha- I'll give my motionless, love-struck 
 intruder a special reward...❤
