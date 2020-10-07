@@ -145,7 +145,7 @@ Now, show me the strength of your heart!
 
 <AT11>
 Boobie Elf：上
-Auugh...。
+Auugh...
 I should have expected as much from those
 who came in search of the holy swords...
 But hey, I realise you guys are strong, but don't
@@ -2493,7 +2493,7 @@ We're going to get along really well,
 my sweet darling-❤
 
 テロップ：中央
-And so, after making passionate love with her,
+And so, after we made passionate love,
 I was wed as a bridegroom in the Elf village.*
 I lived in harmony with the village, and had many
 children. The many Elf girls I had were not only 
