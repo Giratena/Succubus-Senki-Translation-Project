@@ -1155,7 +1155,7 @@ from our skilled swordsman.
 Miles：上
 Hey, snap out of it \pdb[0]!**
 You're the best swordsman out of all of us!
-What the heck are you so nervous for?
+Why the heck are you so nervous for?
 
 Miles：上
 If we are victorious, we can collect
