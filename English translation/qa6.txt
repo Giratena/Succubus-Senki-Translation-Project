@@ -708,8 +708,8 @@ Nobus：上
 
 <OP0>
 Lyon：上
-レイ団長。
-近隣の村から手紙が届いていまして、*
+Ray, I've just recieved a letter from a nearby
+village.*
 診療所の人手が足りないから、
 回復魔法が使える人間を
 一時的に派遣してもらえないかとのことです。

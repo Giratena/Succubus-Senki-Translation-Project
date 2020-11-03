@@ -6033,7 +6033,7 @@ weapons shop.
 
 Nobus：上
 Well, they call it a weapons shop, but we also
-sold farming tools and just about everything else.
+sold farming tools and just about everything else.*
 We only sold weapons because my father used them 
 for his hobbies. At the time, few people needed 
 weapons.
