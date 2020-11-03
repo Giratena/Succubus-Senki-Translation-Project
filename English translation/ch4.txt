@@ -130,8 +130,8 @@ Succubus Aroma
 
 情報：情報
 The succubus' aroma will drift into the map every 
-3 turns. It divides affect unit's willpower by 3,
-and inflicts the 'arousal' status.*
+3 turns. It lowers the affected unit's willpower
+by 3, and inflicts the 'arousal' status.*
 You can cure this status by using Princess 
 Estuna's amulet. It can be used indefinitely, 
 but not consecutively. Use it wisely.
@@ -1373,14 +1373,14 @@ we'll lead you to a world of pleasure. Ufufu-
 
 Devout Girl：上
 This is a present from me for those who
-are getting drunk off our scent.
+enjoy my body's aroma.
 
 Devout Girl：上
 This is my bra. I use them to contain my breasts,
 so they smell very sweet.*
 If you sniff them, you might not ever want to
-stop but...
-Ufufu- use them however you like, alright?❤
+stop but... Ufufu- You should use them however
+you like, OK?❤
 
 <AT14-5>
 Devout Girl：上
@@ -1405,14 +1405,14 @@ we'll take you to a world of pleasure... Ufu-
 
 Devout Girl：上
 This is a present from me for those who
-are getting drunk off our scent.
+enjoy my body's aroma.
 
 Devout Girl：上
 This is my bra. I use them to contain my breasts,
 so they smell very sweet.*
 If you sniff them, you might not ever want to
-stop but...
-Ufufu- use them however you like, alright?❤
+stop but... Ufufu- You should use them however
+you like, OK?❤
 
 <AT14-6>
 Devout Girl：上
@@ -1437,14 +1437,14 @@ we'll take you to a world of pleasure... Ufu-
 
 Devout Girl：上
 This is a present from me for those who
-are getting drunk off our scent.
+enjoy my body's aroma.
 
 Devout Girl：上
 This is my bra. I use them to contain my breasts,
 so they smell very sweet.*
 If you sniff them, you might not ever want to
-stop but...
-Ufufu- use them however you like, alright?❤
+stop but... Ufufu- You should use them however
+you like, OK?❤
 
 
 <AT11>
@@ -5350,7 +5350,7 @@ Ray：上
 ...
 
 Miles：上
-Thank you for those words...!
+Your words mean much to us. Thank you...!
 
 King：上
 Now then, first of all I would like to
@@ -5375,7 +5375,7 @@ you may fight many dreadful monsters.
 So please, take this pendant.
 
 Princess Esuna：上
-Hold this pendant close to your chest,
+Hold this pendant close to your chest
 and it will calm and protect your heart.*
 The monsters currently attacking
 aim to deceive your heart and drain your life.*
@@ -5391,17 +5391,16 @@ Teehee- Your eyes are full of determination.
 I assume it was because of your leadership that
 the monsters were able to be driven away, correct?
 I will anxiously await your return.
-Muster all your might,
-and please protect our kingdom.
+Muster all your might and please, protect our
+kingdom.
 
 Mizuhide：上
 Ray, Miles, Nobus...**
 Congratulations! From this point onwards, you
 are now officially recognized members of the
 Order of Knights.
-From now on,
-you are now the head commander and vice commanders
-of the Ninth Order!
+From now on, you are now the head commander and
+vice commanders of the Ninth Order!
 
 Miles：上
 (Damn, I literally cannot stop smiling...)
@@ -5427,18 +5426,18 @@ of legend.*
 While I was deciphering an ancient document about
 succubi, I discovered a description of holy
 swords used to deal with the succubus queen.
-They were sealed beneath the ground,
-which is apparently located where
-Lord Ray's group will be posted.
+They were sealed beneath the ground, which is
+apparently located where Lord Ray's group will
+be posted.
 
 Mizuhide：上
 The text says...**
 "The swords which thwarted the queen and defeated
-the succubi, were sealed away in a fountain,
+the succubi were sealed away in a fountain,
 never to be touched by the weak of heart..."
 It's a disturbing sentence, but if Lord Ray's
 group was able to defeat those succubi earlier,
-I certainly believe they are not weak of heart.
+I certainly believe you are not weak of heart.
 We have discovered the original location of this
 document. I'll transfer the map of its location
 to you. I will join you later.
@@ -5446,7 +5445,7 @@ But for now, please seek out the Holy Swords,
 it may be our only hope.
 
 Chancellor：上
-It's currently still being planned in secret,
+This is currently still being planned in secret,
 but we've also been steadily making preparations
 to attack the succubus castle.
 We intend to stake out the enemy stronghold,
