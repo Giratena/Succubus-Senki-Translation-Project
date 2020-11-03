@@ -4985,14 +4985,14 @@ of her work to me...
 
 <CM33>
 Man：上
-Hey, yeah you. Want some drugs?**
+Hey. Yeah, you. want some drugs?**
 What? No! Not the dubious kind, I mean general
 recovery medicine.*
 The truth is, one of my companions is an 
 alchemist. Mixing medicine is his specialty, 
 so I get a share of what he makes.
 If you had an alchemist in your party, I bet 
-you'd get a lot of medicine easily too!
+you'd easily get a lot of medicine too!
 
 Man：上
 Here, these are some trial goods. Have fun.
@@ -5304,7 +5304,7 @@ I do. THBPBPTHPT-!
 And with that parting shot, the girls left.
 
 Boy：上
-Thanks big brother.**
+Thanks mister.**
 Even though you had nothing to do with me,
 you saved me anyway,
 I don't know how to thank you!
