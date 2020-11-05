@@ -704,17 +704,17 @@ Nobus：上
 
 <OP1>
 テロップ：中央
-再度OPを見ますか？
+Would you like to see the opening again?
 
 <OP0>
 Lyon：上
 Ray, I've just recieved a letter from a nearby
 village.*
-診療所の人手が足りないから、
-回復魔法が使える人間を
-一時的に派遣してもらえないかとのことです。
-大型の魔物との戦いで、
-ケガ人がたくさん出たみたいですね。
+They're asking anyone to send a tempary dispach of
+troops that can use healing magic, because they
+don't have enough infirmary workers.
+It seems that they suffered a lot of injuries
+after a fight with a large-scale demon.
 
 Healer A：上
 団長。
