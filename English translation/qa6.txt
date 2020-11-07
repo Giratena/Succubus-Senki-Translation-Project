@@ -1,16 +1,16 @@
 <PL0>
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
+It's a healing circle.**
+The HP of surrounding allies have been restored!
 
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
-（ヒーラーが使用したため効果範囲がアップ！）
+It's a healing circle.**
+The HP of surrounding allies have been restored!
+(Healers increase the area of effect!)
 
 <AT4>
 Girl in Infirmary：上
-ううっ、大ピンチだよー・・・。**
+Ooogh... I'm in a real pinch here-**
 ねえねえ、おっぱいでたくさん誘惑してあげたからさ、
 おちんちんムラムラしてしょうがないんじゃない？*
 その大きくなったおちんちん、
@@ -27,7 +27,7 @@ Girl in Infirmary：上
 ね・・・？パイズリ、しよ？
 
 テロップ：中央
-発情中のため命乞いを断ることができない！
+Due to arousal, her request couldn't be refused!
 
 Girl in Infirmary：上
 あうっ、そんなぁ・・・。
