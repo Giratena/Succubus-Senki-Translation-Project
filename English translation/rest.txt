@@ -1805,7 +1805,7 @@ Just a moment, I'll try to decipher it.**
 Hmm...
 This seems to be the name of a place or building?*
 It appears this church was present during the
-creation of this map, you can see the faint 
+creation of this map. You can see the faint 
 name of the church library written here.
 If this is the church, then the village should
 be here...*
