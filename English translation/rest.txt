@@ -3528,7 +3528,7 @@ Miles：上
 Hey, Ray. What's with you? Even now, we need to
 remain vigilant, so you'd better refrain from 
 doing anything strange.
-Hey, are you listening to me?
+Hey, are you lisTenning to me?
 
 Ray：上
 Aoogh...❤
@@ -3794,7 +3794,7 @@ Eeh, alright, but keep it short.
 
 Man：上
 ...Actually, I'm too impatient for that. I'm 
-terrible at listening to people and their tales.
+terrible at lisTenning to people and their tales.
 I wish I didn't need to talk to anyone.
 
 テロップ：中央
@@ -7028,7 +7028,7 @@ Gh... But it's been on my mind this whole time...
 <CM40>
 Lamia：上
 Oh, if it isn't the current Hero. Were you
-listening? An old fashioned story, you don't say?*
+lisTenning? An old fashioned story, you don't say?*
 You nearly knocked me out cold with that small
 body of yours. I expect great things from you.*
 Oh?
@@ -8459,7 +8459,7 @@ Miles：上
 Hey, Ray. What's with you? Even now, we need to
 remain vigilant, so you'd better refrain from 
 doing anything strange.
-Hey, are you listening to me?
+Hey, are you lisTenning to me?
 
 Ray：上
 Aoogh...❤
