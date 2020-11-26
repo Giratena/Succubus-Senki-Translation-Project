@@ -20,50 +20,56 @@ The HP of surrounding allies have been restored!
 
 <AT0>
 Bandit Leader：上
-ふふっ、敵は十分に引き付けたわ。**
-出なさい！
+Fufu. The enemys have succesfully been lured in.**
+You can come out now!
 
 Bandit Leader：上
-この山はわたしたちの庭も同然。
-うかうか入り込んだ連中の、
-背後を取ることなんて簡単よ。
-さあ、袋叩きにしてあげる！
+We know these mountains like the back of our hand,
+so ambushing careless invaders from behind is easy.
+Now, let's make them squirm!
 
 <AT1>
 Bandit Leader：上
-うふふ。
-奇襲に驚いて足元への注意がおろそかよ？
+Ufufu-
+Were you so taken off guard by our surprise attack
+that you forgot to watch your step?
 
 テロップ：中央
-地面が急に崩れ始めた！**
-落とし穴だ！
+The groud suddenly began to collapse!**
+It was a pitfall!
 
 <AT2>
 Bandit Leader：上
-うふふ。
-奇襲に驚いて足元への注意がおろそかよ？
+Ufufu-
+Were you so taken off guard by our surprise attack
+that you forgot to watch your step?
+
 
 テロップ：中央
-地面が急に崩れ始めた！**
-落とし穴だ！
+The groud suddenly began to collapse!**
+It was a pitfall!
 
 <AT9>
 Bandit Leader：上
-うふふ。
-奇襲に驚いて足元への注意がおろそかよ？
+Ufufu-
+Were you so taken off guard by our surprise attack
+that you forgot to watch your step?
+
 
 テロップ：中央
-地面が急に崩れ始めた！**
-落とし穴だ！
+The groud suddenly began to collapse!**
+It was a pitfall!
 
 <AT10>
 Bandit Leader：上
-うふふ。
-奇襲に驚いて足元への注意がおろそかよ？
+Ufufu-
+Were you so taken off guard by our surprise attack
+that you forgot to watch your step?
+
 
 テロップ：中央
-地面が急に崩れ始めた！**
-落とし穴だ！
+The groud suddenly began to collapse!**
+It was a pitfall!
 
 <AT4>
 Bandit Leader：上
