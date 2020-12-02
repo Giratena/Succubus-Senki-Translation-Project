@@ -1439,10 +1439,9 @@ Come as you please...
 We'll be ready to ambush you!
 
 Miles：下
-む、思ったより早い敵のおでましだ。**
-どうやらこっちの接近に、
-事前に気づかれてたみたいだな。
-山の中に斥候でもいたのかもしれねえ。
-相手の方が地形には詳しいだろうし、
-不意打ちに気を付けねえと危ないぜ。*
-背後を気にしながらうまいこと指揮してくれよ！
+Huh, our foes showed up faster than expected.**
+It seems they noticed us in advance. There must
+have been a scout that saw us in the mountains.
+Our foes will be more familiar with the terrain
+than we are, so be careful of surprise attacks.*
+Let's move forward while watching our backs!
