@@ -1186,7 +1186,7 @@ Female Bandit：上
 
 <TK6>
 Ray：上
-はぁ・・・❤はぁ・・・❤
+Haah...❤ Haah...❤
 
 Miles：上
 ううっ・・・❤たのむ・・・❤
@@ -1215,7 +1215,7 @@ Female Bandit：上
 
 <TK7>
 Ray：上
-はぁ・・・❤はぁ・・・❤
+Haah...❤ Haah...❤
 
 Miles：上
 ううっ・・・❤たのむ・・・❤
@@ -1244,7 +1244,7 @@ Female Bandit：上
 
 <TK8>
 Ray：上
-はぁ・・・❤はぁ・・・❤
+Haah...❤ Haah...❤
 
 Miles：上
 ううっ・・・❤たのむ・・・❤
