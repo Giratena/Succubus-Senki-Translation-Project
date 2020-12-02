@@ -946,16 +946,16 @@ stolen goods in hand.
 
 <TK0>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Hahh...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Oough...❤ D-Dammit...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ・・・❤
+Ahhh...❤
 
 Bandit Leader：上
 くすくす。
@@ -993,16 +993,16 @@ Bandit Leader：上
 
 <TK1>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Hahh...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Oough...❤ D-Dammit...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ・・・❤
+Ahhh...❤
 
 Bandit Leader：上
 はっ、ありえないんですけど。
@@ -1042,16 +1042,16 @@ Bandit Leader：上
 
 <TK2>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Hahh...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Oough...❤ D-Dammit...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ・・・❤
+Ahhh...❤
 
 Female Bandit：上
 くすくす。
@@ -1077,16 +1077,16 @@ Female Bandit：上
 
 <TK3>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Hahh...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Oough...❤ D-Dammit...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ・・・❤
+Ahhh...❤
 
 Female Bandit：上
 あらあら、
@@ -1114,16 +1114,16 @@ Female Bandit：上
 
 <TK4>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Hahh...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Oough...❤ D-Dammit...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ・・・❤
+Ahhh...❤
 
 Female Bandit：上
 くすくす。
@@ -1149,16 +1149,16 @@ Female Bandit：上
 
 <TK5>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Hahh...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Oough...❤ D-Dammit...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, already...❤
 
 アクティブ：上
-ああ・・・❤
+Ahhh...❤
 
 Female Bandit：上
 あらあら、
@@ -1193,7 +1193,7 @@ Miles：上
 もう我慢できねぇよ・・・❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤見ているだけで・・・❤
+Not good... I'm, already...❤見ているだけで・・・❤
 うううっ、お願いします・・・❤
 
 アクティブ：上
@@ -1222,7 +1222,7 @@ Miles：上
 もう我慢できねぇよ・・・❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤見ているだけで・・・❤
+Not good... I'm, already...❤見ているだけで・・・❤
 うううっ、お願いします・・・❤
 
 アクティブ：上
@@ -1251,7 +1251,7 @@ Miles：上
 もう我慢できねぇよ・・・❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤見ているだけで・・・❤
+Not good... I'm, already...❤見ているだけで・・・❤
 うううっ、お願いします・・・❤
 
 アクティブ：上
@@ -1377,60 +1377,66 @@ Bandit Leader：下
 
 <OP0>
 テロップ：中央
-再度OPを見ますか？
+Would you like to see the opening again?
 
 <OP1>
 Soldier：上
-報告します。**
-ここから数日の距離にある街道で、
-商隊が盗賊に襲われたそうです。*
-幸いにして人的被害は出ていませんが、
-行商人を中心にして
-各地で盗難被害が発生しています。
-この一か月で、かれこれ10件目の被害報告ですから、
-だいぶ暴れまわっているみたいですね。*
-いかがしますか？
+A report has just come in.**
+Merchants have reported that they've been attacked
+by bandits on the main road a few days journey
+away from here.
+Fortunately there has been no human casualties,
+but these thieves have been attacking merchants
+left and right in various areas.
+This has been the tenth damage report this month.
+It seems they've been on on some kind of rampage
+lately.
+What should we do?
 
 Ray：上
-・・・・・。
+......
 
 Soldier：上
-了解です。さっそく出発の準備に取り掛かります。
+Understood. We'll prepare for depature immediately.
 
 Miles：上
-ふむ。被害報告を組み合わせると、
-だいたいこいつらの根城の目星がつくな。*
-俺が先導するから、そこに当てをつけて、
-出陣してみようぜ。
+Hm. If we combine the damage report sightings,
+I bet we can link them together to get a rough
+idea of where their base is.
+Let's check out this area. I'll lead the
+way, so let's make our way there for now.
 
 Soldier：上
-了解です。ユミル副団長。
+Understood vice-commander Miles.
 
 Soldier：上
-まもなく目的地の山です。**
-ん・・・。あれは・・・。
+We'll arrive at the mountain of our destination
+soon.*
+Hmm... Is that...?
 
-盗賊下っ端：上
-アネキ！
-大変ですぜ！*
-王都から来たとかいう、
-例の騎士団が攻めてきやした！*
-ど、どうしやすか。逃げるなら、早くしねえと・・・！
+Bandit：上
+Superior!
+Bad news!*
+Some knights from the royal captial or
+something...they're coming to attack!*
+W-What should we do? If we're going to run away,
+we'll need to so quickly...!
 
 Bandit Leader：上
-なにびびっているのよ。
-騎士団だなんていっても、
-この山じゃ大して数の利は生かせないわ。
-罠もしかけてあるし、
-むしろ面倒な相手を倒すチャンス。*
-さっさと迎撃の準備に取り掛かりなさい！
+What are you so jumpy about?
+Even if it's the knights of order, they won't be
+able to get very far with the mountainous terrain.
+Let's set up a trap.
+This is our chance to defeat a difficult foe.*
+Get everyone ready to intercept!
 
-盗賊下っ端：上
-さすがはアネキだ！
-へい、了解しやした！
+Bandit：上
+As expected of our surperior!
+W-We'll get everyone ready at once!
 
 Bandit Leader：下
-来たわね。迎え撃つわよ！
+Come as you please...
+We'll be ready to ambush you!
 
 Miles：下
 む、思ったより早い敵のおでましだ。**
