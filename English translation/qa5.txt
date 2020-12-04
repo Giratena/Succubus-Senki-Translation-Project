@@ -35,7 +35,7 @@ Were you so taken off guard by our surprise attack
 that you forgot to watch your step?
 
 テロップ：中央
-The groud suddenly began to collapse!**
+The ground suddenly began to collapse!**
 It was a pitfall!
 
 <AT2>
@@ -46,7 +46,7 @@ that you forgot to watch your step?
 
 
 テロップ：中央
-The groud suddenly began to collapse!**
+The ground suddenly began to collapse!**
 It was a pitfall!
 
 <AT9>
@@ -57,7 +57,7 @@ that you forgot to watch your step?
 
 
 テロップ：中央
-The groud suddenly began to collapse!**
+The ground suddenly began to collapse!**
 It was a pitfall!
 
 <AT10>
@@ -68,7 +68,7 @@ that you forgot to watch your step?
 
 
 テロップ：中央
-The groud suddenly began to collapse!**
+The ground suddenly began to collapse!**
 It was a pitfall!
 
 <AT4>
