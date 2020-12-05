@@ -7,7 +7,7 @@ will appear as if fighting a man. Forgive me.
 
 <MC47>
 テロップ：中央
-ハードモード（２週目特典なし）でスタートします。**
+Hard mode (No benefits 2nd playthrough) can be started.**
 Hard mode is the highest difficulty the game has
 to offer.*
 1. Enemies have more stats and in most cases,
@@ -22,7 +22,7 @@ request, that unit will become "aroused".
 While "aroused", a last request cannot be refused.
 
 テロップ：中央
-ハードモード（２週目特典あり）でスタートします。**
+Hard mode (No benefits 2nd playthrough) can be started.**
 Hard mode is the highest difficulty the game has
 to offer.*
 1. Enemies have more stats and in most cases,
@@ -37,7 +37,7 @@ request, that unit will become "aroused".
 While "aroused", a last request cannot be refused.
 
 テロップ：中央
-ハードモード（お助けアイテムあり）でスタートします。**
+Hard mode (with helpful items) can be started.**
 Hard mode is the highest difficulty the game has
 to offer.*
 1. Enemies have more stats and in most cases,
@@ -52,7 +52,7 @@ request, that unit will become "aroused".
 While "aroused", a last request cannot be refused.
 
 テロップ：中央
-Now starting hard mode with (New Game+)**
+Hard mode and (New Game+) can now be started.**
 Hard mode is the highest difficulty the game has
 to offer.*
 1. Enemies have more stats and in most cases,
@@ -75,7 +75,7 @@ And with that, enjoy playing through hard mode!
 
 <MC47-2>
 テロップ：中央
-ハードモード（２週目特典なし）でスタートします。**
+Hard mode (No benefits 2nd playthrough) can be started.**
 Hard mode is the highest difficulty the game has
 to offer.*
 1. Enemies have more stats and in most cases,
@@ -90,7 +90,7 @@ request, that unit will become "aroused".
 While "aroused", a last request cannot be refused.
 
 テロップ：中央
-ハードモード（２週目特典あり）でスタートします。**
+Hard mode (No benefits 2nd playthrough) can be started.**
 Hard mode is the highest difficulty the game has
 to offer.*
 1. Enemies have more stats and in most cases,
@@ -105,7 +105,7 @@ request, that unit will become "aroused".
 While "aroused", a last request cannot be refused.
 
 テロップ：中央
-ハードモード（お助けアイテムあり）でスタートします。**
+Hard mode (with helpful items) can be started.**
 Hard mode is the highest difficulty the game has
 to offer.*
 1. Enemies have more stats and in most cases,
@@ -118,8 +118,9 @@ stats will rise.*
 4. When an ally refuses an enemy unit's last
 request, that unit will become "aroused".
 While "aroused", a last request cannot be refused.
+
 テロップ：中央
-ハードモード（強くてニューゲーム）でスタートします。**
+Hard mode and (New Game+) can now be started.**
 Hard mode is the highest difficulty the game has
 to offer.*
 1. Enemies have more stats and in most cases,
