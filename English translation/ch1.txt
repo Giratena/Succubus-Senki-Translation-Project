@@ -56,8 +56,8 @@ You mean it? Yaay!
 I'm so happy!*
 Okay, let me give you a nice kiss-❤
 
-Oh- That was my 'Energy Drain'. Did you like it?
 Village Girl：上
+Oh- That was my 'Energy Drain'. Did you like it?
 It felt good didn't it?
 
 <AT6>
@@ -1137,8 +1137,8 @@ This, this is terrible!**
 Monsters are attacking!
 Our village is surely done for!!
 
-Heh, this sounds like a job for the mercenaries!
 Nobus：上
+Heh, this sounds like a job for the mercenaries!
 
 Miles：上
 If we can defend this town, we'll hit it huge!
@@ -1176,6 +1176,3 @@ from the villagers!
 
 テロップ：中央
 All units gained experience.
-
-
-
