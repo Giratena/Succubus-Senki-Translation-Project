@@ -30,8 +30,8 @@ The HP of surrounding allies has been restored!
 
 <PL7>
 テロップ：中央
-Upon checking the bedsheets,
-a sweet scent wafts out from under the covers...!
+As you check the bedsheets, a sweet scent wafts
+out from under the covers...!
 
 アクティブ：上
 Haaah...❤ Aah, aaahh...❤
@@ -64,8 +64,8 @@ Kyahaha❤
 
 <PL7-2>
 テロップ：中央
-Upon checking the bedsheets,
-a sweet scent wafts out from under the covers...!
+As you check the bedsheets, a sweet scent wafts
+out from under the covers...!
 
 アクティブ：上
 Haaah...❤ Aah, aaahh...❤
@@ -116,8 +116,8 @@ my boobs-❤ Perverted big brother-❤
 
 <PL8>
 テロップ：中央
-Upon checking the bedsheets,
-a sweet scent wafts out from under the covers...!
+As you check the bedsheets, a sweet scent wafts
+out from under the covers...!
 
 アクティブ：上
 Haaah...❤ Aaahh, aaaahh...❤
@@ -150,8 +150,8 @@ Kyahaha❤
 
 <PL8-2>
 テロップ：中央
-Upon checking the bedsheets,
-a sweet scent wafts out from under the covers...!
+As you check the bedsheets, a sweet scent wafts
+out from under the covers...!
 
 アクティブ：上
 Haaah...❤ Aah, aaahh...❤
