@@ -1,47 +1,48 @@
 <PL0>
 アクティブ：上
-・・・・・。
+....
 
 テロップ：中央
-「侵入者撃退用の警備装置」と書かれている。
+It says, "Intruder Defense System".
 
 テロップ：中央
-装置のスイッチを破壊した！**
-これで起動できないはずだ。
+The device switch was destroyed.**
+It shouldn't be able to start up now.
 
 <PL1>
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
+It's a healing circle.**
+The HP of nearby allies has been restored!
 
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
-（ヒーラーが使用したため効果範囲がアップ！）
+It's a healing circle.**
+The HP of nearby allies has been restored!
+(The healer increased the range of effect!)
 
 <PL2>
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
+It's a healing circle.**
+The HP of nearby allies has been restored!
 
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
-（ヒーラーが使用したため効果範囲がアップ！）
+It's a healing circle.**
+The HP of nearby allies has been restored!
+(The healer increased the range of effect!)
 
 <AT0>
 テロップ：中央
-警備装置のスイッチが入れられた！
+The defense security system was turned on!
 
 <AT1>
 闇商人：上
-くっ、やるわね。
-このままでは・・・。*
-ねえ、王都の兵隊さん・・・❤
-このお薬が見える？*
-このカプセルはわたしの自慢の錠剤なの。
-飲んだ瞬間に、男性器がガチガチに大きくなって、
-感度も何倍にもなってしまう素敵なお薬❤
+Ugh, I'm done for aren't I?
+This is it...*
+Hey, Mr. Capital Soldier...❤
+See this medicine?
+This capsule is the pinicale of my work.
+The moment you swallow this medicine, your cock
+will get rock hard with pleasure, and become
+many times more sensitive than ever before❤
 このお薬を飲ませたあとに扱いてあげれば、
 気持ちよすぎておかしいぐらいに射精して・・・❤*
 人間の女性でも、
