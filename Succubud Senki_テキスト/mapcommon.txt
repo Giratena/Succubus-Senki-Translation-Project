@@ -1,149 +1,156 @@
 <MC116>
 テロップ：中央
-Female enemy characters can now be recruited.**
-The dialogue of a female character attacked by a
-succubus won't provide any yuri dialogue, and
-will appear as if fighting a man. Forgive me.
+女性キャラ雇用ありでスタートします。**
+女性キャラが敵淫魔に攻撃を受けた際のセリフは、
+百合責めのセリフではなく、男性と戦闘した場合と同
+じセリフが表示されます。ご容赦ください。
 
 <MC47>
 テロップ：中央
-Hard mode (No benefits 2nd playthrough) can be started.**
-Hard mode is the highest difficulty the game has
-to offer.*
-1. Enemies have more stats and in most cases,
-have special abilities.*
-2. When taking a hit in combat, enemies may
-inflict "fetishes" depending on their skills.
-Once applied, these fetishes cannot be removed.
-3. Whenever an enemy unit defeats an ally, their
-stats will rise.*
-4. When an ally refuses an enemy unit's last
-request, that unit will become "aroused".
-While "aroused", a last request cannot be refused.
+ハードモード（２週目特典なし）でスタートします。**
+ハードモードは非常に難易度の高いモードです。**
+①敵の能力が上昇し、
+多くの場合、特殊なスキルを身につけています。*
+②戦闘で負傷すると、
+相手の技に応じて「弱点」が付与されることがあります
+一度付与された弱点は解除することができません。
+③敵ユニットは自軍を撃破するたびに、
+能力が上昇します。*
+④相手の命乞いを断ると、
+「発情」状態になります。
+「発情」状態のあいだ、相手の命乞いを断れません。
 
 テロップ：中央
-Hard mode (No benefits 2nd playthrough) can be started.**
-Hard mode is the highest difficulty the game has
-to offer.*
-1. Enemies have more stats and in most cases,
-have special abilities.*
-2. When taking a hit in combat, enemies may
-inflict "fetishes" depending on their skills.
-Once applied, these fetishes cannot be removed.
-3. Whenever an enemy unit defeats an ally, their
-stats will rise.*
-4. When an ally refuses an enemy unit's last
-request, that unit will become "aroused".
-While "aroused", a last request cannot be refused.
+ハードモード（２週目特典あり）でスタートします。**
+ハードモードは非常に難易度の高いモードです。**
+①敵の能力が上昇し、
+多くの場合、特殊なスキルを身につけています。*
+②戦闘で負傷すると、
+相手の技に応じて「弱点」が付与されることがあります
+一度付与された弱点は解除することができません。
+③敵ユニットは自軍を撃破するたびに、
+能力が上昇します。*
+④相手の命乞いを断ると、
+「発情」状態になります。
+「発情」状態のあいだ、相手の命乞いを断れません。
 
 テロップ：中央
-Hard mode (with helpful items) can be started.**
-Hard mode is the highest difficulty the game has
-to offer.*
-1. Enemies have more stats and in most cases,
-have special abilities.*
-2. When taking a hit in combat, enemies may
-inflict "fetishes" depending on their skills.
-Once applied, these fetishes cannot be removed.
-3. Whenever an enemy unit defeats an ally, their
-stats will rise.*
-4. When an ally refuses an enemy unit's last
-request, that unit will become "aroused".
-While "aroused", a last request cannot be refused.
+ハードモード（お助けアイテムあり）でスタートします。**
+ハードモードは非常に難易度の高いモードです。**
+①敵の能力が上昇し、
+多くの場合、特殊なスキルを身につけています。*
+②戦闘で負傷すると、
+相手の技に応じて「弱点」が付与されることがあります
+一度付与された弱点は解除することができません。
+③敵ユニットは自軍を撃破するたびに、
+能力が上昇します。*
+④相手の命乞いを断ると、
+「発情」状態になります。
+「発情」状態のあいだ、相手の命乞いを断れません。
 
 テロップ：中央
-Hard mode and (New Game+) can now be started.**
-Hard mode is the highest difficulty the game has
-to offer.*
-1. Enemies have more stats and in most cases,
-have special abilities.*
-2. When taking a hit in combat, enemies may
-inflict "fetishes" depending on their skills.
-Once applied, these fetishes cannot be removed.
-3. Whenever an enemy unit defeats an ally, their
-stats will rise.*
-4. When an ally refuses an enemy unit's last
-request, that unit will become "aroused".
-While "aroused", a last request cannot be refused.
+ハードモード（強くてニューゲーム）でスタートします。**
+ハードモードは非常に難易度の高いモードです。**
+①敵の能力が上昇し、
+多くの場合、特殊なスキルを身につけています。*
+②戦闘で負傷すると、
+相手の技に応じて「弱点」が付与されることがあります
+一度付与された弱点は解除することができません。
+③敵ユニットは自軍を撃破するたびに、
+能力が上昇します。*
+④相手の命乞いを断ると、
+「発情」状態になります。
+「発情」状態のあいだ、相手の命乞いを断れません。
 
 テロップ：中央
-Furthremore, when attacked by an enemy unit while
-in the "aroused" state, counter attacking becomes
-impossible.
-This concludes the amount of changes in hard mode.
-And with that, enjoy playing through hard mode!
+また「発情」状態では敵に攻撃された時、
+反撃が行えなくなります。*
+以上です。
+それではハードモードをお楽しみください。
 
 <MC47-2>
 テロップ：中央
-Hard mode (No benefits 2nd playthrough) can be started.**
-Hard mode is the highest difficulty the game has
-to offer.*
-1. Enemies have more stats and in most cases,
-have special abilities.*
-2. When taking a hit in combat, enemies may
-inflict "fetishes" depending on their skills.
-Once applied, these fetishes cannot be removed.
-3. Whenever an enemy unit defeats an ally, their
-stats will rise.*
-4. When an ally refuses an enemy unit's last
-request, that unit will become "aroused".
-While "aroused", a last request cannot be refused.
+ハードモード（２週目特典なし）でスタートします。**
+ハードモードは非常に難易度の高いモードです。**
+①敵の能力が上昇し、
+多くの場合、特殊なスキルを身につけています。*
+②戦闘で負傷すると、
+相手の技に応じて「弱点」が付与されることがあります
+一度付与された弱点は解除することができません。
+③敵ユニットは自軍を撃破するたびに、
+能力が上昇します。*
+④相手の命乞いを断ると、
+「発情」状態になります。
+「発情」状態のあいだ、相手の命乞いを断れません。
 
 テロップ：中央
-Hard mode (No benefits 2nd playthrough) can be started.**
-Hard mode is the highest difficulty the game has
-to offer.*
-1. Enemies have more stats and in most cases,
-have special abilities.*
-2. When taking a hit in combat, enemies may
-inflict "fetishes" depending on their skills.
-Once applied, these fetishes cannot be removed.
-3. Whenever an enemy unit defeats an ally, their
-stats will rise.*
-4. When an ally refuses an enemy unit's last
-request, that unit will become "aroused".
-While "aroused", a last request cannot be refused.
+ハードモード（２週目特典あり）でスタートします。**
+ハードモードは非常に難易度の高いモードです。**
+①敵の能力が上昇し、
+多くの場合、特殊なスキルを身につけています。*
+②戦闘で負傷すると、
+相手の技に応じて「弱点」が付与されることがあります
+一度付与された弱点は解除することができません。
+③敵ユニットは自軍を撃破するたびに、
+能力が上昇します。*
+④相手の命乞いを断ると、
+「発情」状態になります。
+「発情」状態のあいだ、相手の命乞いを断れません。
 
 テロップ：中央
-Hard mode (with helpful items) can be started.**
-Hard mode is the highest difficulty the game has
-to offer.*
-1. Enemies have more stats and in most cases,
-have special abilities.*
-2. When taking a hit in combat, enemies may
-inflict "fetishes" depending on their skills.
-Once applied, these fetishes cannot be removed.
-3. Whenever an enemy unit defeats an ally, their
-stats will rise.*
-4. When an ally refuses an enemy unit's last
-request, that unit will become "aroused".
-While "aroused", a last request cannot be refused.
+ハードモード（お助けアイテムあり）でスタートします。**
+ハードモードは非常に難易度の高いモードです。**
+①敵の能力が上昇し、
+多くの場合、特殊なスキルを身につけています。*
+②戦闘で負傷すると、
+相手の技に応じて「弱点」が付与されることがあります
+一度付与された弱点は解除することができません。
+③敵ユニットは自軍を撃破するたびに、
+能力が上昇します。*
+④相手の命乞いを断ると、
+「発情」状態になります。
+「発情」状態のあいだ、相手の命乞いを断れません。
 
 テロップ：中央
-Hard mode and (New Game+) can now be started.**
-Hard mode is the highest difficulty the game has
-to offer.*
-1. Enemies have more stats and in most cases,
-have special abilities.*
-2. When taking a hit in combat, enemies may
-inflict "fetishes" depending on their skills.
-Once applied, these fetishes cannot be removed.
-3. Whenever an enemy unit defeats an ally, their
-stats will rise.*
-4. When an ally refuses an enemy unit's last
-request, that unit will become "aroused".
-While "aroused", a last request cannot be refused.
+ハードモード（強くてニューゲーム）でスタートします。**
+ハードモードは非常に難易度の高いモードです。**
+①敵の能力が上昇し、
+多くの場合、特殊なスキルを身につけています。*
+②戦闘で負傷すると、
+相手の技に応じて「弱点」が付与されることがあります
+一度付与された弱点は解除することができません。
+③敵ユニットは自軍を撃破するたびに、
+能力が上昇します。*
+④相手の命乞いを断ると、
+「発情」状態になります。
+「発情」状態のあいだ、相手の命乞いを断れません。
 
 テロップ：中央
-Furthremore, when attacked by an enemy unit while
-in the "aroused" state, counter attacking becomes
-impossible.
-This concludes the amount of changes in hard mode.
-And with that, enjoy playing through hard mode!
+また「発情」状態では敵に攻撃された時、
+反撃が行えなくなります。*
+以上です。
+それではハードモードをお楽しみください。
 
 <MC102>
 テロップ：中央
-A clear switch cannot be used in this stage!
+このステージではクリアスイッチを使うことはできない！
+
+<MC52>
+選択肢：1
+発情
+魅了
+フル勃起
+おっぱいに弱い
+足に弱い
+フェラに弱い
+手に弱い
+セックスに弱い
+
+<MC0>
+選択肢：1
+Surrender (Offer no resistance)
+Give up (Combat ends)
+Back
 
 <MC15>
 テロップ：中央
@@ -183,7 +190,7 @@ Obtained Gold!
 ありがと、お兄さん。ちゅ❤
 
 <MC59>
-村娘：上
+Village Girl：上
 あれあれ・・・。
 どうして味方のわたしでオナニーしてるの？*
 もしかして、
@@ -193,7 +200,7 @@ Obtained Gold!
 気持ちよかったもんね？
 思い出したら、おちんちん、うずうずしちゃう？
 
-村娘：上
+Village Girl：上
 あれあれ・・・。
 どうして味方のわたしでオナニーしてるの？*
 ふふ、一緒に戦ってたら、
@@ -205,13 +212,13 @@ Obtained Gold!
 アクティブ：上
 ううっ・・・・❤
 
-村娘：上
+Village Girl：上
 くすくす❤
 我慢しないでいいよ・・・❤*
 負けちゃえ❤
 変態❤
 
-村娘：上
+Village Girl：上
 あん❤たっぷり・・・❤**
 ため込んでたら戦いにならないもんね❤**
 敵に吸われないだけよかったよね？
@@ -222,7 +229,7 @@ Obtained Gold!
 さらに２０の経験値を得た！
 
 <MC60>
-村娘：上
+Village Girl：上
 リーダーさん❤
 ご奉仕、してあげよっか・・・❤*
 そうだよ。この大きな胸でご奉仕❤
@@ -232,13 +239,13 @@ Obtained Gold!
 そんなこと言わないで・・・❤
 ほら❤
 
-村娘：上
+Village Girl：上
 おっぱい好きなだけ見ていいよ❤
 
 Ray：上
 ううっ・・・・❤
 
-村娘：上
+Village Girl：上
 あは・・・❤
 ハァハァしちゃってかわいい❤*
 ついこの間まで、
@@ -246,10 +253,10 @@ Ray：上
 団長さんは、おっぱい好き？
 これしてあげたら、うれしいかなぁ❤
 
-村娘：上
+Village Girl：上
 そう❤パイズリ❤
 
-村娘：上
+Village Girl：上
 気持ちいいでしょー❤**
 みんなが戦ってるのに、
 わたしたち二人だけ、うしろのほうでエッチなことしてる❤
@@ -264,7 +271,7 @@ Ray：上
 ね❤
 えいえい❤
 
-村娘：上
+Village Girl：上
 あん❤谷間からどぴゅって・・・❤**
 ふふ、たくさん飛ばして、
 満足してくれたみたいでうれしい❤*
@@ -277,7 +284,7 @@ Ray：上
 さらに２０の経験値を得た！
 
 <MC62>
-勝ち気むすめ：上
+Determined Girl：上
 あら、わたしの体でオナニー？**
 くすくす❤
 敵味方関係ないのね。*
@@ -293,7 +300,7 @@ Ray：上
 アクティブ：上
 はううっ・・・・❤
 
-勝ち気むすめ：上
+Determined Girl：上
 んっ、もう出るんだ❤
 はやい❤*
 ほら、脚を組み替えてセクシーに挑発したげる❤
@@ -301,7 +308,7 @@ Ray：上
 あんたのエナジーちょうだい？
 うふふ❤
 
-勝ち気むすめ：上
+Determined Girl：上
 ふふ、ふとももにこんなにかけて❤**
 うれしいんだ？
 変態ね❤くすくす❤
@@ -311,7 +318,7 @@ Ray：上
 さらに２０の経験値を得た！
 
 <MC63>
-勝ち気むすめ：上
+Determined Girl：上
 リーダーさん♪
 いいことしてあげるわね❤*
 なに？いやなの？
@@ -329,13 +336,13 @@ Ray：上
 Ray：上
 ううっ・・・・❤
 
-勝ち気むすめ：上
+Determined Girl：上
 くす❤それでいいわ❤
 ちゃんとチンポ出せて、えらいえらい❤*
 ズボンから出てきたソレを、
 わたしの脚で挟んでっと・・・❤
 
-勝ち気むすめ：上
+Determined Girl：上
 ぎゅってチンポを押しつぶす・・・❤**
 あは、うっとりしちゃって❤
 村ではわたしに勝てたのに、
@@ -353,7 +360,7 @@ Ray：上
 さっさとわたしに精を出しなさい。
 あんたのエナジー、全部もらってあげる❤
 
-勝ち気むすめ：上
+Determined Girl：上
 あは❤
 勢いよく飛び出てきた❤*
 気持ちよかったでしょ？
@@ -3108,6 +3115,10 @@ Ray：上
 仲間だもの。そりゃ、頼まれたら聞いてあげるよね❤
 くすくす❤
 
+選択肢：1
+踏んでほしいとお願いした
+彼女の提案を断った
+
 チェリッシュ：上
 ちぇ。意固地。**
 ま、村で本気で誘惑したのに、
@@ -3274,6 +3285,10 @@ Ray：上
 仲間だもの。そりゃ、頼まれたら聞いてあげるよね❤
 くすくす❤
 
+選択肢：1
+踏んでほしいとお願いした
+彼女の提案を断った
+
 チェリッシュ：上
 ちぇ。意固地。**
 ま、村で本気で誘惑したのに、
@@ -3369,7 +3384,9 @@ Ray：上
 
 <MC12>
 情報：情報
-【状態異常：部位弱点】
+
+
+Ray：上
 特定の部位へのフェチを植え付けられた状態です。
 それぞれアイコンの文字に応じて、
 次の状態を表します。
@@ -3382,6 +3399,9 @@ Ray：上
 <BK0>
 テロップ：中央
 発情中のため命乞いを断ることができない！
+
+選択肢：1
+
 
 <BK6>
 テロップ：中央
