@@ -12,7 +12,10 @@ Uaaah-!!!
 レイ：上
 ...!!
 
-乳魔アリス：上
+タイトル：中央
+聖剣解放（光）
+
+Alice：上
 \vo[a83]Uwawawah, I can't feel my body!
 What gives? My sexual aura won't work...!
 
@@ -36,7 +39,10 @@ at this level!
 レイ：上
 ...!!
 
-乳魔アリス：上
+タイトル：中央
+聖剣解放（光）
+
+Alice：上
 \vo[a83]Uwawawah, I can't feel my body!
 What gives? My sexual aura won't work...!
 
@@ -74,6 +80,9 @@ Miles：上
 O'holy wind sword! Lend me your power!
 Distill all evil and cast it to the wind!
 
+タイトル：中央
+聖剣解放（風）
+
 Miles：上
 What on earth...? 
 I feel the holy sword's power flowing through me!*
@@ -102,6 +111,9 @@ at this level!
 Miles：上
 O'holy wind sword! Lend me your power!
 Distill all evil and cast it to the wind!
+
+タイトル：中央
+聖剣解放（風）
 
 Miles：上
 What on earth...? 

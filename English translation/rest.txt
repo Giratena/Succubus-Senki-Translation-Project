@@ -501,6 +501,9 @@ She must have swapped the bags when she
 bumped into me.
 If I don't hurry and chase after her...!
 
+選択肢：1
+Run after the woman
+
 テロップ：中央
 As soon as the woman saw me chasing after her,
 she hurriedly dashed into a back alleyway!
@@ -517,6 +520,10 @@ from the alleyway beside me.
 
 Girl：上
 Kyah-❤ Oh Mister, help me-
+
+選択肢：1
+Ignore it and run after the woman
+Head towards the voice
 
 Ray：上
 ...
@@ -543,6 +550,9 @@ Wait, it's not what you think, ahaha...
 I wasn't trying to run away, honest!*
 Here, I'll return your luggage right away.
 I'm sorry about the misunderstanding.
+
+選択肢：1
+Take your belongings
 
 Lady：上
 Teehee♪ Gotcha-❤ Eiyah-!
@@ -618,6 +628,10 @@ got closer and closer to my penis...*
 I couldn't just let her do what she wants,
 but the aphrodisiac was making it hard to think.
 I had to...
+
+選択肢：1
+Fall at her mercy
+Resist desperately
 
 Ray：上
 Guh...!
@@ -1087,6 +1101,12 @@ The current difficulty is set to easy.
 テロップ：中央
 The current difficulty is set to super easy.
 
+選択肢：1
+ハード
+Normal
+Easy
+Super easy
+
 テロップ：中央
 The difficulty has been set.
 
@@ -1102,6 +1122,10 @@ Easy mode enhancements only apply during battle.
 If you chose, you can change the protagonist's 
 face artwork to a silhouette.
 
+選択肢：1
+Show characters
+Use Silhouettes
+
 テロップ：中央
 The face has been set to use artwork.
 
@@ -1113,6 +1137,10 @@ The face has been set to use a silhouette.
 You can set this option to prevent ally units 
 from counter attacking during the enemy phase.
 
+選択肢：1
+Units may counter-attack.
+Units may not counter-attack.
+
 テロップ：中央
 Ally units will be able to counter attack.
 
@@ -1122,6 +1150,10 @@ Ally units will not be able to counter attack.
 <TK5>
 テロップ：中央
 Items can be obtained to weaken your units.
+
+選択肢：1
+Obtain
+Don't obtain
 
 テロップ：中央
 These items can be used via->
@@ -1136,6 +1168,10 @@ units' fetishes.
 Fetish items are not available in 
 hard mode.
 
+選択肢：1
+Obtain
+Don't obtain
+
 テロップ：中央
 These items can be used via->
 "Units" -> "Items"
@@ -1145,6 +1181,10 @@ These items can be used via->
 If you enable this option,
 you'll be able to challenge side quests at
 anytime, regardless of the story progression.
+
+選択肢：1
+Always avalible
+Story restricted
 
 テロップ：中央
 Enabled.
@@ -1158,6 +1198,10 @@ If you enable this option, you'll be able to visit
 taverns, even in areas where they aren't normally 
 available. Use to avoid soft locks.
 
+選択肢：1
+Always avalible
+Story restricted
+
 テロップ：中央
 Enabled.
 
@@ -1170,6 +1214,10 @@ If you enable this, you'll be able to
 shop and by items anywhere. The stock won't run 
 out either, so use this to avoid soft locks.
 
+選択肢：1
+Always avalible
+Story restricted
+
 テロップ：中央
 Enabled.
 
@@ -1181,6 +1229,10 @@ Disabled.
 If enabled, you can earn experience even in 
 memoir combat maps.
 
+選択肢：1
+Enabled
+Disabled
+
 テロップ：中央
 Enabled.
 
@@ -1191,6 +1243,10 @@ Disabled.
 テロップ：中央
 You can turn off the ability to use the 
 load command when out of combat.
+
+選択肢：1
+拠点「ロード」を非表示にする
+拠点「ロード」を表示する
 
 テロップ：中央
 Hidden.
@@ -1207,6 +1263,10 @@ end when the protagonist faints.
 As the game ends the moment the protagonist 
 faints, this makes the game exponentially harder.
 
+選択肢：1
+On
+Off
+
 テロップ：中央
 Hero Mode has been enabled.**
 Though allies are controlled by the AI,
@@ -1222,6 +1282,10 @@ Experimental additions.
 Some animations feature an ejaculation,
 would you like to enable it?
 
+選択肢：1
+Enabled
+Disabled
+
 テロップ：中央
 Enabled.
 
@@ -1233,6 +1297,12 @@ Disabled.
 特定の立ち絵の表示・非表示を
 切り替えることができます。
 （）の中身は絵師のペンネームです。
+
+選択肢：1
+すべて表示
+すべて非表示
+非表示・表示切り替え（オタニ）
+非表示・表示切替（BTK）
 
 テロップ：中央
 すべての立ち絵を表示に設定しました。
@@ -1375,6 +1445,10 @@ There is no doubt, you are surely heroes!
 
 Ray：上
 ...
+
+選択肢：1
+Heh, you bet!
+Well, I wouldn't go that far…
 
 Miles：上
 Wahaha♪
@@ -2083,6 +2157,10 @@ Slurrupsuck-suucckslurururup-❤
 Ray：上
 Stop...! At that speed...❤ Eiaaah!❤❤
 
+選択肢：1
+I can't resist the pleasure…
+Desperately hold back the ejaculation
+
 Mirage：上
 Aha-❤ Your penis is throbbing like crazy-❤
 I'll give you three seconds-*
@@ -2539,8 +2617,17 @@ into it.
 Ray：上
 ....!
 
+選択肢：1
+Hit him as hard as you can
+Slap him
+Don't hit him
+
 Nobus：上
 Uguh...!
+
+選択肢：1
+Unleash another blow
+Don't hit him
 
 Nobus：上
 Oof...
@@ -2680,6 +2767,10 @@ punishment in order?
 
 Ray：上
 ....
+
+選択肢：1
+More punishement is in order
+Forgive him
 
 Miles：上
 So that's how it is. Sure, hitting him is fine
@@ -3157,6 +3248,9 @@ Aha-❤ You twitched♪
 So cute♪*
 So this is what Ray wants me to do, huh?-
 
+選択肢：1
+I want your hands on my penis
+
 Mirage：上
 I see, so you want me to use my hands after all-
 Good choice-❤*
@@ -3586,6 +3680,10 @@ Hora...❤
 Mirage：上
 My breasts will make all that tiredness go away-❤
 
+選択肢：1
+Do as she says and let her spoil you
+Refuse
+
 Mirage：上
 Fufu- You say that, but your body is trembling- 
 Hora- I'll embrace you by force if I have to-❤
@@ -3752,7 +3850,11 @@ may I accompany you?
 Ray：上
 ...
 
-Leon：上
+選択肢：1
+Let him join
+Don't let him join
+
+Lyon：上
 You truly mean it!? You have my thanks...!**
 Well then, I hope we make a solid team.
 
@@ -3773,7 +3875,11 @@ Did you reconsider?
 Ray：上
 ...
 
-Leon：上
+選択肢：1
+Let him join
+Don't let him join
+
+Lyon：上
 I'm so thankful you reconsidered...!
 You have my thanks...!*
 Well then, I hope we make a solid team.
@@ -4066,6 +4172,10 @@ You know...❤
 We can do even better things in our shop-❤
 How about it? Just follow us okay...?
 
+選択肢：1
+Follow the two ladies
+Shake the women off
+
 Woman：上
 Ahnn-❤
 Don't say such mean things-*
@@ -4099,6 +4209,10 @@ Your moans are adorable-❤
 And your entranced expression is nice too.*
 That's it. Just like that- Entrust yourself to
 the pleasure...
+
+選択肢：1
+Follow the two ladies
+Shake the women off
 
 Woman：上
 Sheesh, how mean-❤
@@ -4256,6 +4370,10 @@ shop...❤
 
 Ray：上
 Ughh...❤
+
+選択肢：1
+Follow the two ladies
+Follow the two ladies
 
 Woman：上
 Kyaha-❤
@@ -4536,6 +4654,10 @@ We can do even better things in our shop...❤
 Ray：下
 Uh...❤
 
+選択肢：1
+女たちについていく
+女たちを振り払う
+
 Woman：下
 Ahnn-❤ Don't say such mean things.**
 Come on, I'll give you my specialty Puff-Puff. 
@@ -4563,6 +4685,10 @@ Woman：下
 Ufufu- your eyes have glazed over in 
 pleasure. That's it. Just leave everything to us,
 we'll make you feel good, okay?
+
+選択肢：1
+女たちについていく
+女たちを振り払う
 
 Woman：下
 Ooh, that's too bad-❤
@@ -4674,6 +4800,10 @@ in our shop...❤
 
 Ray：上
 Gulp...❤
+
+選択肢：1
+女たちについていく
+女たちを振り払う
 
 Woman：上
 (Giggle)
@@ -4955,6 +5085,9 @@ succubi and other things like it.*
 It couldn't make me happier to assist the 
 heroes who saved our capital.
 
+選択肢：1
+サキュバスの種類について
+夢魔について書いてあった古文書について
 
 <CM19>
 Man：上
@@ -6123,6 +6256,12 @@ do? I'm not doing anything bad-
 So, about that food...it's not a bad deal right?
 Well? Don't you want to feel good?
 
+選択肢：1
+Reject her request
+Use your hands...
+Use your feet...
+Use your boobs...
+
 Bandit Girl：上
 Tch, you're so cold hearted.
 Don't be like that- Give me some tasty food.*
@@ -6310,6 +6449,11 @@ longer, isn't that right?
 Ray：上
 Uoough...❤
 
+選択肢：1
+Use your hands...
+Use your feet...
+Use your boobs...
+
 Bandit Girl：上
 Teehee❤
 Splendid- I knew you'd come around.*
@@ -6490,6 +6634,11 @@ hard time if you can't control your desires right?
 me to help you out. Isn't that right? Teehee-*
 So, what should I do this time?
 Tell me-
+
+選択肢：1
+Use your hands...
+Use your feet...
+Use your boobs...
 
 Bandit Girl：上
 Ah, I see-
@@ -6835,6 +6984,10 @@ something.*
 Their conversation seems quite detailed.
 What should I do?
 
+選択肢：1
+Listen to her story
+Not interested
+
 Lamia：上
 Ooh, I see-
 So that is what lead you all here?
@@ -7122,6 +7275,10 @@ Nobus started to aimlessly wander off in a
 different direction away from the encampment.
 It seems strange behaviour for being drunk...**
 What should I do...
+
+選択肢：1
+後を追いかけた
+特に気にしなかった
 
 テロップ：中央
 Nobus walked to the root of a tree a little 
@@ -7758,6 +7915,10 @@ As long as you can lend us soldiers, I'd be happy
 to service you with my busty breasts-❤
 Teehehe...❤
 
+選択肢：1
+Lend them some of your units
+Refuse their proposal
+
 Ray：上
 ...
 
@@ -7833,15 +7994,54 @@ Come back when you have more allies.
 The women suddenly lost interest
 and released me...
 
-Greisa's Friend：上
+選択肢：1
+Foot Soldier
+Elite Soldier
+Professor
+Excavator
+Lancer
+Healer
+Alchemist
+Flag Bearer
+Black Mage
+Martial Artist
+Bandit
+
+グリッサの仲間：上
 Ahuhu- So that's the first person is it?
 Who's the second one?
 
-Greisa's Friend：上
+選択肢：1
+Foot Soldier
+Elite Soldier
+Professor
+Excavator
+Lancer
+Healer
+Alchemist
+Flag Bearer
+Black Mage
+Martial Artist
+Bandit
+
+グリッサの仲間：上
 And with the second person...
 Who will the final person be?
 
-Greisa's Friend：上
+選択肢：1
+Foot Soldier
+Elite Soldier
+Professor
+Excavator
+Lancer
+Healer
+Alchemist
+Flag Bearer
+Black Mage
+Martial Artist
+Bandit
+
+グリッサの仲間：上
 All done- Thanks-
 Now just sign here please-
 
@@ -8168,6 +8368,9 @@ Greisa：上
 Don't lie- We know what you really want, don't we?
 Kuhuhu...❤
 
+選択肢：1
+Lend them some of your units
+
 Ray：上
 Oogh, oooogh...❤
 
@@ -8229,23 +8432,88 @@ Come back when you have more people.
 The women suddenly lost interest and walked
 away from me...
 
-Greisa's Friend：上
+選択肢：1
+Foot Soldier
+Elite Soldier
+Professor
+Excavator
+Lancer
+Healer
+Alchemist
+Flag Bearer
+Black Mage
+Martial Artist
+Bandit
+
+グリッサの仲間：上
 Fufu- So that's the first person?
 Who's the second one?
 
-Greisa's Friend：上
+選択肢：1
+Foot Soldier
+Elite Soldier
+Professor
+Excavator
+Lancer
+Healer
+Alchemist
+Flag Bearer
+Black Mage
+Martial Artist
+Bandit
+
+グリッサの仲間：上
 That's the second person...
 Who's the third?
 
-Greisa's Friend：上
+選択肢：1
+Foot Soldier
+Elite Soldier
+Professor
+Excavator
+Lancer
+Healer
+Alchemist
+Flag Bearer
+Black Mage
+Martial Artist
+Bandit
+
+グリッサの仲間：上
 That's the third person...
 And, the fourth?
 
-Greisa's Friend：上
+選択肢：1
+Foot Soldier
+Elite Soldier
+Professor
+Excavator
+Lancer
+Healer
+Alchemist
+Flag Bearer
+Black Mage
+Martial Artist
+Bandit
+
+グリッサの仲間：上
 Fourth person, check!
 And now, who's the last person?
 
-Greisa's Friend：上
+選択肢：1
+Foot Soldier
+Elite Soldier
+Professor
+Excavator
+Lancer
+Healer
+Alchemist
+Flag Bearer
+Black Mage
+Martial Artist
+Bandit
+
+グリッサの仲間：上
 There- Thank you!
 Now please sign this contract okay?
 
@@ -8850,12 +9118,22 @@ you these coins to start you off.
 Obtained 100 coins.
 
 Bunny Girl：下
+バニーガール：下
 Now then, enjoy yourself OK?
+
+選択肢：1
+コイン交換所を見に行く
+サイコロゲームをする
+箱当てゲームをする
+店から出る
 
 Woman：上
 コインの購入はお店の外でできるわ。
 ここでできるのはコインをアイテムに替えることよ。*
 好きなものを選んでね。
+
+選択肢：1
+賭博師のナイフ(1500コイン)
 
 <CM80>
 Mirage：上
@@ -8872,6 +9150,10 @@ Hora...❤
 
 Mirage：上
 My breasts will make all that tiredness go away-❤
+
+選択肢：1
+Do as she says and let her spoil you
+Refuse
 
 Mirage：上
 Fufu- You say that, but your body is trembling- 
@@ -9209,6 +9491,10 @@ It was an extremely sexy sight.
 Ray：上
 Ugh! S-Such temptation...❤
 
+選択肢：1
+Approach the magic barrier
+Ignore the temptation and leave
+
 Succubus Maid A：上
 Ara- That's too bad...❤**
 You finally had the opportunity to enjoy a 
@@ -9256,6 +9542,10 @@ Your mind is melting...
 Your head is feeling emptier and emptier...
 That's it, please reach out to your penis...
 You want to stroke and feel good don't you?
+
+選択肢：1
+Don't hold back and start masturbating
+Swing your sword at the maid succubus
 
 Ray：上
 I-I really shouldn't but...❤ Ahhh...❤
@@ -9618,6 +9908,10 @@ You feel your head getting emptier and emptier...
 That's it, reach for your penis...
 You want to stroke and feel good don't you?
 
+選択肢：1
+Don't hold back and start masturbating
+Swing your sword at the maid succubus
+
 Ray：上
 I-I really shouldn't but...❤ Ahhh...❤
 
@@ -9942,6 +10236,10 @@ good-❤
 Let's empty that mind of yours OK?
 Hora- Come closer...❤
 
+選択肢：1
+Enter her as invited
+Ignore the temptation
+
 Mirage：上
 Hmph. So you managed to resist.**
 My sexy, Succubus Queen, loli pussy....**
@@ -10078,6 +10376,9 @@ Fufu- Gee, your willpower is soo weak-❤**
 OK. Come on then-
 I'll milk you lots inside me❤
 
+選択肢：1
+Enter her as invited
+
 Mirage：上
 Ahh-❤ It's going inside...❤**
 Even without any foreplay, the inside of my pussy
@@ -10207,6 +10508,10 @@ My strength was squeezed by Mirage...
 現在は無害化スイッチがOFFになっており、
 ゴールドの減少などが起きるので注意してください。
 
+選択肢：1
+無害化スイッチをONにする
+無害化スイッチをOFFにする
+
 テロップ：中央
 設定が完了しました。
 
@@ -10258,6 +10563,10 @@ Woman：上
 もっとイイこと、お店でしよーよぉ・・・❤*
 ね？わたしたちについてきて・・・？
 
+選択肢：1
+女たちについていく
+女たちを振り払う
+
 Woman：上
 あん❤
 つれないこと言わないで。*
@@ -10287,6 +10596,10 @@ Woman：上
 可愛い声あげちゃって❤
 表情もいい感じにとろんとしてきたわね。
 ほら、そのまま気持ちよさに身を任せなさい・・・。
+
+選択肢：1
+女たちについていく
+女たちを振り払う
 
 Woman：上
 むう、いけず❤
@@ -10433,6 +10746,10 @@ Woman：上
 
 Ray：上
 っ・・・❤
+
+選択肢：1
+女たちについていく
+女たちについていく
 
 Woman：上
 きゃは❤
@@ -10684,6 +11001,9 @@ Girl：上
 むっ、何？
 お兄さん、何か文句でもあるの？
 
+選択肢：1
+女の子を止める
+
 Ray：上
 ・・・・！
 
@@ -10745,6 +11065,10 @@ Ray：上
 Girl：上
 ね？じっとしてて？
 わたしのお手で、ご奉仕させて？ね？
+
+選択肢：1
+じっとしている
+彼女を突き飛ばす
 
 Ray：上
 うっ・・・・❤ううっ・・・・❤
@@ -11186,6 +11510,9 @@ Ray：上
 どうやら先ほどの女性が僕の袋を持っていったらしい。
 急いで追いかけなくては！
 
+選択肢：1
+女性を追いかける
+
 テロップ：中央
 女は追いかけてきた僕を見ると
 慌てて逃げ出し、路地裏に入った！*
@@ -11201,6 +11528,10 @@ Ray：上
 
 Girl：上
 きゃー❤お兄さん、助けてー。
+
+選択肢：1
+無視して女を追いかける
+声の方を向く
 
 Ray：上
 ・・・・。
@@ -11225,6 +11556,9 @@ Lady：上
 べ、別に逃げてたわけじゃないのよ。*
 ほら、キミの荷物もすぐに返すわ。
 取り間違えてごめんなさい。
+
+選択肢：1
+荷物を受け取る
 
 Lady：上
 くす♪隙あり❤えいっ。
@@ -11293,6 +11627,10 @@ Lady：上
 薬が効いた状態で
 女の思い通りにされるのはまずい。
 ここは・・・・。
+
+選択肢：1
+女のなすがままになった
+必死に抵抗した
 
 Ray：上
 っ・・・・！
@@ -11877,6 +12215,12 @@ Bandit Girl：上
 悪くない話でしょ？
 どうする？気持ちいいことしたくなぁい？
 
+選択肢：1
+要求をつっぱねる
+手でしてほしい・・・。
+足でしてほしい・・・。
+胸でしてほしい・・・。
+
 Bandit Girl：上
 ちぇ、いじわる。
 いいじゃない、おいしい食べ物ぐらいくれたって。*
@@ -12048,6 +12392,11 @@ Bandit Girl：上
 Ray：上
 くぅ・・・❤
 
+選択肢：1
+手でしてほしい・・・。
+足でしてほしい・・・。
+胸でしてほしい・・・。
+
 Bandit Girl：上
 くすくす❤
 よかったー。話の分かる人で。*
@@ -12193,6 +12542,11 @@ Bandit Girl：上
 くすくす❤
 それで今回は何をしてほしいの？
 言ってごらん？
+
+選択肢：1
+手でしてほしい・・・。
+足でしてほしい・・・。
+胸でしてほしい・・・。
 
 Bandit Girl：上
 そう。わかったわ。
@@ -12381,6 +12735,11 @@ Bandit Girl：上
 それで今回は何をしてほしいの？
 言ってごらん？
 
+選択肢：1
+手でしてほしい・・・。
+足でしてほしい・・・。
+胸でしてほしい・・・。
+
 Bandit Girl：上
 そう。わかったわ。
 でも、シコシコ始める前に・・・。*
@@ -12563,6 +12922,10 @@ Mirage：上
 ね、レイ君はどう思う？
 私の手でおちんちん握ってほしい？
 
+選択肢：1
+手でしてほしい
+なにもしなくていい
+
 Mirage：上
 そっか、手でしてほしいんだ。
 いいよ❤*
@@ -12718,6 +13081,9 @@ Mirage：上
 きゃはは♪全然こらえんぼできないんだ。可愛い❤
 ほら、それじゃあ、自分でお願いしてみて？
 なにしてほしいの？ん？
+
+選択肢：1
+手でしてほしい
 
 Mirage：上
 そっか、手でしてほしいんだ。
@@ -13110,15 +13476,54 @@ Greisa's Friend：上
 女たちは急に興味を失った顔をすると、
 僕のそばから離れていった・・・。
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれ
+
+グリッサの仲間：上
 ふふ、一人目はその人なのね。
 二人目は？
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 その人が二人目と・・・。
 それで最後の三人目は？
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 はーい、ありがと。
 この念書にサインしといてね。
 
@@ -13341,6 +13746,10 @@ Greisa：上
 このはち切れそうな胸で、たっぷり可愛がってやるよ❤
 ククク・・・❤
 
+選択肢：1
+仲間を貸し出すことにした
+彼女たちの提案を断った
+
 Ray：上
 ・・・・・。
 
@@ -13416,15 +13825,54 @@ Greisa's Friend：上
 女たちは急に興味を失った顔をすると、
 僕のそばから離れていった・・・。
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれ
+
+グリッサの仲間：上
 ふふ、一人目はその人なのね。
 二人目は？
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 その人が二人目と・・・。
 それで最後の三人目は？
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 はーい、ありがと。
 この念書にサインしといてね。
 
@@ -13730,6 +14178,9 @@ Greisa：上
 ほら、答えは決まっているよな？
 ククク・・・❤
 
+選択肢：1
+仲間をさらに貸し出すことにした
+
 Ray：上
 ううっ、うううぅ・・・❤
 
@@ -13786,23 +14237,88 @@ Greisa's Friend：上
 女たちは急に興味を失った顔をすると、
 僕のそばから離れていった・・・。
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 ふふ、一人目はその人なのね。
 二人目は？
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 その人が二人目と・・・。
 三人目は誰？
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 これで三人目と・・・。
 で、四人目は？
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 四人目はこの人。オッケー。
 それで、最後の五人目は誰？
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 はーい、ありがと。
 この念書にサインしといてね。
 
@@ -14083,6 +14599,9 @@ Greisa：上
 ほら、答えは決まっているよな？
 ククク・・・❤
 
+選択肢：1
+仲間をさらに貸し出すことにした
+
 Ray：上
 ううっ、うううぅ・・・❤
 
@@ -14139,23 +14658,88 @@ Greisa's Friend：上
 女たちは急に興味を失った顔をすると、
 僕のそばから離れていった・・・。
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 ふふ、一人目はその人なのね。
 二人目は？
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 その人が二人目と・・・。
 三人目は誰？
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 これで三人目と・・・。
 で、四人目は？
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 四人目はこの人。オッケー。
 それで、最後の五人目は誰？
 
-Greisa's Friend：上
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す
+教官を貸す
+発掘家を貸す
+ランサーを貸す
+ヒーラーを貸す
+アルケミストを貸す
+軍旗持ちを貸す
+呪術師を貸す
+格闘家を貸す
+盗賊くずれを貸す
+
+グリッサの仲間：上
 はーい、ありがと。
 この念書にサインしといてね。
 
@@ -14930,6 +15514,10 @@ Mirage：上
 Mirage：上
 おっぱいでたくさん癒してあげるね❤
 
+選択肢：1
+言われるまま彼女に甘えた
+彼女の提案を断った
+
 Mirage：上
 ふふ、そんなこと言っても体が震えているよ？
 ほら、無理やりぎゅーって抱きしめてあげる❤
@@ -15184,6 +15772,10 @@ Succubus Maid A：上
 Ray：上
 うぐ、そ、そんな誘惑で・・・❤
 
+選択肢：1
+結界の壁ちかくまで行った
+誘惑を無視して壁際を離れた
+
 Succubus Maid A：上
 あら、残念・・・❤**
 安全なところで淫魔の体を楽しめる、
@@ -15229,6 +15821,10 @@ Succubus Maid A：上
 顔もとろけて、頭もだいぶぼんやりしてきたみたいです。
 さあ、手をペニスに伸ばしてください・・・。
 シコシコしごいて、気持ちよくなりましょう？
+
+選択肢：1
+我慢できずにしごき始めてしまった。
+メイドのサキュバスに斬りかかった
 
 Ray：上
 だ、ダメなのに・・・・❤あううっ・・・❤
@@ -15576,6 +16172,10 @@ Succubus Maid A：上
 さあ、手をペニスに伸ばしてください・・・。
 シコシコしごいて、気持ちよくなりましょう？
 
+選択肢：1
+我慢できずにしごき始めてしまった。
+メイドのサキュバスに斬りかかった
+
 Ray：上
 だ、ダメなのに・・・・❤あううっ・・・❤
 
@@ -15885,6 +16485,10 @@ Mirage：上
 頭の中空っぽになっちゃうくらいにね。
 ほら、来てぇ・・・❤
 
+選択肢：1
+誘われるままに入れてしまった
+誘惑を断った
+
 Mirage：上
 ふーん。我慢しちゃうんだ。**
 サキュバスクイーンの、
@@ -16017,6 +16621,9 @@ Mirage：上
 ぷぷっ、理性、よわっ❤**
 おいで？
 わたしの中でたっぷり搾ってあげる❤
+
+選択肢：1
+誘われるままに入れてしまった
 
 Mirage：上
 あん❤入ってきた・・・❤**
