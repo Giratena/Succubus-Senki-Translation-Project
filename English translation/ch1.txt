@@ -1,6 +1,6 @@
 <PL1>
-Aiyee... Monsters are everywhere...!
 Man：上
+Aiyee... Monsters are everywhere...!
 What a travesty...
 
 Man：上
@@ -44,9 +44,16 @@ Hey... I'm not bad... I just wanna do stuff that
 feels better than those barbaric things...*
 No? Come on, you know you want to～❤
 
+選択肢：1
+I want it.
+I don't want it.
+
 テロップ：中央
 Tainted by lust, her seduction 
 couldn't be refused!
+
+選択肢：1
+I want it.
 
 Village Girl：上
 Uugh... You brute...
@@ -67,9 +74,16 @@ Heey, want another kiss?**
 That's okay with you, right?
 Could you give me some of your energy?
 
+選択肢：1
+I I want it.
+I I don't want it.
+
 テロップ：中央
 Tainted by lust, her invitation 
 couldn't be refused!
+
+選択肢：1
+I I want it.
 
 Village Girl：上
 Uugh... You brute...
@@ -93,9 +107,16 @@ sister to do, don't you?*
 Hora- Just relax, okay?❤
 I can suck more of your energy right?
 
+選択肢：1
+I want it.
+I don't want it.
+
 テロップ：中央
 Tainted by lust, her invitation 
 couldn't be refused!
+
+選択肢：1
+I want it.
 
 Village Girl：上
 Uugh... You brute...
@@ -127,9 +148,16 @@ so I wanna try something real quick.*
 Please, please?
 One last lewd thing?～❤
 
+選択肢：1
+Let her do it.
+Don't let her do it
+
 テロップ：中央
 Tainted by lust, her invitation 
 couldn't be refused!
+
+選択肢：1
+Let her do it.
 
 Village Girl：上
 Oof...
@@ -166,9 +194,9 @@ Village Girl：上
 Uugh... This kid's strong...
 My charms aren't working at all～*
 Hey, you-
-You saw what happened to your friends right?
+You saw what happened to your friends right?*
+Don't you wanna feel good like that too?
 
-Don't you wanna feel good like that too?**
 Village Girl：上
 Caught by lewd succubus attacks,
 their minds becoming empty...*
@@ -178,9 +206,16 @@ It's the greatest feeling ever.
 So come on- you want to taste heaven 
 like your friends?～❤
 
+選択肢：1
+Nod silently.
+Resist her advancements.
+
 テロップ：中央
 Tainted by lust, her invitation 
 couldn't be refused!
+
+選択肢：1
+Nod silently.
 
 Village Girl：上
 Oof...
@@ -235,9 +270,16 @@ I'm willing to reward your efforts.
 Hora- Please sit still.
 I'll send you off to heaven with my feet～
 
+選択肢：1
+Wait and see what happens.
+Deliver the final blow.
+
 テロップ：中央
 Tainted by lust, her invitation 
 couldn't be refused!
+
+選択肢：1
+Wait and see what happens.
 
 Determined Girl：上
 You... Cheeky...
@@ -392,11 +434,12 @@ Ray：上
 Aaaa...～❤ Haah～❤
 
 Succubus：上
-Hmm?
-Does my footjob feel good?～❤*
-Feet are enough for weaklings like you～
+Hmm? Does my footjob feel good?～❤
 If you were stronger,　I'd use my big breasts,
-or my pussy,　and drain you directlyー♪
+or my pussy to drain you directlyー♪
+But for weaklings like you, my feet are more
+than enough～
+
 
 Ray：上
 Oooh, aaa...～❤ Aaah～❤
@@ -432,14 +475,15 @@ My footjob feels too good anyway doesn't it～❤
 
 Succubus：上
 Good, good.
-Let it all out on my soles... Squish squish～❤
+Let it all out on the soles of my feet...
+Squish squish～❤
 
 Ray：上
 Agh, aaagh...!
 
 Succubus：上
-Hmm. How dull,
-his levels weren't anything great either.*
+Hmm. How dull, his levels weren't anything great
+either.*
 But maybe the next town will have 
 better game...～❤
 
@@ -449,8 +493,8 @@ Ara ara, what a disappointment～**
 I wonder if all men are like this...
 
 Succubus：下
-Well then girls,
-do as you please with these 'mercenary' boys.*
+Well then girls, do as you please with these
+'mercenary' boys.*
 Rape them, make them your slaves...
 follow your succubus instincts.*
 Take them all to the village.
@@ -1129,7 +1173,11 @@ Did that feel good～❤
 
 <OP2>
 テロップ：中央
-Skip the opening
+Skip the opening?
+
+選択肢：1
+Yes
+No
 
 <OP0>
 Man：上
@@ -1146,6 +1194,10 @@ Let's do this!
 
 Ray：上
 ...
+
+選択肢：1
+Right! Let's do this
+Urgh, I'm not ready...
 
 Miles：上
 That's the spirit, \pdb[0]!**
