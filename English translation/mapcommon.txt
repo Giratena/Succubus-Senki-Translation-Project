@@ -145,6 +145,23 @@ And with that, enjoy playing through hard mode!
 テロップ：中央
 A clear switch cannot be used in this stage!
 
+<MC52>
+選択肢：1
+発情
+魅了
+フル勃起
+おっぱいに弱い
+足に弱い
+フェラに弱い
+手に弱い
+セックスに弱い
+
+<MC0>
+選択肢：1
+Surrender (Offer no resistance)
+Give up (Combat ends)
+Back
+
 <MC15>
 テロップ：中央
 You can't use this on the turn
@@ -3108,6 +3125,9 @@ Ray：上
 仲間だもの。そりゃ、頼まれたら聞いてあげるよね❤
 くすくす❤
 
+選択肢：1
+踏んでほしいとお願いした
+彼女の提案を断った
 チェリッシュ：上
 ちぇ。意固地。**
 ま、村で本気で誘惑したのに、
@@ -3274,6 +3294,9 @@ Ray：上
 仲間だもの。そりゃ、頼まれたら聞いてあげるよね❤
 くすくす❤
 
+選択肢：1
+踏んでほしいとお願いした
+彼女の提案を断った
 チェリッシュ：上
 ちぇ。意固地。**
 ま、村で本気で誘惑したのに、
