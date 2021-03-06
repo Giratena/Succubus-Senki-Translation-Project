@@ -92,8 +92,15 @@ Hora, what do you say?
 If you want it, drop your weapon and stand by that
 wall over there. Ufufu❤
 
+選択肢：1
+Give up and drop your weapon
+Ignore her and finish her off
+
 テロップ：中央
 You were too aroused to refuse her request!
+
+選択肢：1
+Give up and drop your weapon
 
 Bandit Leader：上
 Ugh, if only you just submitted to temptation...
@@ -185,8 +192,15 @@ Hora, what do you say?
 If you want it, drop your weapon and stand by that
 wall over there. Ufufu❤
 
+選択肢：1
+Give up and drop your weapon
+Ignore her and finish her off
+
 テロップ：中央
 You were too aroused to refuse her request!
+
+選択肢：1
+Give up and drop your weapon
 
 Bandit Leader：上
 Ugh, if only you just submitted to temptation...
@@ -1295,6 +1309,10 @@ What should we do, Commander Ray?
 Ray：上
 .....
 
+選択肢：1
+Let's go and put a stop to it
+Let's leave it for now.
+
 Soldier：上
 We don't know where they're hiding yet, so we
 can't currently investigate right now, you say?*
@@ -1402,6 +1420,10 @@ Let's play❤
 テロップ：中央
 Would you like to see the opening again?
 
+選択肢：1
+見ない
+見る
+
 <OP1>
 Soldier：上
 A report just came in.**
@@ -1418,6 +1440,9 @@ What should we do?
 
 Ray：上
 ......
+
+選択肢：1
+Let's go and put a stop to it
 
 Soldier：上
 Understood. We'll prepare for departure immediately.

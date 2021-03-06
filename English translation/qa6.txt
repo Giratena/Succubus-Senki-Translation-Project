@@ -27,8 +27,15 @@ Don't worry- Even if you give up, one of your
 friends will defeat me-
 So...? Wanna get a paizuri?
 
+選択肢：1
+Become a traitor as she says
+Ignore her and attack
+
 テロップ：中央
 Due to arousal, her request couldn't be refused!
+
+選択肢：1
+Become a traitor as she says
 
 Infirmary Girl：上
 Aaough, no way...
@@ -111,8 +118,15 @@ Don't worry- Even if you give up, one of your
 friends will defeat me-
 So...? Wanna get a paizuri?
 
+選択肢：1
+Become a traitor as she says
+Ignore her and attack
+
 テロップ：中央
 Due to arousal, her request couldn't be refused!
+
+選択肢：1
+Become a traitor as she says
 
 Infirmary Girl：上
 Aaough, no way...
@@ -197,6 +211,9 @@ Oough...
 Ray：上
 .....
 
+選択肢：1
+今は後悔するより大事なことがある
+
 Village Healer：上
 Hm?
 "Forget about that right now. What's important
@@ -213,7 +230,7 @@ assist the people on the left.
 Lyon：上
 Phew... I think we can afford to rest now.
 
-Previously Injured Soldier：上
+Injured Soldier：上
 Huff, puff..
 Phew. Thanks to you, it seems we're all going to
 be okay... Thank you very much...
@@ -723,6 +740,10 @@ you, he resisted until the very end.
 But you couldn't resist at all- How terrible❤
 Ufufufu♪
 
+選択肢：1
+\wdb[123]
+\wdb[30]
+
 Infirmary Girl：上
 Ufu- So you want me to blow you lots of kisses?
 Okay❤ I'll make you fall in love with my plump
@@ -741,6 +762,10 @@ Delicious-♪
 <OP1>
 テロップ：中央
 Would you like to see the opening again?
+
+選択肢：1
+見ない
+見る
 
 <OP0>
 Lyon：上
@@ -761,6 +786,9 @@ troops that can use healing magic, because they
 don't have enough infirmary workers.
 It seems they were seriously injured after
 fighting a large-scale demon.
+
+選択肢：1
+Let's go at once.
 
 Lyon：上
 Yes, I understand.
@@ -947,7 +975,7 @@ Village Healer：上
 M-Mm, mmm...❤
 I'll do my best...❤
 
-Girl in Infirmary：上
+Infirmary Girl：上
 Besides, with my other infatuated soldiers...
 
 Infirmary Girl：上
