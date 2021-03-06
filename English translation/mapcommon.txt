@@ -1,139 +1,149 @@
 <MC116>
 テロップ：中央
-女性キャラ雇用ありでスタートします。**
-女性キャラが敵淫魔に攻撃を受けた際のセリフは、
-百合責めのセリフではなく、男性と戦闘した場合と同
-じセリフが表示されます。ご容赦ください。
+Female enemy characters can now be recruited.**
+The dialogue of a female character attacked by a
+succubus won't provide any yuri dialogue, and
+will appear as if fighting a man. Forgive me.
 
 <MC47>
 テロップ：中央
-ハードモード（２週目特典なし）でスタートします。**
-ハードモードは非常に難易度の高いモードです。**
-①敵の能力が上昇し、
-多くの場合、特殊なスキルを身につけています。*
-②戦闘で負傷すると、
-相手の技に応じて「弱点」が付与されることがあります
-一度付与された弱点は解除することができません。
-③敵ユニットは自軍を撃破するたびに、
-能力が上昇します。*
-④相手の命乞いを断ると、
-「発情」状態になります。
-「発情」状態のあいだ、相手の命乞いを断れません。
+Hard mode (No benefits 2nd playthrough) can be started.**
+Hard mode is the highest difficulty the game has
+to offer.*
+1. Enemies have more stats and in most cases,
+have special abilities.*
+2. When taking a hit in combat, enemies may
+inflict "fetishes" depending on their skills.
+Once applied, these fetishes cannot be removed.
+3. Whenever an enemy unit defeats an ally, their
+stats will rise.*
+4. When an ally refuses an enemy unit's last
+request, that unit will become "aroused".
+While "aroused", a last request cannot be refused.
 
 テロップ：中央
-ハードモード（２週目特典あり）でスタートします。**
-ハードモードは非常に難易度の高いモードです。**
-①敵の能力が上昇し、
-多くの場合、特殊なスキルを身につけています。*
-②戦闘で負傷すると、
-相手の技に応じて「弱点」が付与されることがあります
-一度付与された弱点は解除することができません。
-③敵ユニットは自軍を撃破するたびに、
-能力が上昇します。*
-④相手の命乞いを断ると、
-「発情」状態になります。
-「発情」状態のあいだ、相手の命乞いを断れません。
+Hard mode (No benefits 2nd playthrough) can be started.**
+Hard mode is the highest difficulty the game has
+to offer.*
+1. Enemies have more stats and in most cases,
+have special abilities.*
+2. When taking a hit in combat, enemies may
+inflict "fetishes" depending on their skills.
+Once applied, these fetishes cannot be removed.
+3. Whenever an enemy unit defeats an ally, their
+stats will rise.*
+4. When an ally refuses an enemy unit's last
+request, that unit will become "aroused".
+While "aroused", a last request cannot be refused.
 
 テロップ：中央
-ハードモード（お助けアイテムあり）でスタートします。**
-ハードモードは非常に難易度の高いモードです。**
-①敵の能力が上昇し、
-多くの場合、特殊なスキルを身につけています。*
-②戦闘で負傷すると、
-相手の技に応じて「弱点」が付与されることがあります
-一度付与された弱点は解除することができません。
-③敵ユニットは自軍を撃破するたびに、
-能力が上昇します。*
-④相手の命乞いを断ると、
-「発情」状態になります。
-「発情」状態のあいだ、相手の命乞いを断れません。
+Hard mode (with helpful items) can be started.**
+Hard mode is the highest difficulty the game has
+to offer.*
+1. Enemies have more stats and in most cases,
+have special abilities.*
+2. When taking a hit in combat, enemies may
+inflict "fetishes" depending on their skills.
+Once applied, these fetishes cannot be removed.
+3. Whenever an enemy unit defeats an ally, their
+stats will rise.*
+4. When an ally refuses an enemy unit's last
+request, that unit will become "aroused".
+While "aroused", a last request cannot be refused.
 
 テロップ：中央
-ハードモード（強くてニューゲーム）でスタートします。**
-ハードモードは非常に難易度の高いモードです。**
-①敵の能力が上昇し、
-多くの場合、特殊なスキルを身につけています。*
-②戦闘で負傷すると、
-相手の技に応じて「弱点」が付与されることがあります
-一度付与された弱点は解除することができません。
-③敵ユニットは自軍を撃破するたびに、
-能力が上昇します。*
-④相手の命乞いを断ると、
-「発情」状態になります。
-「発情」状態のあいだ、相手の命乞いを断れません。
+Hard mode and (New Game+) can now be started.**
+Hard mode is the highest difficulty the game has
+to offer.*
+1. Enemies have more stats and in most cases,
+have special abilities.*
+2. When taking a hit in combat, enemies may
+inflict "fetishes" depending on their skills.
+Once applied, these fetishes cannot be removed.
+3. Whenever an enemy unit defeats an ally, their
+stats will rise.*
+4. When an ally refuses an enemy unit's last
+request, that unit will become "aroused".
+While "aroused", a last request cannot be refused.
 
 テロップ：中央
-また「発情」状態では敵に攻撃された時、
-反撃が行えなくなります。*
-以上です。
-それではハードモードをお楽しみください。
+Furthremore, when attacked by an enemy unit while
+in the "aroused" state, counter attacking becomes
+impossible.
+This concludes the amount of changes in hard mode.
+And with that, enjoy playing through hard mode!
 
 <MC47-2>
 テロップ：中央
-ハードモード（２週目特典なし）でスタートします。**
-ハードモードは非常に難易度の高いモードです。**
-①敵の能力が上昇し、
-多くの場合、特殊なスキルを身につけています。*
-②戦闘で負傷すると、
-相手の技に応じて「弱点」が付与されることがあります
-一度付与された弱点は解除することができません。
-③敵ユニットは自軍を撃破するたびに、
-能力が上昇します。*
-④相手の命乞いを断ると、
-「発情」状態になります。
-「発情」状態のあいだ、相手の命乞いを断れません。
+Hard mode (No benefits 2nd playthrough) can be started.**
+Hard mode is the highest difficulty the game has
+to offer.*
+1. Enemies have more stats and in most cases,
+have special abilities.*
+2. When taking a hit in combat, enemies may
+inflict "fetishes" depending on their skills.
+Once applied, these fetishes cannot be removed.
+3. Whenever an enemy unit defeats an ally, their
+stats will rise.*
+4. When an ally refuses an enemy unit's last
+request, that unit will become "aroused".
+While "aroused", a last request cannot be refused.
 
 テロップ：中央
-ハードモード（２週目特典あり）でスタートします。**
-ハードモードは非常に難易度の高いモードです。**
-①敵の能力が上昇し、
-多くの場合、特殊なスキルを身につけています。*
-②戦闘で負傷すると、
-相手の技に応じて「弱点」が付与されることがあります
-一度付与された弱点は解除することができません。
-③敵ユニットは自軍を撃破するたびに、
-能力が上昇します。*
-④相手の命乞いを断ると、
-「発情」状態になります。
-「発情」状態のあいだ、相手の命乞いを断れません。
+Hard mode (No benefits 2nd playthrough) can be started.**
+Hard mode is the highest difficulty the game has
+to offer.*
+1. Enemies have more stats and in most cases,
+have special abilities.*
+2. When taking a hit in combat, enemies may
+inflict "fetishes" depending on their skills.
+Once applied, these fetishes cannot be removed.
+3. Whenever an enemy unit defeats an ally, their
+stats will rise.*
+4. When an ally refuses an enemy unit's last
+request, that unit will become "aroused".
+While "aroused", a last request cannot be refused.
 
 テロップ：中央
-ハードモード（お助けアイテムあり）でスタートします。**
-ハードモードは非常に難易度の高いモードです。**
-①敵の能力が上昇し、
-多くの場合、特殊なスキルを身につけています。*
-②戦闘で負傷すると、
-相手の技に応じて「弱点」が付与されることがあります
-一度付与された弱点は解除することができません。
-③敵ユニットは自軍を撃破するたびに、
-能力が上昇します。*
-④相手の命乞いを断ると、
-「発情」状態になります。
-「発情」状態のあいだ、相手の命乞いを断れません。
+Hard mode (with helpful items) can be started.**
+Hard mode is the highest difficulty the game has
+to offer.*
+1. Enemies have more stats and in most cases,
+have special abilities.*
+2. When taking a hit in combat, enemies may
+inflict "fetishes" depending on their skills.
+Once applied, these fetishes cannot be removed.
+3. Whenever an enemy unit defeats an ally, their
+stats will rise.*
+4. When an ally refuses an enemy unit's last
+request, that unit will become "aroused".
+While "aroused", a last request cannot be refused.
 
 テロップ：中央
-ハードモード（強くてニューゲーム）でスタートします。**
-ハードモードは非常に難易度の高いモードです。**
-①敵の能力が上昇し、
-多くの場合、特殊なスキルを身につけています。*
-②戦闘で負傷すると、
-相手の技に応じて「弱点」が付与されることがあります
-一度付与された弱点は解除することができません。
-③敵ユニットは自軍を撃破するたびに、
-能力が上昇します。*
-④相手の命乞いを断ると、
-「発情」状態になります。
-「発情」状態のあいだ、相手の命乞いを断れません。
+Hard mode and (New Game+) can now be started.**
+Hard mode is the highest difficulty the game has
+to offer.*
+1. Enemies have more stats and in most cases,
+have special abilities.*
+2. When taking a hit in combat, enemies may
+inflict "fetishes" depending on their skills.
+Once applied, these fetishes cannot be removed.
+3. Whenever an enemy unit defeats an ally, their
+stats will rise.*
+4. When an ally refuses an enemy unit's last
+request, that unit will become "aroused".
+While "aroused", a last request cannot be refused.
 
 テロップ：中央
-また「発情」状態では敵に攻撃された時、
-反撃が行えなくなります。*
-以上です。
-それではハードモードをお楽しみください。
+Furthremore, when attacked by an enemy unit while
+in the "aroused" state, counter attacking becomes
+impossible.
+This concludes the amount of changes in hard mode.
+And with that, enjoy playing through hard mode!
 
 <MC102>
 テロップ：中央
-このステージではクリアスイッチを使うことはできない！
+A clear switch cannot be used in this stage!
 
 <MC52>
 選択肢：1
