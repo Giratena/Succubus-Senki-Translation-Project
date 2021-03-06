@@ -1,20 +1,23 @@
-<(0)レイ0>
-レイ：下
+<(0)Ray@0>
+Ray：下
 Ahiee...❤
 
-レイ：下
+Ray：下
 Ahiee...❤
 
-レイ：下
+Ray：下
 Uaaah-!!!
 
-<(0)レイ2>
-レイ：上
+<(0)Ray@2>
+Ray：上
 ...!!
 
-乳魔アリス：上
+タイトル：中央
+聖剣解放（光）
+
+Alice：上
 \vo[a83]Uwawawah, I can't feel my body!
-What gives? My sexual aura won't work...!
+What's going on? My sexy aura won't work...!
 
 テロップ：中央
 When the holy sword of light is released,
@@ -22,23 +25,26 @@ it can be used as a weapon.*
 In it's wake, enemy succubus will be inflicted
 with the "Light Seal" status.*
 The "Light Seal" status prevents enemies from 
-using stronger skills, and decreases movement.*
+using stronger skills, and decreases their stats.*
 The "Light Seal" is so advanced it can even 
 effect advanced level succubus, and power them
 down.
 
-<(0)レイ7>
+<(0)Ray@7>
 テロップ：中央
 The holy sword can no longer be activated
 at this level!
 (No. Times activated-\va1[0], Currently-\va4[9]）
 
-レイ：上
+Ray：上
 ...!!
 
-乳魔アリス：上
+タイトル：中央
+聖剣解放（光）
+
+Alice：上
 \vo[a83]Uwawawah, I can't feel my body!
-What gives? My sexual aura won't work...!
+What's going on? My sexy aura won't work...!
 
 テロップ：中央
 When the holy sword of light is released,
@@ -46,33 +52,36 @@ it can be used as a weapon.*
 In it's wake, enemy succubus will be inflicted
 with the "Light Seal" status.*
 The "Light Seal" status prevents enemies from 
-using stronger skills, and decreases movement.*
+using stronger skills, and decreases their stats.*
 The "Light Seal" is so advanced it can even 
 effect advanced level succubus, and power them
 down.
 
-<(1)ユミル0>
-ユミル：下
+<(1)Miles@0>
+Miles：下
 Uwahh...❤
 
-ユミル：下
+Miles：下
 Uwahh...❤
 
-ユミル：下
+Miles：下
 Damn it...
 
-<(1)ユミル1>
+<(1)Miles@1>
 Miles：上
 Alright! It's go time!
 
-<(1)ユミル3>
+<(1)Miles@3>
 Miles：上
 Alright! It's go time!
 
-<(1)ユミル2>
+<(1)Miles@2>
 Miles：上
 O'holy wind sword! Lend me your power!
 Distill all evil and cast it to the wind!
+
+タイトル：中央
+聖剣解放（風）
 
 Miles：上
 What on earth...? 
@@ -84,16 +93,16 @@ protected by the wind...
 When the holy sword of wind is released,
 it can be used as a weapon.*
 In it's wake, allies will receive the 
-"Wind Blessing" status for three turns.*
+"Wind Blessing" status for three turns.
 As long as the "Wind Blessing" is active, allies
-will not receive abnormal states.*
+will not receive abnormal states.
 Some powerful enemy attacks can only be prevented
 via the "Wind Blessing" status.*
 ※Caution※
 If an ally is already under an abnormal state,
 they won't be cured when the blessing is applied.
 
-<(1)ユミル4>
+<(1)Miles@4>
 テロップ：中央
 The holy sword can no longer be activated
 at this level!
@@ -102,6 +111,9 @@ at this level!
 Miles：上
 O'holy wind sword! Lend me your power!
 Distill all evil and cast it to the wind!
+
+タイトル：中央
+聖剣解放（風）
 
 Miles：上
 What on earth...? 
@@ -113,207 +125,206 @@ protected by the wind...
 When the holy sword is released,
 it can be used as a weapon.*
 In it's wake, allies will receive the 
-"Wind Blessing" status for three turns.*
+"Wind Blessing" status for three turns.
 As long as the "Wind Blessing" is active, allies
-will not receive abnormal states.*
+will not receive abnormal states.
 Some powerful enemy attacks can only be prevented
 via the "Wind Blessing" status.*
 ※Caution※
 If an ally is already under an abnormal state,
 they won't be cured when the blessing is applied.
 
-
-<(2)ノブ0>
-ノブ：下
+<(2)Nobus@0>
+Nobus：下
 Aah, aaah...❤
 
-ノブ：下
+Nobus：下
 Aah, aaah...❤
 
-ノブ：下
-うう・・・。
+Nobus：下
+Ugh...
 
-<(2)ノブ1>
+<(2)Nobus@1>
 Nobus：上
 I'll protect you!
 
-<(3)イエヤス0>
-イエヤス：下
+<(3)Lyon@0>
+Lyon：下
 Ooh, aaaah...❤
 
-イエヤス：下
+Lyon：下
 Ooh, aaaah...❤
 
-イエヤス：下
+Lyon：下
 Ugh...
 
-<(3)イエヤス1>
+<(3)Lyon@1>
 アクティブ：上
 I'll pray for your wounds...!
 
-<(3)イエヤス2>
+<(3)Lyon@2>
 アクティブ：上
 For your wounds, I pray for a miracle...!
 
-<(10)ミツヒデ0>
-ミツヒデ：下
+<(10)Mizuhide@0>
+Mizuhide：下
 Haaaagh...❤
 
-ミツヒデ：下
+Mizuhide：下
 Haaaagh...❤
 
-ミツヒデ：下
+Mizuhide：下
 Ugh...
 
-<(10)ミツヒデ1>
+<(10)Mizuhide@1>
 アクティブ：上
 Haaa-...!!
 
-<(10)ミツヒデ2>
+<(10)Mizuhide@2>
 アクティブ：上
 Haaa-...!!
 
-<(4)凡骨雑兵 A0>
-凡骨雑兵 A：下
+<(4)Foot Soldier A@0>
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Gugh...
 
-<(5)凡骨雑兵 B0>
-凡骨雑兵 A：下
+<(5)Foot Soldier B@0>
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Gugh...
 
-<(6)凡骨雑兵 C0>
-凡骨雑兵 A：下
+<(6)Foot Soldier C@0>
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Gugh...
 
-<(13)凡骨雑兵 D0>
-凡骨雑兵 A：下
+<(13)Foot Soldier D@0>
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Gugh...
 
-<(14)凡骨雑兵 E0>
-凡骨雑兵 A：下
+<(14)Foot Soldier E@0>
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Gugh...
 
-<(15)凡骨雑兵 F0>
-凡骨雑兵 A：下
+<(15)Foot Soldier F@0>
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Gugh...
 
-<(16)凡骨雑兵 G0>
-凡骨雑兵 A：下
+<(16)Foot Soldier G@0>
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Haah, aaah...❤
 
-凡骨雑兵 A：下
+Foot Soldier A：下
 Gugh...
 
-<(7)エリート雑兵 A0>
-エリート雑兵 A：下
+<(7)Elite Soldier A@0>
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Gugh...
 
-<(8)エリート雑兵 B0>
-エリート雑兵 A：下
+<(8)Elite Soldier B@0>
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Gugh...
 
-<(17)エリート雑兵 C0>
-エリート雑兵 A：下
+<(17)Elite Soldier C@0>
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Gugh...
 
-<(18)エリート雑兵 D0>
-エリート雑兵 A：下
+<(18)Elite Soldier D@0>
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Gugh...
 
-<(19)エリート雑兵 E0>
-エリート雑兵 A：下
+<(19)Elite Soldier E@0>
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Gugh...
 
-<(20)エリート雑兵 F0>
-エリート雑兵 A：下
+<(20)Elite Soldier  F@0>
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Gugh...
 
-<(21)エリート雑兵 G0>
-エリート雑兵 A：下
+<(21)Elite Soldier G@0>
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Haah, aaah...❤
 
-エリート雑兵 A：下
+Elite Soldier A：下
 Gugh...
 
-<(9)教官 A2>
+<(9)Teacher@2>
 アクティブ：下
 Haah, aaah...❤
 
@@ -323,26 +334,26 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<(9)教官 A0>
+<(9)Teacher@0>
 テロップ：中央
 You already have too many items.
 
-<(9)教官 A3>
+<(9)Teacher@3>
 テロップ：中央
 You already have too many items.
 
-<(9)教官 A4>
+<(9)Teacher@4>
 テロップ：中央
 You already have too many items.
 
-<(9)教官 A1>
+<(9)Teacher@1>
 テロップ：中央
 You already have too many items.
 
 テロップ：中央
 Obtained 1500G!
 
-<(12)発掘家 A2>
+<(12)Excavator@2>
 アクティブ：下
 Haah, aaah...❤
 
@@ -352,28 +363,28 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<(12)発掘家 A0>
+<(12)Excavator@0>
 テロップ：中央
 You already have too many items.
 
 テロップ：中央
 Obtained some gold!
 
-<(12)発掘家 A1>
+<(12)Excavator@1>
 テロップ：中央
 You already have too many items.
 
 テロップ：中央
 Obtained some gold!
 
-<(12)発掘家 A3>
+<(12)Excavator@3>
 テロップ：中央
 You already have too many items.
 
 テロップ：中央
 Obtained some gold!
 
-<(11)ランサー A0>
+<(11)Lancer A@0>
 アクティブ：下
 Agh, oooh...❤
 
@@ -383,7 +394,7 @@ Agh, oooh...❤
 アクティブ：下
 Ugggh...
 
-<(38)ランサー B0>
+<(38)Lancer B@0>
 アクティブ：下
 Agh, oooh...❤
 
@@ -393,7 +404,7 @@ Agh, oooh...❤
 アクティブ：下
 Ugggh...
 
-<(39)ランサー C0>
+<(39)Lancer C@0>
 アクティブ：下
 Agh, oooh...❤
 
@@ -403,7 +414,7 @@ Agh, oooh...❤
 アクティブ：下
 Ugggh...
 
-<(22)ヒーラー A0>
+<(22)Healer A@0>
 アクティブ：下
 Ooh, aaaah...❤
 
@@ -413,7 +424,7 @@ Ooh, aaaah...❤
 アクティブ：下
 Ugh...
 
-<(23)ヒーラー B0>
+<(23)Healer B@0>
 アクティブ：下
 Ooh, aaaah...❤
 
@@ -423,7 +434,7 @@ Ooh, aaaah...❤
 アクティブ：下
 Ugh...
 
-<(24)ヒーラー C0>
+<(24)Healer C@0>
 アクティブ：下
 Ooh, aaaah...❤
 
@@ -433,7 +444,7 @@ Ooh, aaaah...❤
 アクティブ：下
 Ugh...
 
-<(27)アルケミスト A0>
+<(27)Alchemist A@0>
 アクティブ：下
 Haah, aaah...❤
 
@@ -443,7 +454,7 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<(27)アルケミスト A1>
+<(27)Alchemist A@1>
 テロップ：中央
 You already have too many items.
 
@@ -462,7 +473,7 @@ Wahaha! The experiment was a huge success!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<(27)アルケミスト A3>
+<(27)Alchemist A@3>
 テロップ：中央
 You already have too many items.
 
@@ -484,7 +495,7 @@ Muhahahaha!! A glorious turnout!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<(27)アルケミスト A2>
+<(27)Alchemist A@2>
 テロップ：中央
 You already have too many items.
 
@@ -503,14 +514,14 @@ Wahaha! The experiment was a huge success!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<(27)アルケミスト A4>
+<(27)Alchemist A@4>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
 Ohoho... It's time for a bit of chemistry...!
 
-<(27)アルケミスト A5>
+<(27)Alchemist A@5>
 テロップ：中央
 You already have too many items.
 
@@ -526,7 +537,7 @@ Ha! Success!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<(28)アルケミスト B0>
+<(28)Alchemist B@0>
 アクティブ：下
 Haah, aaah...❤
 
@@ -536,7 +547,7 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<(28)アルケミスト B1>
+<(28)Alchemist B@1>
 テロップ：中央
 You already have too many items.
 
@@ -555,7 +566,7 @@ Wahaha! The experiment was a huge success!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<(28)アルケミスト B3>
+<(28)Alchemist B@2>
 テロップ：中央
 You already have too many items.
 
@@ -577,7 +588,7 @@ Muhahahaha!! A glorious turnout!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<(28)アルケミスト B2>
+<(28)Alchemist B@3>
 テロップ：中央
 You already have too many items.
 
@@ -596,14 +607,14 @@ Wahaha! The experiment was a huge success!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<(28)アルケミスト B4>
+<(28)Alchemist B@4>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
 Ohoho... It's time for a bit of chemistry...!
 
-<(28)アルケミスト B5>
+<(28)Alchemist B@5>
 テロップ：中央
 You already have too many items.
 
@@ -619,7 +630,7 @@ Ha! Success!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<(29)アルケミスト C0>
+<(29)Alchemist C@0>
 アクティブ：下
 Haah, aaah...❤
 
@@ -629,7 +640,7 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<(29)アルケミスト C1>
+<(29)Alchemist C@1>
 テロップ：中央
 You already have too many items.
 
@@ -648,7 +659,7 @@ Wahaha! The experiment was a huge success!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<(29)アルケミスト C3>
+<(29)Alchemist C@2>
 テロップ：中央
 You already have too many items.
 
@@ -670,7 +681,7 @@ Muhahahaha!! A glorious turnout!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<(29)アルケミスト C2>
+<(29)Alchemist C@3>
 テロップ：中央
 You already have too many items.
 
@@ -689,14 +700,14 @@ Wahaha! The experiment was a huge success!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<(29)アルケミスト C4>
+<(29)Alchemist C@4>
 テロップ：中央
 You already have too many items.
 
 アクティブ：上
 Ohoho... It's time for a bit of chemistry...!
 
-<(29)アルケミスト C5>
+<(29)Alchemist C@5>
 テロップ：中央
 You already have too many items.
 
@@ -712,7 +723,7 @@ Ha! Success!
 アクティブ：上
 Muhahahaha!! A glorious turnout!
 
-<(30)軍旗持ち A0>
+<(30)Flag Bearer A@0>
 アクティブ：下
 Ah, oooh...❤
 
@@ -722,7 +733,7 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<(30)軍旗持ち A1>
+<(30)Flag Bearer A@1>
 アクティブ：上
 Stay strong everyone!
 
@@ -736,7 +747,7 @@ Go go go!
 There's no 'I' in 'team'!
 We will win!
 
-<(30)軍旗持ち A3>
+<(30)Flag Bearer A@3>
 アクティブ：上
 Keep it up! Don't stop now!
 
@@ -750,7 +761,7 @@ Go go go!
 There's no 'I' in 'team'!
 We will win!
 
-<(31)軍旗持ち B0>
+<(31)Flag Bearer B@0>
 アクティブ：下
 Ah, oooh...❤
 
@@ -760,7 +771,7 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<(31)軍旗持ち B1>
+<(31)Flag Bearer B@1>
 アクティブ：上
 Stay strong everyone!
 
@@ -774,7 +785,7 @@ Go go go!
 There's no 'I' in 'team'!
 We will win!
 
-<(31)軍旗持ち B3>
+<(31)Flag Bearer B@2>
 アクティブ：上
 Keep it up! Don't stop now!
 
@@ -788,7 +799,7 @@ Go go go!
 There's no 'I' in 'team'!
 We will win!
 
-<(32)軍旗持ち C0>
+<(32)Flag Bearer C@0>
 アクティブ：下
 Ah, oooh...❤
 
@@ -798,7 +809,7 @@ Haah, aaah...❤
 アクティブ：下
 Gugh...
 
-<(32)軍旗持ち C1>
+<(32)Flag Bearer C@1>
 アクティブ：上
 Stay strong everyone!
 
@@ -812,7 +823,7 @@ Go go go!
 There's no 'I' in 'team'!
 We will win!
 
-<(32)軍旗持ち C3>
+<(32)Flag Bearer C@2>
 アクティブ：上
 Keep it up! Don't stop now!
 
@@ -826,7 +837,11 @@ Go go go!
 There's no 'I' in 'team'!
 We will win!
 
-<(33)盗賊くずれ A0>
+<(26)コモン君@1>
+Ray：上
+コモンイベントとして使えるんじゃね？
+
+<(33)Bandit A@0>
 アクティブ：下
 Ugh, ahieee...❤
 
@@ -836,7 +851,7 @@ Ugh, ahieee...❤
 アクティブ：下
 Gugh...
 
-<(42)盗賊くずれ B0>
+<(42)Bandit B@0>
 アクティブ：下
 Ugh, ahieee...❤
 
@@ -846,7 +861,7 @@ Ugh, ahieee...❤
 アクティブ：下
 Gugh...
 
-<(43)盗賊くずれ C0>
+<(43)Bandit C@0>
 アクティブ：下
 Ugh, ahieee...❤
 
@@ -856,7 +871,7 @@ Ugh, ahieee...❤
 アクティブ：下
 Gugh...
 
-<(35)格闘家A0>
+<(35)Martial Artist A@0>
 アクティブ：下
 Ugh, ahieee...❤
 
@@ -866,19 +881,19 @@ Ugh, ahieee...❤
 アクティブ：下
 Ugggh...
 
-<(35)格闘家A1>
+<(35)Martial Artist A@1>
 アクティブ：上
 Hiyah!
 
-<(35)格闘家A4>
+<(35)Martial Artist A@4>
 アクティブ：上
 Hiyah!
 
-<(35)格闘家A2>
+<(35)Martial Artist A@2>
 アクティブ：上
 Hiyah!
 
-<(36)格闘家B0>
+<(36)Martial Artist B@0>
 アクティブ：下
 Ugh, ahieee...❤
 
@@ -888,19 +903,19 @@ Ugh, ahieee...❤
 アクティブ：下
 Ugggh...
 
-<(36)格闘家B1>
+<(36)Martial Artist B@1>
 アクティブ：上
 Hiyah!
 
-<(36)格闘家B4>
+<(36)Martial Artist B@2>
 アクティブ：上
 Hiyah!
 
-<(36)格闘家B2>
+<(36)Martial Artist B@3>
 アクティブ：上
 Hiyah!
 
-<(37)格闘家C0>
+<(37)Martial Artist C@0>
 アクティブ：下
 Ugh, ahieee...❤
 
@@ -910,19 +925,19 @@ Ugh, ahieee...❤
 アクティブ：下
 Ugggh...
 
-<(37)格闘家C1>
+<(37)Martial Artist C@1>
 アクティブ：上
 Hiyah!
 
-<(37)格闘家C4>
+<(37)Martial Artist C@2>
 アクティブ：上
 Hiyah!
 
-<(37)格闘家C2>
+<(37)Martial Artist C@3>
 アクティブ：上
 Hiyah!
 
-<(34)呪術師 A0>
+<(34)Black Mage A@0>
 アクティブ：下
 Uugh, ahieee...❤
 
@@ -932,15 +947,15 @@ Uugh, ahieee...❤
 アクティブ：下
 Gugh...
 
-<(34)呪術師 A1>
+<(34)Black Mage A@1>
 テロップ：中央
 You already have too many items.
 
-<(34)呪術師 A2>
+<(34)Black Mage A@2>
 テロップ：中央
 You already have too many items.
 
-<(40)呪術師 B0>
+<(40)Black Mage B@0>
 アクティブ：下
 Uugh, ahieee...❤
 
@@ -950,15 +965,15 @@ Uugh, ahieee...❤
 アクティブ：下
 Gugh...
 
-<(40)呪術師 B1>
+<(40)Black Mage B@1>
 テロップ：中央
 You already have too many items.
 
-<(40)呪術師 B2>
+<(40)Black Mage B@2>
 テロップ：中央
 You already have too many items.
 
-<(41)呪術師 C0>
+<(41)Black Mage C@0>
 アクティブ：下
 Uugh, ahieee...❤
 
@@ -968,28 +983,28 @@ Uugh, ahieee...❤
 アクティブ：下
 Gugh...
 
-<(41)呪術師 C1>
+<(41)Black Mage C@1>
 テロップ：中央
 You already have too many items.
 
-<(41)呪術師 C2>
+<(41)Black Mage C@2>
 テロップ：中央
 You already have too many items.
 
-<(44)村娘0>
+<(44)Village Girl@0>
 アクティブ：上
 Aaah, but that's...❤
 
-<(44)村娘1>
+<(44)Village Girl@1>
 アクティブ：上
 Ah- Aahhn-❤
 I'll fill your mind up with lots of sexy thoughts-❤
 
-<(45)勝ち気むすめ0>
+<(45)Determined Girl@0>
 アクティブ：上
 Ooogh...❤
 
-<(53)Moumei1>
+<(53)モルジア@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -998,11 +1013,11 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink directly from my boobs.
+Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(53)Moumei2>
+<(53)モルジア@2>
 アクティブ：上
 Ho-ra- Become captivated by my body-❤
 
@@ -1015,7 +1030,7 @@ I wonder if men can keep their reason before
 these succubus breasts?
 Hora- Stare. Stare at my cleavage-❤
 
-<(54)村の少女1>
+<(54)村の少女@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1024,11 +1039,11 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink directly from my boobs.
+Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(55)敬虔な少女1>
+<(55)敬虔な少女@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1037,11 +1052,11 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink directly from my boobs.
+Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(56)フェラ盗賊1>
+<(56)フェラ盗賊@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1050,15 +1065,15 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink directly from my boobs.
+Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(57)シスター2>
+<(57)シスター@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(57)シスター3>
+<(57)シスター@3>
 アクティブ：上
 You will melt with my pheromones-❤
 Pshew-...❤
@@ -1071,7 +1086,7 @@ until your brain melts-❤
 Now, you serve me-❤
 Pshew-...❤
 
-<(57)シスター1>
+<(57)シスター@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1080,15 +1095,15 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink directly from my boobs.
+Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(58)巨乳エルフ2>
+<(58)巨乳エルフ@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(58)巨乳エルフ1>
+<(58)巨乳エルフ@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1097,15 +1112,15 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink directly from my boobs.
+Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(59)美脚エルフ2>
+<(59)美脚エルフ@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(59)美脚エルフ1>
+<(59)美脚エルフ@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1114,109 +1129,109 @@ It will help you recover-
 I'll heal you with my succubus breast milk-
 
 アクティブ：上
-Hora- Drink directly from my boobs.
+Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(60)アルラウネ2>
+<(60)アルラウネ@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(60)アルラウネ1>
+<(60)アルラウネ@1>
 アクティブ：上
 The power of my honey compels you...!
 
-<(61)Boobie Mermaid2>
+<(61)美乳マーメイド@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(61)Boobie Mermaid1>
+<(61)美乳マーメイド@1>
 アクティブ：上
 My song will rob you of the will to fight-
 
-<(62)Kissing Mermaid2>
+<(62)投げキッス人魚@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(62)Kissing Mermaid1>
+<(62)投げキッス人魚@1>
 アクティブ：上
-I'll give you a little kiss, so do your best♪
-Mmm--wah!❤
+I'll give you a little kiss, so do your best-♪
+Mmm--wah!-❤
 
-<(63)ラミア2>
-アクティブ：上
-Fall under my pheromones-❤
-
-<(63)ラミア1>
-アクティブ：上
-I'll give you a little kiss, so do your best♪
-Mmm--wah!❤
-
-<(64)サキュバスエルフ2>
+<(63)ラミア@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(64)サキュバスエルフ1>
+<(63)ラミア@1>
 アクティブ：上
-I'll give you a little kiss, so do your best♪
-Mmm--wah!❤
+I'll give you a little kiss, so do your best-♪
+Mmm--wah!-❤
 
-<(65)ダークエルフ2>
-アクティブ：上
-Fall under my pheromones-❤
-
-<(65)ダークエルフ1>
-アクティブ：上
-I'll give you a little kiss, so do your best♪
-Mmm--wah!❤
-
-<(66)サキュバスエルフ2>
+<(64)サキュバスエルフ@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(66)サキュバスエルフ1>
+<(64)サキュバスエルフ@1>
 アクティブ：上
-I'll give you a little kiss, so do your best♪
-Mmm--wah!❤
+I'll give you a little kiss, so do your best-♪
+Mmm--wah!-❤
 
-<(67)ダークアルラウネ2>
+<(65)ダークエルフ@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(67)ダークアルラウネ1>
+<(65)ダークエルフ@1>
+アクティブ：上
+I'll give you a little kiss, so do your best-♪
+Mmm--wah!-❤
+
+<(66)サキュバスエルフ@2>
+アクティブ：上
+Fall under my pheromones-❤
+
+<(66)サキュバスエルフ@1>
+アクティブ：上
+I'll give you a little kiss, so do your best-♪
+Mmm--wah!-❤
+
+<(67)ダークアルラウネ@2>
+アクティブ：上
+Fall under my pheromones-❤
+
+<(67)ダークアルラウネ@1>
 アクティブ：上
 I shall weaken you with my aphrodisiac.
 Pshew-...♪
 
-<(67)ダークアルラウネ3>
+<(67)ダークアルラウネ@3>
 アクティブ：上
 I shall entrance you with my aphrodisiac.
 Pshew-...♪
 
-<(68)チェリッシュ2>
+<(68)チェリッシュ@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(68)チェリッシュ1>
+<(68)チェリッシュ@1>
 アクティブ：上
 I shall weaken you with my aphrodisiac.
 Pshew-...♪
 
-<(68)チェリッシュ3>
+<(68)チェリッシュ@3>
 アクティブ：上
 I shall entrance you with my aphrodisiac.
 Pshew-...♪
 
-<(69)ドレインインプ2>
+<(69)ドレインインプ@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(69)ドレインインプ1>
+<(69)ドレインインプ@1>
 アクティブ：上
 I shall weaken you with my aphrodisiac.
 Pshew-...♪
 
-<(69)ドレインインプ3>
+<(69)ドレインインプ@3>
 アクティブ：上
 I shall entrance you with my aphrodisiac.
 Pshew-...♪

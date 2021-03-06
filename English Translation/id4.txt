@@ -1,0 +1,6950 @@
+<PL0>
+テロップ：中央
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+
+テロップ：中央
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+(Healers increase the range of effect!)
+
+<PL1>
+テロップ：中央
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+
+テロップ：中央
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+(Healers increase the range of effect!)
+
+<PL14>
+テロップ：中央
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+
+テロップ：中央
+It's a recovery circle!**
+The HP of surrounding allies has been restored!
+(Healers increase the range of effect!)
+
+<AT43>
+テロップ：中央
+The first half of this stage
+switches over to the second half
+when a clear switch is used.
+
+<AT12>
+Luminara：上
+(Giggle) You shouldn't keep me waiting,
+I'm pretty hungry after all-*
+Why don't just give up and give in to Ms. Luminara-
+Come on- Let your penis spew it's sweet love 
+juices over and over until you die-❤
+It would be much easier than fighting me!
+
+Ray：上
+....！
+
+Luminara：上
+Hmmph, so you haven't given up just yet.**
+Pointless resistance is just annoying you know?
+If only you'd submit like a good boy, then
+you'd end up feeling so, so good- Teehee♪
+
+Miles：上
+([Run away to buy time]...
+I don't know what Mizuhide is thinking,
+but I have to put my trust in Ray!)
+Listen up everyone! Follow me if you want to 
+survive! Aim for that rock! We'll fight them
+off without being surrounded!
+
+Ninja Girl：上
+So, you think you can hide behind those rocks?
+Ufufufufu-*
+You think that we, Mileena's assassination force,
+would let you go that easily?
+
+Ninja Girl：上
+Ho-ra- ❤
+Pshew--...❤
+
+Miles：上
+Ooogh!! What the...? My, my penis, it's swelling 
+up on its own...! Argh, it's like it's been 
+bloated with lead or something...! Owowowowow!
+
+Ninja Girl：上
+(Giggle) Instant effectiveness-❤
+Once you inhale this drug, your erections will
+get so big, you won't be able to even stand-
+Can you feel it? Right now, they're even pushing
+through your clothes- Fufu...
+Those erections must be soo painful huh?-
+How will you be able to run like this?
+But don't worry- Stay right there. We'll ease all 
+that tension and make you feel good-❤
+
+Miles：上
+Ooagh, you must be joking if you think something
+like a little medicine is going to stop us...!
+We'll survive no matter what!
+
+<AT39>
+選択肢：1
+Deactivate the Holy Sword
+Ignore Luminara's advice
+
+Miles：上
+Oogh, ooooaagh...❤❤
+
+Luminara：上
+\vo[r50]Teehee-❤ So you canceled it-
+Surrendering just from the promise of pleasure,
+what a fool-❤
+\vo[r51]Hora- Such foolish humans 
+fit well to submit to the likes of me-
+Mm-wah-❤
+
+タイトル：中央
+Harem Rain Kiss 
+(Inflicts Brainwash+ on foes within 5 spaces)
+
+Luminara：上
+\vo[r41]Kyahaha-❤ With this, you're all my 
+devoted slaves- It's not possible to go
+against my lips any longer...♪
+\vo[r42]Well now, do your best if you want my
+rewards- Knock down every one of those
+burdensome hindrances!
+
+Luminara：上
+\vo[r43]Kyahaha-❤ With this, you're all my 
+devoted slaves- It's not possible to go
+against my lips any longer...♪
+\vo[r44]Although, you are the only person left...
+Teehee-❤ You were all ready done-❤
+
+Luminara：上
+\vo[r52]And now, your reward for deactivating the
+holy sword...❤ One, big sloppy kiss...!
+Mmm-------wah!❤
+
+Luminara：上
+\vo[r53](Giggle) You came from a blown kiss.
+How sloppy of you-❤
+
+Luminara：上
+\vo[r54]Hmph- So you decided to resist?
+How stubborn.*
+\vo[r55]No matter how much you use that thing,
+you're still a man. You'll give in to my lips
+in the end. Look forward to it. Mmwah-❤
+
+<AT18>
+Croix：上
+Ufufu- You seem to be resisting a little,
+but how long will it last?
+
+Miles：上
+Ugh... At this rate, damnit...
+No matter how you see it, things are only
+getting worse...
+
+Luminara：上
+\vo[r11]Confining yourselves in such a small 
+area...makes you perfect targets♪*
+\vo[r12]The holy sword of wind can't protect you now,
+I'll give you all my super blow kisses-❤
+
+Luminara：上
+\vo[r13]Bathe in all the hearts in the air, 
+and become my slaves-❤
+Here I go- Harem Rain Kiss-❤
+
+Miles：上
+Damnit... So this is, the end...
+
+Luminara：上
+\vo[r14]...!! What's that sound!?
+
+Sniper：上
+Kyah!!
+
+Ninja Girl：上
+Th, this is bad!
+We've been surrounded by enemies!
+Uwaah!!
+
+Luminara：上
+\vo[r15]H, h, how can this be?
+
+Luminara：上
+\vo[r16]Kyaah!!
+
+Luminara：上
+\vo[r17]Yowch... Ooh, falling off cliffs hurt-
+What gives!?
+
+第三騎士団団長：上
+Knights of the Ninth Order! You held on for us!**
+The Knights of the Third reinforcements have come,
+so rest assured, help has arrived!
+
+第三騎士団団長：上
+Sir Ray, Sir Miles!
+These holy swords belong to you. 
+Take them!
+
+Miles：上
+Haha! Reinforcements have arrived!
+They must have predicted the surprise attack!
+Way to go Mizuhide!
+
+Mizuhide：上
+And they came just in time too!
+Thank goodness...
+Actually, after the meeting with Ray...
+
+Miles：上
+Chat about the details later.
+Right now, we need to hit the enemy hard while 
+they're still confused!
+
+第三騎士団団長：上
+Leave the surrounding lesser succubus to us.
+Go forth and take out the enemy leaders!
+
+<AT16>
+Luminara：上
+\vo[r18]Aaagh! Our formations are all messed up!
+Our perfect trap, totally spoiled...*
+\vo[r19]But, hmph- Now you're right where we want you!
+I'll just have to come down and get you myself!-
+
+Croix：上
+Oh yes- I like the way you think Luminara-
+First, let's enthral the heroes and turn 
+them into our slaves-
+If the heroes with the holy swords are corrupted,
+the three of us will be able to drain the
+reinforcements like sweet candy- Ufufu-❤
+
+Mileena：上
+I've always wanted Ray and Miles to become my 
+puppets. Well, that's that then-*
+I'll stroke their penis with my hands while 
+squeezing their face between my breasts. 
+It'll feel so good they'll fall for me right away.
+They'll become my blissful pleasure slaves,
+just like my Nobu-❤ Teehee-❤
+
+Miles：上
+Th, that's what you think!
+The only pleasure I'll be getting will be 
+from striking you down!
+
+Ray：上
+...!
+
+<AT2>
+選択肢：1
+Just relax
+Endure Temptation
+
+Ninja Girl：上
+Fufu- It seems as if you're trying to resist from
+the bottom of your heart, but your body just won't
+listen to you will it? Teehee-❤
+
+テロップ：中央
+It's not possible to go against temptation
+because of abnormal states!
+
+Ninja Girl：上
+Aha- All your strength literally disappeared.
+As expected, men are so easy-*
+After I give your penis a little tease with my 
+breasts once the medicine gets you aroused like 
+this, it's all over. 
+Warriors, wizards... they're all the same.**
+Ho-ra- I'll send you to heaven by squeezing your 
+penis between my breasts as you lie sprawled 
+out on the ground-❤
+
+Ninja Girl：上
+What do you think? 
+It feels absolutely amazing doesn't it?*
+The medicine increases people's sensitivity, 
+so practically everyone ends up feeling so 
+good they start to go funny-
+Ara ara- You can't even suppress your moans.
+"Aaaa, aaah", Your girly moans are adorable-❤*
+I'll increase the pressure of my breasts a bit
+so when I move them up and down, you'll ascend
+to heaven right away-
+But please, go ahead and enjoy the sensations of 
+my slippery boobs before you die-
+
+Ninja Girl：上
+Teehee♪ All your strength and resistance 
+disappeared. So, you really want to ascend 
+to heaven that badly?
+Ok then- Hora- I'll take you to heaven.
+Just place your hips on my knees and... Ei-❤
+
+Ninja Girl：上
+Well? How does it feel to have your sensitive 
+penis wrapped between my boobs in submission
+to your enemy?❤
+Just touching them feels absolutely amazing 
+doesn't it? *
+Ara ara- There's even some drool on your melted 
+face-❤ It feels so good, you might already be 
+starting to go strange-
+Hora hora! When I move my breasts like this,
+it's like having sex right?*
+I'll dye your consciousness with pleasure by 
+stroking your defenseless penis with my soft 
+breasts-❤
+Ufufufu-
+Your moans get even louder with every pinch of 
+my breasts around your penis♪
+The word "disgraceful" means nothing to you-
+Ahhn ahnnn-❤ Ahnnn ahnn-❤ You're getting a 
+paizuri sitting on a succubus' lap without even 
+worrying about your companions seeing you-❤
+Hora- Ejaculate, just like this-
+Let all your companions hear the pathetic moans
+of your betrayal. Teehee♪
+
+Ninja Girl：上
+Aha- So you do want to cum while being stroked 
+by my leg.*
+Very well, I'll kill you blissfully with my 
+honed assassination techniques.*
+And I won't just rub your penis back and forth 
+with my thigh. Hora- I'll also squish your 
+face between my breasts like this...
+You love it don't you? My thigh stroking your 
+penis while I squeeze your face with my 
+aphrodisiac covered breasts...❤
+
+Ninja Girl：上
+Ufufu- Your body twitched♪
+You're doing very well, that means it feels good.*
+It already felt unbearably pleasurable with your 
+now sensitive penis stimulated by the grinding of my
+thigh, but having my boobs too make it overkill-
+Hellish pleasure, and heavenly softness-❤
+If both are tasted at the same time, 
+Any man will give into me at once-
+And you're no different are you?
+After all, your body hasn't been able to stop
+itself from twitching and trembling for some time-
+
+Ninja Girl：上
+It's okay though- That's just what men do.
+No one can blame you-*
+Hora- 
+I'll intensify the movements of my legs-*
+Feel free to moan into my chest as much as you 
+like. No one will hear you with your face buried 
+between my breasts.
+Aha- The moment I said that, you started 
+struggling. Your waist is twitching too.
+You can't resist anymore can you?
+Then cum- 
+Cum as you submit to the allure of a woman-
+Footsoldier-❤
+
+Ninja Girl：上
+What a good boy-
+So ready to relax and receive pleasure-❤
+Very good- I'll be sure to take my time with you.
+
+Ninja Girl：上
+When I push my breasts against your body and move
+up and down... Ufufu- Your penis ends up
+slipping in and out of my cleavage-
+Your penis slipping in and out of my slippery 
+boobs... In, out♪ In, out♪
+(Giggle)
+How is it? When I feast on your sensitive penis 
+with my slippery breasts, your mind goes 
+completely blank doesn't it?
+There's no way this wouldn't feel good though, 
+it's only natural when a man's weak point is wrapped 
+between a woman's most dangerous weapons after all-
+Hora- Disgracefully spew out all your semen with
+that pathetic expression of yours-
+
+Ninja Girl：上
+Aha- All your creamy semen splurted out in my
+cleavage. It's so helpful when you give in to
+temptation for me-
+Your life force was so delicious too-
+Sweet dreams. Teehee♪
+
+Ninja Girl：上
+Ahuhuhu- Spewing your semen while moaning loudly,
+it looks like you felt really good.
+My breasts are even more slippery now-
+Hora- There are others who want to die a blissful 
+death by submitting to my breasts right? It's all 
+fine by me. I'm always ready for action- Teehee♪
+
+Ninja Girl：上
+Ahn-❤ So hot...❤
+There's so much creamy semen on my knees-*
+I couldn't hear your moans, but the pose you made
+with your face between the breasts of your enemy
+was the funniest thing I've seen in a long time-
+The companions who saw you must be ashamed of you 
+now huh?❤ Teehee-❤
+
+Ninja Girl：上
+Aha-❤ Cum- Cum!❤
+The moment I stroked you between my slippery boobs
+you surrendered in the blink of an eye-❤
+Teehee-❤ It makes my job a lot easier when
+men kill themselves for me-*
+Others should surrender to my breasts as well.
+I'll show you heaven-❤
+
+<AT5>
+Ninja Girl：上
+Ugh...
+
+Drain Imp：上
+Ow, oh no...
+
+Drain Imp：上
+Muugh...
+
+Croix：上
+Ugh, this won't do-
+
+Mileena：上
+Strong, as expected...
+But...
+
+Luminara：上
+\vo[r56]Eheheh- It's no use!
+Healing Squad, ready your arts!
+
+Boobie Healer：上
+Understood. Commencing healing!
+
+Luminara：上
+\vo[r57]Kyahaha-❤ Did you think you had us? Too bad♪
+As long as I have my recovery force, all your
+efforts are useless-
+\vo[r58]I have lots of replacements, 
+so our magic will never run out-
+In other words, you're all screwed-❤
+
+<AT3>
+Drain Imp：上
+Kuhu- Because you gave me your creamy semen,
+I was able to suck up lots of levels-❤
+Now I want to get even stronger-❤
+
+<AT4>
+Drain Imp：上
+Kyah-❤ So much semen came out-❤**
+I'm so happy you gave me all this power-❤
+Thanks big brother! Mwah-❤
+
+<AT20>
+Croix：上
+Kuhu- That was a big amount-❤
+Your dissolved energy was delicious-❤
+
+<AT9>
+テロップ：中央
+A succubus on the cliff called out to you!
+
+Boobie Healer：上
+Aaahn-❤ Look over here-❤
+Why run away when you can feel good staring at
+our boobs?
+
+Boobie Healer：上
+Hora- So many boobs-❤
+It's a spectacular view when they're all lined up
+like this isn't it?❤
+
+Boobie Healer：上
+Come on- Let's shake our boobs everyone-
+Watch our bouncy boobs sway back and forth♪
+
+選択肢：1
+Stare intently
+Look away
+
+Boobie Healer：上
+Ahaha-❤ They're staring at us-❤
+
+Boobie Healer：上
+All those useless thoughts have already flown 
+out from your head haven't they?ー❤
+You can't think of anything but our boobs-❤
+Uwaah-❤ Hora- [Sexy Pose]-❤
+
+テロップ：中央
+The succubus loosely bend their bodies back and
+forth, swaying their breasts from left to right!
+
+Boobie Healer：上
+Ufufu♪
+Become enthralled by our boobs...❤
+
+Boobie Healer：上
+Just stay right there, and you can look
+as much as you like...❤
+
+Boobie Healer：上
+We'll make you cum blissfully with our
+boobie dance-❤
+
+Boobie Healer：上
+Tch, how cruel-❤
+
+Boobie Healer：上
+Ahh, if only all men were honest with their desires-❤
+
+<AT10>
+Ray：上
+Ooogh...❤
+
+Miles：上
+Damnit, I can't be doing this but...❤
+Aaaaoogh, I can't resist...❤❤
+
+Lyon：上
+Oogh, this is bad, my will must be strong...
+But...❤
+
+Mizuhide：上
+Aaugh, I mustn't be doing this...❤
+Uoogh...❤
+
+アクティブ：上
+Ohohoho....❤ boobs...❤
+
+Boobie Healer：上
+Aha-❤
+You actually started masturbating-❤
+
+Boobie Healer：上
+It's already too late to worry about running away
+now-❤ Masturbating to our boobs is much more
+important-❤
+
+Boobie Healer：上
+Obedient boys get to use our three pairs of 
+boobs as fap material-
+
+Boobie Healer：上
+Go ahead, stroke-
+Ho-ra- Bounce bounce bounce-
+Boing boing boing♪
+
+アクティブ：上
+Aaaaooh...❤ So beautiful...❤
+
+Boobie Healer：上
+Would you like us to sway our bodies even more?-
+Stare- Stare...❤
+
+Boobie Healer：上
+Kyaha-❤ You were stroking so fast, 
+you ended up ejaculating right away-❤
+
+Boobie Healer：上
+Look at his face-
+His melted expression looks so happy-❤
+
+Boobie Healer：上
+Are there others who'd like to masturbate
+to our boobs?*
+You're going to lose anyway. There's no point in
+resisting. Why not be honest with that itch around
+your waist? Ufufu-❤
+
+<AT14>
+Ray：上
+Ooogh...❤
+
+Miles：上
+Damnit, I can't be doing this but...❤
+Aaaaoogh, I can't resist...❤❤
+
+Lyon：上
+Oogh, this is bad, my will must be strong...
+But...❤
+
+Mizuhide：上
+Aaugh, I mustn't be doing this...❤
+Uoogh...❤
+
+アクティブ：上
+Ohohoho....❤ boobs...❤
+
+Boobie Healer：上
+Aha-❤
+They ended up masturbating again-❤
+
+Boobie Healer：上
+It's already too late to worry about running away
+now-❤ You're going to end up totally annihilated,
+fawning all over our boobs just like this-❤
+
+Boobie Healer：上
+Obedient boys get to use our three 
+pairs of boobs as fap material-
+
+Boobie Healer：上
+Go ahead, stroke-
+Ho-ra- Bounce bounce bounce-
+Boing boing boing♪
+
+アクティブ：上
+Ahiee-❤ This is too much...!❤
+Ooooh...❤❤
+
+Boobie Healer：上
+Hora- Watch us push our boobs forward and,
+Jiggle jiggle♪ Bounce bounce♪
+Stare, stare-❤
+
+Boobie Healer：上
+Aha-❤
+This person ended up jerking off to our boobs
+and cumming just as fast as the other person-❤
+
+Boobie Healer：上
+Everyone has a big boobie fetish- Just look at
+his face- Masturbating while moaning about our
+boobs-❤ Looks like he's feeling really good-❤
+
+Boobie Healer：上
+Would anyone else like to end up masturbating
+to our boobs?*
+You're going to lose anyway. There's no point in
+resisting. Stare and stroke to our boobs-❤
+It'll feel really good you know? Ufufu-❤
+
+<AT17>
+Ray：上
+Ooogh...❤
+
+Miles：上
+Damnit, I can't be doing this but...❤
+Aaaaoogh, I can't resist...❤❤
+
+Lyon：上
+Oogh, this is bad, my will must be strong...
+But...❤
+
+Mizuhide：上
+Aaugh, I mustn't be doing this...❤
+Uoogh...❤
+
+アクティブ：上
+Ohohoho....❤ boobs...❤
+
+Boobie Healer：上
+Aha-❤
+Another customer has arrived-❤
+
+Boobie Healer：上
+It's OK, watch our boobs as much as you likeー❤
+Stop this meaningless retreat and ejaculate
+blissfully with our breasts-❤ Teehee-❤
+
+Boobie Healer：上
+Obedient boys get to use our three 
+pairs of boobs as fap material-
+
+Boobie Healer：上
+Ho-ra- Bounce bounce♪ Squeezee-❤
+
+アクティブ：上
+Oowaah...❤ Those breasts...❤
+Oooh...❤❤
+
+Boobie Healer：上
+Watch us squeeze our boobs together and,
+Jiggle jiggle♪ Boing- Boing♪
+Stare, stare-❤
+
+Boobie Healer：上
+Aha-❤
+This person ended up jerking off to our boobs
+and cumming just as fast as the other person-❤
+
+Boobie Healer：上
+Everyone has a big boobie fetish- Just look at
+his face- Masturbating while moaning about our
+boobs-❤ Looks like he's felt really good-❤
+
+Boobie Healer：上
+Would anyone else like to end up masturbating
+to our boobs?*
+You're going to lose anyway. There's no point in
+resisting. Stare and stroke to our boobs-❤
+It'll feel really good you know? Ufufu-❤
+
+<AT11>
+Sniper：上
+Tch, close quarters was never my greatest strength-**
+Alright, I give up. Do as you please.**
+...as if! Kuhu-❤
+
+Sniper：上
+Ufufu-❤ How do you like my hypnotic gaze?**
+When you stare into my eyes, your body becomes 
+hot, and you can't think of anything but cumming,
+isn't that right?
+It's okay, follow those desires.
+Thrust out your hips and beg for it.*
+I'll give you a blissful death stroking and
+teasing your cock with my special gloves-❤
+
+選択肢：1
+Let your desires think for you
+Resist desperately
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+Let your desires think for you
+
+Sniper：上
+Impossible! To be able to resist my hypnotic
+eyes is...! Kyah!
+
+Sniper：上
+(Giggle) You actually begged. Do you really want 
+me to stroke your penis that badly?
+Alright, here I go. Hora...❤
+
+Sniper：上
+Just a little rub, and you're already moaning
+like a sheep-*
+My textured gloves are nice right?
+I'll let you experience it more-
+
+Sniper：上
+Fufu- You're moaning so loudly-❤**
+My hypnotic eyes have made you so aroused that
+you're moaning even louder than a normal girl-
+It feels amazing, I know-
+But, you won't ejaculate with just this will you?
+I'm only teasing the tip after all-*
+The pleasure must be so irritating huh?❤
+Teehee-❤
+
+Sniper：上
+Ara ara- "Please let me cum!"?
+That was quite a loud shout-*
+I'm only just teasing the tip, but I'm not
+going to stop- Squeeze, tweak, pinch♪
+
+Sniper：上
+Teehee♪
+The way your hips twitch up and down is funny.*
+Even though you were winning moments ago, you 
+end up like this the moment I catch your penis. 
+Men are really weak aren't they?
+Well, I should deal with the others soon
+so... Fine- I'll let you cum-*
+I'll stroke not only the tip, but the whole length
+of your penis with my textured gloves-*
+Hora- All those irritating sexual desires,
+let it all explode into my hands-
+Cum-❤ Cum-❤ Cum-❤
+
+Sniper：上
+Fufu♪ Just like a water fountain.
+That was an amazingly powerful ejaculation-*
+Even with reinforcements, it's clear none of you 
+can defeat a succubus, so you'd never win-
+Now you're just flesh and bones- Teehee...
+
+<AT22>
+Sniper：上
+Urgh, this should have been an easy victory, 
+but because of those extra reinforcements...*
+Huugh... Either way, I've already lost.
+I may as well try and seduce you with this then.
+Hora- 
+
+Sniper：上
+Look at me.
+I've taken off all my clothes, my pussy...
+my breasts... everything is exposed.
+I dress rather tightly, so it's as if my body 
+suddenly got bigger- Now you really
+see how lascivious my body is...
+Ara, even though this is such sloppy seduction,
+you really seem to be into it huh?-
+It's like your eyes are being drawn to me.
+So- What will you do?
+If you want to hug me...
+I won't stop you-
+Maybe suck on my breasts?
+Or maybe... you'd like me to step on you 
+with my bare feet?
+They've been in my stuffy boots, so I bet 
+[they'd smell really good]. Kuhu-❤
+
+選択肢：1
+I want her feet to step on my penis…
+No! I must resist!
+I want to suck on her breasts…
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+I want her feet to step on my penis…
+I want to suck on her breasts…
+
+Sniper：上
+Ugh! willpower, while still being aroused!?
+Kyah!
+
+Sniper：上
+So, you want to suck on my breasts.
+Teehee-❤*
+Losing to your lust at the decisive battle,
+as one would expect from a lowly human-*
+But, I can't be helped.
+When you see such beautiful breasts as these,
+it's only natural to want to suck on them.
+Hora- Watch them sway in front of your face-❤
+
+Sniper：上
+Teehee-
+That's it, breathe in my scent-❤*
+Don't resist, lick- You can even suck on 
+them like a baby, I don't mind-
+
+Sniper：上
+Ahnn-❤ You started licking- How is the taste of 
+a succubus' breasts? You're lapping it all up 
+like an entranced dog- (Giggle)
+I would like to take it slow,
+but there are others around, so I'm afraid
+you may not have much time-
+I'll make you cum right now
+with my hand around your penis...*
+Ok, I'm going to start stroking okay?-
+You just continue playing with my breasts-
+
+Sniper：上
+Hmm?-
+"I can't hold it in anymore"?*
+Well, I am trying to make you cum by stroking 
+your penis, so it's only natural-❤*
+Did you honestly think you could resist as you
+defenselessly suck on my breasts while I stroke 
+your penis?
+I've coerced many men with these hands,
+and now I'll send you to heaven too-❤
+
+Sniper：上
+There we go. You're done-❤
+It was easy to make you go pew pew huh-*
+Anti climatic, but an adorable end nonetheless-
+Mr. Boobie fetishist-❤
+
+Sniper：上
+So you want me to step on you 
+with my stuffy sweaty feet?
+Ufufu- Oh you pervert-❤
+Very well then. First, I'll step on your face.
+Lie down over here.
+
+Sniper：上
+Aha-❤
+Just stepping on your face makes your
+expression melt away.
+Does my sweat really smell that nice?
+Pervert-❤*
+Well the sweat of a succubus has an aphrodisiac
+effect, so I suppose it's only natural.*
+It's a powerful smell, but it's so nice
+it's dying your mind pink right? 
+Teehee-❤
+
+Sniper：上
+And now, the moment you've been waiting for.
+I'll step on your penis.*
+While stepping on your face with one foot,
+I'll use the other to trample down on your penis.*
+Fufu- And since you're lying flat on the ground,
+stepping on you is easy-*
+It's like your a welcome mat-
+Hora- I'll grind my feet against you just like
+wiping my feet on a mat.
+
+Sniper：上
+Fufu- Even though you're being treated like an 
+object, you're so happy-❤ How adorable.
+You have the true makings of a succubus slave-
+If I could, I'd bring you back home with me.
+But this isn't the time, so I'll have to
+squeeze you dry. What a shame.
+But, for someone like you, maybe you're 
+happier being squeezed anyway?
+Teehee-❤
+
+Sniper：上
+Aha-❤ I got semen on the sole of my foot-❤
+And you fainted with such happy expression too-❤*
+A masochist born with a foot fetish could
+never defeat me- (Giggle)
+Truly a shame-
+
+<AT1>
+Sniper：上
+Ugh, how did I get cornered again...**
+Huugh... Either way, I've already lost.
+I may as well try and seduce you with this then.
+Hora- 
+
+Sniper：上
+Look at me.
+I've taken off all my clothes, my pussy...
+my breasts... everything is exposed.
+I dress rather tightly, so it's as if my body 
+suddenly got bigger- Now you really
+see how lascivious my body is...
+Ara, even though this is such sloppy seduction,
+you really seem to be into it huh?-
+It's like your eyes are being drawn to me.
+So- What will you do?
+If you want to hug me...
+I won't stop you-
+Maybe suck on my breasts?
+Or maybe... you'd like me to step on you 
+with my bare feet?
+They've been in my stuffy boots, so I bet 
+[they'd smell really good]. Kuhu-❤
+
+選択肢：1
+I want her feet to step on my penis…
+No! I must resist!
+I want to suck on her breasts…
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+I want her feet to step on my penis…
+I want to suck on her breasts…
+
+Sniper：上
+Ugh! willpower, while still being aroused!?
+Kyah!
+
+Sniper：上
+So, you want to suck on my breasts.
+Teehee-❤*
+Losing to your lust at the decisive battle,
+as one would expect from a lowly human-*
+But, I can't be helped.
+When you see such beautiful breasts as these,
+it's only natural to want to suck on them.
+Hora- Watch them sway in front of your face-❤
+
+Sniper：上
+Teehee-
+That's it, breathe in my scent-❤*
+Don't resist, lick- You can even suck on 
+them like a baby, I don't mind-
+
+Sniper：上
+Ahnn-❤ You started licking- How is the taste of 
+a succubus' breasts? You're lapping it all up 
+like an entranced dog- (Giggle)
+I would like to take it slow,
+but there are others around, so I'm afraid
+you may not have much time-
+I'll make you cum right now
+with my hand around your penis...*
+Ok, I'm going to start stroking okay?-
+You just continue playing with my breasts-
+
+Sniper：上
+Hmm?-
+"I can't hold it in anymore"?*
+Well, I am trying to make you cum by stroking 
+your penis, so it's only natural-❤*
+Did you honestly think you could resist as you
+defenselessly suck on my breasts while I stroke 
+your penis?
+I've coerced many men with these hands,
+and now I'll send you to heaven too-❤
+
+Sniper：上
+There we go. You're done-❤
+It was easy to make you go pew pew huh-*
+Anti climatic, but an adorable end nonetheless-
+Mr. Boobie fetishist-❤
+
+Sniper：上
+So you want me to step on you 
+with my stuffy sweaty feet?
+Ufufu- Oh you pervert-❤
+Very well then. First, I'll step on your face.
+Lie down over here.
+
+Sniper：上
+Aha-❤
+Just stepping on your face makes your
+expression melt away.
+Does my sweat really smell that nice?
+Pervert-❤*
+Well the sweat of a succubus has an aphrodisiac
+effect, so I suppose it's only natural.*
+It's a powerful smell, but it's so nice
+it's dying your mind pink right? 
+Teehee-❤
+
+Sniper：上
+And now, the moment you've been waiting for.
+I'll step on your penis.*
+While stepping on your face with one foot,
+I'll use the other to trample down on your penis.*
+Fufu- And since you're lying flat on the ground,
+stepping on you is easy-*
+It's like you're a welcome mat-
+Hora- I'll grind my feet against you just like
+wiping my feet on a mat.
+
+Sniper：上
+Fufu- Even though you're being treated like an 
+object, you're so happy-❤ How adorable.
+You have the true makings of a succubus slave-
+If I could, I'd bring you back home with me.
+But this isn't the time, so I'll have to
+squeeze you dry. What a shame.
+But, for someone like you, maybe you're 
+happier being squeezed anyway?
+Teehee-❤
+
+Sniper：上
+Aha-❤ I got semen on the sole of my foot-❤
+And you fainted with such happy expression too-❤*
+A masochist born with a foot fetish could
+never defeat me- (Giggle)
+Truly a shame-
+
+<AT23>
+Ninja Girl：上
+Oogh,
+I should have expected this from the so called
+order of knights...
+This is an impossible situation. I give up.
+Hora- Both my hands are raised. 
+See? I'm defenseless.
+Assassins are not mindless brutes.
+We will surrender if we know we can't win.*
+Eh? "Why is your body swaying from side to side?"
+Fufu- I'm only emphasising that I have nothing left.*
+Hora- Why don't you take a closer look?
+I don't have anything at all...
+
+選択肢：1
+Observe her carefully
+Jump right in for the kill
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+Observe her carefully
+
+Ninja Girl：上
+Ugh, I only had to hypnotize 
+you just a little more...
+
+Ninja Girl：上
+That's it. Good boy-
+Stare at the swaying movements of my body.*
+Let your eyes follow the sway of my body,
+back and forth... Back and forth...
+Let your mind wander-
+Very good, notice how you feel.
+No thoughts, only my body.*
+In fact, it feels good- When your mind is blank,
+you feel better and better. So relaxed...
+So warm and fluffy...
+
+Ninja Girl：上
+Aha-❤ It seems the hypnosis was quite effective-
+You're already starting to feel pleasure, and
+I haven't even touched you yet.
+Hey- See my chest?
+Watch the slow, bounce of my huge breasts
+as they match the sway of my body...
+Bounce bounce... Boing boing...
+It's as if they're absorbing your gaze.
+Sway sway... Jiggle jiggle...❤
+With every sway of my breasts,
+jolts of pleasure cascade through your mind.
+Watch my left breast bounce... Boing-❤
+
+Ninja Girl：上
+Fufu- Now watch my right breast- Boing-❤
+
+Ninja Girl：上
+The pleasure is slowly getting stronger-
+My breasts are making you feel so good-*
+You aren't in control of your body anymore-
+When you hear my words, 
+your mind obeys on it's own-
+The pleasure of my breasts running through you,
+becoming mindless and love struck...*
+(Giggle) Hora- It's over-
+Now, I'll sway my huge breasts left and right 
+in a wide arc like this...
+
+Ninja Girl：上
+(Giggle)
+You came just from looking at an enemy's boobs-
+What a silly boy-❤
+The technique was designed in case our units 
+were caught by our enemies.*
+I only need to sway my body for my Titty Hypnosis 
+to entrance men. It works even if both my
+hands are restrained.
+After all, men pose no threats when I can just 
+hypnotize them with my breasts- Teehee-❤
+
+<AT24>
+Ninja Girl：上
+Tch, at this rate I'm done for...
+Take this!
+
+Ninja Girl：上
+Ugh, parrying my knife at just the right moment...
+I should have expected no less from the esteemed 
+Knights of Order.
+Even when resisting pleasure, your skill is the 
+genuine article. But it's OK to indulge now and 
+again you know-
+I do so hate the messy outcome of a close match.
+So, hora- I'll just take your cock in my hand...
+
+Ninja Girl：上
+Ufufu- Surprised I grabbed you?
+But it feels good, so you don't mind right?-*
+Even though I'm using just one hand, your 
+hips are already beginning to move on their own.
+Hora- Just relax a little with me OK?
+
+Ninja Girl：上
+Aha-❤ Being rubbed feels so good doesn't it?
+I'll stroke you from above your clothing,
+so just let your body go-❤
+
+選択肢：1
+Just relax
+Muster your willpower and attack
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+Just relax
+
+Ninja Girl：上
+Kyah!
+Oogh, men should be honest with their cocks...
+
+Ninja Girl：上
+Oh no- Your strength faded away-
+Even your weapon is starting to waver isn't it?*
+If I were to rub down here and squeeze with my
+two slender fingers like this...
+
+Ninja Girl：上
+Uh oh- Did your weapon fall out from your hand?
+Are you OK?*
+Ufufu- Are you even listening?
+With such a melted expression as that, your mind 
+is already filled with pleasure isn't it?
+You were so close to winning before,
+but you gave in to the tips of my fingers at the 
+very last moment-❤
+
+Ninja Girl：上
+Looks like it feels good-❤ I guess all that 
+tension between us has vanished huh? Even your 
+body is obedient to pleasure-
+Did you relax your guard, thinking there was no
+way I could beat you in close combat?*
+And yet the tables quickly turned the moment I 
+started fiddling around with your penis. 
+Teehee-❤ That's adorable-❤
+After all, men cannot win against the pleasure
+of their cocks, a couple of firm strokes and
+their minds become pure white.
+
+Ninja Girl：上
+Hora- You've already fallen for me-
+You look quite slutty with that half open mouth 
+don't you?
+You're gonna cum pathetically already aren't you?
+Being so out of strength, you're going to cum just 
+from having my fingers wrapped around your penis right?
+What are you going to do? Are you going to
+endure it? If you hold it in, your other 
+companions might be able to rescue you.
+Hmm? "I'm not defeated yet"? I see-
+Is that what you think someone would say in
+your situation?-
+We all know you don't really care- Hora- Cum-❤
+I'll stroke and rub your penis with all my might,
+so cum quickly and easily-❤
+Huh? What was that?- I can't hear you-
+I've been stroking you with my hand for awhile 
+now, it's too late to stop now-
+
+Ninja Girl：上
+You should've known that fighting doesn't 
+increase the amount of time you can endure-
+Teehee-❤
+The creamy semen you squirted on my fingers is
+delicious- Thanks to your silly carelessness, I
+feel my strength returning to me- Thanks a lot-❤
+
+<AT25>
+Drain Imp：上
+Oogh...you're pretty strong...**
+Doesn't it feel good when I drain you...?**
+Up until now, all the men I've sucked power from
+ended up entranced in ecstasy.
+But you're not like them...
+I give up already.
+Hora- I'll spread my legs apart, 
+this is my giving up pose-❤
+Please look-❤ Look at my lewd, sexy crotch.
+Look at the pulse of my beautiful pink folds.*
+Don't you want to have your penis
+spluuuuruped-----❤ ...right here?*
+Ufufu- You're really staring aren't you? 
+So cute... Hora- I'll come closer so just stay
+still, I'll put you inside my pussy OK...?❤
+
+選択肢：1
+I can't move…
+Muster your willpower and attack
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+I can't move…
+
+Drain Imp：上
+Ooogh...
+So you weren't interested in my pussy...?
+That's a shame...
+
+Drain Imp：上
+(Giggle) What a good boy-❤**
+Since you're standing up, our bodies are so
+close to each other already...*
+Hora- I'll jump onto your body big brother-
+I'll wrap my feet around you, and plunge
+your penis into my pussy-❤ Eei-❤
+
+Drain Imp：上
+Iyah- What an amazing voice -❤
+Does my crotch really feel that good?*
+My pussy is really tight because my body is so 
+small- Once you experience a pussy this tight, 
+adult pussies will never satisfy you again-
+
+Drain Imp：上
+Ahnn- Even if it feels too good, don't struggle-
+Even if you try to pull out, I won't let you cum-
+I'll squeeze- my legs around you even tighter-❤
+
+Drain Imp：上
+I'll take your penis into the deepest parts of
+my pussy-❤ It's heavenly right? Isn't it the best?*
+Let it all out and be defeated by my loli 
+succubus pussy, it's OK- Hora- I'll tighten
+my legs even more-❤ Splurt your creamy energy-❤
+
+Drain Imp：上
+So much delicious energy inside me-❤
+Doesn't it make you happy to be drained by me?
+(Giggle)
+Thanks to big brother's semen,
+I'm all powered up now♪
+I can feel my power rising♪ Ehehe♪
+
+<AT26>
+Drain Imp：上
+Oogh... I'm gonna be defeated...**
+You're so strong aren't you big brother?
+I should have known that, with you being from
+the Knights of Order and all.
+If only I had power like yours, I'd 
+be able to become strong too...*
+Please- Please could you spare me some of your
+strength big brother?*
+Huh? You won't?
+Even if I said it like this? [Pleaaase～]-❤
+
+Drain Imp：上
+Does my voice make your ears melt?
+I infused it with a little bit of my magic-*
+It's a very sca-ry magic that makes men's minds
+go blank and obedient.
+Ufufu-❤
+Hora- One more time-
+[Pleaaase～] big brother-❤
+
+Drain Imp：上
+Can you feel the enchantment growing stronger?
+You mind is melting, and you can't think of
+anything else anymore can you?-
+It's OK to let yourself go blank-
+If you're obedient, I'll step on you lots with
+my feet. 
+How does that sound? A wonderful reward for a 
+perverted big brother like you wouldn't it?
+Hora- The last push-
+Big brother- [Pleaase～❤]
+[I want your energy～❤]
+
+選択肢：1
+Do as she says
+Muster your willpower and attack
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+Do as she says
+
+Drain Imp：上
+Kyah!
+Ooogh, You're so stubborn- 
+Even when I beg for it...
+
+Drain Imp：上
+Aha-❤ So you took out your penis?
+Did you want to be stepped on that much?*
+Ok- the preparations to devote your semen
+to me have been completed-
+Perfect-❤
+I'm so happy you were able to listen to my pleas-
+So, I'll step on you with my feet as promised.
+Eei- Eei-❤
+
+Drain Imp：上
+Teehee-❤ You love being stepped on don't you?
+This penis is so perverted-❤*
+You're just a perverted big brother who likes 
+being stepped on by little girls-❤*
+Huh- Your penis got bigger when I insulted you-
+I'll grind you down with the sole of my foot-❤
+Lolicon masochists like you are beyond saving-❤
+Eh? You want it gentle?
+You're begging to be squeezed while being 
+spoiled by a little girl?
+Fufu- When big brother's mind has gone pink,
+he does things with no sense of decency-*
+This goes beyond being spoiled,
+big brother has fallen head over heels for me-❤
+Now I can squeeze you as lewdly as I like-
+After all, hora- You can't focus on anything else
+around us can you? Your companions are desperately
+fighting, but the only person you can see is me.
+In short, you're completely, totally enthralled-❤
+Once you become like this, you're already my slave-*
+Even that erect penis of yours is happy no matter 
+what sort of stimulation it's mistress gives it-*
+See for yourself, hora- Even if I trample down on it
+as hard as I can, it goes "splurt, splurt",
+happily discharging precum-❤ Teehee-❤
+
+Drain Imp：上
+Ahaha-❤
+Even when I kick your penis around like this,
+it feels amazing doesn't it?
+Pig penis-❤ Pervert penis-❤
+Eei- Eei!-*
+Aahn- You're feeling good again-
+A hopeless pervert who enjoys having his penis
+kicked around by a girl smaller than him-❤
+Shall I kick you as hard as I can to finish?
+It's normally be painful, but since you're so
+enthralled it'll feel so good you'd probably die-
+Are you scared? Don't worry-
+Just listen to your mistress' voice and relax-
+That's it- Relax and let your strength fade...
+Fufu- Your body is completely free of all tension-
+And now, with all my might, oryah!
+
+Drain Imp：上
+Wow, you splurted out all your semen while moaning-
+Fitting final moments for a pervert-❤ Teehee-❤*
+The taste of the strength in your semen is
+incredibly delicious-❤ 
+With this I'll power up instantly-❤
+
+<AT0>
+Drain Imp：上
+Ooogh... I'm about to be defeated again...**
+You're really strong too big brother-
+I should have known that, with you being from
+the Knights of Order and all.
+If only I had power like yours, I'd 
+be able to become strong too...*
+Please- Please could you spare me some of your
+strength big brother?*
+Huh? You won't?
+Even if I said it like this? [Pleaaase～]-❤
+
+Drain Imp：上
+Does my voice make your ears melt?
+I infused it with a little bit of my magic-*
+It's a very sca-ry magic that makes men's minds
+go blank and obedient.
+Ufufu-❤
+Hora- One more time-
+[Pleaaase～] big brother-❤
+
+Drain Imp：上
+Can you feel the enchantment growing stronger?
+You mind is melting, and you can't think of
+anything else anymore can you?-
+It's OK to let yourself go blank-
+If you're obedient, I'll step on you lots with
+my feet. 
+How does that sound? A wonderful reward for a 
+perverted big brother like you wouldn't it?
+Hora- The last push-
+Big brother- [Pleaase～❤]
+[I want your energy～❤]
+
+選択肢：1
+Do as she says
+Muster your willpower and attack
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+Do as she says
+
+Drain Imp：上
+Kyah!
+Ooogh, You're so stubborn- 
+Even when I beg for it...
+
+Drain Imp：上
+Aha-❤ So you took out your penis too big brother?
+Did you want to be stepped on that much?*
+Ok- the preparations to devote your semen
+to me have been completed-
+Perfect-❤
+I'm so happy you were able to listen to my pleas-
+So, I'll step on you with my feet as promised.
+Eei- Eei-❤
+
+Drain Imp：上
+Teehee-❤ You love being stepped on don't you?
+This penis is so perverted-❤*
+You're just a perverted big brother who likes 
+being stepped on by little girls-❤*
+Huh- Your penis got bigger when I insulted you-
+I'll grind you down with the sole of my foot-❤
+Lolicon masochists like you are beyond saving-❤
+Eh? You want it gentle?
+You're begging to be squeezed while being 
+spoiled by a little girl?
+Fufu- When big brother's mind has gone pink,
+he does things with no sense of decency-*
+This goes beyond being spoiled,
+big brother has fallen head over heels for me-❤
+Now I can squeeze you as lewdly as I like-
+After all, hora- You can't focus on anything else
+around us can you? Your companions are desperately
+fighting, but the only person you can see is me.
+In short, you're completely, totally enthralled-❤
+Once you become like this, you're already my slave-*
+Even that erect penis of yours is happy no matter 
+what sort of stimulation it's mistress gives it-*
+See for yourself, hora- Even if I trample down on it
+as hard as I can, it goes "splurt, splurt",
+happily discharging precum-❤ Teehee-❤
+
+Drain Imp：上
+Ahaha-❤
+Even when I kick your penis around like this,
+it feels amazing doesn't it?
+Pig penis-❤ Pervert penis-❤
+Eei- Eei!-*
+Aahn- You're feeling good again-
+A hopeless pervert who enjoys having his penis
+kicked around by a girl smaller than him-❤
+Shall I kick you as hard as I can to finish?
+It's normally be painful, but since you're so
+enthralled it'll feel so good you'd probably die-
+Are you scared? Don't worry-
+Just listen to your mistress' voice and relax-
+That's it- Relax and let your strength fade...
+Fufu- Your body is completely free of all tension-
+And now, with all my might, oryah!
+
+Drain Imp：上
+Wow, you splurted out all your semen while moaning-
+Fitting final moments for a pervert-❤ Teehee-❤*
+The taste of the strength in your semen is
+incredibly delicious-❤ 
+With this I'll power up instantly-❤
+
+<AT27>
+Boobie Healer：上
+Guh, so this is the end...
+The way things are going, I'll perish...*
+And now my useless struggle in my final moments...
+Eei-❤
+
+Boobie Healer：上
+Fufu- You've just been inserted.**
+How does it feel? It's as if your penis is
+melting in the sensations of my breasts isn't it?
+Please, just relax.
+If you do, heaven awaits...❤**
+You want to lower your weapon and submit to my
+breasts- Hora-❤ Hora-❤
+
+選択肢：1
+Relax as her tits pump your penis
+Shake her off and finish her
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+Relax as her tits pump your penis
+
+Boobie Healer：上
+Kyah! Guh, is there no temptation that will 
+seduce you? It hurts that not even my surprise 
+attack affected you...
+
+Boobie Healer：上
+That's it- You only need to be obedient-**
+No man's penis is safe when caught between the 
+soft pull of my breasts-
+Even, if I just hold in my mouth with the 
+pressure of my breasts like this...
+
+Boobie Healer：上
+Ho-ra- It feels so good, it's like you're melting-**
+Many ordinary men have perished between these 
+breasts. Still, I admire their desperate struggle 
+as they eventually reach their limit.
+And I honour their strength of will, by making 
+sure they fall prey to my breasts no matter what-*
+Hora hora hora-❤
+If I move violently up and down as if 
+bouncing them around...
+
+Boobie Healer：上
+Ufufu- Does it feel as if your hips are melting?
+It's impossible for a penis to win the moment 
+I start stroking it between my soft breasts.
+Penises enter their best heaven when buried in the
+sweet pleasure of my breasts after all. Once 
+wrapped up, they go to heaven and never come back.
+Now then- I'll deal the finishing blow by stroking
+it left and right in alternating directions-
+Climax in the ultimate high of happiness-❤
+
+Boobie Healer：上
+Ahann-❤ My cleavage is so hot-❤
+You let out so much semen-*
+Instantly neutralised by my breasts- 
+Ufufu- A truly fitting end for a human male-
+
+<AT28>
+Boobie Healer：上
+Uuugh, aren't you strong...
+I was sure I'd be able to attack safely from 
+above the cliff...
+You don't...dislike my breasts do you?
+Maybe you prefer a loli imp's instead?*
+Huh? "I'd never be seduced by some lumps of fat"?
+Wow, that's really mean...*
+Even if you prefered underdeveloped woman,
+I'm sure I can change those sense of beliefs if you
+surrender your body to these breasts just once-
+The moment my soft flesh wraps around your penis,
+your muscles will become limp and flaccid, as they
+surrender to the highest pleasure imaginable-
+You could reject it with pure willpower alone but,
+if you entrust your whole body to me, it'll be
+like pleasure you've never felt before-
+Open up your heart- Won't you taste the raw 
+pleasure a succubus can give you? I'll convert
+you into a true breast fetishist like no other-❤
+You'll never want to avoid a paizuri ever again-
+Eei-❤
+
+選択肢：1
+Willingly accept her paizuri
+Shake her off and finish her
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+Willingly accept her paizuri
+
+Boobie Healer：上
+Aaugh!
+If only we weren't fighting...
+
+Boobie Healer：上
+Ufufu- You're thinking of tasting it aren't you?
+This is your only chance, so I'll slip it in now-❤
+
+Boobie Healer：上
+Ara ara- Your melted expression is amazing-❤
+You ended up surrendering to my breasts 
+faster than expected.
+With every rubbing motion, moaning "Aahn aahn-❤",
+you've completely fallen in love with these
+"lumps of fat" haven't you?❤
+How is it? Casting your reasoning away and
+indulging in a succubus is the best isn't it?*
+Your penis is already in heaven with the sensations
+of my breasts-❤*
+What about when I knead my plump breasts with both 
+hands like this? Your waist just melts, doesn't it?
+
+Boobie Healer：上
+Is that so?- Tell me more-
+Doesn't it feel good? Ufufu-❤*
+Hora hora- I'll tease you from both sides now.
+While covering your penis with my left breast,
+I'll slide it up and down with my right-
+These kinds of things can't be endured can they-
+Just let the stormy sea of pleasure wash you away-*
+Show me what you look like when you squirt-
+Please, relax and ejaculate.
+Hora hora-❤
+Entrust yourself to the pleasure from my breasts
+and live your final moments in pure pleasure-❤
+
+Boobie Healer：上
+Aha- You went "splurt- splurt-❤" 
+all inside my cleavage-❤*
+You thought you had cornered me, but in the end,
+no man can win against the power of our breasts-
+Ufufu-❤
+
+<AT29>
+Luminara：上
+\vo[r59]That hurt...
+Uugh, cornered despite our preparations...*
+\vo[r60]If it has come to this, I need to get desperate!
+Eei! Mwah-❤ Mwah-❤ Mwah-❤
+
+アクティブ：上
+Aaoogh...❤
+
+Luminara：上
+\vo[r61]Huh? Was that a direct hit?
+Teehee-❤ You should never underestimate me-❤*
+\vo[r62]In the end, it turns out the lucky one is
+me after all- Even if it's just from the off
+hit, a win is a win.
+\vo[r63]Now, you are my infatuated slave.
+Kneel before me.*
+\vo[r64]I'll etch the your proof of submission
+onto your forehead with my lips-❤
+
+選択肢：1
+I can't disobey her…
+Muster your willpower to defy her
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+I can't disobey her…
+
+Luminara：上
+\vo[r65]Tch, so you still have some reasoning left?
+How annoying.*
+\vo[r66]But, you're already wavering aren't you?
+My spell hasn't completely dissipated-❤*
+\vo[r67]If so, I'll ensure you don't defy me any longer.
+Hora- Turn your chin towards me...*
+\vo[r68]I'll kiss you directly on the lips-❤
+Mm-wah-❤
+
+Luminara：上
+\vo[r69]Ufufu- How is it?
+The world seems different now doesn't it?*
+\vo[r70]With this, you're already finished-
+You are my slave-❤*
+\vo[r71]Hm? You want to cum?
+Did my kiss feel so good that you're going to cum?*
+\vo[r72](Giggle) Go ahead, cum- For the final blow, 
+I'll give you another plump kiss-
+Mmmmm--
+
+選択肢：1
+Do nothing to dodge her kiss
+Ignore her abilities and strike
+
+Luminara：上
+\vo[r73]Kyah!!
+Impossible!? It shouldn't be possible to fight
+in that state...
+\vo[r74]Oogh, even I have to admit-
+This is my loss... Uoogh...
+
+Luminara：上
+\vo[r75]Aha-❤ You look weird covered in lipstick-❤**
+\vo[r76]Even with strong willpower, it seems no 
+man can win against the pleasure of my lips-
+Teehee-❤
+
+Luminara：上
+\vo[r77]That's it- That will do- Exposing your face 
+waiting for my kiss, what a good boy-❤*
+\vo[r78]Hora- Sink into my never ending dream-❤
+Mmmwah-❤
+
+アクティブ：上
+Aah ahieee...❤**
+Mistress Luminara...❤
+
+Luminara：上
+\vo[r79]Ufufu- With this you are my devoted lap dog-
+Do your very best OK?
+
+Luminara：上
+\vo[r80]Healers- Restore this kid for a bit-
+Yes, he's one of us now-
+
+Luminara：上
+\vo[r81]You should be able to fight at full strength
+now don't you think? Teehee-❤
+
+<AT40>
+Luminara：上
+\vo[r82]That hurt...
+Uugh, I'm in a pinch yet again...*
+\vo[s]Hey- Don't you want to cum being kissed by me too?
+With these plush lips... Your mind will melt away-
+\vo[r84]You saw that moaning kid from earlier right?
+Wouldn't you like to be like that?
+\vo[r85]Aha- You're staring at my lips. Gotcha-❤
+Mmwah-❤ Mwah-❤ Mwah-❤
+
+アクティブ：上
+Ahaaah...❤
+
+Luminara：上
+\vo[r86]Oh oh oh? Did I land a direct hit?
+In the end, you're starting at me like a deer in 
+headlights- You should never underestimate me-❤
+\vo[r87]Now, you are my infatuated slave.
+Kneel before me.*
+\vo[r88]I'll etch the your proof of submission
+onto your forehead with my lips-❤
+
+選択肢：1
+I can't disobey her…
+Muster your willpower to defy her
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+I can't disobey her…
+
+Luminara：上
+\vo[r65]Tch, so you still have some reasoning left?
+How annoying.*
+\vo[r66]But, you're already wavering aren't you?
+My spell hasn't completely dissipated-❤*
+\vo[r67]If so, I'll ensure you don't defy me any longer.
+Hora- Turn your chin towards me...*
+\vo[r68]I'll kiss you directly on the lips-❤
+Mm-wah-❤
+
+Luminara：上
+\vo[r69]Ufufu- How is it?
+The world seems different now doesn't it?*
+\vo[r70]With this, you're already finished-
+You are my slave-❤*
+\vo[r71]Hm? You want to cum?
+Did my kiss feel so good that you're going to cum?*
+\vo[r72](Giggle) Go ahead, cum- For the final blow, 
+I'll give you another plump kiss-
+Mmmmm--
+
+選択肢：1
+Do nothing to dodge her kiss
+Ignore her abilities and strike
+
+Luminara：上
+\vo[r73]Kyah!!
+Impossible!? It shouldn't be possible to fight
+in that state...
+\vo[r74]Oogh, even I have to admit-
+This is my loss... Uoogh...
+
+Luminara：上
+\vo[r75]Aha-❤ You look weird covered in lipstick-❤**
+\vo[r76]Even with strong willpower, it seems no 
+man can win against the pleasure of my lips-
+Teehee-❤
+
+Luminara：上
+\vo[r77]That's it- That will do- Exposing your face 
+waiting for my kiss, what a good boy-❤*
+\vo[r78]Hora- Sink into a never ending dream-❤
+Mmmwah-❤
+
+アクティブ：上
+Aah ahieee...❤**
+Mistress Luminara...❤
+
+Luminara：上
+\vo[r79]Ufufu- With this you are my devoted lap dog-
+Do your very best OK?
+
+Luminara：上
+\vo[r80]Healers- Restore this kid for a bit-
+Yes, he's part of our army now-
+
+Luminara：上
+\vo[r81]You should be able to fight at full strength
+now don't you think? Teehee-❤
+
+<AT30>
+Croix：上
+Ara ara- To have me cornered like this,
+you really are something- It makes me so happy 
+to see how strong you've become-❤
+Huh? What's so funny?
+Ufufu- That's because, you haven't actually
+cornered me at all- Hora!
+
+Croix：上
+I'll teach you what happens to men who resist
+with my [serious] footjob skills-❤
+
+アクティブ：上
+Aah, aaaaaah!=❤
+
+Croix：上
+(Giggle) I only stepped on you a little and 
+you're already writhing around.
+The energy drain starts here-❤
+
+アクティブ：上
+Ahieeee-❤ What is thi..! AAAAaagh!!❤❤
+
+Croix：上
+It feels as if the suction has paralyzed 
+your waist right?*
+Just relax-
+I won't stop draining until you're a 
+dried up husk-❤
+
+選択肢：1
+Let your body relax
+Shake her off somehow
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+Let your body relax
+
+Croix：上
+Kyah!!
+To be able to slip out from my energy drain
+like that...
+
+Croix：上
+Ho-ra- Your body has already lost all its strength.
+You can't even move as much as a finger-*
+It's been one hundred years since a boy has come
+close to defeating me- Ufufu-❤
+
+アクティブ：上
+Ahiee, I, I'm being drained...!❤
+
+Croix：上
+Kuhu- 
+You're really pushing your hips against my feet...*
+How is it? Even being trampled down on as your 
+strength is snatched away feels absolutely
+amazing doesn't it?
+All that vital power, snatched away.
+The pleasure of being drained by me-❤
+Your mind, away with the fairies-
+Just this feels good as it is, but on top of 
+that, when I squeeze my feet together...?
+
+アクティブ：上
+Ahieee! Aahiaagah!❤ Aaaaah!!!
+
+Croix：上
+(Giggle) It's so good, your eyes rolled
+back into your head♪*
+The pleasure is so strong, your mouth is open 
+and you're drooling like a slut-❤*
+Just being rubbed and ground against like this,
+is enough for a boy to feel true happiness.
+Anything that stimulates his penis will do-
+Hora hora- I'll make my draining even stronger
+while using the full weight of my body-❤
+
+アクティブ：上
+Aah, aaoogh...❤❤
+
+Croix：上
+Ufufu- Everything you had stored inside you has 
+been drained. Without your power, you're 
+completely empty-❤
+Muscle, magic...nothing else remains.
+But it felt so, so good didn't it-❤
+Teehee-❤ There is no hope for you humans-❤
+Hora- I'll end your life, sucking 
+everything out of you-❤
+
+Croix：上
+Aha-❤ That was delicious-❤
+I can feel the taste of your thick power
+flowing through me-
+If I were to feast on your companions now,
+I could send them to heaven in an instant...
+Thanks to you, my levels have risen-❤ Teehee-❤
+
+<AT13>
+Croix：上
+Ara ara- To have me cornered like this,
+you really are something- Seeing how strong
+everyone has become makes me happy-❤
+Huh? What's so funny?
+Ufufu- That's because, you haven't actually
+cornered me at all- Hora!
+
+Croix：上
+You saw the other guy from earlier, you know what
+happens when I step on your penis like this
+don't you?
+But, I'm not the same as before. Now that I have 
+more levels, it'll feel even better-*
+I should be able to make you cum even faster-
+Hora- Let me teach you what happens to men who 
+resist with my [serious] footjob skills-❤
+
+アクティブ：上
+Aah, aaaaaah!=❤
+
+Croix：上
+(Giggle) I only stepped on you a little and 
+you're already writhing around.
+The energy drain starts here-❤
+
+アクティブ：上
+Ahieeee-❤ What is thi..! AAAAaagh!!❤❤
+
+Croix：上
+It feels as if the suction has paralyzed 
+your waist right?*
+Just relax-
+I won't stop draining until you're a 
+dried up husk-❤
+
+選択肢：1
+Let your body relax
+Shake her off somehow
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+Let your body relax
+
+Croix：上
+Kyah!!
+To be able to slip out from my energy drain
+like that...
+
+Croix：上
+Ho-ra- Your body has already lost all its strength.
+You can't even move as much as a finger-*
+It's been one hundred years since a boy has come
+close to defeating me- Ufufu-❤
+
+アクティブ：上
+Ahiee, I, I'm being drained...!❤
+
+Croix：上
+Kuhu- 
+You're really pushing your hips against my feet...*
+How is it? Even being trampled down on as your 
+strength is snatched away feels absolutely
+amazing doesn't it?
+All that vital power, snatched away.
+The pleasure of being drained by me-❤
+Your mind, away with the fairies-
+Now that I'm all powered up, it feels 
+even better than the other kid-
+Hey- Don't you think so?
+And yet, on top of all that, when I move
+my feet around and around from behind your
+penis, how does that feel?
+
+アクティブ：上
+Ahieee! Aahiaagah!❤ Aaaaah!!!
+
+Croix：上
+(Giggle) It's so good, your eyes rolled
+back into your head♪*
+The pleasure is so strong, your mouth is open 
+and you're drooling like a slut-❤*
+Just being rubbed and ground against like this,
+is enough for a boy to feel true happiness.
+Anything that stimulates his penis will do-
+Hora hora- I'll make my draining even stronger
+while using the full weight of my body-❤
+
+アクティブ：上
+Aaah, aaaaoogh...❤❤
+
+Croix：上
+Ufufu- Everything you had stored inside you has 
+been drained. Without your power, you're 
+completely empty-❤
+Muscle, magic...nothing else remains.
+But it felt so, so good didn't it-❤
+Teehee-❤ There is no hope for you humans-❤
+Hora- I'll end your life, sucking 
+everything out of you-❤
+
+Croix：上
+Aha-❤ That was delicious-❤
+I can feel the taste of your thick power
+flowing through me-
+If I were to feast on your companions now,
+I could send them to heaven in an instant...
+Thanks to you, my levels have risen-❤ Teehee-❤
+
+<AT31>
+Mileena：上
+\vo[mi195]Ugh, curses...**
+\vo[mi196]But, you're nearing your limit too aren't you?**
+\vo[mi197]Being stroked by my breasts... Having your face 
+Puff-Puffed while getting a handjob...
+Your penis could burst at any moment-❤
+
+Mileena：上
+\vo[mi198]Even if I were to just trace around the tip...
+
+Mileena：上
+\vo[mi199]Teehee-❤
+With your waist going "twitch twitch" like that,
+you could ejaculate any second-
+\vo[mi200]It's OK though, even if you can't win...
+your companions will defeat me-❤
+So, why not call it quits here?
+\vo[mi201]Even if they're down one person, it'll be fine.
+All those stored things in your penis, "pew pew" 
+them all out for me. It'd feel soo good...❤ Right?
+\vo[mi202]It's OK to do lewd stuff once in awhile right?
+
+選択肢：1
+Nod silently
+Ignore her and attack
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+Nod silently
+
+Mileena：上
+\vo[mi203]Kyah!
+Oogh, as expected from the hero's Knights of Order...
+
+Mileena：上
+\vo[mi204]Teehee-❤
+That's right, you want me to make you ejaculate-❤*
+\vo[mi205]It's alright to let the others handle it.
+That's right, it's OK to give in if it's just you.*
+\vo[mi206]Hora- I'm wrapping my fingers around your penis-
+Stroke, stroke.....❤
+
+Mileena：上
+\vo[mi207]You're already going to cum aren't you?
+When you realise it's OK to stop resisting,
+it feels even better doesn't it?
+\vo[mi208]Just a couple of strokes with my fingers
+and your mind will instantly become pure white
+as you end up splurt-ing for me-❤
+
+Mileena：上
+\vo[mi209]Hora- You're already going to cum. Don't fight it-❤
+Feel the semen building up inside your waist
+and splurt it all out at once-❤
+\vo[mi210]I'll make the strokes of my hand even 
+faster okay? Cum blissfully-❤
+
+Mileena：上
+\vo[mi211]Ahnn-❤ Amazing-❤
+You splurted out so much-❤*
+\vo[mi212]Thanks to your energy,
+I can feel my power overflowing.
+Thanks-❤
+\vo[mi213]I was about to be defeated a moment ago, but boys
+are only monkeys- When their penis gets hard, 
+they can't think straight at all- Teehee-❤
+
+<AT42>
+Mileena：上
+\vo[mi214]Ugh, curses...
+I'm in a pinch yet again...*
+\vo[mi215]But, you're nearing your limit too aren't you?**
+\vo[mi216]Being stroked by my breasts... Having your face 
+Puff-Puffed while getting a handjob...
+Your penis could burst at any moment-❤
+
+Mileena：上
+\vo[mi217]Even if I were to just trace around the tip...
+
+Mileena：上
+\vo[mi218]Teehee-❤
+With your waist going "twitch twitch" like that,
+you could ejaculate any second-
+\vo[mi219]You can desperately try to hold yourself together,
+but what will happen to that strength when I 
+start stroking?
+\vo[mi220]Without holding back,
+wrapping yourself in swee-t pleasure...*
+\vo[mi221]Nuzzling against my 
+soft breasts, while gently stroked,
+and splurting out all your semen-❤
+\vo[mi222]It feels good- Shouting 
+how good it feels as you cum blissfully by my hand-❤
+It'd be heaven...❤
+
+アクティブ：上
+Aoouaaah....❤
+
+Mileena：上
+\vo[mi223]Ufufu- Your expression is melting isn't it?❤
+Were you imagining your waist trembling as you 
+surrender to my hands?
+\vo[mi224]That imagination can become a reality-
+You only need to let go of your weapon for a bit-*
+\vo[mi225]If you do, I'll grasp your penis
+in my hands, and stroke it all the way to heaven-❤
+\vo[mi226]It's OK to do sexy things once in awhile right?
+Teehee...♪
+
+選択肢：1
+Nod silently
+Ignore her and attack
+
+テロップ：中央
+You couldn't refuse her due to sexual excitement!
+
+選択肢：1
+Nod silently
+
+Mileena：上
+\vo[mi203]Kyah!
+Oogh, as expected from the hero's Knights of Order...
+
+Mileena：上
+\vo[mi227]Teehee-❤
+That's right, you want me to make you ejaculate-❤*
+\vo[mi228]Even if reinforcements come, you'd have nothing 
+to do with it right? Any boy would turn into a 
+silly monkey when on the brink of ejaculation-❤
+\vo[mi229]If I seduced you by wrapping my fingers around 
+your penis, you wouldn't be able to stop me at all- 
+Hora- Stroke stroke, stroke stroke......❤
+
+Mileena：上
+\vo[mi230]As I stroke your most sensitive place,
+your waist ends up jumping around-❤*
+\vo[mi231]You're already going to cum aren't you?
+When you realise it's OK to stop resisting,
+it feels even better doesn't it?❤
+\vo[mi232]Having your face wrapped in my breasts,
+relaxing your body, mind becoming blank...❤
+You can't think of anything but the pleasure-❤
+
+Mileena：上
+\vo[mi233]Hora- You're already going to cum. Don't fight it-❤
+Feel the semen building up inside your waist
+and splurt it all out at once-❤
+\vo[mi234]I'll speed up a bit and go
+Stroke stroke stroke stroke stroke-❤, OK?
+Cum blissfully-❤
+
+Mileena：上
+\vo[mi235]Ahnn-❤ Amazing-❤
+You splurted out so much-❤*
+Thank you for the delicious semen-❤
+\vo[mi236]Even though I was in a huge pinch, thanks to 
+your energy my strength is back to the max♪*
+\vo[mi237]Despite your skill, you're still a boy who can't 
+resist ejaculating- With my Puff-Puff breast-feeding
+handjob, other kids would give in too-❤ Teehee♪
+
+<AT32>
+Mileena：上
+\vo[mi152]Teehee-❤ You've been completely charmed-**
+\vo[mi153]A thank you for opening your heart to me, I'll 
+plant my [seed] into your mind and take you to my
+dream world. Now you'll be my slave too-❤ Eei-❤
+
+タイトル：中央
+Dream Prison ([Treachery+] when weak point is attacked)
+
+Mileena：上
+\vo[mi154]Kyah! You blocked it...?**
+\vo[mi155]So this is the power of the holy swords...
+Ugh, that's really quite a bother isn't it?
+I won't be able to corrupt any slaves for awhile...
+
+Mileena：上
+\vo[mi156]You can do anything with my lewd illusions
+in the dream world- In the meantime, I'll borrow
+your body-❤
+\vo[mi157]Enjoy your never ending dream-
+Teehee-❤
+
+<AT38>
+Mileena：上
+\vo[mi238]Uugh, I never expected us to be defeated...
+
+Miles：上
+We have you cornered Mileena!
+This is the end for you!
+
+Mileena：上
+\vo[mi239]Nobu! Please, protect me!
+
+Nobus：上
+......❤
+
+Ray：上
+....!
+
+Miles：上
+Step aside Nobus! 
+Come to your senses!
+
+Mileena：上
+\vo[mi240]With your strength,
+the two of us won't lose!
+Stall them for time while I escape!
+
+Nobus：上
+Yess...❤
+Miss Mileena...❤
+
+Miles：上
+Grgh! I forgot how strong he was...
+But it's nothing we can't handle...!*
+Ray!
+Use the holy sword of light!*
+With the holy sword of light's power, we might 
+be able to weaken Mileena's power, just enough 
+to free Nobus from her spell!
+
+Ray：上
+Ooaaagh...!!
+
+Mileena：上
+\vo[mi241]Uwah...
+Oogh, my body has become numb...
+
+Nobus：上
+Uuugh......
+I, I...
+
+Mileena：上
+\vo[mi242]Nobu!
+Don't just stand there!*
+\vo[mi243]Can't you hear your lover's pleas?
+Hora- I'll reward you later, so...*
+\vo[mi244]Kyahh!!
+
+Miles：上
+And stay down!!
+
+Mileena：上
+\vo[mi245]Aough...
+
+テロップ：中央
+With all intermediate succubus defeated,
+We overcame our desperate struggle.*
+Though badly battered, bruised and worn out,
+we were able to somehow continue onwards to
+our target destination.
+
+<AT35>
+テロップ：中央
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as even the hero had his genitals teased by
+the feet of a succubus assassin...
+
+Ninja Girl：上
+Kuhu- Kuhu- Kuhu....
+You're no hero, are you-*
+You're just an erect penis, eagerly pushing
+itself against the grinding sole of my foot-
+
+Ray：上
+Oooogh...❤ Damn it...
+If only we hadn't been ambushed...
+
+Ninja Girl：上
+Ufufu- That's a pathetic excuse you know-**
+As the succubus intelligence force bureau, 
+it's our job to obtain information by making our 
+enemies turn on each other-
+We strike from the cover of darkness.
+You lost the moment you failed the notice us-*
+Hora hora- When I step on you with my foot like 
+this, it feels great doesn't it?
+
+Ray：上
+Aaaogh-❤ St, stop that-❤ Aaah...❤
+
+Ninja Girl：上
+Yeah yeah.
+Talk as much as you like-*
+But with the amount of precum leaking out and 
+those loud squelching noises, trying to convince 
+me by saying "Stop..." is pretty laughable-
+When I step on your penis, you get aroused-
+Just admit it, your body has already 
+surrendered to me. You're a pervert-❤
+
+Ray：上
+Aaah-❤ Aah-❤ Aaaaagh-❤
+If you do it that violently-❤ Aaaaagh!!
+
+Ninja Girl：上
+Nice- All in one shot-❤**
+Perhaps being massaged by the sole of my foot
+felt good after all? Teehee-❤*
+Look around you.
+All your other companions are having their
+semen squeezed by us succubus-
+Some are being drained dry by small imps, and 
+others are masturbating uncontrollably as our 
+healers bounce their breasts in front of them-
+Teehee-❤ It's quite a pathetic sight-❤
+
+Ray：上
+I, I have to help them...
+If I could just... escape...!*
+Aaaaogh...❤ Noo... stop touchin...❤
+
+Ninja Girl：上
+Ufufu- Just a small caress of my toes, and you're
+already moaning- How could you possibly
+help your companions like this?
+When we interrogate our prisoners, we like to use
+the carrot and the stick-
+The footjob from before is my whip. After that 
+comes the carrot-❤ A blissful drain of your semen
+with these breasts of mine-❤
+
+Ray：上
+No, noo-❤ Ahiee, re, release...❤
+
+Ninja Girl：上
+Can't you run away while being rubbed by my hands?
+Well then, you'll end up caught in my breasts 
+won't you?
+Hora...
+I'll give your penis a big hug between my cleavage-❤
+
+Ray：上
+Aahiee....❤❤
+
+Ninja Girl：上
+Aha-❤
+The moment you got caught, your expression melted-❤*
+Men are so simple aren't they?
+Squeezing their penis with breasts after grinding
+them with feet causes them to lose instantly-❤
+Even it it's a paizuri from an evil woman,
+their body accepts it unconditionally-*
+Hora- Even you're willingly rubbing your penis 
+against me- Your hips just can't resist the soft
+pull of my pleasurable paizuri can they?
+Now I'll just dribble some aphrodisiac from above...
+There, now I'll send you to heaven with my
+aphrodisiac lotioned paizuri-❤
+
+Ninja Girl：上
+The slippery squelch of my smeared breasts,
+moving up and down your penis like this...
+
+Ray：上
+Ahieee-❤❤ N, no stop!❤
+I shouldn't but, my strength is...❤*
+It feels too good.....!❤❤
+
+Ninja Girl：上
+Ara ara-
+You've already given into our desires haven't you?*
+Even your penis is already on the brink of orgasm.
+I haven't even been stroking it for one minute, 
+and you're already about to surrender? Teehee-❤
+Hora- I'll bind that weak penis between my breasts,
+and pump them up and down with all my might-*
+In sweet yet harsh pleasure, give me your
+white flag of surrender-
+Hora hora hora!
+
+Ray：上
+Aah, aah, aaooogh!!!❤❤
+
+Ray：上
+It won't stop---❤ It feels soo good---❤
+
+Ninja Girl：上
+Teehee...❤
+Does your body feel strange?*
+After the whip, the carrot makes your body 
+obedient- Your body ends up forgetting
+how to resist-
+Washed away in the sweet stimulation like a faucet
+without a stopper, you'll be stuck in an endless 
+ejaculate hell until you're completely empty-❤
+Ho-ra- For the finishing blow,
+I'll rub and knead my breasts left and right in
+alternating directions...❤
+
+Ray：上
+Aaoggh, amazing-❤ It feels soo good...❤
+Ahieee....❤❤
+
+Ninja Girl：上
+(Giggle) You finally stopped moving♪**
+My cleavage is so slippery and creamy...
+You must have really enjoyed my paizuri to have 
+cum so much, huh?
+Now- What about you other soldiers? Your commander
+has taken the initiative by getting a paizuri-
+I'll make everyone else cum in pure bliss too-❤
+Ara- Did some of you cum just from watching?
+That's so cute-❤*
+All the members who tried to rise against the
+succubus have been taken care of... Teehee...
+
+テロップ：中央
+After the hero's soldiers fell in the surprise 
+attack, the feint the other Knights of Order 
+committed to was left meaningless. 
+It was clear the succubus army had the superior 
+upper upper hand, and the invasion failed
+spectacularly.
+And so, our Hero's stories came to an end.
+
+Ninja Girl：上
+Ara ara- Even if you glare at me like that,
+you're not the least bit scary at all-*
+You're still fully erect from the medicine.
+You look ridiculous- Teehee♪*
+Although you came so much moments ago,
+it seems your erection hasn't died down huh-
+Oh- What should I do now? Hm?
+Maybe I could comfort that stiff,
+throbbing penis, between my huge,
+soft breasts...?
+
+Ninja Girl：上
+Ufufu- Just a little tease of my fingers and
+you're already moaning like a kitten-*
+It'll be impossible for you to resist me later
+if you're already moaning like that-
+
+Ninja Girl：上
+It seems the pleasure is too strong even for
+the great might Hero isn't it?
+It doesn't matter what you do-
+You are already my prey-
+I'll consume your delicious semen with my paizuri-❤*
+Hora- Time to slip you in-❤**
+Eei-❤
+
+Ray：上
+Ahieee-❤❤
+Aaoggh, I can't but- 
+Your breasts feel too good!!!---❤❤
+
+Ninja Girl：上
+I've squeezed many men to death
+with these breasts up to now-*
+When I slip a man's penis between these breasts,
+they transform into docile livestock-*
+And you, are no exception-
+You may say otherwise, but now your body is 
+entirely obedient to me-
+You've let go of your strength and aren't doing
+anything to resist me. Perhaps my breasts feel so 
+good that they're draining your strength? Teehee-❤
+Before I stroke you with all my might, first I'll
+dribble some of this medicine....*
+Well? It's so lewd now that my breasts are so
+slimy, right?*
+The slipperiness of my already tremendous
+paizuri will only double the pleasure-*
+I'll wring you instantly with my special
+aphrodisiac lotioned paizuri-
+
+Ray：上
+Uuagh!!!❤ Ahieee-❤ Stoppp!!❤
+
+Ninja Girl：上
+Teehee- What a pathetic way to go,
+unknowingly marching towards an enemy ambush-*
+Betrayed by your friend, driven into a
+state of helplessness, and drained by succubi.
+
+<AT35-2>
+テロップ：中央
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as even the hero had his genitals teased by
+the feet of a succubus assassin...
+
+Ninja Girl：上
+Kuhu- Kuhu- Kuhu....
+You're no hero, are you-*
+You're just an erect penis, eagerly pushing
+itself against the grinding sole of my foot-
+
+Ray：上
+Oooogh...❤ Damn it...
+If only we hadn't been ambushed...
+
+Ninja Girl：上
+Ufufu- That's a pathetic excuse you know-**
+As the succubus intelligence force bureau, 
+it's our job to obtain information by making our 
+enemies turn on each other-
+We strike from the cover of darkness.
+You lost the moment you failed the notice us-*
+Hora hora- When I step on you with my foot like 
+this, it feels great doesn't it?
+
+Ray：上
+Aaaogh-❤ St, stop that-❤ Aaah...❤
+
+Ninja Girl：上
+Yeah yeah.
+Talk as much as you like-*
+But with the amount of precum leaking out and 
+those loud squelching noises, trying to convince 
+me by saying "Stop..." is pretty laughable-
+When I step on your penis, you get aroused-
+Just admit it, your body has already 
+surrendered to me. You're a pervert-❤
+
+Ray：上
+Aaah-❤ Aah-❤ Aaaaagh-❤
+If you do it that violently-❤ Aaaaagh!!
+
+Ninja Girl：上
+Nice- All in one shot-❤**
+Perhaps being massaged by the sole of my foot
+felt good after all? Teehee-❤*
+Look around you.
+All your other companions are having their
+semen squeezed by us succubus-
+Some are being drained dry by small imps, and 
+others are masturbating uncontrollably as our 
+healers bounce their breasts in front of them-
+Teehee-❤ It's quite a pathetic sight-❤
+
+Ray：上
+I, I have to help them...
+If I could just... escape...!*
+Aaaaogh...❤ Noo... stop touchin...❤
+
+Ninja Girl：上
+Ufufu- Just a small caress of my toes, and you're
+already moaning- How could you possibly
+help your companions like this?
+When we interrogate our prisoners, we like to use
+the carrot and the stick-
+The footjob from before is my whip. After that 
+comes the carrot-❤ A blissful drain of your semen
+with these breasts of mine-❤
+
+Ray：上
+No, noo-❤ Ahiee, re, release...❤
+
+Ninja Girl：上
+Can't you run away while being rubbed by my hands?
+Well then, you'll end up caught in my breasts 
+won't you?
+Hora...
+I'll give your penis a big hug between my cleavage-❤
+
+Ray：上
+Aahiee....❤❤
+
+Ninja Girl：上
+Aha-❤
+The moment you got caught, your expression melted-❤*
+Men are so simple aren't they?
+Squeezing their penis with breasts after grinding
+them with feet causes them to lose instantly-❤
+Even it it's a paizuri from an evil woman,
+their body accepts it unconditionally-*
+Hora- Even you're willingly rubbing your penis 
+against me- Your hips just can't resist the soft
+pull of my pleasurable paizuri can they?
+Now I'll just dribble some aphrodisiac from above...
+There, now I'll send you to heaven with my
+aphrodisiac lotioned paizuri-❤
+
+Ninja Girl：上
+The slippery squelch of my smeared breasts,
+moving up and down your penis like this...
+
+Ray：上
+Ahieee-❤❤ N, no stop!❤
+I can't but, my strength...❤*
+It feels too good.....!❤❤
+
+Ninja Girl：上
+Ara ara-
+You've already given into our desires haven't you?*
+Even your penis is already on the brink of orgasm.
+I haven't even been stroking it for one minute, 
+and you're already about to surrender? Teehee-❤
+Hora- I'll bind that weak penis between my breasts,
+and pump them up and down with all my might-*
+In sweet yet harsh pleasure, give me your
+white flag of surrender-
+Hora hora hora!
+
+Ray：上
+Aah, aah, aaooogh!!!❤❤
+
+Ray：上
+It won't stop---❤ It feels soo good---❤
+
+Ninja Girl：上
+Teehee...❤
+Does your body feel strange?*
+After the whip, the carrot makes your body 
+obedient- Your body ends up forgetting
+how to resist-
+Washed away in the sweet stimulation like a faucet
+without a stopper, you'll be stuck in an endless 
+ejaculate hell until you're completely empty-❤
+Ho-ra- For the finishing blow,
+I'll rub and knead my breasts left and right in
+alternating directions...❤
+
+Ray：上
+Aaoggh, amazing-❤ It feels soo good...❤
+Ahieee....❤❤
+
+Ninja Girl：上
+(Giggle) You finally stopped moving♪**
+My cleavage is so smooth and creamy...
+You must have really enjoyed my paizuri to have 
+cum so much huh?
+Now- What about you other soldiers? Your commander
+has taken the initiative by getting a paizuri-
+I'll make everyone else cum in pure bliss too-❤
+Ara- Did some of you cum just from watching?
+That's so cute-❤*
+All the members who tried to rise against the
+succubus have been taken care of... Teehee...
+
+テロップ：中央
+Despite the fighting alongside the arrival of 
+reinforcements, our Heroes succumbed and the succubus
+quickly took back their advantage.
+After met with some resistance around the three
+intermediate succubus, the reinforcement knights
+were forced to retreat.
+In the end, the surprise attack against the queen
+failed, and the distraction the other knights 
+provided was rendered meaningless.
+It was clear the succubus army had the upper hand, 
+and the invasion failed spectacularly as the
+kingdom quickly fell to ruin...
+
+Ninja Girl：上
+Ara ara- Even if you glare at me like that,
+you're not the least bit scary at all-*
+You're still fully erect from the medicine.
+You look ridiculous- Teehee♪*
+Although you came so much moments ago,
+it seems your erection hasn't died down huh-
+Oh- What should I do now? Hm?
+Maybe I could comfort that stiff,
+throbbing penis, between my huge,
+soft breasts...?
+
+Ninja Girl：上
+Ufufu- Just a little tease of my fingers and
+you're already moaning like a kitten-*
+It'll be impossible for you to resist me later
+if you're already moaning like that-
+
+Ninja Girl：上
+It seems the pleasure is too strong even for
+the great might Hero isn't it?
+It doesn't matter what you do-
+You are already my prey-
+I'll consume your delicious semen with my paizuri-❤*
+Hora- Time to slip you in-❤**
+Eei-❤
+
+Ray：上
+Ahieee-❤❤
+Aaoggh, I can't but- 
+Your breasts feel too good!!!---❤❤
+
+Ninja Girl：上
+I've squeezed many men to death
+with these breasts up to now-*
+When I slip a man's penis between these breasts,
+they transform into docile livestock-*
+And you, are no exception-
+You may say otherwise, but now your body is 
+entirely obedient to me-
+You've let go of your strength and aren't doing
+anything to resist me. Perhaps my breasts feel so 
+good that they're draining your strength? Teehee-❤
+Before I stroke you with all my might, first I'll
+dribble some of this medicine....*
+Well? It's so lewd now that my breasts are so
+slimy, right?*
+The slipperiness of my already tremendous
+paizuri will only double the pleasure-*
+I'll wring you instantly with my special
+aphrodisiac lotioned paizuri-
+
+Ray：上
+Uuagh!!!❤ Ahieee-❤ Stoppp!!❤
+
+Ninja Girl：上
+Teehee- What a pathetic way to go,
+unknowingly marching towards an enemy ambush-*
+Betrayed by your friend, driven into a
+state of helplessness, and drained by succubi.
+
+<AT35-3>
+テロップ：中央
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as even the hero was attacked by one of
+the sniper succubus...
+
+Sniper：上
+Kuhu♪
+What a underwhelming fight-*
+The finishing blow was due to someone getting 
+lovey dovey with one of my magic arrows...
+Pretty funny right?
+
+Ray：上
+Ugh...*
+If, if only we were able to get a 
+little closer...!!
+
+Sniper：上
+Pssh...
+I was surprised when the reinforcements came,
+but we managed somehow-
+It was surprisingly simple defeating you
+from the top of the cliff with our lewd long 
+distance attacks- Teehee-❤
+
+Ray：上
+Ugh... But perhaps in a one on one fight...!
+
+Sniper：上
+Ara? Are you still wanting to fight?
+I'm impressed-*
+But, you'd never beat me, even at close range-
+[Bow of temptation]! Ping-❤
+
+Ray：上
+Oogh...❤
+
+Ray：上
+Aaahhh....❤❤❤
+
+Sniper：上
+Ufufu- 
+And just like that, you crumple to the floor-*
+Now there are no thoughts in your head except
+being pleasured by me, isn't that right?
+Let's have some fun- Come over to me-❤
+
+Ray：上
+Aaaah...❤
+Miss Succubus...❤
+
+Sniper：上
+Ara ara...
+The moment you thought about it, you threw away 
+your weapon begging "Please make me feel good"? 
+(Giggle) How unsightly-❤ Oh well, here. I present
+my leg to you- Perhaps aroused by my sexual magic,
+you can rub against it to make yourself cum?
+
+Ray：上
+Yesss-❤ Thank you very much-❤❤**
+Aah, aaah-❤ 
+Rubbing against your thighs feels soo good--❤*
+Aaah, oh noo- I can't stopp...!❤
+
+Sniper：上
+Pfft- Your waist is trembling like anything...
+So rubbing your penis against my body really
+feels that good?
+Wow, so without the holy sword,
+this is the kind of human you are?-*
+When we melt your hearts, you all become aroused
+like a dog in heat as if some kind of lower animal-
+Like a human- Yes? Answer me if you agree.
+
+Ray：上
+Ahieee-❤ Yes, absolutely-❤
+Miss Succubus-❤*
+Miss Succubus's legs feel soo good-
+They're soo good-❤
+
+Sniper：上
+Well said.
+Hmm, perhaps I should reward you...*
+I'll grind my legs against your penis-❤
+
+Ray：上
+Ahiee-❤ Aaah-❤ Aah, aaaaah-❤❤
+
+Sniper：上
+Hora hora hora!
+It's nice when I vibrate my legs in small 
+movements like this right?
+I know exactly how and where to please a man-
+So making you all cum is just a trivial matter.*
+Your swollen balls quivering from above my legs, as
+the length of your penis is stimulated at the same
+time...It makes your mind go blank doesn't it?
+You can't win against your beloved succubus-
+Once you understand that, you may cum on my legs-❤
+Footsoldier-❤
+
+Ray：上
+Ahieiee...❤❤
+
+Sniper：上
+Now, do you see how naive you were to think you
+could defeat me in close combat?*
+Or perhaps this is what your body wanted from
+the start? Either way, once I start fiddling with
+your penis, winning is impossible-
+
+Ray：上
+Ahieeee...❤**
+Ooogh...
+Damnit... This, this is bad...
+If, if I don't resist...
+
+Sniper：上
+Ara- My spell weakened a little.
+Perhaps your ejaculation refreshed your mind?
+(Giggle)
+But- It's already too late for you to defy me-
+After all, hora- Your body is already throbbing
+uncontrollably isn't it?
+Even without my magic, once you get a taste of me,
+you'll never part from me again-
+That's the pleasure of a succubus-❤
+Go on, run away if you want to-
+But...*
+If you beg for it we can go again-
+What will you do? Want my legs to grind
+up against you again? Mr. Human Hero?❤
+
+Ray：上
+Oh, oooh...❤
+It... it'll feel as good as before...?
+
+Sniper：上
+Mmhm- You can rub your penis against my legs
+just as before-*
+And not only that, I'll spoil your penis by
+moving my legs over it too.*
+Pleasure that'll make you cum in the 
+blink of an eye.*
+If you want to taste it...you know what you
+need to do, don't you? 
+Fufu-
+
+Ray：上
+Aaagh, please-❤ Please Miss Succubus...❤
+
+Sniper：上
+There we go- Easy victory-❤
+The pleasure melted your mind rather quickly.*
+Ok, come over here OK?
+I'll caress your penis above my legs again.*
+That's it- Don't think too much about it,
+Just relax- Let your mistress handle the rest.*
+I'll squeeze you completely dry in pure bliss
+as I grind and rub your penis against my legs!
+
+Ray：上
+Yesss...❤ Ahhhh-❤ Aaah, aaaaah-❤
+
+Sniper：上
+Fufu- Man's dignity, completely abandoned though
+my one leg-
+
+Ray：上
+I just came, but...❤
+Aah, aaah, not again-❤ I can't hold it in...!!❤
+
+Sniper：上
+It's OK- Cum-
+Splurt everything onto my leg-
+I'll consume your energy.
+
+Sniper：上
+Ufufu- It's so thick. You really put out a lot-**
+But- I'm not going to let you rest-❤
+
+Ray：上
+Ahiee, I only just came,
+so if you start moving like that---❤❤*
+Aaaa, it's feels soo good!!❤
+I, I can't sto-❤ Aaaaaahh!!
+
+Ray：上
+Miss Succubus...❤
+More... More....❤
+
+Sniper：上
+(Giggle) Mr. Hero's training is complete!-♪**
+I stopped just before you were about to die-
+You should thank me.*
+After this I'll keep you as my pet dog, 
+and we'll fight together-*
+I'll hunt down the frontline soldiers,
+and you will be my shield.*
+You'll be fighting against your own kind,
+But as long as you're fighting for me,
+it doesn't matter right? Ufufu♪
+
+テロップ：中央
+After broken down and trained by her "rewards",
+I became an enemy to humankind.*
+Me, who they once called a Hero,
+attacked human villages, and pointed my sword
+against those who opposed the Succubus.
+When a fight ended, 
+she would closely embrace my worn-down body 
+and reward me with her footjobs.
+Even the Knights of Order were raped by succubus,
+and eventually turned to their side one by one.*
+As more of us were recruited into the succubus 
+army, the kingdoms military force diminished,
+and later fell to their mercy.
+Disgraced as traitorous pets, our story ended 
+while being used as tools for pleasure.
+
+<AT35-4>
+テロップ：中央
+After the succubus' surprise attack,
+our defeated protagonist was captured 
+by succubus and became their prisoner...
+
+Drain Imp：上
+Oh...have you woken up?
+
+Ray：上
+Oogh... Where, where am I...?
+
+Drain Imp：上
+You collapsed when you were defeated by us,
+so we captured you. This is a dungeon 
+far...far away from the Royal Capital.
+Don't you remember going "pew pew pew" as you
+squirted out all your levels for me?
+
+Ray：上
+Ooogh......❤
+
+Drain Imp：上
+Aha- Your face just went all red-
+Was it embarrassing losing to such a small girl?*
+Being sexually teased by me...despite our height 
+differences...Unable to resist squirting out 
+your strength going pew...-- pew...--❤
+What you did back there meant so much to me 
+big brother-❤ Teehee-❤*
+Huh-?
+You're grasping at the prison bars pretty hard...
+Do you want to come out of the cell?
+...
+Okay then-❤
+Here-
+
+Ray：上
+Wha...!
+
+Drain Imp：上
+Surprised?
+Were you wondering why I released you?*
+Well, just because you're out of the prison
+doesn't mean I'm [setting you free] big brother-
+Teehee-❤
+
+Drain Imp：上
+I'm here to teach you some things OK?-
+Eei....❤ Omm-❤
+
+Ray：上
+Ahieee-❤ Stop! Ahhh, you're tongue is...❤
+
+Drain Imp：上
+...is holding your weak point in my mouth-❤**
+Even though I'm just flicking my tongue 
+over the head of your penis, your expression 
+tells me you can't resist at all- Teehee-❤
+Now then- First I'll slurrurp out all your
+remaining levels-❤*
+It'll feel really, really good, so don't
+thrash about OK? 
+Hora- Slrururup-...❤ Splurururp-...❤
+
+Ray：上
+Aooogh...❤❤❤
+
+Drain Imp：上
+Ufufu-
+When I suck on you with my mouth,
+it feels so good, your waist is buckling-
+You're just like everyone else aren't you?
+Even if you're not a lolicon, my mouth feels
+so good, you become infatuated instantly-❤  
+Hora- Mmwah- Slurururp-❤
+
+Ray：上
+Ahieee--❤❤ I'm being sucked...❤
+
+Drain Imp：上
+All your semen and power is welling up from within 
+your penis-❤ You want to splurt it all inside
+my mouth don't you?
+We're not in the middle of a fight right now-
+So don't hold hold back, it's OK-*
+Hora- 
+I'll increase the suction OK? 
+Slurururrurppp...❤
+
+Ray：上
+AHHhiieeEeeEee...❤❤
+
+Drain Imp：上
+MMmmph-❤ (Gulp)**
+Fufu-❤ That was great milky semen-❤
+With this, big brother's strength is no more-❤
+
+Drain Imp：上
+Now after this, I want my level 1 big brother
+to go out and defeat some monsters-*
+Then get lots of levels so you can give them
+all to me-❤*
+Eh? If I did that, you'd never come back?**
+Teehee... I know that-
+But are you absolutely sure you can leave 
+me big brother?
+Your penis has already memorized the taste
+of my fellatio hasn't it?*
+With every level you gain, your penis will
+start to ache and throb... Eventually, you'll
+be unable to resist and come back to me-
+Everyone else does the same thing you know-
+This jail only exists for us to "release" 
+our prisoners from here-❤
+Now, gain some levels, and get really strong 
+for me-*
+Then, I'll give you my extraordinary fellatio-
+Here's a reminder-❤*
+Slurp--...❤
+
+Ray：上
+Ahiee-❤ Aah, it's so strong...!--❤❤**
+What is...my waist is melting!!❤
+Aaaaahhhh....❤❤
+
+Ray：上
+Oowaah, I can't stopp...❤❤
+Stop-- I'm feeling strange...❤ Ahieeee-❤❤
+
+Drain Imp：上
+Nope- I'm not gonna stop-
+Suuuuckkkk---....❤
+
+Drain Imp：上
+(Giggle) You crumpled to the floor-
+My mouth is the best isn't it?*
+It's OK to do nothing for a bit right?-
+When you get some levels, come and see me again-*
+Then, I'll give you a reward
+by slurping and sucking on your penis lots-❤
+Teehee-❤
+
+テロップ：中央
+My heart and mind seduced by the girl's fellatio,
+I became addicted to tributing her with my levels.*
+Despite going out and gaining levels,
+I never made it back to the human capital.*
+I faithfully returned to her, and she sucked me
+rapidly with her deep fellatio until there was
+nothing left.
+According to her, it wasn't just me they captured
+around here, but my other companions as well.*
+Being released to the outside world only meant
+working to raise our levels before returning.*
+With our power being distributed to the succubus
+army, the human kingdom's fate was clear.*
+Addicted to our lives of perpetual happiness,
+we became their obedient pets, and the thought
+of resisting never even came to mind.
+And so, our stories ended. Degraded into level 
+tanks to increase the Succubus' military force.
+
+<AT35-5>
+テロップ：中央
+After the succubus' surprise attack,
+our defeated protagonist was captured 
+by succubus and became their prisoner...
+
+Ray：上
+Ugh....
+
+Drain Imp：上
+Oh- Good morning...!
+Did you sleep well big brother?*
+Hmm? Where are we?
+This is our detention facility where we keep
+men as our exp level tanks.
+A place far, far away from the human capital,
+swarming with monsters on the outside.*
+You can level up outside, and then give all
+those levels back to us big brother-*
+Eh? You won't...?
+Pfft.... Teeheehee-❤*
+"What's so funny?" You say?
+My big brother thinks he 
+can disobey me- It's funny-
+Despite my small body, I've already drained lots
+of levels from others just like you-
+So I must be really strong now right?
+Hora...
+
+Drain Imp：上
+Ufufu- When I hold you down, you can't push me
+off- You're not weaker than a little girl 
+like me are you? Teehee-❤
+Oh! And I don't like hurting people physically,
+so I'll turn you into our slave with my succubus
+pleasure powers-
+By stepping on you with my feet like this...
+
+Drain Imp：上
+Aha-❤ The moment I stepped on you,
+your body jumped up and down-❤*
+When a succubus with such a huge difference in
+levels steps on someone, pleasure shoots through 
+them like jolts of electricity-
+And then, with just a little wriggle of my toes...**
+They moan pathetically going "Ahieee-❤"
+and start peeing white, creamy fluid-❤
+
+Drain Imp：上
+Teehee-❤
+You've just been instantly defeated by the sole of
+a little girl's foot-❤
+How did it feel? The feeling of being made to 
+ejaculate from just the curl of my toes...*
+Frustration? Humiliation?
+Or maybe...*
+It just felt really good?
+Teehee...❤*
+If you tribute me with levels,
+I'll make you feel even more, and more pleasure-
+
+Drain Imp：上
+For example, we'll do lots of things together-
+Like moving my feet in small circles like this...❤*
+Or grinding your penis with the heel of my foot...❤**
+Ufufu- Regardless of whether you're within touching
+distance or not, the moment I start moving my feet
+like this, you end up hopelessly aroused don't you?
+Here's an advance payment as a little reward OK?
+Hora- I'll give you a sque-eeze with my feet...❤*
+Aha-❤ What an amazing, idiotic face-❤
+Ok- With our difference in levels, and my overwhelming 
+techniques, finish at once- Silly big brother-❤
+
+Drain Imp：上
+Ufufu- Did you faint?
+I guess I'm too strong for you...*
+It would be bad if I forgot to hold back
+when it comes to my weak little brother huh?*
+Although, when it comes to someone who cums from
+just being stepped on, that might be a hard
+task to pull off... Teehee...❤
+
+テロップ：中央
+Teased by the girl's feet until I was hopelessly 
+in love with her footjob, I became her 
+semen tank slave.
+Despite going out and gaining levels,
+I never made it back to the human capital.*
+I faithfully returned to her, and she drained me
+rapidly with her footjob techniques until there
+was nothing left.
+It wasn't just me they captured around here, 
+but my other companions as well, who also 
+returned to the prison after being released.
+With our power being distributed to the succubus
+army, the human kingdom's fate was clear.*
+Addicted to our lives of perpetual happiness,
+we became their obedient pets, and the thought
+of resisting never even came to mind.
+And so, our stories ended. Degraded into level 
+tanks to increase the Succubus' military force.
+
+<AT35-6>
+テロップ：中央
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as even the hero was attacked by one of
+the succubus healers...
+
+Boobie Healer：上
+Whoa--❤
+I never thought you'd lose to the dance of my
+bouncing breasts. You really surprised me-❤
+They were supposed to be just a distraction,
+a "distraction" to obstruct the resistance of
+your front-lines from behind.
+But then you gave in and suddenly spewed out 
+semen on your own without being touched- 
+How embarrassing-❤ Teehee-❤
+
+Boobie Healer：上
+As humans, we were honestly disgusted by 
+our gigantic breasts.*
+We were often preyed on by the prying eyes
+of men... Our lives were terrible...
+But now, things are different.
+After becoming succubus, we couldn't be happier-
+Making men moan and gasp as they fall helplessly
+in love with our breasts is the best!- Ufufu-❤
+
+Boobie Healer：上
+You've done your best up until this point for
+the human race haven't you Mr. Hero?*
+Well done, well done-❤ As a reward, I'll give 
+you a paizuri- But not just any paizuri-
+A two person double paizuri-❤
+
+Boobie Healer：上
+Instead of dancing our breasts in front of your 
+face, this time we'll be using out breasts to
+tease your penis directly.
+When we end up doing this, even big, burley
+muscle men soldiers end up falling madly in
+love with us and gush out all their semen-❤
+
+Boobie Healer：上
+Aha- You're quivering just from listening to us-❤**
+So you want us to do pleasant things to your penis
+with our two pairs of breasts--❤*
+If you still manage to hold out, you might be able
+to help your allies around you though-
+Is it really OK? Should you do it?
+
+Boobie Healer：上
+Hora hora- 
+Our two pairs of breasts are slowly getting closer...?
+If you don't do anything, your penis will get caught-
+In a moment, you'll get swallowed up in one gulp-
+Gu-, gu-, gu-lp...!
+
+Boobie Healer：上
+All done-❤
+Gu-lp-❤
+
+Ray：上
+Ahiee, ooogh...❤**
+When, when they wrap around me like that...❤
+Amazing...❤ I, I'm melting...❤
+
+Boobie Healer：上
+Ahaha-❤ You can't stop your hips from buckling 
+can you? Come on, you can show us a little more
+resistance than that, Mr. Hero-❤ (Giggle)
+Although...
+It'll all be over soon.*
+Once our soft breasts start rubbing any man's 
+penis, they all give in and start squirting all 
+the same- Prepare yourself-❤
+Here we go...!❤
+Eei!
+
+Ray：上
+Ahieeeee!!❤
+Aah, aah, su, such movements...❤*
+Ahiaaaaaah!❤ Being rubbed feels soo gooddd--❤
+Aieeeee-❤
+
+Boobie Healer：上
+And don't forget me-❤
+I'll squeeze my breasts together with the palms of my 
+hands and...! Rub rub-rub rub rub!❤
+Aaahn- You're really struggling-❤
+Even your waist is throbbing and pulsating-*
+It feels so good, you wanna scream right? Even
+though all your companions can hear you right?
+Teehee-❤
+Ahh- You can't think of those things any longer 
+can you? Only the soft ocean of our breasts
+swirling around your penis-
+Think about the mind melting pleasure from having
+the entire length of your penis wrapped in our 
+breasts- Right now, your companions are nothing-
+When we aren't going easy on someone, they
+break instantly. A mentally disabled person who
+can't think of anything except breasts...
+
+Boobie Healer：上
+Hora hora-❤ And we don't have any reason to go 
+easy on you do we? We'll make you cum instantly
+as our bouncy breasts slap against your penis-
+During our time as humans we would have healed 
+you- But now we're going to break you with
+our breasts!
+Aah, soo much bliss-❤
+Be honest with your desires, fall in love with
+the heavy pull of our breasts...❤
+Kuhu- Your penis is already leaking amazing 
+amounts of precum- Being massaged by our merciless
+paizuri is the ultimate pleasure isn't it?
+The tip... The base... It's as if your entire 
+penis is melting and being swallowed up in 
+breasts right?
+Please, go ahead and melt-
+Mr. Hero already lost a long time ago-
+Resisting anymore is pointless-❤
+Surrender to our paizuri, and cum-❤
+Cum while we squeeze our breasts together-
+Eei, Eei, Eeei!!❤
+
+Ray：上
+Ahiee, aah ahhh, noooo!❤
+It's too much...!❤❤ Aaaaaghhh!!!❤
+
+Boobie Healer：上
+Aha-❤ You came bucketloads-❤
+I can feel it sloshing around between our breasts-❤*
+But, your semen never made it out of our breasts 
+did it? Out breasts were so big, all your semen
+ended up getting trapped inside our cleavage-
+You didn't think we'd let you off the hook 
+since we were once humans did you? 
+Teehee-❤ That's sweet-
+We have no intention of doing anything of the
+sort- We won't stop until you've been completely 
+squeezed. 
+It'd be a shame to let all this delicious energy 
+go to waste, so I'll make the pressure around my
+breasts tighter.
+I'll squeeze until the soft flesh of my breasts 
+crushes your penis-❤ Hora- Squeeze...❤
+Then like that, I'll rub you as hard as I can!❤
+
+Ray：上
+Aughhh!!❤ Aahh-❤
+Breasts... Aaahh-❤*
+A, a, amazing...❤ Ahhuugh, so goodd...❤
+My resistance...❤❤ Aaaoggghhh...❤
+
+Boobie Healer：上
+(Giggle) You snapped faster than expected-**
+Our double paizuri defeated you instantly...❤
+Teehee...❤
+
+Boobie Healer：上
+Aahnn-❤ Such delicious energy-❤**
+Let's make the other soldiers feel good with
+our breasts too- With the amount of men here,
+we'll be able to feast until evening-
+
+Boobie Healer：上
+Ufufu...❤
+When it comes to big breasts, men are just weak,
+pathetic creatures-❤
+
+テロップ：中央
+The hero lost all his power,
+drained by the two healer's ginormous breasts.*
+The others, unable to resist their breasts'
+terrifyingly sexual pleasure, were tragically
+squeezed one after the other.
+The next morning, the only thing that remained
+of them was the ghastly mountains of withered
+men piled between the cliffs.
+And so the story of the heroes who yielded to
+succubus temptation ended, having their energy
+squeezed dry by once human succubus.
+
+<AT35-7>
+テロップ：中央
+Despite the arrival of reinforcements, our heroes 
+were ultimately defeated by the succubus healers'
+huge breasts, and were played with and squeezed...
+
+Boobie Healer：上
+Whoa--❤
+I never thought you'd lose to the dance of my
+bouncing breasts. You really surprised me-❤
+They were supposed to be just a distraction,
+a "distraction" to obstruct the resistance of
+your front-lines from behind.
+But then you gave in and suddenly spewed out 
+semen on your own without being touched- 
+How embarrassing-❤ Teehee-❤
+
+Boobie Healer：上
+As humans, we were honestly disgusted by 
+our gigantic breasts.*
+We were often preyed on by the prying eyes
+of men... Our lives were terrible...
+But now, things are different.
+After becoming a succubus, I couldn't be happier-
+Making men moan and gasp as they fall helplessly
+in love with my breasts is the best!- Ufufu-❤
+
+Boobie Healer：上
+You've done your best up until this point for
+the human race haven't you Mr. Hero?*
+Well done, well done-❤ As a reward, I'll give 
+you a paizuri- But not just any paizuri-
+A two person double paizuri-❤
+
+Boobie Healer：上
+Instead of dancing our breasts in front of your 
+face, this time we'll be using out breasts to
+tease your penis directly.
+When we end up doing this, even big, burley
+muscle men soldiers end up falling madly in
+love with us and gush out all their semen-❤
+
+Boobie Healer：上
+Aha- You're quivering just from listening to us-❤**
+So you want us to do pleasant things to your penis
+with our two pairs of breasts--❤*
+If you still manage to hold out, you might be able
+to help your allies around you though-
+Is it really OK? Should you do it?
+
+Boobie Healer：上
+Hora hora- 
+Our two pairs of breasts are slowly getting closer...?
+If you don't do anything, your penis will get caught-
+In a moment, you'll get swallowed up in one gulp-
+Gu-, gu-, gu-lp...!
+
+Boobie Healer：上
+All done-❤
+Gu-lp-❤
+
+Ray：上
+Ahiee, ooogh...❤**
+When, when they wrap around me like that...❤
+Amazing...❤ I, I'm melting...❤
+
+Boobie Healer：上
+Ahaha-❤ You can't stop your hips from buckling 
+can you? Come on, you can show us a little more
+resistance than that, Mr. Hero-❤ (Giggle)
+Although...
+It'll all be over soon.*
+Once our soft breasts start rubbing any man's 
+penis, they all give in and start squirting all 
+the same- Prepare yourself-❤
+Here we go...!❤
+Eei!
+
+Ray：上
+Ahieeeee!!❤
+Aah, aah, su, such movements...❤*
+Ahiaaaaaah!❤ Being rubbed feels soo gooddd--❤
+Aieeeee-❤
+
+Boobie Healer：上
+And don't forget me-❤
+I'll squeeze my breasts together with the palms of my 
+hands and...! Rub rub rub rub rub!❤
+Aaahn- You're really struggling-❤
+Even your waist is throbbing and pulsating-*
+It feels so good, you wanna scream right? Even
+though all your companions can hear you right?
+Teehee-❤
+Ah, you can't think of those things any longer 
+can you? Only the soft ocean of our breasts
+swirling around your penis-
+Think about the mind melting pleasure from having
+the entire length of your penis wrapped in our 
+breasts- Right now, your companions are nothing-
+When we aren't going easy on someone, they
+break instantly. A mentally disabled person who
+can't think of anything except breasts...
+
+Boobie Healer：上
+Hora hora-❤ And we don't have any reason to go 
+easy on you do we? We'll make you cum instantly
+as our bouncy breasts slap against your penis-
+During our time as humans we would have healed 
+you- But now we're going to break you with
+our breasts!
+Aah, soo much bliss-❤
+Be honest with your desires, fall in love with
+the heavy pull of our breasts...❤
+Kuhu- Your penis is already leaking amazing 
+amounts of precum- Being massaged by our merciless
+paizuri is the ultimate pleasure isn't it?
+The tip... The base... It's as if your entire 
+penis is melting and being swallowed up in 
+breasts right?
+Please, go ahead and melt-
+Mr. Hero has already lost a long time ago-
+Resisting anymore is pointless-❤
+Surrender to our paizuri, and cum-❤
+Cum while we squeeze our breasts together-
+Eei, Eei, Eeei!!❤
+
+Ray：上
+Ahiee, aah ahhh, noooo!❤
+It's too much...!❤❤ Aaaaaghhh!!!❤
+
+Boobie Healer：上
+Aha-❤ You came bucketloads-❤
+I can feel it sloshing around between our breasts-❤*
+But, your semen never made it out of our breasts 
+did it? Out breasts were so big, all your semen
+ended up getting trapped inside our cleavage-
+You didn't think we'd let you off the hook 
+since we were once humans did you? 
+Teehee-❤ That's sweet-
+We have no intention of doing anything of the
+sort- We won't stop until you've been completely 
+squeezed. 
+It'd be a shame to let all this delicious energy 
+go to waste, so I'll make the pressure around my
+breasts tighter.
+I'll squeeze until the soft flesh of my breasts 
+crushes your penis-❤ Hora- Squeeze...❤
+Then like that, I'll rub you as hard as I can!❤
+
+Ray：上
+Aughhh!!❤ Aahh-❤
+Breasts... Aaahh-❤*
+A, a, amazing...❤ Ahhuugh, so goodd...❤
+My resistance...❤❤ Aaaoggghhh...❤
+
+Boobie Healer：上
+(Giggle) You snapped faster than expected-**
+Our double paizuri defeated you instantly...❤
+Teehee...❤
+
+Boobie Healer：上
+Aahnn-❤ Such delicious energy-❤**
+Let's make the other soldiers feel good with
+our breasts too- With the amount of men here,
+we'll be able to feast until evening-
+
+Boobie Healer：上
+Ufufu...❤
+When it comes to big breasts, men are just weak,
+pathetic creatures-❤
+
+テロップ：中央
+the hero lost all his power,
+drained by the two healer's ginormous breasts.*
+The others, unable to resist their breasts'
+terrifyingly sexual pleasure, were tragically
+squeezed one after the other.
+The next morning, the only thing that remained
+of them was the ghastly mountains of withered
+men piled between the cliffs.
+And so the story of the heroes who yielded to
+succubus temptation ended, having their energy
+squeezed dry by once human succubus.
+
+<AT35-8>
+テロップ：中央
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as even the hero was attacked by Croix...
+
+Ray：上
+Gugh......
+
+Croix：上
+Ufufu-
+And so, the hero lies fallen at my feet-*
+If it weren't for this, I would have
+liked to wring you dry in a head on fight...*
+But I don't intend on going against our
+succubus war plan. No hard feelings-*
+So instead, you'll get something very special...**
+Being blissfully drained to death by me-❤
+
+Ray：上
+As if I'd let you...
+
+Croix：上
+Ahhn- You won't be able to land a hit against me
+at all with such flimsy attacks-*
+You body hasn't run out of strength after 
+just one ejaculation has it? Teehee...❤*
+That would be very, very bad- Especially now that
+I can cut behind you so easily...❤
+
+Ray：上
+Uwaah...❤
+
+Croix：上
+You let out such cute moans the moment I
+touched you with my feet-*
+Does it make you happy when my toes dance
+over the length and head of your penis?
+Kuhu...❤
+
+Ray：上
+Nu, no, release...❤
+Aaaah, stopp!- 
+When you move your feet like that...❤❤
+
+Croix：上
+Now now, there's no need to cry sour
+grapes is there? You've been defeated after all...*
+Just relax and let me draw everything out of you
+with my feet, be a good boy for me as you 
+experience the greatest pleasure of your life-
+Hora- I'll wring out your power with my 
+techniques whether you like it or not-❤
+
+Croix：上
+Enjoy the sweet stimulation of my Level Drain...❤
+
+Ray：上
+Ahieee... I'm being sucked...❤
+St, sto-, Aaahhh.....❤
+
+Croix：上
+(Giggle) It feels so good that your waist
+just melts doesn't it?*
+The sensation of your life energy being 
+snatched away by me- A ticklish, entrancingly
+sweet pleasure...❤
+Aaahnn-❤ I can feel your power flowing 
+through me-❤ It's delicious...*
+You've been fighting a lot of enemies since
+coming here haven't you? This power is much
+stronger than when we first met...
+
+Ray：上
+Yes... I need that strength so...
+I, I need to get away...❤*
+Aaooogh, nooo....❤ My strength is fading...❤
+
+Croix：上
+Teehee-❤
+I can see you're enjoying this-*
+And while you soak yourself in that absent-minded 
+pleasure, I'll suck everything out of you.*
+Everyone you've fought, your strength,
+your body, your mind...*
+Everything...hand it all over to me OK?
+Teehee...❤
+
+Ray：上
+AAahh, stoppp-❤
+My sensitive place is... aah, aahhhh-❤❤*
+Aaaahhhaah-❤❤
+Aah, cumming...! I, can't...resist...❤
+
+Ray：上
+Aah, aaaoogh...❤
+My strength is.......
+
+Croix：上
+You still have a lot left stored up in there 
+don't you? Looks like I'll just have to dissolve
+all your remaining power into your semen too-
+Hora- Watch as my gentle feet caress over your
+penis' head and balls...*
+Fufu- I'll transform all your power into semen 
+by drawing a magical crest on your balls 
+with my toes- 
+I'll draw lazy circles around your penis with my
+toes and tease your ball sack by squeezing down 
+hard with my big toe-❤
+How is it? 
+Your mind is totally mesmerized isn't it?
+
+Ray：上
+Hahiee-❤ Ahieee...❤
+
+Croix：上
+(Giggle) So willing to fall under my spell...
+So obedient to pleasure....*
+Thanks to being teased by me, your body is 
+producing semen at an amazing rate-
+Your balls are getting heavier and heavier...❤
+And the more semen you have stored up in your
+balls, the more sensitive your penis becomes...❤*
+Your penis is frozen, rock solid, as if you 
+haven't ejaculated for weeks...❤
+Being stroked would make you cum instantly-
+Ara- Your waist is twitching so much-
+You wouldn't cum from just having your balls
+stroked by my soft, dexterous feet would you?
+I bet it'd feel even better if I stroked
+the shaft...
+Teehee-❤
+
+Ray：上
+Aaoogh, aaaaooogggh....❤**
+That's, only because...❤
+Oh no... I, I can't stopppp...!❤
+
+Croix：上
+Ufufu- What a big ejaculation...❤
+Delicious. Thanks to this, 
+I can get even stronger-
+It felt amazing having your levels snatched
+away by me didn't it?*
+The sensation of having your beautiful energy
+stolen by such a cute girl...why, everyone
+becomes addicted to this feeling-
+Now, I'll wrap both my feet around your penis,
+and glide my soft, textured soles up and down 
+your length-
+The gentle tease of someone having their balls 
+and tip rubbed together is enough to make 
+anyone cum instantly-
+Our difference in levels should be blatantly
+obvious to you now.*
+And now that you've been drained, I bet you'd
+love to experience my "True Footjob" now
+wouldn't you?❤ Ufufu-❤
+
+Croix：上
+Hora hora hora hora!!
+I'll drain every last drop out of you-❤*
+Lots of sexual squishy sounds are coming out
+as I sandwich your penis between my feet-*
+The stroking motions of my dexterous feet
+are irresistible. Ufufu- It feels so good,
+you're starting to feel strange aren't you?
+
+Ray：上
+Ahiee-❤ Agghhh-❤ Aaaaaaahhh!!!
+
+Croix：上
+Ahnn- You shouldn't rage about like that-❤**
+Hm? "It feels too good"?
+Aha-❤ After all, no matter how much your body
+struggles, there's no escape-
+I'm much stronger than you.
+When I've got your arms pinned behind your back
+like this, there's no way you can escape.
+Hora hora- Can you feel the soft feeling of my
+breasts pressing against your back?
+Teehee...❤
+It's time for me to squeeze your mind, your
+being, your everything...with my mind mel-ting 
+ple-as-ure-❤
+
+Ray：上
+Ahiee....❤ This, this is too much...!❤❤
+Aaaaah-❤
+
+Ray：上
+Aah, ahh, I'm gonna die...❤❤
+I'm gonna die but...!❤
+
+Croix：上
+Teehee...❤
+You sure came a lot didn't you?*
+You've already become an unmoving husk.
+No muscles, no nothing. A shadow of your
+former self-
+Compensation for pleasure like this never comes
+cheap, but as a man, you'd pay anything for the
+highest pleasure wouldn't you? Ufufu♪
+Drain Imps, progress report-
+
+Drain Imp：上
+Everything is going smoothly Miss Croix!**
+All soldiers have been drained down to level 1
+and have fainted.*
+They'll later be carried to the Level Drain
+feeding facility! There, they'll fight monsters 
+to gain more levels as our live-stock.
+
+Croix：上
+Ufufu- Not a bad result at all-**
+While I'm not particularly fond of surprise 
+attacks, Mileena really out did herself
+this time. I must remember to thank her.
+
+テロップ：中央
+Having being drained of all my levels by Croix,
+my strength was no more.*
+Even the other soldiers had their levels drained
+by her imp underlings, and were carried off
+somewhere else.
+What became of them, I do not know.**
+And so, our story ended, drained of all power
+by succubus.
+
+<AT35-9>
+テロップ：中央
+Despite the arrival of reinforcements, our Heroes 
+were defeated by the intermediate succubus.*
+Indecent moans from soldiers filled the
+area as even the hero was attacked by Croix...
+
+第三騎士団団長：上
+Sir Ray! Are you OK!? We've sustained significant 
+damage, but there's a place where we can take safe
+refuge for the time being...
+
+Croix：上
+Ara- Someone is calling you-
+Aren't you going to respond to them?
+
+Ray：上
+Ooogh.....❤ Miss Croix....❤❤
+
+第三騎士団団長：上
+Sir Ray...
+Damnit! Come to your senses!*
+Without the holy swords, the intermediate
+succubus will overwhelm us.
+We're all counting on you!!
+
+Croix：上
+(Giggle) He doesn't need to shout that loudly for
+you to hear him right?*
+But...he's too late, you're already our slave now-
+Isn't that right Ray?-
+
+Ray：上
+Ugh... No! I'm not your slave...!
+I... I can't give in...!
+B, but...❤❤
+Aaah, when you step on me like that....❤❤
+Ahieee...❤
+Oooh, Miss Croix...❤❤
+
+Croix：上
+Haven't you had enough of being drained by the
+sweet massage of my feet?*
+When your succubus lover steps on your penis,
+it feels as if your hips are melting doesn't it?
+You can't muster the strength to do anything else-
+
+Ray：上
+Miss Croix...❤❤
+It, it feels so good...❤*
+Aah, aaaaaahhh....❤
+
+Croix：上
+Mmhm- Spoken like a good little boy-
+But...*
+I'm afraid we'll have to take a break now.
+
+Ray：上
+Aah, aaaah, wh, why...?
+
+Croix：上
+See? This bad man is trying to ruin our sexy
+fun time- As long as he exists, I won't
+step on you any longer. 
+But, if you want my soft feet to caress your 
+aching penis once more...
+You know what you need to do, don't you?
+
+Ray：上
+Uugh, but, but that would...
+Haaoogh...❤
+
+Croix：上
+(Giggle) Though you resist, even just a light grind 
+against the back of your penis with my soft foot,
+is enough to change your weak willed mind-
+The pleasures of being truly drained by me
+await you. So, go on, fight for me-
+My slave-❤
+
+Ray：上
+I, I understand Miss Croix...❤
+I, I will take care of this bad man for you...❤
+
+第三騎士団団長：上
+Guh! H-he's been completely infatuated...
+I never thought I'd end up fighting our Hero...*
+All soldiers, focus yourselves! We may have been 
+worn down by the lesser succubi, but right now 
+it's live or die!! We need to go now!
+
+テロップ：中央
+Though the Knights of Order fought with their life,
+they were attacked simultaneously by the succubus,
+as well as the Ninth Order, and could not hold out.
+Betrayed by their own forces that they tried to
+help, they were completely annihilated.
+
+Croix：上
+And now, your reward-❤**
+My traitorous Hero of the ages-❤
+
+Ray：上
+Ahiee....❤ I'm being sucked...❤❤
+It feels amazing Miss Croix...❤
+
+Croix：上
+But we're not done yet...!!
+
+Ray：上
+Aaaaah!!! It's soo gooodd--❤
+I only just came but...❤❤ Aaaaaahh...❤❤
+
+Croix：上
+(Giggle)
+What did you think of my true level drain?*
+I just drained entirety of your power 
+with my soft, magical foot-*
+The feeling of your consciousness leaving, your 
+mind becoming blank with overpowering pleasure...
+It's wonderful isn't it?
+This is the reward for your betrayal.
+Savour it as much as you like-
+
+Ray：上
+Yes... yes, Miss Croix...❤
+
+Ray：上
+Ahieee....❤
+
+Croix：上
+Teehee...❤
+You sure came a lot didn't you?*
+I stopped just before you were about to die-
+You should thank me-*
+Now, be sure to work hard as my slave OK?
+Ufufu...❤
+
+テロップ：中央
+And so, the hero, fallen as Croix's slave,
+lived as her underling.*
+Even with his power was completely drained, he
+fought humans and monsters to gain his strength
+back, only to help Croix all over again.
+Supplying her with power, he became Croix's right
+hand man, playing an active part using the holy
+sword of light in the succubus invasions.
+And later, for his distinguished services, he even
+had some of his levels drained again as a "reward".*
+When the war ends, they'll probably have no use for 
+him anymore, and drain him dry once again 
+until there's nothing left.
+Even today, he continues fighting, dreaming of
+that day.*
+And so, the heroes' stories came to a close.
+
+<AT35-10>
+テロップ：中央
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as the hero and Miles were attacked by
+Mileena...
+
+Mileena：上
+\vo[mi246](Giggle) Huge success♪**
+\vo[mi247]Our pleasure trap felt amazing didn't it?
+How did it feel to be manipulated by the palms of
+my hands? Ray? Miles?❤
+
+Ray：上
+Oogh...
+
+Miles：上
+Dammit... Nobus, if you could just fight...
+Come to your senses...!
+
+Mileena：上
+\vo[mi248]Oh that's too bad, Nobu isn't coming back-
+He's spending some quality time under my spell-*
+\vo[mi249]Even as we speak, he's probably having
+a sexy, lewd dream with my illusion magic isn't he?
+
+Miles：上
+Ugh, we can't give up now!!
+They, they're gonna eat us for food...!!
+
+Mileena：上
+\vo[mi250]Oh my!
+You still have strength left to stand, I would 
+expect no less from those who repelled Alice-
+\vo[mi251]Ninjas, come and suppress
+these two people here.
+
+Ninja Girl：上
+Yes Mileena.
+
+Miles：上
+Rgh, release me!
+I'm aiding him...*
+The fight's over, we,
+Aaagh, stop that-❤
+Get your dirty hands off my..ahhh...❤
+
+Mileena：上
+\vo[mi252]Ufufu- Your mouth is quite lively isn't it?
+But your body has already yielded to us succubus.*
+\vo[mi253]Just being pinned down, and having your penis 
+stroked by my ninja's hands, has you fully erect again.
+\vo[mi254]But despite your situation, it feels good doesn't it?
+Even Ray got an erection from being stroked too-
+Teehee-❤
+
+Ray：上
+That's not...❤ Aaah, stopp-❤
+
+Mileena：上
+\vo[mi255]Yeah yeah-
+"But that's not true"-? Ahaha-❤*
+\vo[mi256]Ahh, that's right-
+I want to show you two something. Oh Nobu-❤*
+\vo[mi257]Nobu and I will do lots of lovey dovey 
+stuff and make out, so Miles, Ray, watch closely OK?
+\vo[mi258]And Ninjas,
+Stroke the heads of their penis OK?
+Ufufu♪
+
+Ninja Girl：上
+Yes, understood.
+We will move to tease the heads of their penis.
+
+Mileena：上
+\vo[mi259]Nobu-❤
+As you suck on my breasts, I'll softly stroke you with
+my hand, okay?
+
+Mileena：上
+\vo[mi260]How is it? Does it feel good?**
+\vo[mi261]I love Nobu so much-
+No matter how many dreams I give him,
+he always pours out so much for me...❤
+\vo[mi262]And because Nobu works for me,
+I give him lots of rewards....❤
+
+Ray：上
+Uugh, Ooogh...❤
+
+Ninja Girl：上
+Fufu- 
+Both of you are as hard as rocks-*
+You couldn't be getting aroused by Miss Mileena's
+breasts during a time like this could you?
+Or maybe...
+It's the sexy feeling of having my firm breasts 
+pushing against your back?
+Teehee...♪
+As Miss Mileena instructed, 
+I'll tease the tip of your cock over and over.*
+Agonize over the sensation of being unable to cum
+as you watch your friend being squeezed OK?*
+Hora- 
+As I cover it with the palm of my hand like this...
+
+Miles：上
+Gh! St, sto, aaaaahhh-❤❤
+
+Ninja Girl：上
+Ahaha-❤
+You're breathing so heavily...*
+When your cock's most sensitive place is teased
+like this, you just can't help it can you?
+
+Ray：上
+That's that only becau-❤
+Uugh, ooooghhh-❤❤
+
+Ninja Girl：上
+Ara ara- 
+You say such things, but your hips
+won't stop thrusting you know?
+It's almost like your trying to move your hips,
+thrusting your stiff cock between the palms
+of my teasing hands...
+And yet, the my hand still keeps circling
+around and around the head of your cock,
+frustrating, isn't it?
+Even though you can't cum, the pleasure is 
+too intense-
+But...
+It seems you can't help but shamefully thrust
+your hips all the same...♪
+Teehee...❤
+Hora- Shake your waist as much as you like.
+Even if you try press your cock against the palms
+of my hands...well then, I just won't let you cum- 
+Your desire to make yourself ejaculate will
+only edge your submission towards us.*
+But just swirling my fingers around the tip of 
+your penis isn't the only thing I can do, I can 
+also massage it with the palms of my hands...❤
+
+Ray：上
+Aah, ahieee-❤
+Sto, sto, aaaahhhh!!❤❤
+
+Mileena：上
+\vo[mi263]Ahaha-❤
+Your gasps and moans are so unbe-coming-❤*
+\vo[mi264]I'm stroking the whole length of Nobu's penis,
+but you two are just getting the tip-
+It's so irritating- You envy him don't you-
+\vo[mi265](Giggle) See?
+Nobu is about to cum very soon.
+Watch his penis swell as it splurts out semen.
+\vo[mi266]It's OK, Nobu- Let's show these two people OK?
+Just let your waist relax and let it all flow out,
+splurt splurt splurt-❤
+\vo[mi267]There we go- Pew- Pew- Peww----❤
+
+Mileena：上
+\vo[mi268]Ahnn- You went and creamed my hand-❤
+I'm so happy you gave me so much semen-❤
+Did it feel good? Nobu...❤
+
+Ninja Girl：上
+Ara- It seems your friend had quite a pleasurable 
+ejaculation, leaving just you and your friend on 
+the edge of orgasm...
+But, we still won't stop pleasuring your weak,
+pliable cock heads with our dexterous hands-*
+You want to cum- You have to cum... 
+But even as you shake your hips, you cannot
+ejaculate at all- Teehee- Pathetic♪
+
+Ray：上
+Ugh...❤ Ooooghhh....❤
+Aaagh...❤
+
+Ninja Girl：上
+Yeah yeah, even if you helplessly thrust your
+hips into my hands, it's useless....❤
+
+Mileena：上
+\vo[mi269]Heey- Ray, Miles-
+Don't you want to cum?
+You can't take it anymore can you?
+\vo[mi270]If you do then, hora...
+why don't you beg me for it?*
+\vo[mi271]"I'm so sorry for disobeying my succubus 
+overlords- I'll become your slave, 
+just let me cum!-", beg just like that-❤
+
+Miles：上
+Why you, little...❤
+Aauugghh-❤ Th, th, this is torture...!❤❤*
+Aah, stop...❤❤
+When you move like that...❤ Damn, 
+it's too good!❤❤ Uuaagaghh!❤❤
+
+Ninja Girl：上
+You should become honest with your desires.
+Miss Mileena will not let you cum otherwise-*
+Until you both give in, be it minutes, hours,
+or an eternity, we'll continue teasing the tip of 
+your cock, just like this-
+We'll even take shifts, taking turns teasing your
+sensitive cock heads with our coercive hands as
+much as we like-
+Well? Now do you understand the severity of
+your situation?*
+We'll use all out five slender fingers to stroke 
+and caress the tip of your cock and more...❤*
+It'd be unbearable wouldn't it? 
+You'd better give in quick-
+
+Ninja Girl：上
+Maybe a final kiss from me can change your mind...
+Mmwah-❤
+
+Ray：上
+Ahiee...❤❤
+No, no, no mor...❤
+
+Ninja Girl：上
+If you're afraid your of friend listening,
+just speak it into my mouth-*
+Beg for it, moan into my mouth so no one
+else will hear- It'll be just like a kiss right?*
+If you beg for it, I won't just tease your aching
+cock like this, I'll also grasp the length of your
+penis and tightly pump it up and down...❤
+All that stored up semen in your balls will rush
+up and explode, coating my hands in thick,
+creamy semen-
+Hora- Mmwah-❤
+You want to beg for it, don't you...?
+
+Ray：上
+Aaaagh-❤❤ Ahiee...❤
+I, no, no, I can't take it anymore...❤❤*
+I- I'm so sorry for disobeying my succubus overlords-❤
+I'll be your slave-❤ Please, just let me cum...❤❤
+Aaaaaaaah!❤❤
+
+Ninja Girl：上
+Slurp-❤ Pop-❤
+(Giggle) Obediently said-*
+Well then, time for your reward-
+Fall and become our slave-❤
+
+Ray：上
+Aah, my-❤❤ It's soo goood!!❤
+Amazing---❤❤ This is bad...❤
+
+Mileena：上
+\vo[mi272]Aha-❤ Looks like it felt really good-**
+\vo[mi273]When my Ninja's hand vigorously strokes
+the length of your penis, lot of lewd, squelching 
+sounds fill the area-*
+\vo[mi274]I'm so happy for you Ray- You finally managed 
+to cum- This is the reward for those corrupted 
+by succubus- Taste it well, OK?❤
+
+Ninja Girl：上
+Hora hora hora! I'll make you cum instantly with my 
+superior techniques- Let all those stored up things 
+spurt out of your swollen cock-
+I'll tease your balls and the shaft of your penis
+at the same time...! This is the end for you!
+
+Ray：上
+So, so good...❤
+I can't stop...❤
+
+Mileena：上
+\vo[mi275]Ara ara- It felt so good that you fainted-**
+\vo[mi276]Ninjas, carry him back to base later.
+There, I'll place my lewd crest on him, 
+and enslave him permanently-
+\vo[mi277]Even Miles... (Giggle)
+Seems to have acknowledged his defeat now-
+So arrogant, but such pathetic pleas-❤
+\vo[mi278]With this, Ray and Miles are ours.
+An easy win, all thanks to my Nobu-❤
+Ufufu♪
+
+テロップ：中央
+The heroes, forced to taste the pleasure of
+a succubus by Mileena's hand, quickly degraded
+into her perfect slaves.
+With the heroes of the holy swords bolstering the
+succubus' warpower, the balance of war between the 
+humans and succubus quickly fell out of proportion.
+But, as for them, they weren't able capable of
+thinking of anything regarding that any longer.*
+Soaked in the pleasure given by succubus, they 
+lived happy lives used as disposable living tools.
+And so, the heroes' stories came to a close...
+
+<AT35-11>
+テロップ：中央
+Despite the arrival of reinforcements, our Heroes 
+were defeated by the intermediate succubus.*
+Indecent moans from soldiers filled the
+area as even the hero was attacked by Mileena...
+
+Mileena：上
+\vo[mi279]Phew... We made it somehow.**
+\vo[mi280]Eh?
+"Don't be so sure of yourself! Our 
+reinforcements will defeat you!"?
+\vo[mi281]Fufu- While that would be a shame, 
+it's no biggie-*
+\vo[mi282]After all, I can just ask Ray to take
+care of them for me-
+
+Mileena：上
+\vo[mi283]You remember what I can do right?
+I can place a [seed] in a certain weakened
+man's heart.
+\vo[mi284]With my seed planted in them,
+they'll be forced to have wet dreams every night,
+doing lots of sexy things with my illusions-
+\vo[mi285]And while they dream, their body 
+becomes my puppet to use. Incidentally, each 
+time they cum, they supply me with their 
+energy and memories-❤
+\vo[mi286]Because Ray's heart is so strong, 
+I can't plant my seed normally, so I'll have
+to do it forcefully. 
+\vo[mi287]That is to say....
+
+Mileena：上
+\vo[mi288]By making you ejaculate-
+The moment a man ejaculates, his heart becomes
+open and defenseless- In that moment I can
+place my seed in any hostile male-
+\vo[mi289]Brainwashed and induced by the seed in
+their mind, they become like a mindless puppet,
+manipulated by me every night-
+\vo[mi290]But there isn't much time, 
+so I'll make this quick OK?
+Eei-❤
+
+Mileena：上
+\vo[mi291]Ufufu-
+Are my boobs tasty?*
+\vo[mi292]A light press of my plush, Breast Succubus-like
+boobs against someone's face, and boys become 
+all slutty in an instant-
+\vo[mi293]And you are no different, are you Ray?
+Your face is melting-*
+\vo[mi294]Even as I stroke your penis...
+I can feel it twitching with pleasure-*
+\vo[mi295]Because when you cum, you'll become my puppet yes?
+Hora- If you don't resist until reinforcements 
+arrive it'll be bad you know? Resist, resist...
+\vo[mi296]Hmm-? Your hips are twitching,
+is it that hard for you to resist?
+Teehee...❤ So I see-
+
+Mileena：上
+\vo[mi297]Well then, go ahead and cum-
+There's no time-*
+\vo[mi298]It's no use-
+No boy can resist the comforting pleasure
+of a succubus-
+\vo[mi299]So, just cum OK?
+Hora, hora....❤
+
+Mileena：上
+\vo[mi300]Still cumming?
+It's OK, let it all out....
+
+Mileena：上
+\vo[mi301]There, all done-❤**
+\vo[mi302]I try to avoid fighting as much as I can,
+and I don't know when the reinforcements
+will arrive. Let's hurry.                                              
+\vo[mi303]Although, Ray-
+Sucking so intently on my breasts,
+so helpless... Teehee...❤
+
+テロップ：中央
+And so by Mileena's hand, the hero
+quickly fell under her spell.*
+His other companions were also similarly
+brainwashed by her hand one by one.*
+And so, The soldiers of the Ninth Order were
+made to fight the reinforcements, leading to
+an overall victory for the succubus army.
+The surprise attack on the 
+Succubus Queen had failed.*
+.....**
+Squeezed by Mileena herself, they were taught in 
+great detail about the many charms of a woman, and
+Mileena's spell over them quickly became permanent.
+They lived the rest of their lives as her puppets,
+abandoning their future, unable to move.*
+And so, our stories came to an end.
+
+<AT35-12>
+テロップ：中央
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as the hero was attacked by Luminara...
+
+Luminara：上
+\vo[r89]Ufufufu♪
+Revenge complete!-*
+\vo[r90]How do you like my new and improved
+kisses?
+Hm? Mr. Hero?❤
+
+Ray：上
+Aoooghhh, oh Luminara...❤
+
+Luminara：上
+\vo[r91]Kyaha- You're totally in love with me-❤**
+\vo[r92]Though you spitefully defeated me, 
+you got a blown kiss from me atop the cliff,
+and ejaculated miserably-❤
+\vo[r93]Teehee...❤
+Aaah, how refreshing-*
+\vo[r94]Well now, what should we do after this? I guess I 
+could keep you as my slave, but then, that wouldn't
+make up for the last time you humiliated me...
+\vo[r95]Oh well-
+I'll just have to drain you d-r-y-❤
+Eei-❤
+
+Ray：上
+Haaooogh...❤
+So, so soft...❤
+
+Luminara：上
+\vo[r96]You'll cum between my breasts until you die OK?
+You should think of yourself as honoured.*
+\vo[r97]Hora- I'll squeeze my chest a little more...❤
+
+Ray：上
+Aaaagh, ooogh...❤
+Luminara, it feels soo good--!❤❤
+
+Luminara：上
+\vo[r98]Yes, that's normal-
+I mean, this is my paizuri after all-*
+\vo[r99]Humans like you find it impossible to resist...❤
+Isn't that right?
+\vo[r100]Held between my tits,
+between my bouncing breasts,
+going rub- rub- on your penis...♪
+\vo[r101]Aha, you can't stop leaking precum-
+It's just like lotion isn't it?*
+\vo[r102]Hora hora-
+I'll crush the head of your penis from both sides.*
+\vo[r103]As your most sensitive place is buried in my
+breasts, melt in happiness.
+
+Ray：上
+Aaah, aooogh....❤
+This is the best...❤ Oh, oh Luminara...❤
+
+Luminara：上
+\vo[r104](Giggle) When I do this,
+Most men end up getting their brains melted-*
+\vo[r105]With their most sensitive place squee-zed
+between my breasts, the pleasure of happiness
+makes their minds go pure white-
+\vo[r106]Hora- While I continue circling around
+the tip, I'll deal the finishing blow.
+By slightly licking the tip with my tongue...❤
+\vo[r107]Aaomph, aaomph....❤**
+\vo[r108]Fufu- Your waist is jerking and shaking-
+Even your face has gone all melty-
+Your half open mouth is soo unbecoming-
+\vo[r109]It's OK to cum right away though-
+No man can endure this-
+
+Ray：上
+Yess, yes Luminara-❤❤
+I, I can't hold back anymore...❤
+aaaahhh!❤❤
+
+Luminara：上
+\vo[r110]Ufu- Lots of delicious semen came out-
+\vo[r111]Slurrup slururp...❤❤
+
+Ray：上
+Aah, aah, when you lick me there...❤❤
+I, I'm still sensitive...!❤❤
+
+Luminara：上
+\vo[r112]A master's meal does not complain you know?
+My prey must be silent and eaten.*
+\vo[r113]Mmmwah, slururp-❤
+Aoommm, nommm...❤
+
+Luminara：上
+\vo[r114]aha- Did you cum again?
+You have no endurance-❤*
+\vo[r115]I'll squeeze every once out of you-
+By moving my breasts... Eei- Eei-❤*
+\vo[rb]Ejaculating to a succubus has nothing to do with it.
+Once you've had my paizuri, my slaves eventually
+end up willingly spurting their life force and semen.
+\vo[r117]You are the same too. Even now, you can't help but
+notice the throb in your hips right?
+It's OK- Let it all out-❤
+\vo[r118]Hora hora!
+Even if you die, I'll give you more than enough 
+pleasure to send you to heaven...❤
+
+Ray：上
+Ahiee, aaah, Luminara--❤❤
+I can't stopp-❤ Aaaaahhhh-❤
+
+Luminara：上
+\vo[r119](Giggle) You stopped moving.*
+\vo[r120]You splurted out so much hot semen, I'm all slimy-
+Although... Mmm- Delicious♪
+As I had expected from the vigor of a hero-❤
+\vo[r121]I've returned the favour for my disgrace, taken the
+holy swords, and stopped the assassination attack on
+the Queen. I'm gonna get it good- Aha, fun times♪
+
+テロップ：中央
+And so the hero's life ended, squeezed by
+Luminara.*
+With the other soldiers were turned into slaves
+and livestock, the Ninth Order was no more.*
+And so, the hero's story ended, suffering a 
+crushing defeat by the succubus army.
+
+<AT35-13>
+第三騎士団団長：上
+Sir Ray! You're safe!
+We have sustained significant damage, but we
+found a place where we can retreat to...!
+
+Ray：上
+Aooogh... Mistress Luminara...❤
+
+Luminara：上
+\vo[r122]Aha- Looks like you were too slow-
+The hero you were so dependent on, is
+already my total slave now-
+\vo[r123]Hora- With my thick kissy-mark on his 
+head...Teehee...He looks so much happier
+now doesn't he?
+
+第三騎士団団長：上
+Sir Ray...
+Dammit! Come to your senses!*
+Without the power of the holy swords you wield,
+we stand no chance against the intermediate
+succubui! We're all counting on you!
+
+Ray：上
+Yeaaah...❤
+More-- Please, do me more Mistress Luminara...❤❤
+
+Luminara：上
+\vo[r124]Kyahaha-❤
+Looks like he can't hear you at all-*
+\vo[r125]Hey- Can you imagine it? The hero, fired up
+with his sense of duty, becoming all lovey dovey
+to pleasure like this...
+\vo[r126]A kiss from me, and you'd experience the 
+same kind of pleasure wouldn't you?
+
+第三騎士団団員：上
+(Gulp...)
+
+第三騎士団団長：上
+Hey! Pull yourselves together you lot!
+If we don't win here, the holy swords will
+fall into enemy hands! We can't lose!
+
+Luminara：上
+\vo[r127]And, there we go- That's my chance-❤
+Mm-wah-❤
+
+第三騎士団団員：上
+Ahiee...❤❤
+Wh-what just...❤❤
+
+Luminara：上
+\vo[r128]Teehee-❤
+Oh, is it my turn again?*
+\vo[r129]Well then, the holy swords can't protect
+you now- Time for my special move-*
+\vo[r130]Take this- [Harem Rain Kiss]!❤
+Mmwah-❤ Chu-❤ Chu-❤ Chu-❤
+
+Luminara：上
+\vo[r131]Here I go-❤
+I'll dye you in the pleasure of my hearts-❤
+
+第三騎士団団員：上
+Ahiieee-❤ Aaaah, amazing-❤
+Aooogh...❤❤*
+Luminara...❤❤
+
+第三騎士団団長：上
+Hey, hey! Stand your ground!
+Augh! Stop! Those people are on our side!
+
+Luminara：上
+\vo[r132]Kyahaha♪
+Try your best for me-❤*
+\vo[r133]Hora- Lets get some more help-
+Mmwah- Mmm-wah-❤
+
+第三騎士団団員：上
+Yess....❤
+I fight for Luminara now...❤❤
+
+Luminara：上
+\vo[r134]Ahh- This is fun-**
+\vo[r135]See? Everyone's fighting each other until they're 
+wiped out. There aren't many soldiers left now-*
+\vo[r136]And it's all thanks to the user of the holy sword
+giving in to me-*
+\vo[r137]How about a reward? Here you go-❤
+
+Ray：上
+Aah, aaaah, directly on the...❤
+
+Luminara：上
+\vo[r138]I'll place my thick, kissy mark
+on your most pleasurable place-*
+\vo[r139]It'll feel so good, you might go mad...❤**
+\vo[r140]Mmwah- Slururp-❤
+
+Ray：上
+Ahieee-❤❤ Aaah, aaaaahhh!❤
+
+Luminara：上
+\vo[r141]Aha-❤
+Your waist just thrust upwards on it's own...*
+\vo[r142]You're not going to cum from a kiss mark are you?
+I haven't even started sucking yet-
+Mmwah-❤
+
+Ray：上
+But, but it's soo good-❤❤
+Aah, Mistress Luminara, I, I'm cumming...!❤❤
+Aaaahhh!!❤❤
+
+Luminara：上
+\vo[r143]Teehee...❤
+To cum this much just from having my kissy marks
+smeared on you...
+\vo[r144]Well then, I guess you wouldn't be
+able to endure this stimulation either then huh?
+Mmm, slurup slurp slurp...❤❤
+\vo[r145]I'll take your lipstick smeared penis,
+and suck on it inside my mouth-❤*
+\vo[r146]Slurururrp- Ommmphmphmph-❤❤
+
+Ray：上
+Ahiee, Aaahh, this, this--❤❤
+This is too much-❤❤ Aaaaah, I feel strange-❤❤*
+Mistress Luminara, Mistress Luminara-❤
+Mistress Luminaraaaaa....!❤
+
+Luminara：上
+\vo[r147]Mmmph...gulp-
+Thanks for the meal♪*
+\vo[r148]You wanted to become my slave so much,
+so I stopped just before you were about to die-
+Now when you wake, you'll be my total slave-
+\vo[r149]I'm sure you can't even understand me-
+But you're happy aren't you?*
+\vo[r150]Now, you fight for the succubus army,
+devoting yourself to me, OK? Human "saviour", 
+or should I say, Mr. "Hero"-❤ Kyahaha♪
+
+テロップ：中央
+Completely infatuated by Luminara, the hero 
+became her slave.*
+The pleasure she gave etched a deep, deep stain
+on his body, and he quickly found himself 
+without the will or reason to go against her.
+His sense of morals was changed and molded
+through her pleasures.*
+Rejoicing in his new life of pleasing her,
+he actively played a big part in helping the
+succubus army.
+And so, the story of the hero ended with him as
+a succubus goon, living the rest of his life
+as a traitor to humankind.
+
+<TK0>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Ninja Girl：上
+Fufu- So you finally caved in?**
+I thought you collapsed in front of me, but
+here you are stroking your penis- Pervert-❤*
+Because my drug increased your sensitivity,
+even just masturbating right now feels amazing
+doesn't it?
+That's it- Do it just like that,
+please, masturbate to my body while the pathetic
+sounds of your squelchy precum fill the area.
+What gets you aroused? My legs? 
+Or maybe... my breasts? Hora- I'll cup my breasts
+with my arms like this and bring them closer...
+Ahaha- You're such a fast stroker-❤ You must be 
+imagining your thingy being caught between them, 
+seeing me squee-ze my cleavage together like this.
+Everyone is fighting for their lives and here you
+are throwing it all away- But that just makes it
+feel even better doesn't it?❤
+It's OK- Don't fight it, cum-
+Hora- While I shake my breasts up and down, I'll
+move my tongue lewdly like a pseudo-fellatio-❤
+
+Ninja Girl：上
+Ahaha-❤ You orgasmed just from your imagination-❤
+Did it feel good imagining yourself getting a 
+titfuck and fellatio?*
+Though if you had endured a little longer, 
+you would have got to experience it first hand...
+Too bad you couldn't resist making yourself cum-
+
+<TK1>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Ninja Girl：上
+Ara ara- Another person?
+Giving in a masturbating...you lot aren't
+much heroes are you?
+When you saw your companion stroking to my boobs, 
+feeling so good...you just couldn't resist
+anymore could you? Teehee-❤
+Hora- Here are the breasts you wanted to see-
+I'll bounce them up and down like I did before-*
+Imagine them pumping your penis...
+Or maybe, you're imagining burying your head
+in them, as they rub all over your face?
+Your face buried in my breasts...
+Then swaying back and forth...❤
+It'd be so good it'd feel like melting-
+Ahaha- You're stroking faster-❤
+You aren't going to cum from imaging yourself
+getting a Puff-Puff are you? 
+That's right, you've waited so long for a
+real Puff-Puff...*
+Touching or not touching, I'll sway my breasts
+over you as much as you like-❤
+Aahnn-❤ You're staring so intently-
+Hora- Don't you want my breasts on your face?
+It'll be heavenly, won't it?*
+Aha, what? You want them on your face right now?
+You can endure and might cum?*
+You aren't going to cum before I give you a 
+Puff-Puff are you?*
+Hora- Aahnn- Ahnnn- Aaahnn-❤
+Listen to my lewd moans as I sway my breasts
+over your face-❤
+Fufu- Oooooh- cumm- Don't fight it-❤ Cumm-❤
+
+Ninja Girl：上
+Ahaha-❤ You came just from your imagination-❤
+You couldn't even resist until my breasts
+touched your face-❤
+Did imagining getting Puff-Puffed feel that good?
+Though if you had endured a little longer, 
+you would have got to experience it first hand...
+Too bad you couldn't resist making yourself cum-
+
+<TK2>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤*
+Fufu- So you finally caved in?**
+I thought you collapsed in front of me, but
+here you are stroking your penis- Pervert-❤*
+Because my drug increased your sensitivity,
+Even just masturbating right now
+feels amazing doesn't it?
+That's it- Do it just like that,
+please, masturbate to my body while the pathetic
+sounds of your squelchy precum fill the area.
+What gets you aroused? My legs? 
+Or maybe... my breasts? Hora- I'll cup my breasts
+with my arms like this and bring them closer...
+Ahaha- You're such a fast stroker-❤ You must be 
+imagining your thingy being caught between them, 
+seeing me squee-ze my cleavage together like this.
+Everyone is fighting for their lives, but here you
+are throwing it all away- But that just makes it
+feel even better doesn't it?❤
+It's OK- Don't fight it, cum-
+Hora- While I shake my breasts up and down, I'll
+move my tongue lewdly like a pseudo-fellatio-❤
+
+Ninja Girl：上
+Ahaha-❤ You orgasmed just from your imagination-❤
+Did it feel good imagining yourself getting a 
+titfuck and fellatio?*
+Though if you had endured a little longer, 
+you would have got to experience it first hand...
+Too bad you couldn't resist making yourself cum-
+
+Ninja Girl：上
+あはは❤妄想だけで逝っちゃった❤
+想像の中のパイズリフェラは気持ちよかった？*
+もう少し我慢できれば直接してあげても良かったのに。
+耐え切れずに自分でしごいて終わるなんてかわいそう。
+くすくす。
+
+<TK3>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Ninja Girl：上
+Ara ara- Another person?
+Giving in a masturbating...you lot aren't
+much of heroes are you?
+When you saw your companion stroking to my boobs, 
+feeling so good...you just couldn't resist
+anymore could you? Teehee-❤
+Hora- Here are the breasts you wanted to see-
+I'll bounce them up and down like I did before-*
+Imagine them pumping your penis...
+Or maybe, you're imagining burying your head
+in them, as they rub all over your face?
+Your face buried in my breasts...
+Then swaying back and forth...❤
+It'd be so good it'd feel like melting-
+Ahaha- You're stroking faster-❤
+You aren't going to cum from imaging yourself
+getting a Puff-Puff are you? 
+That's right, you've waited so long for a
+real Puff-Puff...*
+Touching or not touching, I'll sway my breasts
+over you as much as you like-❤
+Aahnn-❤ You're staring so intently-
+Hora- Don't you want my breasts on your face?
+It'll be heavenly, won't it?*
+Aha, what? You want them on your face right now?
+You can endure and might cum?*
+You aren't going to cum before I give you a 
+Puff-Puff are you?*
+Hora- Aahnn- Ahnnn- Aaahnn-❤
+Listen to my lewd moans as I sway my breasts
+over your face-❤
+Fufu- Aaah, cumm- Don't fight it-❤ Cumm-❤
+
+Ninja Girl：上
+Ahaha-❤ You came just from your imagination-❤
+You couldn't even resist until my breasts
+touched your face-❤
+Did imagining getting Puff-Puffed feel that good?
+Though if you had endured a little longer, 
+you would have got to experience it first hand...
+Too bad you couldn't resist making yourself cum-
+
+<TK4>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Drain Imp：上
+Ehehe-
+It's so kind of you to come and give me semen-*
+Does it feel good to masturbate to such a
+small child? What a pervert-❤*
+If big brother sends his energy to me,
+I get a big power up♪
+But, if that happened...
+You'd be putting your allies in trouble wouldn't 
+you? I know it feels so entrancing to stroke your
+penis, but you know what you're doing right?
+Ufufu- You know, but you can't stop stroking-
+You thought you'd have some fun with us, and
+now you're too turned on to do anything else huh?
+I'll help your sexy imagination by flicking my
+wet tongue around my mouth OK?
+Hora- Aaaaa-❤
+Fufu- Go on- Cum inside my mouth-
+Experience that blissful, traitorous ejaculation-
+Teehee-❤
+
+Drain Imp：上
+Mmm- Omph-❤ There's so much- 
+It's almost spilling over my tongue...*
+My tongue must have got you really excited
+for you to have came this much huh?
+You must be a real lolicon- Teehee-
+
+<TK5>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Drain Imp：上
+Ara ara- Another masturbator?
+The Hero's knights are just full of perverts-
+Teehee-❤
+You want to go pew pew inside the mouth of a young
+child too don't you? Even when the other man was 
+stroking his penis, you were envious weren't you?
+Hora- Aaaan-❤
+I'll open my mouth right up for big brother's 
+semen- Stroke as fast as you can-❤
+That's it- One- Two♪ One- Two♪
+Help me stop your friends-
+Stroke stroke♪ Stroke stroke♪
+Aha- Are you going to cum already?
+Here- I'll do you a service- 
+I'll touch the tip of your penis with my tongue...
+Liiick-❤
+
+Drain Imp：上
+Kyaha-❤
+The moment I touched you...you just exploded-
+So much semen...did it really feel that good?
+Thanks to big brother's semen, I've become
+even stronger now- You might all get annihilated 
+at this rate- Teehee-❤
+
+<TK6>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Drain Imp：上
+Ooh- You're masturbating to me? I'm so happy-❤**
+Being surrounded and ambushed like this...
+No one would blame you for giving up.
+So please, go ahead and stroke your penis-❤
+That's it- Stroke stroke- Just like that...❤
+While you stare at a little girl like me, 
+stroke stroke, stroke stroke...❤
+Ufufu- Your waist is twitching.
+Your balls are tensing up,
+are you going to cum already?
+That was quick- Eh? It's because I'm watching you?
+Ehehe- That makes me happy-❤
+Ok, don't fight it- Let it all out-❤
+
+Drain Imp：上
+Ommph, mmm-❤
+You went pew pew pew so much...❤*
+Thanks to my big brother, I'm even stronger
+now- Thank you so much-❤ Ehehe-
+
+<TK7>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Drain Imp：上
+Ehehe- Another person started masturbating?
+Wow- Everyone here is a mindless monkey-*
+Touched by our hands, stroked by our feet...
+If you're a man, it's impossible to resist 
+getting aroused- 
+You can't help it-❤ That's right, you can't
+fight it-❤ You're only a man after all-❤
+See? There's no need to stop stroking-
+Even when a little girl like me looks down on
+you with a big grin... Stroke stroke- Stroke 
+stroke-❤ Stroke stroke- Stroke stroke-❤
+That's it- You're doing great- Do it like that and
+you'll be devoting semen to succubus in no time-
+You're going stroke and pew pew so much semen-
+Ahaha-❤ Your waist is already twitching,
+are you going to cum already? Does being looked
+down on by a girl feel that good?
+Ehehe- You've already become my slave now-
+I'm so glad-❤
+Don't fight it- Spurt it all out for me-❤
+
+Drain Imp：上
+Uwaah-❤
+You when pew pew pew so much...❤
+So much delicious raw energy-❤
+Thanks to big brother's semen, I've become even
+stronger now- Good boy- You did super 
+duper well-❤ Teehee♪
+
+<TK8>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Sniper：上
+Ara ara- Someone started masturbating to me.**
+Maybe you're more relaxed now that your
+reinforcements are here? Well, it would be
+helpful to have one less enemy to deal with.
+Hey- So how did you get aroused?
+Did you end up falling in love with me, charmed
+by my arrows? Or maybe you just wanted to 
+stroke your penis, or something-
+Or were you wanting me to suck on you with my
+mouth? I'm sure you'd be happy with either, ufufu-
+Feels good doesn't it? Forget about all those 
+important things. Surrender and jerk off to me-
+Aren't the feelings of immorality irresistible?
+You might think being a pervert is the worst, 
+but I don't think so- Although maybe it's
+because I'm a succubus.
+I think perverts like you are cute-
+Hora- Surrender and ejaculate to me.
+I'll pick you up later and keep you in my house-
+Wouldn't you like that?
+Fufu- So you do. Your stroking is getting faster-❤
+Now then- I wonder how skillful your first energy 
+devotion will be? Teehee-❤
+
+Sniper：上
+Whoa, such a huge amount...❤
+You creamed out a lot didn't you- 
+You did an amazing job-❤
+I wouldn't mind having you as a sex slave
+at all- Ufufu-*
+It seems you can hardly move already,
+so just sleep here for a bit. 
+I'll come for you later OK?❤ Mwah-❤
+
+<TK9>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Sniper：上
+Ara- Another masturbator? When the reinforcements 
+came I thought we were going to be in a pinch,
+but then you guys just do this, huh-
+Perhaps, you'd like to be my sex slave too?
+Ah, but I'm sorry-
+I already have enough pets as it is.
+I only the people who come first get to be my
+sex slaves. So you're going to just shoot out all 
+your energy and become my food instead.
+You might not like it,
+but it'll feel really good-
+Hora- Watch my foot in front of your face.
+Ufufu- The moment you sniffed my foot, 
+your facial expression melted didn't it- 
+Go ahead, melt for me. I'll send you to heaven.
+With your mind dyed pink, fall into bliss and cum
+spewing your creamy semen as you stroke-
+Hora- Cum for me-❤ Pervert-❤
+
+Sniper：上
+Aha- You came an amazing amount-
+Did it feel good to cum sniffing my perfumed foot?*
+Your body mummified surprisingly quickly
+didn't it? No movement at all-❤
+Bye bye-❤ You were delicious-
+
+<TK10>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Sniper：上
+Ara ara- Someone started masturbating to me.**
+Maybe you're more relaxed now that your
+reinforcements are here? Well, it would be
+helpful to have one less enemy to deal with.
+Hey- So how did you get aroused?
+Did you end up falling in love with me, charmed
+by my arrows? Or maybe you just wanted to 
+stroke your penis, or something-
+Or were you wanting me to suck on you with my
+mouth? I'm sure you'd be happy with either, ufufu-
+Feels good doesn't it? Forget about all those 
+important things. Surrender and jerk off to me-
+Aren't the feelings of immorality irresistible?
+You might think being a pervert is the worst, 
+but I don't think so- Although maybe it's
+because I'm a succubus.
+I think perverts like you are cute-
+Hora- Surrender and ejaculate to me.
+I'll pick you up later and keep you in my house-
+Wouldn't you like that?
+Fufu- So you do. Your stroking is getting faster-❤
+Now then- I wonder how skillful your first energy 
+devotion will be? Teehee-❤
+
+Sniper：上
+Whoa, such a huge amount...❤
+You creamed out a lot didn't you- 
+You did an amazing job-❤
+I wouldn't mind having you as a sex slave
+at all- Ufufu-*
+It seems you can hardly move already,
+so just sleep here for a bit. 
+I'll come for you later OK?❤ Mwah-❤
+
+<TK11>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Sniper：上
+Ara- Another masturbator? When the reinforcements 
+came I thought we were going to be in a pinch,
+but then you guys just do this, huh-
+Perhaps, you'd like to be my sex slave too?
+Ah, but I'm sorry-
+I already have enough pets as it is.
+I only the people who come first get to be my
+sex slaves. So you're going to just shoot out all 
+your energy and become my food instead.
+You might not like it,
+but it'll feel really good-
+Hora- Watch my foot in front of your face.
+Ufufu- The moment you sniffed my foot, 
+your facial expression melted didn't it- 
+Go ahead, melt for me. I'll send you to heaven.
+With your mind dyed pink, fall into bliss and cum
+spewing your creamy semen as you stroke-
+Hora- Cum for me-❤ Pervert-❤
+
+Sniper：上
+Aha- You came an amazing amount-
+Did it feel good to cum sniffing my perfumed foot?*
+Your body mummified surprisingly quickly
+didn't it? No movement at all-❤
+You were delicious- Bye bye-❤ 
+
+<TK12>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Boobie Healer：上
+Ehh-?❤ You finally managed to take us down from 
+the cliff, and now you start masturbating?
+I don't believe it-❤
+Perhaps seeing my breasts this close up was enough
+to melt your willpower and leave you unable to 
+resist huh? Boobie Boy-❤
+Hm-? Chanting "boobs..." "boobs..." so much...
+You really are aroused aren't you? Maybe this 
+cleavage-emphasizing pose is too much...
+For example, I bounce left are right, like this...
+Teehee-❤ Your eyes are hopelessly locked on to
+my breasts as you stroke- What a pervert-❤
+You're like a devoted lap dog-
+Even if things got serious, you wouldn't be able
+to run away from my breasts at all wouldn't you?
+Hora- I'll bring them closer to your face.
+Breathing in the aroma of my breasts through
+your nose, enjoying the sight of my soft breasts,
+and then...
+Stroking yourself until you cum-❤
+(Giggle) A suitable end for a pathetic man-❤
+
+Boobie Healer：上
+Ahnn-❤
+Such vigor, it all flew onto my breasts-*
+Even though you handed all your energy over to the
+enemy, you look so happy-❤ I guess masturbating 
+to breasts just feels that good- Teehee-❤
+
+<TK13>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Boobie Healer：上
+Aha- When you see my breasts this close,
+resisting eventually becomes impossible, doesn't it?*
+Even just walking causes my breasts to bounce
+and sway. Men can't endure it at all-❤ Teehee-❤*
+We never wanted to resort to violence, I just 
+wanted to offer you something to masturbate to. 
+For instance, by covering my nipples like this...
+Teehee-❤ What-? Do you want to see them
+that badly? Oh, what should I do...?*
+Hora- I'll bring my boobs closer to your face...
+Mm, you might be able to see them
+with a closer look-
+(Giggle) You're already breathing heavily on my
+breasts- Well then, A new ally deserves
+a blessed hug from me-
+Squeeze---❤
+
+Boobie Healer：上
+Ahaha- You ejaculated while convulsing-
+My breasts must have felt that good I guess-❤*
+And I didn't even get to show you my nipples...
+But then, if you were this satisfied it probably
+would haven't mattered to you anyway right?
+Would anyone else like a hug inside my cleavage?
+My tight embrace is the best- 
+
+<TK14>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Boobie Healer：上
+(Giggle) You actually came over.
+You must really want a hug-*
+Mmm, but there's not much time,
+so I'll make this quick OK?
+Sit down over there and masturbate...
+Mmhm- Keep stroking, just like that...❤
+Ok, let's go- A blessed hug to our new ally, for
+supporting his enemies with energy...❤ Squeeze-❤
+
+Boobie Healer：上
+There we go- A nice, quick ejaculation-❤
+That was too easy-❤*
+This feeling of having people devote more and more
+energy is wonderful-❤ Keep on coming everyone-
+
+<TK15>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+She's just too damn erotic...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Croix：上
+Ara ara- So you started jerking yourself off?
+Being cornered, and now this. 
+You're rather pathetic aren't you?❤
+Does it feel good to stroke your penis while 
+staring at my legs?
+Teehee...❤
+Look- Everyone on the cliff is laughing at you.**
+They came intending on fighting the hero, but now 
+you're giving them a masturbation show- What do 
+you feel when being laughed at? Satisfaction?
+Ara ara... It seems the voices of everyone's 
+laughter makes you feel even better-❤*
+I can hear the sounds of squishy precum with
+every stroke of your hands pumping your penis...
+Fufu- What a bad boy-
+Hm? You're going to cum already?
+Well, that was quick-*
+It's OK- 
+Show me. Cum-❤
+
+Croix：上
+Ara ara- That sure was a lot.
+Were you really that satisfied looking at my
+legs? Teehee-❤
+Masturbating like a fool, in the end, your life
+is worthless before my feet-❤
+Fitting for a masochist, isn't it?
+It's OK if others want to join in too-
+When you masturbate and submit here, you'll
+cum faster than you think-
+
+<TK16>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+She's just too damn erotic...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Croix：上
+(Giggle) Another masturbator?
+I guess they really do come if you call them-
+Perverts-❤
+Hora- Submissive boys get rewards.
+Stroke in time with the clap of my hands.*
+Ready? One two one two♪ Stroke stroke,
+stroke stroke♪ Stroke stroke stroke stroke-❤
+Kuhu- Stroking as the enemy tells you to, 
+showing off your moaning face... 
+You're really making a fool of yourself-
+Look- Everyone on the cliff is laughing at you-
+They're making fun of everyone who defects by
+jerking off to us-❤
+Ara ara- Even though you're being make fun of,
+it just feels too good-
+I can hear the sounds of squishy precum with
+every stroke of your hands pumping your penis...❤
+Fufu- What a bad boy-
+Hm? You're going to cum already?
+Well, that was quick-*
+It's OK- 
+Show me. Cum-❤
+
+Croix：上
+Ara ara- That sure was a lot.
+Were you really that satisfied looking at my
+legs? Teehee-❤
+Masturbating like a fool, in the end, your life
+is worthless before my feet-❤
+Fitting for a masochist, isn't it?
+It's OK if others want to join in too-
+When you masturbate and submit here, you'll
+cum faster than you think-
+
+<TK17>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+She's just too damn erotic...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Croix：上
+Teehee-❤ Why are you masturbating in front of me?
+Your reinforcements have arrived and your army 
+is about to seize victory...
+(Giggle) I guess someone like you wouldn't 
+understand. Boys think with their penis
+after all.
+I show off my curvaceous legs, and their mind 
+melts, helplessly stroking their penis even
+if they were winning before. Teehee-❤
+Hmm- Doesn't it feel good to stroke?-
+Mmhm- I bet it does...*
+Even though your stroking efforts will help me
+drain your companions...you aren't thinking of
+such thoughts right now-
+I say, you must have fought a lot of succubus-
+Has your mind become pure pink from reaching 
+the limit of your endurance? Teehee-❤
+
+Croix：上
+Aha-❤
+Just from being laughed at, you couldn't stop 
+yourself from cumming-❤ But it's OK to be easy-
+Now, thanks to your energy, I'll be able to 
+squeeze your other companions too-*
+Someone could have saved you if you had endured
+a little longer, but now they might lose thanks
+to you, my little unresisting baby-❤ Teehee-❤
+
+<TK18>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+Breasts....❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Mileena：上
+\vo[mi158]Ah-❤
+You're stroking your penis for me?
+That's amazing-❤
+\vo[mi159]"I acknowledge my defeat, so make me feel good..."
+You're a very good boy for begging to a succubus
+like that- Well done- Well done-❤
+\vo[mi160](Giggle) Anything I can do to help?
+Hm? You'd like to see my breasts?*
+\vo[mi161]Of course, I don't mind-❤
+Hora- Look as much as you like-❤ Boing-❤*
+\vo[mi162]Aha-❤ Your eyes are glued to my nipples- Just
+having them out like this is super erotic right?
+And, hora- When they sway-❤ When they swing...
+\vo[mi163]Ufufu♪ Your stroking got faster-
+You can cum anytime- Don't hold back-❤
+Hora- Stroke stroke- Pew pew-❤
+
+Mileena：上
+\vo[mi164]Ufu- You sure came a lot-❤
+Let me give your head a pat- Good boy- Good boy-❤*
+\vo[mi165]You can take a nap if you like-
+Devoting energy to succubus can be so
+exhausting don't you think?
+\vo[mi166]Sweet dreams-
+Teehee...❤
+
+<TK19>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+Breasts....❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Mileena：上
+\vo[mi167]Aha-❤
+Did you start stroking your penis too?
+That's amazing-❤
+\vo[mi168]"I acknowledge my defeat, so make me feel good..."
+You're a very good boy for begging to a succubus
+like that- Well done- Well done-❤
+\vo[mi169](Giggle) Anything I can do to help?
+Hm? boobs for you too? Everyone likes breasts
+don't they? Teehee-❤
+\vo[mi161]Of course- I don't mind-❤
+Hora- Stare as much as you like-❤ Boing-❤*
+\vo[mi162]Aha-❤ Your eyes are glued to my nipples- Just
+having them out like this is super erotic right?
+And, hora- When they sway-❤ When they swing...
+\vo[mi163]Ufufu♪ Your stroking got faster-
+You can cum anytime- Don't hold back-❤
+Hora- Stroke stroke- Pew pew-❤
+
+Mileena：上
+\vo[mi164]Ufu- You sure came a lot-❤
+Let me give your head a pat- Good boy- Good boy-❤*
+\vo[mi165]You can take a nap if you like-
+Devoting energy to succubus can be so
+exhausting don't you think?
+\vo[mi166]Sweet dreams-
+Teehee...❤
+
+<TK20>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+Breasts....❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Mileena：上
+\vo[mi170]Teehee-❤
+Just when I think you've finally reached me,
+you end up masturbating-
+\vo[mi171]Did you come here just to masturbate?
+You've done so well-❤*
+\vo[mi172]Mmm- Well then, I'll help you masturbate okay? 
+There's not much space, so let's make this quick.*
+\vo[mi173]I'll roll up my clothes and... Eei-❤**
+\vo[mi174]Aha-❤ Your head got wedged in my clothing-
+How is it? Doesn't it feel good to be wrapped
+between my breasts?
+\vo[mi175]Is that so? It must feel really good then-❤
+I'm so happy-❤*
+\vo[mi176]There there- You're already about to cum aren't you?-
+You want that don't you? To cum right away?
+Hora- With my boobs...Puff-Puff- Squeeeze--❤
+
+Mileena：上
+\vo[mi177](Giggle) You came immediately- Crushed by my 
+breasts, it's like you instinctively went spurt 
+and peww-ed out your nice vigorous semen-❤
+\vo[mi178]I love it when they cum smoothly like this-❤
+Anyone else want to come? Wouldn't masturbating 
+inside my clothing feel good?
+
+<TK21>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+Breasts....❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaaah...❤
+
+Mileena：上
+\vo[mi179]Oh my, I've been waiting for you-
+You're doing so well masturbating in front of meー❤*
+\vo[mi180]Well then, like I said, I'll lend a 
+hand and help you masturbate-*
+\vo[mi181]I'll roll up my clothes and... Eei-❤**
+\vo[mi182]Aha-❤ Your head got wedged in my clothing-
+How is it? Doesn't it feel good to be wrapped
+between my breasts?
+\vo[mi183]There there- You're already about to cum aren't you?-
+You want that don't you? To cum right away?
+Hora- With my boobs...Puff-Puff- Squeeeze--❤
+
+Mileena：上
+\vo[mi184](Giggle) That was quick-❤
+That was a really fast ejaculation-❤
+Being crushed by my breasts felt amazing didn't it?❤
+\vo[mi185]I love it when they cum smoothly like this-❤
+Anyone else want to come? Wouldn't masturbating 
+inside my clothing feel good?
+
+<TK22>
+Ray：上
+Haah... Haaagh...❤
+
+Miles：上
+Uugh...❤ Dammit...❤
+
+Nobus：上
+Not good, I'm, already...❤
+
+アクティブ：上
+Aaa...❤
+
+Luminara：上
+\vo[rumi75]Ahaha-❤
+So, you just couldn't resist my magic charms?*
+\vo[rumi76]Too bad-
+No matter how much you stroke, 
+I won't let you cum- Mm, mwah-❤
+
+アクティブ：下
+Ahiee-❤ Soo goood-❤
+Luminaraaa-❤
+
+Luminara：上
+\vo[rumi77]Fufu- Now you serve me until death-
+My slave-❤
+
+<TK23>
+Ray：上
+Haah...❤ Haaah...❤
+I shouldn't... But ooogh, please...❤
+
+Miles：上
+Uuugh...❤ I'm begging you...❤
+I can't take it anymore...❤
+
+Nobus：上
+Not good, I'm, already...❤ With just one look...❤
+Oooogh, please...❤
+
+アクティブ：上
+Ooogh, please make me feel good...❤
+I'm begging you...❤
+
+Ninja Girl：上
+Ara ara- Is your resistance already at an end?
+You're actually [begging] to your enemy.
+(Giggle)
+
+Ninja Girl：上
+Well, this is the end.
+If your penis is teased, you'll submit immediately,
+men are weak aren't they?
+
+<TK24>
+Ray：上
+Haah...❤ Haaah...❤
+I shouldn't... But ooogh, please...❤
+
+Miles：上
+Uuugh...❤ I'm begging you...❤
+I can't take it anymore...❤
+
+Nobus：上
+Not good, I'm, already...❤ With just one look...❤
+Oooogh, please...❤
+
+アクティブ：上
+Ooogh, please make me feel good...❤
+I'm begging you...❤
+
+Ninja Girl：上
+Ara ara- Is your resistance already at an end?
+You're actually [begging] to your enemy.
+(Giggle)
+
+Ninja Girl：上
+Well, this is the end.
+If your penis is teased, you'll submit immediately,
+men are weak aren't they?
+
+<TK25>
+Ray：上
+Haah...❤ Haaah...❤
+I shouldn't... But ooogh, please...❤
+
+Miles：上
+Uuugh...❤ I'm begging you...❤
+I can't take it anymore...❤
+
+Nobus：上
+Not good, I'm, already...❤ With just one look...❤
+Oooogh, please...❤
+
+アクティブ：上
+Ooogh, please make me feel good...❤
+I'm begging you...❤
+
+Drain Imp：上
+Kuhuhu- You want my to suckle out all 
+your levels? Begging to a girl in a situation 
+like this...❤ You pervert-❤
+
+Drain Imp：上
+Aha- Delicious-❤
+Lots of white stuff came out-*
+I got lots of big brother's levels.
+With this, everyone else is going to be
+in trouble now- Teehee-❤
+
+<TK26>
+Ray：上
+Haah...❤ Haaah...❤
+I shouldn't... But ooogh, please...❤
+
+Miles：上
+Uuugh...❤ I'm begging you...❤
+I can't take it anymore...❤
+
+Nobus：上
+Not good, I'm, already...❤ With just one look...❤
+Oooogh, please...❤
+
+アクティブ：上
+Ooogh, please make me feel good...❤
+I'm begging you...❤
+
+Drain Imp：上
+Ahn- A grown man like you begging a 
+small girl to make you feel good...❤
+Kuhu- It's pretty disgusting.
+But, I'm a kind person, so if that's what my
+big brother wants, then I'm OK with it-❤
+Be thankful OK?
+
+Drain Imp：上
+Whoa, it's all spewing out-
+So much delicious power...❤*
+What a blissful resting face-
+You must have been happy you pleaded to me-
+Teehee-❤
+
+<TK27>
+Ray：上
+Haah...❤ Haaah...❤
+I shouldn't... But ooogh, please...❤
+
+Miles：上
+Uuugh...❤ I'm begging you...❤
+I can't take it anymore...❤
+
+Nobus：上
+Not good, I'm, already...❤ With just one look...❤
+Oooogh, please...❤
+
+アクティブ：上
+Ooogh, please make me feel good...❤
+I'm begging you...❤
+
+Croix：上
+I see, so you want to be drained by my legs?
+You might die, but you're still begging
+me to drain you anyway...
+Fufu- Humans are truly sad, pathetic beings-
+All that power you've gained until now,
+I'll feast on it all-❤
+
+Croix：上
+Mmm---❤ Disappointing.
+You've dirtied the sole of my foot 
+with your semen-
+
+<TK28>
+Ray：上
+Haah...❤ Haaah...❤
+I shouldn't... But ooogh, please...❤
+
+Miles：上
+Uuugh...❤ I'm begging you...❤
+Those breasts...I can't take it anymore...❤
+
+Nobus：上
+Not good, I'm, already...❤ With just one look...❤
+Oooogh, please...❤
+
+アクティブ：上
+Ooogh, please make me feel good...❤
+I'm begging you...❤
+
+Mileena：上
+\vo[mi186]Aha- Have you already grown tired of fighting?
+You just want to entrust your body as much as you
+can to the things that feel good don't you?-
+\vo[mi187]That's OK- Hora...❤
+I'll stroke you in pleasure with my breasts-❤
+
+Mileena：上
+\vo[mi188]Aahnn...❤ You put out so much with my breasts-
+Soon you'll all be completely annihilated, won't you?
+Teehee♪
+
+<TK29>
+Ray：上
+Haah...❤ Haaah...❤
+I shouldn't... But ooogh, please...❤
+
+Miles：上
+Uuugh...❤ I'm begging you...❤
+Those breasts...I can't take it anymore...❤
+
+Nobus：上
+Not good, I'm, already...❤ With just one look...❤
+Oooogh, please...❤
+
+アクティブ：上
+Ooogh, please make me feel good...❤
+I'm begging you...❤
+
+Mileena：上
+\vo[mi189]Even though the reinforcements came,
+here you are, begging to an enemy succubus-*
+\vo[mi190]Perhaps you just weren't able
+to withstand the sight of my breasts?
+Teehee-❤
+\vo[mi191]Hey- So how should I make you feel good? Shall I 
+seduce you lots with my breasts? Or...I could jerk
+you off with your face buried between my tits?
+
+選択肢：1
+\wdb[32]
+\wdb[97]
+
+Mileena：上
+\vo[mi192]So, you want to be aroused, gazing at my breasts-
+Puff-Puff-, Paizuri... Enjoy it lots OK?
+
+Mileena：上
+\vo[mi193]So you want me to stroke your penis while
+suckling and kissing my breasts?
+Ok- I'll cure your desires-❤
+
+Mileena：上
+\vo[mi194]Ahnn...❤ You put so much out with my breasts-
+Everyone tried so hard to turn the tables on us,
+but they're just going to be annihilated anyway♪
+
+<TK31>
+Ray：上
+Haah...❤ Haaah...❤
+I shouldn't... But ooogh, please...❤
+
+Miles：上
+Uuugh...❤ I'm begging you...❤
+I can't take it anymore...❤
+
+Nobus：上
+Not good, I'm, already...❤ With just one look...❤
+Oooogh, please...❤
+
+アクティブ：上
+Ooogh, please make me feel good...❤
+I'm begging you...❤
+
+Sniper：上
+You're not asking me to spare you, but begging me
+to end you? Pfft- I just don't get it.*
+Humans are truly weak to sexual desires-
+Very well, I'll do some things that'll feel good-❤
+
+Sniper：上
+Aha- So much creamy semen came out,
+looks like you enjoyed every second of it.
+You didn't come here just to beg to me, did you?
+
+<TK32>
+Ray：上
+Haah...❤ Haaah...❤
+I shouldn't... But ooogh, please...❤
+
+Miles：上
+Uuugh...❤ I'm begging you...❤
+I can't take it anymore...❤
+
+Nobus：上
+Not good, I'm, already...❤ With just one look...❤
+Oooogh, please...❤
+
+アクティブ：上
+Ooogh, please make me feel good...❤
+I'm begging you...❤
+
+Sniper：上
+You're not asking me to spare you, but begging me
+to end you? Pfft- I just don't get it.*
+Humans are truly weak to sexual desires-
+Very well, I'll do some things that'll feel good-❤
+
+Sniper：上
+Aha- So much creamy semen came out,
+looks like you enjoyed every second of it.
+You didn't come here just to beg to me, did you?
+
+<TK30>
+Ray：上
+Haah...❤ Haaah...❤
+Luminaraaaa... Oogh... I'm begging you...❤
+
+Miles：上
+Uuugh...❤ I'm begging you...❤
+Damn, you despicable...But, but I can't resist...❤
+
+Nobus：上
+Not good, I'm, already...❤ With just one look...❤
+Oooogh, please...❤
+
+アクティブ：上
+Ooogh, please make me feel good...❤
+I'm begging you...❤
+
+Luminara：上
+Kyah! Oh? What is this-?
+You're pleading, to me?*
+Even though your reinforcements have arrived, you 
+just couldn't resist my blown kisses could you?-
+Lo-ser-❤ Lo-ser-❤
+Aha- Did that make you angry? But that's too bad,
+complainy boys don't get to do anything lewd with 
+me! Hora- Beg properly this time-
+
+選択肢：1
+\wdb[96]
+\wdb[95]
+\wdb[90]
+
+Luminara：上
+Aha- So you want a lot of sniper kisses?
+Being hit by long range kisses at close range 
+like this, might wipe your brain clean out-❤
+
+Luminara：上
+(Giggle)
+You want to ejaculate into depravity as my slave? 
+What a pervert-❤
+
+Luminara：上
+You want handjobs and paizuri?
+Ooh- So that's why you can't go against your
+rock hard penis huh? I'll make you cum at once-❤
+
+Luminara：上
+Kyaha- You came a lot-
+What a bad, bad penis, letting the enemy leader
+recover like that-❤
+
+<TK33>
+Ray：上
+Haah...❤ Haaah...❤
+This is bad but... Breasts....❤
+Ooogh... I'm begging you...❤
+
+Miles：上
+Uuugh...❤ I'm begging you...❤
+I can't take it anymore...❤
+
+Nobus：上
+Not good, I'm, already...❤ With just one look...❤
+Oooogh, please...❤
+
+アクティブ：上
+Ooogh, please make me feel good...❤
+I'm begging you...❤
+
+Boobie Healer：上
+So when I sway my breasts, 
+your penis gets so helplessly turned on that you 
+just give in on your own?- Teehee-❤
+Well? Do you want to continue watching my 
+boobs dance? Or maybe...you'd like to insert
+your penis between them and feel even better-❤
+
+選択肢：1
+\wdb[93]
+\wdb[32]
+
+Boobie Healer：上
+Ufufu- So you want to continue watching my breasts-
+Very well- I'll make sure to arouse you lots-❤
+
+Boobie Healer：上
+So you want to get a paizuri and Puff-Puff with my
+breasts? Boys really love breast play don't they?❤
+
+Boobie Healer：上
+Ahnn- You came so much-❤ My boobs are dripping 
+with white, creamy semen... It's so sexy-
+Teehee-❤
+
+<TK34>
+Ray：上
+Haah...❤ Haaah...❤
+This is bad but...Breasts....❤
+Ooogh... I'm begging you...❤
+
+Miles：上
+Uuugh...❤ I'm begging you...❤
+I can't take it anymore...❤
+
+Nobus：上
+Not good, I'm, already...❤ With just one look...❤
+Oooogh, please...❤
+
+アクティブ：上
+Ooogh, please make me feel good...❤
+I'm begging you...❤
+
+Boobie Healer：上
+Ara ara- Even during a war,
+you're begging for the pleasure of my breasts-*
+So, how should we do this? Would you like me to
+arouse you even more with my breasts? Or perhaps 
+you want something like a paizuri or Puff-Puff?❤
+
+選択肢：1
+\wdb[93]
+\wdb[32]
+
+Boobie Healer：上
+You want to cum as your mind goes all lovey dovey,
+seduced by the lewd temptations of my breasts?
+Fufu- What a pervert-❤
+
+Boobie Healer：上
+So you want me to pleasure your penis directly.
+Ok- I'll use my breasts to make you cum right
+n-o-w-❤
+
+Boobie Healer：上
+Ufu- Semen leaks with every throb of your penis...❤
+You're really cumming a lot huh-
+My breasts are amazing aren't they? Ufufu-
+
+<TK35>
+Ray：上
+Haah...❤ Haaah...❤
+This is bad but...Breasts....❤
+Ooogh... I'm begging you...❤
+
+Miles：上
+Uuugh...❤ I'm begging you...❤
+I can't take it anymore...❤
+
+Nobus：上
+Not good, I'm, already...❤ With just one look...❤
+Oooogh, please...❤
+
+アクティブ：上
+Ooogh, please make me feel good...❤
+I'm begging you...❤
+
+Boobie Healer：上
+Ara ara- Even during a war,
+you're begging for the pleasure of my breasts-*
+So, how should we do this? Would you like me to
+arouse you even more with my breasts? Or perhaps 
+you want something like a paizuri or Puff-Puff?❤
+
+選択肢：1
+\wdb[93]
+\wdb[32]
+
+Boobie Healer：上
+You want to cum as your mind goes all lovey dovey,
+seduced by the lewd temptations of my breasts?
+Fufu- What a pervert-❤
+
+Boobie Healer：上
+So you want me to pleasure your penis directly.
+Ok- I'll use my breasts to make you cum right
+n-o-w-❤
+
+Boobie Healer：上
+Ufu- Semen leaks with every throb of your penis...❤
+You're really cumming a lot huh-
+My breasts are amazing aren't they? Ufufu-
+
+<OP0>
+テロップ：中央
+Skip the opening?
+
+選択肢：1
+奇襲開始までスキップ
+援軍到着までスキップ
+いいえ
+
+<OP2>
+テロップ：中央
+....**
+It was the dawn of morning.
+The time to depart had finally arrived.*
+We gathered in secret at the back of the castle,
+careful to not attract public attention.*
+At the front gate, they seemed to be hosting
+a grand departure ceremony. I could even hear the 
+cheers of the townsfolk as the knights departed.
+
+Miles：上
+Ah, I'd love to join them if I could...
+Get a load of those cheers!
+
+Nobus：上
+At long last, the final battle.
+Right, let's do our best!
+For our country...!
+
+Mizuhide：上
+Good morning everyone.
+Please forgive me for treating you all as 
+I did last night.
+As discussed, Ray's forces will stand stationed 
+in the village a little further out from here.
+After I join you, we'll head to our destination.
+
+Miles：上
+Roger that. We might not be able to leave out the
+front, but being part of a secret service is 
+something I can get behind!
+There'll be time for festivities once the
+fight is over!
+
+Soldier：上
+Sir Ray, Sir Miles!
+We've waited for your arrival.*
+We were all quite confused, being sent to
+such a place.*
+The Knights of the Royal Capital have departed
+towards enemy territory.
+Have we been excluded because we are newcomers?
+
+Miles：上
+Heh, nothing of the sort. Rest easy!**
+I can't give exact details, but we've been tasked 
+with an especially important mission.
+A special plan for the battle with the enemy.
+There is not much time. We'll arrive soon.
+We must match the timing of our main forces'
+attack!
+
+Soldier：上
+Oh! You can count on us!
+
+テロップ：中央
+And so we rejoined with the rest of our forces,
+and headed towards the target destination.*
+While taking careful attention that we weren't 
+being followed, we traveled through the rugged
+mountain pass in the direction of the village.
+
+Mizuhide：上
+It's getting quite dark isn't it?
+Shall we set up camp and rest for the day?
+
+Miles：上
+Fine by me! There's a little opening over there 
+where we can set up camp.
+Sound good Ray?
+
+Ray：上
+...♪
+
+Nobus：上
+I'm on watch duty tonight.
+Get a good rest for tomorrow you two.
+
+テロップ：中央
+We had nearly arrived without any major obstacles.
+Things seemed to be going smoothly.*
+But...
+
+Nobus：上
+Brrr... It's a little cold...**
+(Everyone else seems to be sleeping soundly.
+I can't see the other lookout guards, they
+must be further out.)
+(If I wanted to, 
+I could take the holy swords right now...）*
+Huh? Wait, what am I thinking...?
+
+Mileena：上
+\vo[mi57]Nobu!❤ Yoohoo-❤**
+\vo[mi58]You've been getting lots of services from me 
+until now, so I've come to receive my payment-
+
+Mileena：上
+\vo[mi59]Nobu's been very obedient, so it's time to 
+make you do [a little something that I can't]-❤
+Kyahaha-❤
+
+Nobus：上
+An, an illusion!?
+Uwaaah...❤❤
+
+Soldier：上
+Sir Ray, Sir Miles, wake up at once!
+S, something terrible has happened!
+
+Ray：上
+...!!!
+
+Miles：上
+What? Did something happen- ....Whoaa!
+
+テロップ：中央
+As we woke up, we were entirely surrounded by 
+groups of succubus on cliff tops.
+There were at least 100 of them.
+And looking back, the road we came through was
+blocked by rocks. That must have been the loud
+noise we heard earlier.
+
+Mizuhide：上
+We've been ambushed?
+In, inconceivable! 
+
+Luminara：上
+\vo[r1]Aha-❤ So you've finally noticed?
+But, you're too slow-
+You're completely surrounded-
+\vo[r2]All your information got leaked.
+We knew you were coming here from the start.
+
+Miles：上
+You, you're Luminara!
+The succubus we defeated at the Royal Capital!
+
+Luminara：上
+\vo[r3]Ah- So you remember me.
+I remember you disgraced me, how dare you!-*
+\vo[r4]I haven't forgotten our last encounter-
+Now, I have the perfect opportunity
+for revenge!
+
+Croix：上
+(Giggle) And it's not just Luminara-
+It's been awhile hasn't it? Mercenary Boys-
+
+Ray：上
+...!!
+
+Croix：上
+You've become so big and delicious compared
+to the time we met in the village-❤*
+Do you remember our promise? Now it's time for me
+to suck up all your levels in exchange 
+for your power-❤
+Ah, that's right. I didn't even introduce myself-
+I am the intermediate succubus Croix.
+Level draining is my specialty-❤ 
+It's a pleasure to meet you- Teehee-❤
+
+Miles：上
+Heh. Well I admit you've got numbers,
+but no matter how many intermediate succubi
+there are, we still have the holy swords!
+So if you think we're going to go down
+without a fight...
+
+Luminara：上
+\vo[r5]Pfft- Ahahaha!-♪
+Getting ahead of yourself are we?
+Hi-larious-❤
+
+Miles：上
+Why you...! What's so funny?
+
+Luminara：上
+\vo[r6]See this?-
+Your holy swords are with us now-
+
+Miles：上
+F, foolish...!!
+Impossible!
+
+Luminara：上
+\vo[r7]Wondering how we got the Holy Swords
+without being able to touch them?
+Well now...
+\vo[r8]That's because we had this kid steal them
+for us- Right, Nobu?❤
+
+Nobus：上
+......❤
+
+Ray：上
+Ugh...!
+
+テロップ：中央
+There on the top of the cliff with the 
+holy swords stood Nobus.*
+The hollow-eyed Nobus carried the Holy Swords to
+Luminara, doing as she instructed.
+
+Miles：上
+Nobus! What the heck are you thinking!?**
+Throw the swords back to us!
+If you don't, we'll all be annihilated!
+
+Nobus：上
+......❤
+
+Mileena：上
+\vo[mi60]Teehee-❤
+It's no use. Nobu is my puppet now-
+No matter what you say, he can't hear you.
+\vo[mi61]Good evening- I'm the captain of 
+the succubus secret intelligence force,
+the intermediate succubus Mileena。
+
+Mileena：上
+\vo[mi62]I've met Ray and Miles 
+before at the Royal Capital.
+It's been awhile-❤
+
+Miles：上
+You, you're the woman who Nobus was getting
+friendly with earlier...!
+You were a succubus the entire time!
+Damn it! Turn Nobus back!
+
+Mileena：上
+\vo[mi63]Uwaah- You're scaring me-
+Help me Nobu-❤
+
+テロップ：中央
+Mileena clung to Nobus' side, as he stared
+motionless with an entranced expression.*
+Then, as a reaction to Mileena's hug, he
+pointed his spear at us.
+
+Ray：上
+....
+
+Miles：上
+Impossible! Nobus was betraying us by leaking 
+information the entire time. *
+I don't believe it...
+The enemy has us completely surrounded...*
+The Holy Swords have been taken away,
+and if that wasn't bad enough, 
+there are 3 intermediate level succubus...
+Damn it! There's no way out...
+We've lost...
+
+Luminara：上
+\vo[r9]Ahaha!-♪ That's the face I wanted to see-
+Despair is so delicious♪*
+\vo[r10]But if you surrender now, we'll squeeze you
+dry and share sweet love like passionate lovers?
+We can make out, kiss, and feel so, so good-❤
+
+テロップ：中央
+Luminara's laughter echoed all around us.**
+Surrounded by countless amounts of voluptuous,
+seductive succubus, soldiers were already 
+losing control of their willpower.
+Did we just come here only to be defeated...?**
+In that moment, 
+Mizuhide spoke to me in a small voice that 
+Luminara and the rest couldn't hear.
+
+Mizuhide：上
+(Ray, I have a plan.)**
+(Without fighting too excessively, head everyone 
+towards the rocks over there to buy time.）*
+(Hope is not lost yet!
+Please, trust me!）
+
+<OP1>
+テロップ：中央
+Come morning,
+I was notified that our mission debrief 
+would be happening today.
+We hurried up to the conference room at the
+royal castle.*
+When we entered the room, various other 
+knights were gathered in the conference room 
+along with us.
+
+テロップ：中央
+Then, the Chancellor and Mizuhide entered the room
+as if to demand everyone's attention.
+It seemed the mission debrief was about to start.
+
+Chancellor：上
+Esteemed Knights of Order,
+I have gathered you all today with the purpose
+of invading the succubus stronghold.
+Based on the decipherment of old documents, 
+our investigation scouts have discovered the 
+enemy hideout.
+Our enemy ringleader is known as the [Queen].**
+When succubus appeared hundreds of years ago,
+it was said that they disappeared when this
+Queen was sealed.
+Today, we follow in those footsteps, and put 
+an end to the succubus by eliminating 
+the Queen directly!
+
+Mizuhide：上
+At present, we have currently determined the 
+location of the enemy castle.*
+This place surrounded by craggy mountains
+was originally an old castle inhabited by
+monsters.
+In fact, this old castle was once the place 
+where the succubus Queen was previously sealed.*
+As you can see due to its various geographical 
+features, the only route to the castle is from
+the west side.
+
+Chancellor：上
+One route that, namely, our enemies will be
+expecting us to take. This puts our forces at
+a huge disadvantage.
+To counteract this geographical disadvantage, we 
+have no choice but to overcome it with a numerical
+advantage. That is why I summoned you all here.
+Now, study this map.
+Before the road following the castle, it is
+expected we will encounter the enemy's army here.
+The enemy will retaliate with fierce resistance, 
+but if we can strike with enough force,
+I believe we can break through.
+Furthermore, under our current army formations,
+the enemies will no longer phase through our
+weapons. The odds are vastly in our favour.
+Now then, we will move to explain the detailed
+movements of each of our squads.*
+Firstly, could the Knights of the Second Order
+and the Knights of the Fourth order make
+themselves present.
+
+2nd Order Leader：上
+Understood! We await your command.
+
+Miles：上
+(Hmm... Now that I can see the map, the road is 
+pretty wide. Wide enough for even a considerably 
+sized army to invade.）
+(But, an attack such as this might not be as 
+well suited for us.）*
+(Our forces are still small. 
+The other knights vastly outnumber us.）*
+(Although if it wins the war, then count me in!)
+
+Mizuhide：上
+Ray, Miles, Nobus. Please come with me. 
+We'll explain the movements of the Knights of the 
+Ninth Order in a separate room.
+
+Mizuhide：上
+Now that everyone is settled,
+I'd like to explain the Ninth Order's mission.*
+The truth is, you have been tasked with an
+entirely different mission to everyone else.*
+That is, a surprise attack on the enemy
+castle. You've been tasked with the mission
+to bring down the Queen herself.
+
+Ray：上
+...!
+
+Mizuhide：上
+Though it may look like an all out attack,
+our main force is just a facade.*
+While the other knights distract the enemy with
+their showy swordsmanship, Ray's forces will make
+a surprise attack on the unarmed enemy castle.
+Then, use the power of the holy sword to quickly
+bring down the Queen before the enemy's
+main forces return.
+
+Miles：上
+I see... Even though our group is small,
+our fighting prowess is high.
+We'll take the Queen by surprise.
+So then Mizuhide, what route do we take?**
+No matter how much we attract the enemy forces,
+it'll be hard to make a surprise attack
+if this road is the only path.
+
+Mizuhide：上
+First, Ray's group will head for this town here.
+
+Nobus：上
+Huh...?**
+Isn't that a city famous for it's blacksmiths?
+Why there? It's true it's in the direction of 
+the old castle, but...
+You said earlier that we'd need to break in from
+the west side of the succubus castle, which is on
+the other side, right?
+But this village is on the east of the succubus 
+castle, opposite the main battlefield. Beats me
+how we'd infiltrate the castle this way...
+
+Mizuhide：上
+Because of the nature of this attack,
+this is a strictly confidential mission.*
+Besides the Chancellor and I, only a small group
+of knights know about this surprise maneuver.*
+No one else is aware of the details I am
+about to tell you.*
+So, I will do my best to keep convey this
+information as vaguely as possible.*
+A more in depth explanation about the surprise 
+attack will be explained later at the site.
+Forgive me for not going into details.
+
+Miles：上
+Mhmm. This is pretty strict stuff.
+Is there any reason for the concern?
+
+Mizuhide：上
+Yes.**
+Ever since the Breast Succubus Alice showed up at
+the base of the holy swords, I sense that our 
+movements are somehow being leaked.
+
+Ray：上
+...!
+
+Mizuhide：上
+Could it be possible they truly worked out the 
+location of the holy sword in the forest 
+without external information...?
+Advanced level succubus or not,
+its location would be difficult to determine,
+especially through that magical barrier.
+So although it is only a hypothesis at this 
+point, please forgive my doubts...
+
+Miles：上
+Hey, no sweat. I understand.
+Lives are at stake here.*
+The outcome of this war depends on the success 
+of this surprise attack, so extra caution 
+is to be expected.
+
+Mizuhide：上
+Your words mean much to me, thank you.**
+In order to ensure this information is contained,
+Ray's group will spend the night in the castle, 
+and arrive at the entrance come morning.
+The soldiers of the Ninth Order will not be
+given details until after the order to move out.
+I'll await you at the nearby village.
+I will join you all tomorrow in secret at the
+mentioned destination.*
+This ends our mission debrief.
+We shall meet once again tomorrow.
+
+Chancellor：上
+Wise Sage, may I talk with you for a second...?
+
+Mizuhide：上
+Of course. Right away.
+
+テロップ：中央
+Mizuhide exited the room, summoned by the 
+Chancellor.
+
+Chancellor：上
+Wise Sage, about our current strategy...**
+Some elderly wisdom to consider. Not only is it 
+important that our strategy is not leaked, it is
+also important to take precautions if it does.
+
+Mizuhide：上
+Hmm... What do you mean by that, Chancellor?
+
+Chancellor：上
+I understand we are doing everything to prevent
+information from being leaked. However, no plan
+is perfect.
+Our foes are demons that even we do not 
+understand, we have no idea what their hand 
+could be.
+An unknown foe can spur unknown outcomes.
+Therefore, when the stakes are high, it's
+vital we are prepared for any scenario.
+
+Mizuhide：上
+...!**
+I see. I had not given it thought.
+Consider me enlightened.
+
+Chancellor：上
+Is this the route the Knights of the Ninth Order
+will take...? Hmm... These geographical features,
+perhaps if...
+
+Mizuhide：上
+It is certainly a dangerous possibility...
+But, if we did this here... 
+
+Chancellor：上
+Oh, well said. If that happens, then the risk
+should be minimised without concern.*
+I would have expected no less from you, 
+Wise Sage. Outstanding work. Now then, 
+about our arrangements...
+
+<CM0>
+Miles：上
+Ugh, this isn't good Ray.
+At this rate we'll be...*
+What, flee and buy time? You sure? Even if we did
+that, we'd be annihilated!*
+I want to believe Mizuhide...**
+It's just after Nobus betrayed us, I'm having a hard
+time having faith in the words of others.*
+Dammit, I decided to follow you here.
+If you believe in Mizuhide's strategy,
+then you can count on me!
+Alright!
+If so, let's discuss tactics on how we can buy time.
+
+Miles：上
+First thing to note is that the arrangement of 
+enemy forces have been deployed mostly on the
+right hand side of us.
+The road on our side, the left side...
+seems to have fewer enemies.
+
+Miles：上
+Upon looking at the enemies long range troops,
+
+Miles：上
+See that cliff in front of us?
+It looks like the forces taking positions there
+are mostly healers.
+Considering the placement of their infantry
+and healer units, we should stall...
+
+Miles：上
+While avoiding troops through the left road,
+
+Miles：上
+And then retreat to the sturdy cover of these
+rocks. It's our best bet to stay out of range
+of the enemies' long range forces.
+The road is too narrow for more than one unit
+to pass through, and there's a great healing 
+circle here as well.
+I think if we retreat here, we might be able to
+hold out...*
+We'll need to be careful to not fall to the
+enemies' charms as well, since we don't have 
+the holy sword of wind anymore.
+Fortunately though, we still have Princess 
+Esuna's amulet. If used well, we'll be able
+to shrug off the enemies' effects to some extent.
+
+Miles：上
+By the way, speaking of the holy swords...
+
+Miles：上
+See that cliff over there?
+It's impossible to reach while being
+attacked by enemies.
+For now, we have to focus on surviving this first!
+Damn it Nobus... When I get my hands on you... 
+
+<CM1>
+Ninja Girl：中央
+Ninja Girl**
+A succubus belonging to Mileena's intelligence
+forces.*
+She specialises in assassination and gathering 
+information through approaching and 
+neutralising her targets.
+She silently sneaks up to her targets in their 
+sleep and drains their energy by squeezing them
+with either a paizuri, or cowgirl position.
+Even if a man wakes up during this, she'll seal
+his mouth with a kiss so others do not notice.
+If that happens, death is all but assured.
+Furthermore, she is an expert in medicine,
+able to control a man's aroused state at will
+with special chemicals.
+Because they usually kill to work in secret,
+those who enjoy playing with the weak 
+are rarely satisfied.
+When with men outside of assassination missions, 
+they sate their desires by teasing men by showing
+off their various endowments and skills.
+
+<CM2>
+Drain Imp：中央
+Drain Imp (Red)**
+A lesser Drain Succubus belonging 
+to Croix's forces.*
+Though not particularly strong, they can exhibit
+impressive amounts of strength when stealing
+the strength of their foes.
+The power they drain cannot be stored for long
+and will disappear after a short while.*
+However, because they gain a small amount of 
+that power each time, they end up killing large
+amounts of men to become powerful succubus.
+Though they specialise in teasing men with handjobs
+and footjobs, they enjoy blowjobs the most, 
+sucking energy directly through their mouths.
+If you let them feast on you thinking they're 
+weak, they'll drain you rapidly, and the power 
+balance will quickly shift in their favour.
+Extreme caution is advised.
+
+<CM3>
+Drain Imp：中央
+Drain Imp (Green)**
+A lesser Drain Succubus belonging 
+to Croix's forces.*
+They specialise in stealing foe's defensive
+power to protect themselves.*
+The power they drain gains them near invincible
+durability, allowing them to toy with
+their victims however they please.
+Though they are good at handjobs and blowjobs,
+footjobs are their most deadly asset, having
+many men writhe under the soles of their feet.
+And it's not just trampling, not many men can
+endure the slow stimulating movements of their
+feet either.
+
+<CM4>
+Boobie Healer：中央
+Busty Healer (Green)**
+A lesser healer succubus specialising in long
+range support belonging to Luminara's forces.
+Originally human.
+Although it's rare for a succubus to use recovery
+magic, her healing abilities were obtained 
+before she became a succubus.
+She was embarrassed by her strong sexual compulsions
+as a human, but her succubus side won over and now
+she constantly seduces men with her exposed chest.
+She is a relatively simple enemy who distracts men
+with her bouncy breasts while healing allies from
+the back lines.
+Those who let their mind wander by staring at her
+breasts will end up having their semen squeezed 
+by succubus on the front lines.
+Then, after she determines it to be safe, she
+squeezes any remaining semen out by inserting the
+weakened man's genitals between her breasts.
+
+<CM5>
+Boobie Healer：中央
+Busty Healer (Orange)**
+A lesser healer succubus specialising in long
+range support belonging to Luminara's forces.
+Originally human.
+Although it's rare for a succubus to use recovery
+magic, her healing abilities were obtained 
+before she became a succubus.
+Because she comes from a different area than 
+the green Busty Healer, her sect and clothes 
+are different.
+The two weren't acquainted with each other prior
+to becoming succubus, but after being assigned
+together they became instant close friends.
+If sent together on the same mission, they'll
+work together to squeeze men's semen until
+there's no more.
+Men who experience their double paizuri will
+meet their end ascending to heaven without 
+exception.
+
+<CM9>
+Sniper：中央
+Sniper**
+A long range support lesser sniper succubus 
+belonging to Luminara's forces.*
+On the topic of long range attacks, bows lack 
+in power on the battlefield compared to magic,
+so they're not often used in combat.
+But in her case, the magical arrows she fires with
+her bow makes up for its power with tremendous range.*
+A man hit by her magic infused arrows will 
+instantly become numb with pleasure, collapsing
+on the spot.
+Most importantly however, is her trademark [Bow of 
+Seduction]. Those who are hit by it will lose all
+sense of reason and will mindlessly pursue sex.
+Then, unable to do anything but shake his hips
+with desperate need, she'll move in to forcefully 
+squeeze his semen.
+Although she originally worked under Luminara,
+she currently fights under Mileena's command.
+
+<CM6>
+Luminara：中央
+Luminara**
+An Intermediate Succubus specialising in charming
+foes with her blown kisses.*
+Not being discouraged at her defeat at the royal 
+capital, she took intensive training from the 
+[Witch of Lips] and is now more powerful than ever.
+She has new, dangerous skills such as stored magic,
+magical immobilising sniper kisses, and Harem Rain 
+Kiss; a skill that can brainwash groups of foes.
+A man's willpower means nothing before her plush
+lips.*
+Those who become engulfed by the hearts produced by 
+her lips will quickly ascend to heaven and become
+her slave.
+
+<CM7>
+Croix：中央
+Croix**
+An intermediate succubus specialising in abilities
+such as Energy Drain and Level Drain. Her cohorts
+often refer to her as the "Drain Succubus".
+Although ordinary succubus cannot store the power 
+they absorb indefinitely, she can keep the power 
+she drains as her own.
+By draining various Heroes to death one by one,
+her strength gradually grew stronger, and became
+the powerful succubus she is today.
+Though she takes advantage of her huge breasts to
+squeeze semen out of males, she also likes to play
+with her prey by teasing them simply with her feet.
+If a man is made to experience her skillful 
+footwork entangled between her beautiful feet,*
+their semen will spew out in the blink of an eye,
+and her power will only continue to get stronger...
+
+<CM8>
+Mileena：中央
+Mileena**
+An intermediate succubus that infiltrated the 
+royal capital as a spy during the confusion of 
+Luminara's attack on the royal castle.
+She has the ability to plant a [seed] into the 
+minds of humans who catch her interest.*
+Humans under the influence of this [seed] will
+suffer wet dreams of her servicing them every 
+night.
+If they ejaculate during this time, then she can
+peek into their memories and view them.*
+But though this magic seems strong,
+it does have a weakness.*
+Because the [seed] feeds off its host's semen
+as a source of nutrition, if one endures the
+dreams for several days without ejaculating,
+the effect will wither, and the host will be
+free from it's control.
+However, those who are interested in Mileena are 
+rarely able to withstand her gentle and motherly 
+advancements, so most attached seeds never die.
+Because of the nature of her abilities, she has 
+control over the succubus intelligence force. 
+The succubus intelligence force being a special 
+sect that covers everything from information 
+gathering to assassination.
+Soldiers, townsfolk... The number of men that
+have had seeds planted in them is too many
+to count.
+It is vital that you never give her your trust,
+even if she cradles you sweetly in her soft 
+breasts.
