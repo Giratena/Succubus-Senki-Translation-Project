@@ -47,6 +47,10 @@ Hora, give it to me, quickly-❤
 アクティブ：上
 Ugh...❤
 
+選択肢：1
+Expose your waist
+Go against temptation
+
 Junior Student：上
 No way! You managed to resist-❤
 Amazing～❤
@@ -57,7 +61,7 @@ I wonder how much longer you can withstand
 being seduced by three girls at once...❤
 
 Junior Student：上
-That's right-❤ Hora- Submit-❤
+That's right-❤ Hora, submit-❤
 There's no point resisting-❤
 You're only stopping yourself from feeling good!
 
@@ -76,6 +80,10 @@ frustration-❤
 Junior Student：上
 Hora- Surrender...❤ Give in...❤
 Put your penis in my mouth-❤
+
+選択肢：1
+Expose your waist
+Go against temptation
 
 Junior Student：上
 Aw...
@@ -171,10 +179,10 @@ Just who are you?
 Ray：上
 ...
 
-ユミル：上
 We're mercenaries requested by the kingdom.
 My name is Miles, and this guy is Ray,
 who happens to be our leader.
+Miles：上
 
 Nobus：上
 I'm Nobus. We don't know why, but for some
@@ -236,6 +244,9 @@ Auagh...❤
 
 Junior Student：上
 Hora, just sit still, and I'll suck on it...
+選択肢：1
+Stop resisting
+Shake her off
 
 Junior Student：上
 Aaah!**
@@ -341,7 +352,7 @@ Just who are you?
 Ray：上
 ...
 
-ユミル：上
+Miles：上
 We're the mercenaries requested by the kingdom.
 My name is Miles, and this guy is Ray.
 Ray happens to be our leader.
@@ -384,7 +395,7 @@ Is help coming?*
 I can't hold up the barrier for much longer.
 I hope they arrive quickly...
 
-Middle School Girl：下
+Middle Student：下
 Hey, how long are you going to stay in there?**
 Even if you resist, you won't get anything
 out of it.*
@@ -409,7 +420,7 @@ sway this grand magician!
 No matter how much I listen to your lewd voices,
 I would never...
 
-Middle School Girl：下
+Middle Student：下
 Don't say those kinds of things...❤
 Aahn-❤
 It'll feel so good-❤ Come on Senpai-❤
@@ -439,12 +450,12 @@ Haah... Haah...**
 I can't listen to them.
 I must keep... My concentration... Ugh...
 
-Middle School Girl：下
+Middle Student：下
 Aahn-❤
 If you come out of your room,
 we can make you feel really good-❤
 
-ユミル：上
+Miles：上
 Take a look, there's a bunch
 of enemies around here.
 Say, could that be where our esteemed sage is?
@@ -680,8 +691,12 @@ All units able to act have been
 enchanted for 5 turns.
 Will you surrender?
 
+選択肢：1
+はい
+いいえ
+
 <AT3>
-Middle School Girl：上
+Middle Student：上
 Whoa!
 Damn, this person's strong...*
 Hey, why are you holding back so much?
@@ -693,27 +708,34 @@ I don't want to kill you or anything.
 Come on, just stay still for a bit.
 I'll even massage you with my breasts-❤
 
+選択肢：1
+Stare longingly at her breasts.
+Stab at her, disregarding temptation.
+
 テロップ：中央
 You were too excited to resist her advances!
 
-Middle School Girl：上
+選択肢：1
+Stare longingly at her breasts.
+
+Middle Student：上
 Ugh, I'm a failure...
 
-Middle School Girl：上
+Middle Student：上
 Ara-❤
 Thank you, you stood still after all.*
 Alright. As an expression of gratitude,
 I'll make you feel really good. Here-❤
 
-Middle School Girl：上
 Ufufu- how's the sensation of my breasts?
+Middle Student：上
 Ah, your penis is leaking precum already-❤
 It must feel really good-❤
 Your precum is making my cleavage all slimy.
 So, if I rub my breasts like this...
 It'll feel even better!-
 
-Middle School Girl：上
+Middle Student：上
 Hora, the squeezing pressure of my breasts,
 combined with the up and down movements...*
 The creamy, slimy rubbing is making
@@ -757,10 +779,17 @@ I don't want to kill you or anything.
 Come on, just stay still for a bit.
 And I'll give you the tit massage of your life-❤
 
+選択肢：1
+Stare longingly at her breasts.
+Stab at her, disregarding temptation.
+
 テロップ：中央
 You were too excited to resist her advances!
 
-Middle School Girl：上
+選択肢：1
+Stare longingly at her breasts.
+
+Middle Student：上
 Impossible! To resist my seduction...
 
 Middle School Girl：上
@@ -775,8 +804,8 @@ Ufufu- how does it feel?
 The pleasure is even better
 when you want it, right?
 
-Middle School Girl：上
 Fufu- I only just started moving them up and down,
+Middle Student：上
 and the sliminess is already
 making such lewd sounds-❤
 It's amazing, right? You're melting, right?
@@ -817,10 +846,17 @@ Hora, you can't run away when
 I sap your strength, can you?
 I'll defeat you just like this!
 
+選択肢：1
+Wait and see what happens.
+Shake her off.
+
 テロップ：中央
 You were too excited to resist her advances!
 
-Middle School Girl：上
+選択肢：1
+Wait and see what happens.
+
+Middle Student：上
 Kyah! Such power...❤
 Ugh...
 
@@ -868,8 +904,15 @@ Fufu- looks like I'll have to get serious.
 Now, observe,
 as I turn you into a slave with my eyes!
 
+選択肢：1
+Look into her eyes.
+Close your eyes.
+
 テロップ：中央
 You were too excited to resist her advances!
+
+選択肢：1
+Look into her eyes.
 
 High School Girl：上
 Good boy-❤
@@ -897,6 +940,10 @@ you become weak with pleasure.
 You can't fight it, can you?**
 Fufu- now, shower me in your pathetic ejaculation.
 Devote your energy to me.
+
+選択肢：1
+屈服する
+抵抗する
 
 High School Girl：上
 Kya, no way!
@@ -938,9 +985,15 @@ My body is beautiful, isn't it?
 All men are powerless before this body.
 Gaze upon me, and I'll show you what heaven is
 like-❤
+選択肢：1
+Stare longingly.
+Finish her.
 
 テロップ：中央
 You were too excited to resist her advances!
+
+選択肢：1
+Stare longingly.
 
 High School Girl：上
 Oooh. How could a man...?
@@ -995,8 +1048,15 @@ Instead of pain, how about pleasure?
 Come on, I'll caress you through your trousers,
 so if you could stay still for a bit...?
 
+選択肢：1
+Wait and see what happens.
+Stab at her, disregarding temptation.
+
 テロップ：中央
 You were too excited to resist her advances!
+
+選択肢：1
+Wait and see what happens.
 
 Junior Student：上
 Eyaah! How could you...
@@ -1048,9 +1108,15 @@ They're so slim and petite, aren't they?
 I'll... Step on you as long as you like so...
 What do you say? Can we forget about all this?
 Please?❤
+選択肢：1
+Wait and see what happens.
+Stab at her, disregarding temptation.
 
 テロップ：中央
 You were too excited to resist her advances!
+
+選択肢：1
+Wait and see what happens.
 
 Junior Student：上
 Ugh...
@@ -1122,8 +1188,15 @@ It'll feel so amazing and pleasurable-
 Even senpai wants to try it, right?
 Hora, come closer... I'll open my mouth...❤
 
+選択肢：1
+Wait and see what happens.
+Stab at her, disregarding temptation.
+
 テロップ：中央
 You were too excited to resist her advances!
+
+選択肢：1
+Wait and see what happens.
 
 Junior Student：上
 Uwah! Such... Barbarism...
@@ -1175,9 +1248,15 @@ It's as if I'm melting your mind when I talk
 like this, right?
 I love you...❤ You love me...❤
 Ufufu- you want to listen to me even more...
+選択肢：1
+Wait and see what happens.
+Stab at her, disregarding temptation.
 
 テロップ：中央
 You were too excited to resist her advances!
+
+選択肢：1
+Wait and see what happens.
 
 Junior Student：上
 Eh? You can't?
@@ -1246,9 +1325,15 @@ It's as if I'm melting your mind when I talk
 like this, doesn't it?
 I love you...❤ You love me...❤
 Ufufu- you want to listen to me even more...
+選択肢：1
+Wait and see what happens.
+Stab at her, disregarding temptation.
 
 テロップ：中央
 You were too excited to resist her advances!
+
+選択肢：1
+Wait and see what happens.
 
 Junior Student：上
 Eh? You can't?
@@ -1322,8 +1407,15 @@ And then out... It'll feel extremely good-❤
 And after that, you can finish me off.
 Come on, what do you say?
 
+選択肢：1
+Nod silently.
+Finish her, disregarding temptation.
+
 テロップ：中央
 You were too excited to resist her advances!
+
+選択肢：1
+Nod silently.
 
 Junior Student：上
 Noo...!
@@ -1397,8 +1489,15 @@ Please?❤
 I love you so much senpai-❤*
 Won't you let me service you with my breasts...?
 
+選択肢：1
+Wait and see what happens.
+Stab at her, disregarding temptation.
+
 テロップ：中央
 You were too excited to resist her advances!
+
+選択肢：1
+Wait and see what happens.
 
 Junior Student：上
 Aww...
@@ -1472,8 +1571,15 @@ Right? Just don't do anything-❤
 Please?❤
 Won't you let me service you with my breasts...?
 
+選択肢：1
+Wait and see what happens.
+Stab at her, disregarding temptation.
+
 テロップ：中央
 You were too excited to resist her advances!
+
+選択肢：1
+Wait and see what happens.
 
 Junior Student：上
 Uugh...
@@ -1541,9 +1647,15 @@ I wonder what would happen?
 \vo[m20]Fufu-❤ The pleasure would be so amazing you'd
 surely die-❤ Don't lie-❤ You want to taste
 my succubus boobie hold don't you?
+選択肢：1
+Stare longingly at her breasts.
+Finish her, disregarding temptation.
 
 テロップ：中央
 You were too excited to resist her advances!
+
+選択肢：1
+Stare longingly at her breasts.
 
 Moumei：上
 \vo[m21]Impossible...
@@ -1618,8 +1730,15 @@ was screaming in pleasure.
 You want to taste my succubus boobie hold too,
 don't you?
 
+選択肢：1
+Stare longingly at her breasts.
+Finish her, disregarding temptation.
+
 テロップ：中央
 You were too excited to resist her advances!
+
+選択肢：1
+Stare longingly at her breasts.
 
 Moumei：上
 \vo[m21]Impossible... To have so much willpower...!
@@ -1681,6 +1800,10 @@ robe, wasn't it? Fufu- you're all dried up,
 but at least you're happy-❤
 
 <AT14>
+選択肢：1
+Expose your waist
+Resist temptation
+
 Junior Student：上
 Teeheehee, you're actually doing it.
 What a pervert-❤*
@@ -1814,8 +1937,20 @@ Senpai's penis is so weak-❤
 Teehee-❤
 
 <AT14-2>
-Ufufu, thank you, senpai-❤**
+選択肢：1
+Expose your waist
+Resist temptation
+
+選択肢：1
+Start stroking…
+Resist temptation
+
+選択肢：1
+Bring your face closer…
+Resist temptation
+
 Junior Student：上
+Ufufu, thank you, senpai-❤**
 Hora, take out your penis,
 so I can wrap my hands around it-❤
 I can stroke you using both my hands as a pipe.
@@ -1937,6 +2072,13 @@ Moumei：上
 \vo[m190]Ho-ra, now your body is so small I can
 wrap my breasts around you...❤
 Just relax and leave everything to me. Ufufu-❤
+選択肢：1
+Give in to temptation
+Resist temptation
+
+選択肢：1
+Give in to temptation
+Resist temptation
 
 Moumei：上
 \vo[m191]Ara ara- Your body is so relaxed-❤**
@@ -2076,7 +2218,7 @@ Nobus：上
 Aah, aah, damm...❤
 Aah...❤
 
-ユミル：上
+Miles：上
 Not like this...❤
 Agh... I can't resist any longer...❤
 Curses-❤
@@ -4011,6 +4153,11 @@ How would you like to be squee-zed with these
 breasts, I wonder?
 Tell me-
 
+選択肢：1
+\wdb[32]
+\wdb[33]
+\wdb[34]
+
 Moumei：上
 You want to cum wrapped between my boobs
 don't you?❤*
@@ -4292,7 +4439,7 @@ Did that feel good, senpai?❤
 Ray：上
 Uuuugh, please make me feel good...❤
 
-ユミル：上
+Miles：上
 Ooh...❤ Please...❤
 Put me out of my misery-❤
 
@@ -4316,6 +4463,11 @@ You're so weak senpai-❤
 <OP1>
 テロップ：中央
 Skip the opening?
+
+選択肢：1
+出撃から
+ボス戦から
+スキップしない
 
 <OP0>
 テロップ：中央

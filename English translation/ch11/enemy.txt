@@ -1,11 +1,11 @@
 <(65538)Queen Mirage@2>
-アクティブ：上
+：上
 キッドナップ・サモン**
 ヒーラーを自分の近くに召喚。そして洗脳。
 体力を回復させる。*
 射程７。次ターンまでに範囲内から出ないと攫われる。
 
-アクティブ：上
+：上
 指でわっかを作って疑似手コキフェラ❤**
 こんな風にされるとたまらないのでしょう？
 大事な戦いの場面なのにね。くすくす❤*
@@ -17,13 +17,13 @@
 あっという間に昇天させてエナジーを搾りだしてあげる❤
 
 <(65538)Queen Mirage@5>
-アクティブ：上
+：上
 完全脱力パイズリ**
 相手をパイズリの甘い快楽でまったく力の入らない状
 態にする。
 
 <(65538)Queen Mirage@3>
-アクティブ：上
+：上
 感覚共有魔術
 
 <(65538)Queen Mirage@1>
@@ -3052,7 +3052,6 @@ and make your mind go pure white-*
 Forget all about fighting me, and drown in my 
 mind melting boobs♪
 Puff-Puff♪ Puff-Puff♪
-
 
 アクティブ：上
 I wonder what you think of my boobs?**
