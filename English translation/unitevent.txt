@@ -13,7 +13,7 @@ Ray：上
 ...!!
 
 タイトル：中央
-聖剣解放（光）
+Activate Holy Sword (Light)
 
 Alice：上
 \vo[a83]Uwawawah, I can't feel my body!
@@ -40,7 +40,7 @@ at this level!
 ...!!
 
 タイトル：中央
-聖剣解放（光）
+Activate Holy Sword (Light)
 
 Alice：上
 \vo[a83]Uwawawah, I can't feel my body!
@@ -81,7 +81,7 @@ O'holy wind sword! Lend me your power!
 Distill all evil and cast it to the wind!
 
 タイトル：中央
-聖剣解放（風）
+Activate Holy Sword (Wind)
 
 Miles：上
 What on earth...? 
@@ -113,7 +113,7 @@ O'holy wind sword! Lend me your power!
 Distill all evil and cast it to the wind!
 
 タイトル：中央
-聖剣解放（風）
+Activate Holy Sword (Wind)
 
 Miles：上
 What on earth...? 
