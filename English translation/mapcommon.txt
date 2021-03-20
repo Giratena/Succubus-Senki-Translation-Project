@@ -3411,7 +3411,7 @@ Ray：上
 
 <BK0>
 テロップ：中央
-発情中のため命乞いを断ることができない！
+Due to arousal, you couldn't refuse her request!
 
 <BK6>
 テロップ：中央
