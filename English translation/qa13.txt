@@ -793,19 +793,20 @@ Ray：上
 ....
 
 Miles：上
-悔やんでも仕方ねぇ。
-救えた分を喜ぼうぜ。*
-それに今後あたらしい犠牲者が出なく済む。
-これが一番重要だ。そうだろ？*
-ドレインサキュバスか・・・。
-レベルを大量に吸って力を蓄えていたから、
-女王が消滅した後も、生き残ってやがったんだな。
-他にもまだサキュバスの残党がいるかもしれねえ。
-気を抜かずにいこうぜ。
+It's only natural to mourn for the dead, but we
+should be happy for the people we saved as well.*
+This should stop any further casualties.
+That's something to be thankful for at least,
+right?
+Drain Succubus... Because they were draining so
+many levels. They were able to survive even after
+the Queen's dissaparance.
+There may be still other succubus out there in
+hiding too. We should be careful.
 
 テロップ：中央
-その後、救出された兵隊たちから、
-騎士団にお礼の品が届いた。
+After that, the rescured soldiers sent us items
+as a token of thanks.
 
 <AT17>
 テロップ：中央
