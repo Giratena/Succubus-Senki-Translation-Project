@@ -1181,19 +1181,19 @@ as a Drain Imp's level tank.
 
 <AT17-3>
 テロップ：中央
-捕虜の救出に失敗し、
-Drain Impに敗れてしまった主人公は、*
-彼女に見下ろされながら、
-情けなく、地面に横たわっていた。
+Failing to rescue the prisoners, our
+hero was captured by a Drain Imp.*
+He lay shamefuly spread out on the floor,
+as the girl looked down on him.*
 
 Ray：上
-くぅっ・・・・。
+Ough...
 
 Drain Imp：上
-くすくす❤
-女王様を倒した英雄くんも、
-ついにおちんちんの気持ちよさに負けちゃいましたね❤
-男の子はやっぱり気持ちいいことには勝てないのです。
+Teehee❤
+Even the hero who overthrew our queen, has lost
+to the pleasure of his penis❤
+Boys can't win against the pleasure, after all.
 援軍に奇襲されたりしなければ、あの谷での戦いだって
 あんなぼろぼろには・・・。
 崖の上の遠くの方にいたわたしたちは、
