@@ -1773,61 +1773,62 @@ And in the end, the violent raging and shourting
 saying "please take me back to them!!"...
 A few of us had to hold him down. I honestly
 have no idea how we carried him this far.*
-今は症状が落ち着くまで、
-地下の留置所で休んでもらっている。*
-このサキュバスの牢屋の件、
-放ってはおけないと思う。
-レイはどう思う？
+He's currently resting in the underground
+detention centre until his condition dies down.*
+About this succubus prison thing, we can't just
+let it slide. What do you say, Ray?
 
 Ray：上
-・・・・・。
+....
 
 選択肢：1
-捕まった人たちを助けに行こう
+Lets go help the people they captured
 
 Nobus：上
-うん、わかった。
-すぐに助けに行こう！
+Yes, understood.
+We'll leave immediately!
 
 Ray：上
-・・・・・！
+....!
 
 Miles：上
-あれが、その兵隊が言ってた、
-ドレインサキュバスの牢屋か。*
-小さい砦ぐらいのサイズはあるな。
-中にいったい何人捕まっているんだ？
+Is that the Drain Succubus prison that soldier
+mentioned?*
+It's about the side of the small fort.
+Who knows how many people are being held inside?
 
 Drain Imp：上
-はぅあ！王国軍が襲撃をしかけてきたのです！**
-あの顔は知っているです。
-女王様を倒した英雄の騎士団ですよ！
-このままじゃまずいのです！
+Eeek! The kingdom's army has come to attack us!!**
+I know that face, it's the hero who defeated
+the queen! This is bad, this is bad!
 
 Drain Imp：上
-むむむ・・・・・。
-こうなればここの餌たちをみんな使っちゃうのです！*
-スケルトンたちで足止めをしている間に、
-レベルを吸えるだけ吸って迎撃するのです！
+Oh no, oh no...
+We have no choice. We'll have to use all the feed
+we have!
+Put the skeletons out the front, and start
+draining as many prisoners as you can!
 
 Miles：上
-ちっ、警備の魔物のお出ましだ。**
-敵は籠城のかまえみたいだな。
-数も多いし、なかなか手ごわそうだぜ。
+Tch, they put their security demons on watch.**
+Our foes seem to have locked themselves inside.
+There seem to be many of them as well. This could
+be difficult.
 
 Nobus：上
-捕虜がどうなるか分からない。
-一刻も早く救出しよう！
+We don't know how many people they've captured,
+but we should rescue them as soon as possible!
 
 Miles：下
-おい、ノブ。
-お前また女王「様」って言っているぜ。
-サキュバスの女王に様付けして、大丈夫かよ。
-あの時、くらった術が残っているんじゃないのか？
+Hey, Nobus.
+You just said "my queen" again.
+Is it really okay to be refering to the Succubus
+Queen like that? Are you sure you're not still
+affected by anything?
 
 Nobus：下
-うわ、ほんとだ・・・。
-無意識に言ってたな。
-気を付けるよ。
-体の方は大丈夫だ。
-今は目の前の戦いに集中する！
+Aha, you're right...
+I guess it just came out without me thinking.
+I'll be careful.
+My body is ready.
+Right now, I have to focus on the fight!
