@@ -133,7 +133,7 @@ The succubus' aroma will drift into the map every
 3 turns. It lowers the affected unit's willpower
 by 3, and inflicts the 'arousal' status.*
 You can cure this status by using Princess 
-Estuna's amulet. It can be used indefinitely, 
+Etsuna's amulet. It can be used indefinitely, 
 but not consecutively. Use it wisely.
 
 <AT23>
