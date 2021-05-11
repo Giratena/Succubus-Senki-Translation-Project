@@ -7,12 +7,12 @@ Determined GirlとVillage Girlはオナニーするキャラが、
 <PL1>
 テロップ：中央
 備考：
-特になし
+No outstanding features.
 
 <PL1-2>
 テロップ：中央
 備考：
-特になし
+No outstanding features.
 
 <PL2>
 テロップ：中央
@@ -68,13 +68,13 @@ Determined GirlとVillage Girlはオナニーするキャラが、
 出撃キャラ変更
 
 テロップ：中央
-敵のステータスを上げることができます。
+Here you can choose to raise enemy stats.
 
 選択肢：1
-上げない
-魔力+5
-技+5
-力+5
+Do nothing.
+Magic+5
+Skill+5
+Strength+5
 
 テロップ：中央
 この部屋の中での弱点付与をストップできます。
@@ -138,12 +138,12 @@ the power of the wind sword is active.
 <PL14>
 テロップ：中央
 備考：
-特になし
+No outstanding features.
 
 <PL14-2>
 テロップ：中央
 備考：
-特になし
+No outstanding features.
 
 <PL13>
 テロップ：中央
