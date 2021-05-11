@@ -126,12 +126,14 @@ Determined GirlとVillage Girlはオナニーするキャラが、
 <PL10>
 テロップ：中央
 備考：
-ルミーネの特殊技は風の聖剣発動時に追加誘惑。
+Luminara has an additional seduction event when
+the power of the wind sword is active.
 
 <PL10-2>
 テロップ：中央
 備考：
-ルミーネの特殊技は風の聖剣発動時に追加誘惑。
+Luminara has an additional seduction event when
+the power of the wind sword is active.
 
 <PL14>
 テロップ：中央
