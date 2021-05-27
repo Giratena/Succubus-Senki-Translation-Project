@@ -17,30 +17,34 @@ No outstanding features.
 <PL2>
 テロップ：中央
 備考：
-初等部２の命乞いＡはＨＰゼロになった場合と
-ＨＰが残った場合でセリフ違いあり。
+The two Primary School students have different
+last request dialogue should their HP reduce
+to zero.
 
 <PL2-2>
 テロップ：中央
 備考：
-初等部２の命乞いＡはＨＰゼロになった場合と
-ＨＰが残った場合でセリフ違いあり。
+The two Primary School students have different
+last request dialogue should their HP reduce
+to zero.
 
 <PL4>
 テロップ：中央
 備考：
-「村の少女」と「Devout Girl」は彼女たちの下着を
-所持しているとオナニーのセリフが変化。
-また各キャラの前で下着アイテムを使うとイベント。
-複数体に囲まれている状況で使うと同時にしゃべる。
+The Village Girl and Devout Girl masturbation
+dialogue changes if you have their panties.
+Also, a special event occours if the item is
+used adjacent to one or more of those
+characters. 
 
 <PL4-2>
 テロップ：中央
 備考：
-「村の少女」と「Devout Girl」は彼女たちの下着を
-所持しているとオナニーのセリフが変化。
-また各キャラの前で下着アイテムを使うとイベント。
-複数体に囲まれている状況で使うと同時にしゃべる。
+The Village Girl and Devout Girl masturbation
+dialogue changes if you have their panties.
+Also, a special event occours if the item is
+used adjacent to one or more of those
+characters. 
 
 <PL6>
 テロップ：中央
