@@ -66,10 +66,10 @@ for Ray, Miles, or Nobus.
 
 <PL7>
 選択肢：1
-敵のステータス調整
-弱点付与をストップ
-ＢＧＭ変更
-出撃キャラ変更
+Adjust boss status
+Prevent fetish gain
+Change the BGM
+Change units
 
 テロップ：中央
 Here you can choose to raise enemy stats.
@@ -81,23 +81,24 @@ Skill+5
 Strength+5
 
 テロップ：中央
-この部屋の中での弱点付与をストップできます。
+Here, you can prevent any fetishes gained
+in this room.
 
 選択肢：1
-ストップする
-ストップしない
+No fetishes
+Gain fetishes
 
 テロップ：中央
-弱点付与をストップしました。
+Fetishes will not be gained
 
 テロップ：中央
-弱点付与のストップを解除しました。
+Fetishes will be gained
 
 選択肢：1
-通常ＢＧＭ
-ＢＧＭ２
-ＢＧＭ３
-ＢＧＭ４
+Normal BGM
+BGM 1
+BGM 2
+BGM 3
 
 <PL8>
 テロップ：中央
