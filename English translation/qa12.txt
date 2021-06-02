@@ -181,2214 +181,2421 @@ all identical but have different begging dialogue.*
 Dialogue will also change if a unit masturbates
 during the first turn, or if they are the last
 unit remaining.
-Queen mirage has a new line if Miles chooses to
-masturbate after preventing her sexy pose with
+Also, Queen Mirage has a new line if Miles chooses
+to masturbate after preventing her sexy pose with
 the sword of wind.
 
 <PL15-2>
 テロップ：中央
 備考：
-幻影のオナニーはセリフ共通。
-おねだりのセリフは個体ごとに異なる。
-１ターン目でオナニーした場合、
-自軍残り１人でオナニーした場合に、
-それぞれ台詞変化あり。
-ミニミラージュはユニットがレイの場合、
-オナニーと命乞いのセリフが若干変化。*
-女王ミラージュは、女王のセクシーポーズを風の聖剣
-で防いだあとにユミルでオナニーするとセリフ変化。
+The dialogue when masturbaing to an illusion are
+all identical but have different begging dialogue.*
+Dialogue will also change if a unit masturbates
+during the first turn, or if they are the last
+unit remaining.
+Also, Queen Mirage has a new line if Miles chooses
+to masturbate after preventing her sexy pose with
+the sword of wind.
 
 <AT6>
 情報：なし
-【Memory Room Instructions】
-回想部屋ではクリアしたステージの敵キャラが表示され
-ます。各キャラのイベントを見たい場合は、そのキャラの
-前まで移動してください。*
-●緑の水晶には「備考」が記されています。台詞分岐
-などについて条件を教えてくれます。
-●オレンジ色の水晶を調べると、回想について設定をす
-ることができます。
+【Recollection Room Instructions】
+Enemy characters from cleared stages are
+displayed in the Recollection Room.
+Move in front of each character
+to see their events.
+- The green crystal will display relevant notes
+about viewing a certain lines of dialogue.
+- Examine the orange crystal to change the
+Recollection Room settings.
 
 情報：なし
 【Important Info】
-回想で射精をすると、回想部位に応じた弱点が付与
-されることがあります。弱点の付与を避けたい場合は、
-オレンジ色の水晶から設定を行って下さい。
+When ejaculating in the recollection room,
+you may recieve bad statuses or fetishes.
+To avoid this, please change the relevant
+settings from the orange crystal.
 
 <AT7>
 アクティブ：上
-あっ、ああっ・・・❤
+Ahh, aahhh...❤
 
 テロップ：中央
-\actは我慢できずにオナニーを始めてしまった。**
-メイド淫魔の手袋をペニスに被せて、
-一心不乱にしごいている！
+Unable to endure any longer, \act started 
+masturbating.*
+He wrapped the succubus maid's silky gloves around
+his penis, and started stroking with intense 
+concentration!
 
 アクティブ：上
-はあっ、はぁっ❤
-こんなの、我慢できないぃ❤
-ああっ❤
+Haaah, Haah...❤
+I just can't...take it anymore...!❤
+Aaahh-❤
 
-サキュバスメイドA：上
-あらあら、わたくしたちメイドの手袋を使って、
-オナニーを始めてしまわれるのですか。*
-うふふ、少しお手伝いさせていただきますね。
-ほら、敏感な先端を手袋の上から、
-さわさわ・・・❤
+Succubus Maid A：上
+Ara ara- You're going to start stroking your 
+penis with our maid gloves?
+Ufufu- May I assist too?
+Hora- Rub the sensitive part with the tip of the
+glove, and move it around in a small circle. 
+It'll feel really good...❤
 
-サキュバスメイドB：上
-ご客人は手袋が好きなのですか？
-それとも単にわたしたちがつけていた衣類だから、
-そんなに興奮しておられるのでしょうか。
-わたくしたちの汗が、
-ほんのりとですが染みていますからね。
-おそらく催淫効果もあるのでしょう。
-竿をシコシコ、シコシコと扱いて、
-気持ちいいですか？くすくす❤
+Succubus Maid B：上
+So our guest likes the feel of our gloves on his 
+dick? Or maybe he's that way with any part of 
+clothing we wear?
+It may permeated with small traces of our sweat, 
+which can act as an lovely aphrodisiac, so that 
+may be why it feels nice.
+Go on- Stroke and rub it up and down your shaft.
+It feels divine doesn't it? Teehee-❤
 
-ダンサー：上
-あれあれ、わたしたちの踊りに見とれながら、
-メイドさんの手袋でオナニー？*
-大きなおっぱいに、ぷりんとしたお尻。
-これをこんな風に目の前で揺らして・・・❤
-ふふ、たくさんおかずにしていいよ？
+Dancer：上
+Oh me oh my- Are you rubbing your dick with 
+Ms. Maid's gloves while watching us dance?*
+My huge breasts... My big, plump ass...
+Swaying right before your very eyes...❤
+So many things you can fap to...
 
-淫魔スライム：上
-うわー、男の人って自分でやる時、
-こんな感じなんですね・・・。*
-ん？ああ、わたしのことは気にしないでください。
-侵入者さんが勝手にやられてくれるなら、
-とてもうれしいですし、ここでじーっと見てますから。
+Slime Succubus：上
+Uwah- So this is what it looks like when a man
+does it himself...*
+Hmm? Aah! There's no need to worry about me!
+But if that's what Mr. Intruder wants to do, then
+I'm happy. You can stare as much as you like...
 
-臆病サキュバス：上
-あは、もう我慢できなくてシコシコしちゃうんですかぁ？
-ダメな侵入者さんですねぇ❤*
-おっぱい揺らして少しでもお手伝い。
-ほら、たぷんたぷん、ゆさゆさ・・・❤
+Timid Succubus：上
+Aha- So you couldn't resist anymore and started
+strooooking...? What a bad, bad intruder-❤*
+Maybe a little sway of my breasts can help-♪
+Hora- Jiggle jiggle, bounce bounce...❤
 
-バード：上
-なんで舞台に上がって、
-わざわざわたしの横でしごくんですか？*
-気持ち悪い・・・。
+Bard：上
+Did you really just get up on stage just to stroke
+your penis by my side? Disgusting...
 
 アクティブ：上
-うっ、ううっ・・・❤
+Ooh, oogh...❤
 
 <AT7-2>
 アクティブ：上
-あっ、ああっ・・・❤
+Ahh, aahhh...❤
 
 テロップ：中央
-\actは我慢できずにオナニーを始めてしまった。**
-臆病サキュバスのパンツをペニスに被せて、
-夢中になってしごいている！
+Unable to endure any longer, \act started 
+masturbating.*
+He wrapped the timid succubus' soft panties around
+his penis, and started stroking with in a 
+mindless daze...
 
 アクティブ：上
-はあっ、はぁっ❤
-こんなの、我慢できないぃ❤
-ああっ❤
+Haaah, Haah...❤
+I-I... Can't resist...❤
+Aaahh-❤
 
-サキュバスメイドA：上
-あらあら、そんな過激な下着を使って、
-オナニーを始めてしまわれるのですか。*
-わたくしたちメイドに見せつけるように、
-一心不乱にしごいて・・・。
-くすくす、ずいぶん変態なお客様ですね❤
+Succubus Maid A：上
+Ara ara- You're going to start stroking your 
+penis with such lewd underwear?*
+intentionally masturbating in front of us maids,
+stroking wholeheartedly... Teehee- You are a quite
+the perverted guest-❤
 
-サキュバスメイドB：上
-ご客人はパンツが好きなのですか？
-そんな過激な布きれを何度も何度もこすりつけて・・・。*
-腰がヒクヒクと浮いてきています。
-出すならその布できれいに受け止めてください。
-床が汚れますので。
+Succubus Maid B：上
+So our guest likes the feel of panties on his
+penis? Stroking such an indecent piece of cloth
+covering his penis over and over...
+Your hips are starting to twitch and float.
+When you cum please do so neatly in that piece
+of clothing. You'll get the floor dirty otherwise.
 
-ダンサー：上
-あれあれ、わたしたちの踊りをオカズニしながら、
-サキュバスちゃんのパンツでオナニー？*
-せっかくだから、こんな風にセクシーに踊ってぇ、
-見せつけてあげる。大きなおっぱいに、
-ぷりんとしたお尻。たくさんおかずにしていいよ？
+Dancer：上
+Oh me oh my- Are you rubbing your dick with my
+little succubus panties as you watch me dance?*
+I don't see this often, so I'll show you my 
+most seductive dance for you to see.*
+My huge breasts... My plump ass... You can
+stroke to anything you like-
 
-淫魔スライム：上
-うわー、男の人って自分でやる時、
-こんな感じなんですね・・・。*
-ん？ああ、わたしのことは気にしないでください。
-侵入者さんが勝手にやられてくれるなら、
-とてもうれしいですし、ここでじーっと見てますから。
+Slime Succubus：上
+Uwah- So this is what it looks like when a man
+does it himself...*
+Hmm? Aah! There's no need to worry about me!
+But if that's what Mr. Intruder wants to do, then
+I'm happy. You can stare as much as you like...
 
-臆病サキュバス：上
-あは、もう我慢できなくてシコシコしちゃうんですかぁ？
-ダメな侵入者さんですねぇ❤*
-わたしのエッチな下着、おちんちんに被せて、
-しこしこ❤しこしこ❤*
-ほら、おっぱい揺らして少しでもお手伝い❤
-たぷんたぷん、ゆさゆさ・・・❤
-見とれていいですよぉ❤
+Timid Succubus：上
+Aha- So you couldn't resist anymore and started
+strooooking...? What a bad, bad intruder-❤*
+Covering your penis with my sexy panties, going
+stroke stroke-❤ Stroke stroke-❤*
+Maybe a little sway of my breasts can help-♪
+Hora- Jiggle jiggle, bounce bounce...❤
+Stare as much as you liiike....❤
 
-バード：上
-なんで舞台に上がって、
-わざわざわたしの横でしごくんですか？*
-気持ち悪い・・・。
+Bard：上
+Did you really just get up on stage just to stroke
+your penis by my side? Disgusting...
 
 アクティブ：上
-うっ、ううっ・・・❤
+Ooh, oogh...❤
 
 <AT8>
 アクティブ：上
-あっ、ああっ・・・❤
+Ahh, aaah...❤
 
 テロップ：中央
-\actは我慢できずにオナニーを始めてしまった。**
-パンツの匂いを嗅いだかと思うと、
-パンツをペニスに被せて、一心不乱にしごいている！
+Unable to control himself anylonger,
+\act started masturbating.*
+No sooner than he had sniffed the scent of the
+panties, he wrapped them around his penis
+and started stroking madly!
 
 アクティブ：上
-はあっ、はぁっ❤
-こんなの、我慢できないぃ❤
-ああっ❤
+Aaah, haah...❤
+I can't, resist this-❤
+Aaah-❤
 
-村の少女：上
-くすくす。我慢できないで、
-敵の女の子の隣でオナニーしちゃうんだ❤
-変態❤
+Village Girl：上
+(Giggle) I knew you couldn't resist masturbating
+with my sexy panties-❤
+What a pervert-❤
 
 Devout Girl：上
-あらあら。
-シスター様の香りでムラムラが抑えられませんか？
-敵の女の子にもらったパンツでオナニーなんてして❤
+Ara ara. Can you not control your arousal
+under the priestess' aroma? ...Masturbating
+with the panties of an enemy girl-❤
 
 Blowjob Bandit：上
-ぷぷっ。なんでいきなりオナニーなんて始めているの？
-パンツを被せて情けなくシコシコシコシコ❤
-わたしに見せつけたいのかしら？
+Pfft. Why did you suddenly start masturbating?
+Were you hoping to show me how pathetic it is to
+stroke your dick with some panties?❤
 
 Boobie Elf：上
-ええー！
-なんでいきなりパンツでオナニー始めてるの！？*
-うっわー、パンツをクンクン嗅ぎながら、
-気持ちよさそうにシコシコしてる・・・・。
-ちょっと幻滅だよー・・・。
+Whoa...?
+What on earth? This guy just started 
+masturbating with a pair of panties!
+Ooh- It looks like he's feeling good too,
+stroking while sniffing those panties...
+How delusional...
 
 Elf：上
-え？なにそのパンツ。
-どこから持ってきたの？*
-誰かのパンツで、目の前でオナニーされるとか
-なんか複雑・・・。
-変態ここに極まれりって感じね。
-うっわ、シコシコ早くなった。
-軽蔑されて気持ちよくなっちゃうんだ。
-ほんと変態ね。気持ち悪いわ。
+Huh? What's with those panties?
+Where did you get them from?*
+You'd have to be really messed up to start
+masturbating in front of someone with 
+somebody's panties...
+This goes beyond perverted...**
+Woah, you're stroking even faster-
+I guess even insults cause you to feel pleasure.
+What a true pervert. How disgusting-
 
-アルラウネ：上
-あらあら。パンツを被ってシコシコ❤
-気持ちよさそうですわね。
-わたくしの香りでおかしくなってしまいましたか？
+Alraune：上
+Ara ara- That's it, 
+stroke those panties over your penis-❤*
+I bet it feels really good, huh?
+People do such strange things under my aroma...
 
 アクティブ：上
-うっ、ううっ・・・❤
+Ugh, ooh...❤
 
-村の少女：上
-ぷぷっ、勝手にイっちゃった。
-パンツあげるだけで自爆してくれて、ほんと楽ね❤
-うふふ❤
+Village Girl：上
+Pfft, you couldn't stop yourself from cumming-
+You ruined yourself with just my panties,
+that was too easy, wasn't it?❤ Ufufu-❤
 
 Devout Girl：上
-あは。どぷどぷたくさん出ていますね。
-気持ちよかったですか？
+Ara- You went 'spurt spurt'
+everywhere, didn't you?
+Did that feel good?
 
 Blowjob Bandit：上
-すごい量の射精❤
-パンツでオナニーしてこんなに出すなんて変態ね❤
+Wow, that's so much semen-❤
+What a real pervert, cumming so much from
+masturbating with some panties-❤
 
 Boobie Elf：上
-あー・・・、どぴゅどぴゅ射精している。
-試練をほっぽり出して、
-シコシコオナニー、気持ちよかった？
+Ooh-... 
+You're leaking semen everywhere-*
+Did it feel good to stroke your penis,
+masturbating while neglecting the purpose
+of the trial?
 
 Elf：上
-くすくす。バカにされながらイっちゃった。
-それでそんなに気持ちよさそうな顔して・・・・。
-変態ってよくわからない生き物なのね。
+(Giggle) You ejaculated like an idiot, and you've
+got such a pleasure filled expression too...*
+I'll never understand these perverted creatures.
 
-アルラウネ：上
-うふふ。たっぷり出しましたね。
-気持ちよかったですか？
+Alraune：上
+Ufufu- You ejaculated so much-
+Did that feel good?
 
 <AT8-2>
 アクティブ：上
-あっ、ああっ・・・❤
+Ahh, aaah...❤
 
 テロップ：中央
-\actは我慢できずにオナニーを始めてしまった。**
-ブラの匂いを嗅いだかと思うと、
-ブラをペニスに被せて、一心不乱にしごいている！
+Unable to control himself anylonger,
+\act started masturbating.*
+No sooner than he had sniffed the scent of the
+bra, he wrapped them around his penis
+and started stroking madly!
 
 アクティブ：上
-はあっ、はぁっ❤
-こんなの、我慢できないぃ❤
-ああっ❤
+Aaah, haah...❤
+I can't, resist this-❤
+Aaah-❤
 
-村の少女：上
-あは❤すごくおっきいブラだね。
-教会のお姉さんからもらったの？
-よかったねー❤一生の宝物だねー❤
+Village Girl：上
+Whoa-❤ That's a huge bra-
+Did a lady from the church give it to you?*
+That's amazing-❤
+You should treasure it foreverー❤
 
 Devout Girl：上
-うふふ。甘い匂いがしみ込んだブラ。
-堪能していただけているようで何よりです。
-どうぞ。たくさんシコシコしてください❤
+Ufufu. That bra is filled with my sweet scent.
+It will satisfy you in ways nothing else can.
+Go ahead, stroke to your heart's content-❤
 
 Blowjob Bandit：上
-あはっ。ブラジャーを亀頭に被せてシコシコ楽しい？
-パイズリでもパフパフでもなく、ブラでイクとか、
-変態ね❤くすくす。
+Ara- Are you having fun stroking the head of your
+penis with that bra?*
+Cumming not with a paizuri or even a Puff-Puff,
+just a bra. What a pervert-❤
+(Giggle)
 
 Boobie Elf：上
-ええー！
-なんでいきなりブラでオナニー始めてるの！？*
-わたしのおっぱいを見てたら興奮してきちゃったとか？
-おっぱい好きなんだねー。
-おっぱい大好きの変態さんだ。くすくす♪
+Whoa...?
+What on earth? This guy just started 
+masturbating with a bra!
+Maybe he got aroused from seeing my breasts?**
+He must have a boobie fetish-
+A big boobie-loving pervert- Teehee♪
 
 Elf：上
-え？なにそのブラ。
-どこから持ってきたの？*
-誰かのブラで、目の前でオナニーされるとか
-なんか複雑・・・。
-わたしがおっぱい大きくないことへの当てつけ？
-確かにほかの子に比べたらおっぱい小さいかもだけど、
-それなりにあるのよ？
-ほら、見なさい。寄せてあげるから❤
+Huh? What's with that bra?
+Where did you get it from?*
+You'd have to be really messed up to start
+masturbating in front of someone with 
+somebody's bra...
+Are you implying my breasts aren't big enough?
+Well, they might be smaller than everyone else's
+but you don't really think that, right?
+Hora- Why don't you take a closer look-❤
 
-アルラウネ：上
-あらあら。ブラを被ってシコシコ❤シコシコ❤
-気持ちよさそうですわね。
-わたくしの香りでおかしくなってしまいましたか？
-わたくし、胸大きいですものね。
-おっぱい見ていて、興奮してしまうのでしょう？
+Alraune：上
+Ara ara- That's it, 
+stroke your penis with that bra- 
+Stroke stroke-❤ Stroke stroke-❤
+I bet it feels really good, huh?
+People do such strange things under my aroma...
+My breasts are really big after all-
+Maybe you got aroused from staring at them
+too much?
 
 アクティブ：上
-うっ、ううっ・・・❤
+Ugh, ooh...❤
 
-村の少女：上
-あん。どびゅどびゅって出ているよ❤
-おっぱいの妄想してオナニー、気持ちよかった？
+Village Girl：上
+Ahn... You went pew pew-❤
+Did it feel good to masturbate, deluded by
+boobs?
 
 Devout Girl：上
-ブラがすっかりべとべとですね❤
-オナニーせずとも、おねだりしてくだされば、
-直接挟んでイかせてあげましたのに❤くすくす。
+Daww, did you make my bra all slimy?❤**
+Although you didn't need to masturbate,
+I would have gladly let you cum between my
+breasts if you just asked-❤ (Giggle)
 
 Blowjob Bandit：上
-ふふっ、
-バカにされながら、ブラでオナニーして射精とか
-救いようがないわね❤
+Ufufu-
+losing your mind while ejaculating from
+masturbating to someone's bra...
+You really are beyond saving, aren't you?❤
 
 Boobie Elf：上
-あは、どぴゅどぴゅ射精しちゃったね。
-試練をほっぽり出して、
-おっぱいでシコシコオナニー。気持ちよかった？
+Ara-
+You're leaking semen everywhere-*
+Did it feel good to stare at my breasts
+while stroking your penis and neglecting the
+purpose of the trial?
 
 Elf：上
-ほら、射精した♪
-わたしのおっぱいでも興奮するでしょう？
-というか周りの子が大きすぎるのよ。ぶつぶつ・・・。
+Hora- 
+You ejaculated♪*
+Even my breasts got you aroused, huh?
+They might even be too big for you-
+Pfft...
 
-アルラウネ：上
-たくさん出しましたね❤
-オナニーのためにわざわざ森の奥まで来て、
-ご苦労様でした。くすくす♪
+Alraune：上
+Ufufu- You ejaculated so much-❤
+Thank you for coming all this way to
+masturbate for us- Teehee♪
 
 <TK0>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Haah...～❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...～❤ Dammit...～❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+This is bad... I'm, already...～❤
 
 Village Girl：上
-あれあれー？仲間を助けに来たんじゃないのかな。
-どうしてわたしのおっぱい見ながら、
-シコシコ始めちゃってるの？
+Oh, oh～❤ You're masturbating to my
+breasts too? Aren't you supposed to 
+be protecting the village?
 
 アクティブ：上
-うっ、ううっ・・・❤
+Ooh, oooh...～❤
 
 Village Girl：上
-くすくす。わたしの足元にひざまずいて、しこしこオナニー
-しちゃってる❤かわいいなぁ❤*
-もしかして、こんなおっきなおっぱい見たことないから興
-奮しちゃった？魔物のお姉さんのおっぱいなのに、我慢
-できなくなっちゃった？
-いいよ。わたしのおっぱいをじーっと見ながら、
-シコシコ♪シコシコ♪
-シコシコ❤シコシコ❤
-ほら、そのままどぴゅどぴゅ射精しちゃおうね❤
+(Giggle) You're so cute～❤ Kneeling and
+masturbating at my feet～❤*
+You lost all resistance seeing your 
+companions masturbating didn't you?*
+Mmhmm～❤ When you see these huge breasts,
+you can't help it.*
+Hora- Submit to big sister's succubus 
+titties! Stroke stroke, stroke stroke...*
+It feels so good, go pew pew just 
+like this～❤
 
 Village Girl：上
-くすくす。せっかく魅了から解放されたのに、どうして敵の
-お姉さんのおっぱいでオナニー始めてるのかな？
-そんなに我慢できなかったんだ❤
+(Giggle) You tried so hard to 
+resist our charms, so why did you start
+masturbating your big sisters breasts?～❤
+You really can't resist～❤
 
 アクティブ：上
-うっ、ううっ・・・❤
+Ooh, oooh...
 
 Village Girl：上
-ほら、特別サービスでオカズになってあげる❤
-手でつかみきれないほど、大きなおっぱいでしょ？
-これをゆっくり揺らして見せつけてあげる❤
-こうやって、たぷん❤たぷん❤って揺さぶれば、
-うふふ、見ているだけで、脳みそがとろけてきちゃうね❤*
-ほら、守るべき村のことなんて忘れて、わたしのおっぱい
-に夢中になろ？いっぱい、シコシコ❤シコシコ❤してその
-ままどぴゅって射精しちゃおうね❤
+Hora- I'll give you a special service～❤
+My tits are so big you can't grab them, can you?
+Look, I'll slowly shake them for you～
+If I go bounce, bounce～❤ 
+Swaying them like this, ufufu- 
+just a glance will melt your mind away～❤
+Hora- Forget about protecting the village and 
+fantasize about my breasts, okay?*
+Just go stroke stroke～❤ like that and
+go pew pew～❤
 
 Village Girl：上
-あは❤精液たくさん出たぁ❤
-ん、おいしい♪
+Ara～❤ You came so much～❤
+Mm, delicious♪
 
 <TK1>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Haah...～❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...～❤ Dammit...～❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+This is bad... I'm, already...～❤
 
 Village Girl：上
-あれあれー？君もわたしのおっぱいでオナニーしちゃう
-の？村のこと、守らなくていいの？
+Oh, oh? You're masturbating to my
+breasts too? Aren't you supposed to 
+be protecting the village?
 
 アクティブ：上
-うっ、ううっ・・・❤
+Ooh, oooh...
 
 Village Girl：上
-くすくす。わたしの足元にうずくまって、しこしこオナニー
-しちゃってる❤かわいいなぁ❤*
-他の仲間がおっぱいオナニーしているの見て、我慢でき
-なくなっちゃったんだよね❤うんうん❤こんなおっきなおっ
-ぱい見たことないから仕方ないもんね。
-ほら、魔物のお姉さんのおっぱいに負けて
-しこしこ、しこしこ・・・。
-気持ちいいね。そのままどぴゅって射精しちゃおっか❤
+(Giggle) You're so cute～❤ Kneeling and
+masturbating at my feet～❤*
+You lost all resistance seeing your 
+companions masturbating didn't you?*
+Mmhmm～❤ When you see these huge breasts,
+you can't help it.*
+Hora- Submit to your big sister's succubus 
+titties! Stroke stroke, stroke stroke...*
+It feels so good- Go pew pew just 
+like this～❤
 
 Village Girl：上
-くすくす。せっかく魅了から解放されたのに、どうして敵の
-お姉さんのおっぱいでオナニー始めてるのかな？
-そんなに我慢できなかったんだ❤
+(Giggle) You tried so hard to 
+resist our charms, so why did you start
+masturbating to big sister's breasts?
+You really can't resist～❤
 
 アクティブ：上
-うっ、ううっ・・・❤
+Ooh, oooh...
 
 Village Girl：上
-ほら、特別サービスでオカズになってあげる❤
-手でつかみきれないほど、大きなおっぱいでしょ？
-これをゆっくり揺らして見せつけてあげる❤
-こうやって、たぷん❤たぷん❤って揺さぶれば、
-うふふ、見ているだけで、脳みそがとろけてきちゃうね❤*
-ほら、守るべき村のことなんて忘れて、わたしのおっぱい
-に夢中になろ？いっぱい、シコシコ❤シコシコ❤してそ
-のままどぴゅって射精しちゃおうね❤
+Hora- I'll give you a special service～❤
+My tits are so big you can't grab them can you?
+Look, I'll slowly shake them for you～❤
+If I go bounce, bounce～❤ 
+Swaying them like this, ufufu- 
+just a glance will melt your mind away～❤
+Hora- Forget about protecting the village and 
+fantasize about my breasts, okay?*
+Just go stroke stroke～❤ like that and
+go pew pew～❤
 
 Village Girl：上
-あは❤
-精液たくさんありがとう❤んー、おいしい♪
+Ara～❤
+Thank you for the tons of semen～❤
+Mmmm, delicious♪
 
 <TK4>
 Ray：上
-はぁ・・、はぁ・・❤
+Haa... Haa...～❤
 
 Miles：上
-ううっ・・・❤たのむ・・・❤
-もう我慢できねぇ・・・❤
+Uooh...～❤ Please...～❤
+I can't take it anymore...～❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
-うううっ、お願いします・・・❤
+This is bad... I'm, already...～❤
+Ouuuh, please...～❤
 
 Village Girl：上
-あは❤
-自分からエッチなことしてっておねだりしちゃうの？
-ダメな男の子だねー❤
+Ara～❤
+You're begging for something lewd～❤
+What a bad boy～❤
 
 Village Girl：上
-くす❤どぴゅって射精しちゃった❤
-村を守らなきゃいけないのに、自分からお願いして、
-すっかりされるがまま。自警団失格だね❤
+Hehe～❤ You came～❤
+You had to defend the village, but you
+begged instead. What terrible mercenaries～❤
 
 <TK2>
 Village Girl：上
-きゃあ。ひどいわ。
-こんなに痛めつけるなんて。*
-ねえ・・・。お姉さんね。
-こんな野蛮なことより、もっと気持ちいいことがしたいの*
-だめ？君もしたいよね❤
+Village Girl：上
+Gah, you're so mean... Beating me up like this...**
+Hey... I'm not bad... I just wanna do stuff that 
+feels better than those barbaric things...*
+No? Come on, you know you want to～❤
 
 選択肢：1
-したい
-したくない
+Yes please!
+Well um...
 
 テロップ：中央
 Due to arousal, you couldn't refuse her request!
 
 選択肢：1
-したい
+Yes please!
 
 Village Girl：上
-うう・・・。いじわるぅ・・・。
+Uugh... You brute...
 
 Village Girl：上
-ほんと？やったぁ。
-うれしいわ。*
-それじゃあ、気持ちいいキス
-いっぱいしようね♥
+You mean it? Yaay!
+I'm so happy!*
+Okay, let me give you a nice kiss-❤
 
 Village Girl：上
-あは、エナジードレイン、どうだった？
-気持ちよかったかな？
+Oh- That was my 'Energy Drain'. Did you like it?
+It felt good didn't it?
 
 <TK3>
 Village Girl：上
-あん。またこんなに痛めつけて・・・。**
-ね？もう一回チューしよ？**
-いいでしょ？
-君のエナジー、ちょうだい？
+Agh, I was bested again...**
+Heey, want another kiss?**
+That's okay with you, right?
+Could you give me some of your energy?
 
 選択肢：1
-したい
-したくない
+I I want it.
+I I don't want it.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+Tainted by lust, her invitation 
+couldn't be refused!
 
 選択肢：1
-したい
+I I want it.
 
 Village Girl：上
-うう・・・。いじわるぅ・・・。
+Uugh... You brute...
 
 Village Girl：上
-ほんと？やったぁ。
-うれしいわ。*
-それじゃあ、気持ちいいキス
-いっぱいしようね♥
+Really? Yaay!
+I'm so happy!*
+Let me give you a nice kiss-❤
 
 Village Girl：上
-あん、さっきよりもたくさん吸えた。
-うふふ・・。君の心が段々とろけているからだよ。*
-もう一回吸わせてね？くす。
+Aah, I'll give you even more kisses than last 
+time. Ufufu... 
+It's like your heart is slowly melting.
+Do you want more kisses? (Giggle)
 
 <TK5>
 Village Girl：上
-あん。また体力が１になっちゃった・・・。**
-うふふ、お姉さんがどうしたいか、
-君ならもうわかるよね？*
-ほら、力を抜いて・・？
-君のエナジーちょうだい？
+Village Girl：上
+Ooh, my HP has become 1 again...**
+Ufufu- you already know what you want your big 
+sister to do, don't you?*
+Hora- Just relax, okay?❤
+I can suck more of your energy right?
 
 選択肢：1
-したい
-したくない
+I want it.
+I don't want it.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+Tainted by lust, her invitation 
+couldn't be refused!
 
 選択肢：1
-したい
+I want it.
 
 Village Girl：上
-うう・・・。いじわるぅ・・・。
+Uugh... You brute...
 
 Village Girl：上
-ほんと？やったぁ。
-うれしいわ。*
-それじゃあ、気持ちいいキス
-いっぱいしようね♥
+Really? Yaay!
+I'm so happy.*
+Now, let me give you a nice kiss-❤
 
 Village Girl：上
-あは❤もうお顔が完全にとろけちゃったね。**
-顔中キスマークだらけになって、気持ちよかった？**
-もう戦う気力もないみたいだから、
-死んじゃうまで吸ってあげる♥
+Ara～❤ Your mind has already melted, hasn't it.**
+Doesn't it feel good having my kissy marks 
+all over your face?❤**
+You already have no strength left to fight, so 
+I'll keep absorbing you until you die-❤
 
 Village Girl：上
-くすくす・・・。キスで死ぬなんて馬鹿みたい。
+(Giggle)... What a fool, dying to a kiss～
 
 <TK6>
 Village Girl：上
-うう・・・。この子強い・・・。
-このままじゃ、負けちゃうわ。*
-ねえ、お願い。
-倒す前に、少しだけお姉さんといいことしよ？*
-せっかくサキュバスに生まれ変わったのに、
-こんなに早くやられちゃうの、やだよ。*
-だから、ね？
-エッチなことさせて？
+Uugh... This kid is strong...
+At this rate I'm gonna lose～*
+Heey, I have one last request.**
+Before you knock me down,
+could you do your big sis a tiny favour?
+I only just became a succubus,
+so I wanna try something real quick.*
+Please, please?
+One last lewd thing?～❤
 
 選択肢：1
-させる
-させない
+Let her do it.
+Don't let her do it
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+Tainted by lust, her invitation 
+couldn't be refused!
 
 選択肢：1
-させる
+Let her do it.
 
 Village Girl：上
-そんなぁ・・・。
+Oof...
 
 Village Girl：上
-あは❤うれしい❤**
-それじゃあ、着ているものを脱いで？
-おっぱいでいっぱい気持ちよくしてあげる。
+Ara～ I'm so happy-❤**
+Well then. Could you remove your clothes?
+I'll make you feel good with my breasts.
 
 Village Girl：上
-うふふ、挟まれただけなのに、
-びっくりするほど気持ちよかったでしょ？*
-快楽を受け入れたらね、抵抗していたときより
-ずっと気持ちよくなれるの。*
-だから、ほら、もっと私の快楽を受け入れて・・・？
+Ufufu, even though I just inserted it,
+the pleasure is unbearable right?*
+If you accept the pleasure, it'll feel even
+better than if you were resisting～*
+So... Hora- You want more of this pleasure right?
 
 Village Girl：上
-あん❤
-腰がふるえちゃっている。*
-気持ちよくて仕方がないんだ。**
-いいんだよ。そのままビュって出しちゃおうね。
-ほら・・。
+Aaah～
+Your waist is trembling.*
+You can't fight the pleasure～
+You can't fight my boobs～*
+It's okay- Just go pew pew like this～
+Hora...
 
 Village Girl：上
-うふふ・・。精液おいしい❤**
-わたしが回復する代わりに、
-きみが死んじゃったけど・・・。*
-気持ちよかったから、別にいいよね❤
-くすくす・・・。
+Ufufu... Such delicious semen～❤**
+Although...
+You had to die for me to heal...*
+But you felt good, so it was worth it right?～❤
+Kuhuhuhu...
 
 <TK7>
 Village Girl：上
-あん・・・。この子も強いわ・・・。
-誘惑しないとダメみたいね。*
-ねえ、きみ。
-さっきお友達がやられるの見てたでしょ？
+Uugh... This kid's strong...
+My charms aren't working at all～*
+Hey, you-
+You saw what happened to your friends right?*
+Don't you wanna feel good like that too?
 
 Village Girl：上
-きみも、あんなたふうに気持ちよくなりたくない？**
-サキュバスのえっちな攻撃を受けて、
-頭真っ白になって・・・。*
-死んじゃうほどの快楽で、
-どびゅどびゅって射精するの。*
-すっごく気持ちいいよ。
-ね、君もお友達みたいに
-天国味わっちゃお？❤
+Caught by lewd succubus attacks,
+their minds becoming empty...*
+And ejaculating, going pew pew
+so much they pass out-*
+It's the greatest feeling ever.
+So come on- you want to taste heaven 
+like your friends?～❤
 
 選択肢：1
-うなずく
-抵抗する
+Nod silently.
+Resist her advances.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+Tainted by lust, her invitation 
+couldn't be refused!
 
 選択肢：1
-うなずく
+Nod silently.
 
 Village Girl：上
-そんなぁ・・・。
+Oof...
 
 Village Girl：上
-あは❤意思よわすぎー❤**
-それじゃあ、着ているものを脱いで？
-おっぱいでいっぱい気持ちよくしてあげる。
+Oh my- So weak willed～❤**
+Well then. Could you remove your clothes?
+I'll pleasure you with my breasts.
 
 Village Girl：上
-あらら、挟まれただけなのに、
-すごいよがっちゃっているね。*
-さっきの子より感じちゃっているのわかるよ。
-お友達がされているのを見て、
-ずっと期待しちゃってたんだ❤
+Ara ara- I only just inserted your penis between 
+my breasts, but it already feels amazing, 
+doesn't it?
+Now you know what the others were feeling-
+Is this what you were expecting when you saw 
+me use my breasts on your companions?～❤
 
 Village Girl：上
-こうやって、おっぱいに隙間なく包まれて、
-ずりずりって揺さぶられて、うふふどうかなぁ？
+Wrapped up in my cleavage like this,
+massaging it, rocking it... 
+Ufufu- I wonder～❤
 
 Village Girl：上
-もう意識、飛びそうだね。
-気持ちよすぎて頭真っ白だね。*
-サキュバスの魔性の快楽に、
-自分から身を捧げて、ほんとバカみたいだね。*
-でも、気持ちよくて仕方ないから、
-やめられない。
-うふふ・・・。男の子ってほんとかわいい。
-いいんだよ。そのまま気持ちよさに身を任せて。
-ビュって出して、この世にサヨナラしちゃおうね。*
-ほら、ぎゅー❤
+Your consciousness is fading isn't it～
+The pleasure is so intense, 
+your mind is going blank～
+Surrender your body to the succubus' pleasure,
+like a true fool～*
+But, you can't fight the pleasure,
+you can't stop yourself.
+Ufufu... Boys are so cute.
+It's okay. Yield to the pleasure.
+Say goodbye to this world, going pew pew～*
+Hora- Squeeeeze～❤
 
 Village Girl：上
-うふふ・・。精液おいしい❤**
-わたしが回復する代わりに、
-きみが死んじゃったけど・・・。*
-気持ちよかったから、別にいいよね❤
-くすくす・・。
+Ufufu... Such delicious semen～❤**
+Although... You had to die
+for me to heal...*
+But you felt good, 
+so it was worth it right?
+Kuhuhuhu...
 
 <TK10>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Haah...～❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...～❤ Dammit...～❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+This is bad... I'm, already...～❤
 
 Determined Girl：上
-くすくす。なに？
-わたしにエッチなことされたくて、
-我慢できなくなっちゃったの？
-仲間がせっかく助けに来てくれたのに、
-自分でしごいてイっちゃうんだ？情けないのね❤
+(Giggle) What is it?
+Couldn't you resist doing 
+something lewd with me?
+Even though you came to help you friend,
+you're going to cum stroking your penis～❤
+How pathetic～❤
 
 Nobus：上
-うっ、ううっ・・・❤
+Ooh, oooh...
 
 Determined Girl：上
-ほら、見ててあげるから、
-そのまま情けなくしごいて、射精しちゃいなさい。
-ザコ男くん❤
+Hora- Stare at me.
+Ejaculate while stroking your penis,
+peasant～❤
 
 Nobus：下
-あっ、ああっ！！
+Ah, aaaah!!
 
 Determined Girl：上
-くすくす。なに？
-わたしにエッチなことされたくて、
-我慢できなくなっちゃったの？
-仲間を助けに来たのかなーって思ったら、なーんだ。
-ただ彼がうらやましくなってシコりに来ちゃったのね。
-うふふ❤
+(Giggle) What is it?
+Couldn't you resist doing 
+something lewd with me?
+I thought you came to help your friend,
+but it was because you were envious 
+that he got to cum stroking his penis～
+Ufufu～❤
 
 アクティブ：上
-うっ、ううっ・・・・❤
+Ooh, oooh......～❤
 
 Determined Girl：上
-あは、笑われて見下されて、それで余計に興奮してい
-る❤あんたマゾの素質があるんじゃない？
-例えば、ほら・・・。
-こうやって足をおちんちんの前で前後させたら・・・。
-くすくす。息が荒くなってシコるスピードあがっちゃった❤
-足でしごかれるのを想像しちゃったんだ？
-そのまま自爆オナニーでイキなさい、ザーコ❤
+Ara, the arousal of me insulting you 
+is too much, you're like one of those
+masochist guys right?*
+For instance, hora...
+If I sway my feet in front of 
+your penis like this...*
+(Giggle) Your breathing and strokes got faster～❤
+Are you imagining my feet stroking you～❤*
+Cumming while suicide masturbating is the best～❤
 
 Determined Girl：上
-あはは、自警団が聞いてあきれるわね。
-敵に精液吐き出して、自分で負けちゃうなんて❤
+Ahaha, so this is you're so called mercenary
+group, who spurt semen on their enemies
+and lose on their own～❤
 
 <TK11>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Haah...～❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...～❤ Dammit...～❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+This is bad... I'm, already...～❤
 
 Determined Girl：上
-あらあら。なに？あなたもわたしにエッチなことされたくて
-、我慢できなくなっちゃったの？*
-村のみんなの命がかかっているのに、
-自分でしごいてイっちゃうんだ？情けないのね❤
+Ara ara. What is it?
+Couldn't you resist doing 
+something lewd with me?*
+Everyone else's lives are lost,
+and you're going to cum stroking your penis.
+Isn't that pathetic～❤
 
 Nobus：上
-うっ、ううっ・・・❤
+Ooh, oooh...
 
 Determined Girl：上
-ほら、じっーって見ててあげるから、
-そのまま情けなくしごいて、射精しちゃいなさい。
-ザコ男くん❤
+Hora- Stare at me, feel the shame
+and cum just like that, you peasant～❤
 
 Nobus：下
-あっ、ああっ！！
+Ah, aaah!!
 
 Determined Girl：上
-ぷぷっ。なに？仲間がオナニーしているの見て、うらやま
-しくなっちゃったの？それであんたも、自分から敵の前で
-オナニー始めちゃうんだ❤
-あーあー、変態ばっかり❤
-情けなくなるわ。
+Fufu- what is it? Envious of your friends
+masturbating? And now you started
+stroking in front of me～❤
+Hahaha, you're just a pervert～❤
+How pathetic～
 
 アクティブ：上
-くっ、うっ、うっ・・・・❤
+Ugh, uugh...～❤
 
 Determined Girl：上
-あは、オナニー早くなった❤
-バカにされて興奮しちゃった？それとも・・・さっきの子み
-たいにしてもらえるかなって期待しちゃった？
-こうやって足をおちんちんに触れる寸前で止めて、しゅっ
-しゅっって前後させるの。ねえ、足で踏まれてしごかれて
-いるみたいよね❤
-あはは。もうシコシコ止まらないんだ❤
-足コキ妄想で無駄打ちオナニー。
-そのまま死んじゃえ、ザーコ❤
+Ara, you're masturbating faster～❤
+Is being made into a fool arousing?*
+Or maybe... You're anticipating what 
+happened to the other guy?*
+My feet stopping just in front of your penis, 
+just before touching it, swaying back 
+and forth.*
+Hey, it's like you're stroking while 
+being stepped on～❤
+Ahaha, you already can't stop stroking～❤
+Forget about getting a footjob,
+dying like this is the best～❤
 
 Determined Girl：上
-ほんと、自警団が聞いてあきれるわね。
-敵に精液吐き出して、自分で負けちゃうやつばっかり❤
+Ahaha, so this is you're so called mercenary
+group, who spurt semen on their enemies
+and lose on their own～❤
 
 <TK9>
 Ray：上
-はぁ・・、はぁ・・❤
+Haa... haa...～❤
 
 Miles：上
-ううっ・・・❤たのむ・・・❤
-もう我慢できねぇ・・・❤
+Uooh...～❤ Please...～❤
+I can't take it anymore...～❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
-うううっ、お願いします・・・❤
+This is bad... I'm, already...～❤
+Ouuuh, please...～❤
 
 Determined Girl：上
-えー？自分からおねだりしちゃうんだ。
-情けないのね。くすくす。
+Eh? This guy's begging for it～❤
+How pathetic～ (Giggle)
 
 Determined Girl：上
-あーあ、射精しちゃった。
-自分からおねだりしてイっちゃうなんて、最低じゃない。
-雑魚すぎるわ。うふふ♪
+(Sigh) You came.
+You came while begging, the worst way to go.
+What a weakling, ufufu♪
 
 <TK8>
 Determined Girl：上
-あいたた・・・。**
-あんた中々やるじゃない。
-こんなに強いと思わなかったわ。*
-うふふ、あんたのこと認めて、
-ご褒美をあげる。*
-ほら、じっとしていなさい。
-わたしの足で、昇天させてあげるわ。
+That hurt...**
+Gee, I can't do anything to you!
+I had no idea you were so strong～*
+Ufufu- 
+Alright, in acknowledgement of your skills,
+I'm willing to reward your efforts.
+Hora- Please sit still.
+I'll send you off to heaven with my feet～
 
 選択肢：1
-じっとしている
-とどめをさす
+Wait and see what happens.
+Deliver the final blow.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+Tainted by lust, her invitation 
+couldn't be refused!
 
 選択肢：1
-じっとしている
+Wait and see what happens.
 
 Determined Girl：上
-うう、生意気・・・。
+You... Cheeky...
 
 Determined Girl：上
-ふふ、それでいいのよ❤**
-さあ、わたしの足に屈しなさい？
+Fufu- 
+Yeah, just like that...～**
+So you want to surrender to my feet after all～❤
 
 Determined Girl：上
-あは、踏まれてビクンって跳ねたわ。
-敵の女の子に踏まれて、気持ちよかった？*
-こうやってスリスリこすられて、
-裏筋を足で撫であげられて、
-気分は天国かしら？
+Ha, you convulsed when I stepped on you～
+Did it feel good to be stepped 
+on by an enemy girl?
+I bet it'd feel like heaven if I rubbed you just 
+like this, or maybe caressing the head of the penis 
+with my feet～❤
 
 Determined Girl：上
-くすくす。
-顔がとろけているわよ。*
-さっきまであんなに強そうだったのに、
-ちょっと誘惑されただけで、このとろけ顔❤*
-男ってほんと間抜けね。
-足でスリスリされたら簡単に負けちゃう、
-お馬鹿さん❤
-さあ、わたしの足に屈して、
-そのまま天国に行っちゃいなさい！
+Hehehe.
+Your face is going slack～*
+You were so strong moments ago, yet your weak mind 
+melts with a little seduction～❤*
+Boys are such fools～
+What a dumb bunny, easily 
+defeated with a foot rub～❤
+Now, just like that, surrender to my feet,
+and ascend to heaven!
 
 Determined Girl：上
-あは。精液おいしい❤
-あんたみたいな雑魚でも、精だけはおいしいのね。*
-あんたの命、わたしのものにしてあげる。
-感謝なさい。くすくす・・。
+Ahaha. Semen is so delicious～❤
+Even if you're an idiot, 
+your semen tastes great～
+Now your life is mine.
+Thank you. (Giggle)
 
 <TK13>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Haah...～❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...～❤ Dammit...～❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+This is bad... I'm, already...～❤
 
 アクティブ：上
-ああ…❤
+Uaah...～❤
 
-サキュバス：上
-あらあら・・・❤
-はじめて会うサキュバスの色気に
-我慢できなかったのかしら。
-くす。ほら、あなたの顔をなでてあげる。
-サキュバスに触れられる快感を味わいながら、
-自分でしごいてイキなさい❤
+Succubus：上
+Ara ara...～❤
+You couldn't resist the charm of meeting
+a succubus for the first time, could you?
+(Giggle) Hora- I'll give you a gentle pat on 
+the head, so go ahead and stroke your penis 
+while enjoying the feel of a succubus' touch～❤
 
-サキュバス：上
-くすくす・・・❤
-故郷を捨てての裏切り射精、
-気持ちよかったかしら？
+Succubus：上
+Hehehe...～❤
+Did it feel good to cum and 
+betray your birthplace?
 
 <TK14>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Haah...～❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...～❤ Dammit...～❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+This is bad... I'm, already...～❤
 
 アクティブ：上
-ああ…❤
+Uaah...～❤
 
-サキュバス：上
-あらあら、二人目？
-ふふ、この村の男の子は
-みんな我慢が効かないのね❤
-さっきまで魔物相手に
-あんなに果敢に戦っていたのに、
-今じゃ、その手で必死にオナニーだなんて・・・。
+Succubus：上
+Ara ara, another one～❤
+Fufu- these towns' kids have no 
+resistance at all～❤
+They were so determined in fighting a while ago,
+but now they're frantically masturbating...
 
 アクティブ：上
-あっ、あひぃ・・・❤
+Ah, ooaaah～❤
 
-サキュバス：上
-あらあら。バカにされて気持ちいいの？
-こんなふうに耳に近づいて囁いたら・・・*
-サキュバスの声に
-耳をとろかされちゃいそう？
-ふふっ・・・❤
-いいのよ。男はサキュバスには勝てないのだから。**
-私の声に身を任せなさい・・・**
-ほら、イケ❤イケ❤
+Succubus：上
+Ara ara- Does it feel good 
+to be made stupid?*
+If I whisper in your ear like this...
+It's like my succubus voice is melting
+your ears right?～❤
+Fufu...～❤
+It's okay. No man can win against a succubus.**
+Just entrust your body to my voice...**
+Hora- Cum～❤ Cum～❤
 
-サキュバス：上
-くすくす・・・❤
-故郷を捨てての裏切り射精、
-気持ちよかったかしら？
+Succubus：上
+Hehehe...～❤
+Did it feel good to cum and 
+betray your birthplace?
 
 <TK15>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Haah...～❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...～❤ Dammit...～❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+This is bad... I'm, already...～❤
 
 アクティブ：上
-ああ…❤
+Uaah...～❤
 
-サキュバス：上
-くすくす、三人全員が来ちゃうだなんて。**
-お仲間がシコシコオナニーしているのを見て、
-ぼくちゃんもシコシコしたくなっちゃったのかなぁ❤*
-ふふふ・・・。
-ほんと、男ってバカ・・・❤
-
-アクティブ：上
-ううっ、あっ・・・❤
-
-サキュバス：上
-はいはい。
-シコシコオナニー気持ちいいでちゅね―❤*
-故郷のみんなを裏切って、
-変態射精で、死んじゃいましょうねー❤
+Succubus：上
+(Giggle) That makes the third person now.**
+After seeing your friends go fap fap,
+my baby wanted to join in too～❤*
+Fufufu...
+Men are truly fools...～❤
 
 アクティブ：上
-あうっ❤はひぃ・・・❤
+Oooh, ahh～❤
 
-サキュバス：上
-あーあ、
-みんな私にオナニーして
-全滅しちゃった。
-これじゃ、
-サキュバス化した子達のテストにならないじゃないの。*
-ほんとに、男は雑魚ばっかりね❤
+Succubus：上
+There there～ Masturbation feels soo 
+good doesn't it～❤*
+Betray your country,
+with a perverted ejaculation death～❤
+
+アクティブ：上
+Aooh～❤ Aiyee...～❤
+
+Succubus：上
+Ahaha,
+everyone annihilated themselves 
+masturbating to me.
+Looks like I couldn't test my converted 
+succubus children after all.*
+All because these men were weaklings～❤
 
 <TK12>
 Ray：上
-はぁ・・、はぁ・・❤
+Haa... Haa...～❤
 
 Miles：上
-ううっ・・・❤たのむ・・・❤
-もう我慢できねぇ・・・❤
+Uooh...～❤ Please...～❤
+I can't take it anymore...～❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
-うううっ、お願いします・・・❤
+This is bad... I'm, already...～❤
+Ouuuh, please...～❤
 
-サキュバス：上
-ふふ、どうしたの？
-村の人を守るんじゃないの？
-わたしに必死におねだりなんかしちゃって❤
-サキュバスの魔力に当てられて、
-発情した猿みたいになっちゃたのね・・・❤
-男って本当に弱い生き物だわ。
+Succubus：上
+Fufu- what's the matter?
+Aren't you protecting the village?
+You're trying to request something from me...～❤
+I'll use my succubus magic to turn
+you into a stupid spurting animal...～❤
+Men are so weak～
 
-サキュバス：上
-ふふっ、あっという間に射精❤
-気持ちよかったかしら？
+Succubus：上
+Fufu- a swift ejaculation～❤
+Did that feel good～❤
 
 <TK16>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Dammit... I'm, already...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Urgh...❤ Dammit...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+Dammit... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
-ちびっこ淫魔：上
-え、ええ！？
-なんで自分でしごいているの？*
-ふえ？わたしがエッチすぎて我慢できなくなった？
-ちょっとお兄ちゃん、弱すぎだよー❤*
-興奮しちゃったってことは・・・。**
-この小っちゃなお口でペロペロ～ってされるとことか、**
-このお手で、しこしこ♪、されるとことか、**
-たくさん想像しちゃったんだ❤**
-うふふ、
-お兄ちゃんにそんな風に見てもらえてうれしいかも・・。
-これはサービスだよ。えい。
-スカートをめくりあげて、パ・ン・チ・ラ❤**
-あははっ、しごく手がすごく早くなっちゃった❤
-パンツ見て興奮しちゃった？*
-いいよ～❤
-イっちゃうまでいっぱいしごこうね❤
+Loli Succubus：上
+E... Ehhh!?
+Why are you rubbing your penis?*
+Eh? My lewdness is too unbearable?
+Onii-chan is a bit weak hehe-❤*
+All those arousing things...**
+Being sucked by a small mouth...**
+Having it strokey stroked with my hands...**
+Imagine all of those things～❤**
+Ufufu-
+I'm so happy onii-chan thinks of me like that...
+I'll do something special for you. Lookie lookie!
+I'll lift my skirt and 
+show you my pan・ti・es～❤*
+Ahaha, your stroking got faster-❤
+Did seeing my panties make you aroused?*
+It's okay-❤
+Rub yourself until you cum～❤
 
-ちびっこ淫魔：上
-あん、エナジー、おいしいー❤
+Loli Succubus：上
+Aaah, your energy is delicious～❤
 
 <TK17>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Dammit... I'm, already...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Urgh...❤ Dammit...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+Dammit... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
-ちびっこ淫魔：上
-あれあれー❤
-またオナニーしているお兄ちゃんがいる。*
-さっきのパンチラ見てて興奮しちゃったのかな？
-ちょっとお兄ちゃん、弱すぎだよー❤*
-味方がパンチラシコシコしているのを見て、
-「自分も見たいよー❤」って思っちゃった？
-えっちだなー。
-でもでも、うれしいからまたサービスしちゃうね。**
-ほら。スカートをめくりあげて、パ・ン・チ・ラ❤**
-せっかくだから、
-めくれたお尻をいやらしく突き出してー❤
-ふりふり～って挑発してあげる♥
-あははっ、目が血走ってて怖いよー？
-しごく手が止まらないね❤
-パンツ見てイっちゃうんだ？
-い・い・よ❤
-小さい子のパンツを見て興奮する変態さん❤
-イっちゃえ！
+Loli Succubus：上
+Oh oh oh?ー-❤
+It's another masturbating big brother.*
+Did you get excited when I showed off my panties 
+earlier? Big brother is soo weak～❤*
+Were you thinking "I want to see that too?"
+When your ally was getting off to my panties?
+How lewd～
+But, but! I'd love to help service you too～**
+Hora, I'll just lift my skirt, and flash my pan・ti・es～❤**
+Because you've come this far,
+I'll thrust out my ass just for you～❤*
+I can see the arousal flowing in to your penis～♥**
+Ahahaha, your bloodshot eyes are so scary!
+But you can't stop stroking, can you?～❤
+Are you gonna cum looking at my panties?
+Don't think about it～❤
+You’re a perv who gets off staring at 
+little girl's panties～❤ Cum!
 
-ちびっこ淫魔：上
-あん、エナジー、おいしいー❤
+Loli Succubus：上
+Aah, your energy is delicious-❤
 
 <TK18>
 Ray：上
-はぁ・・、はぁ・・❤
+Haah, aah....❤
 
 Miles：上
-ううっ・・・❤たのむ・・・❤
-もう我慢できねぇ・・・❤
+Ooh...❤ Please...❤
+I can't take it anymore...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
-うううっ、お願いします・・・❤
+Dammit... I'm, already...❤
+Ooooh... Please...❤
 
 アクティブ：上
-ううっ、気持ちよくしてください・・・❤
-お願いします・・・❤
+Oooh, please make me feel good...❤
+I beg you...❤
 
-ちびっこ淫魔：上
-お兄ちゃん、わたしに気持ちよくしてほしくて、
-そんな風におねだりしちゃうんだ。
-くすくす❤
-うんうん。分かったって。
-そんなに必死に言わなくても大丈夫だよ。
-たくさん、エッチなことしてあげるね❤
+Loli Succubus：上
+Big brother, when you beg like that,
+it makes me want to make you feel good.
+Teeheehee～❤
+Uh huh. I see～
+It's okay, you don't need to say it so
+desperately. Let’s do lots of lewd things～❤
 
-ちびっこ淫魔：上
-んふふ。白いおしっこ、いっぱい出しちゃったね❤
-おねだりできて、えらいえらい♪
+Loli Succubus：上
+Ufufu. All your white pee-pee came out～❤
+You beg so well too, yay! Yay!♪
 
 <TK19>
-ちびっこ淫魔：上
-ううっ、お兄ちゃん、強いよー・・・**
-こうなったら、死んじゃう前に一か八かだ！
-えいっ！
+Loli Succubus：上
+Uugh, big brother is strong...**
+Then, a last ditch effort before I die!
+Take this!
 
-ちびっこ淫魔：上
-どう・・？上の服を脱いじゃった❤
-おっぱい丸見えだよ❤
-見てみてー❤
+Loli Succubus：上
+What do you think...? I took off my clothes-❤
+You can see my breasts clearly now-❤
+Look, look-❤
 
 選択肢：1
-おっぱいに見とれる
-とどめを刺す
+Stare longingly at her breasts.
+Stab at her, disregarding temptation.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+You were too aroused to refuse her temptation!
 
 選択肢：1
-おっぱいに見とれる
+Stare longingly at her breasts.
 
-ちびっこ淫魔：上
-小っちゃいおっぱいじゃ、だめかぁ・・・。
+Loli Succubus：上
+My breasts were... Too small...
 
-ちびっこ淫魔：上
-やった❤
-大成功❤*
-わたしのおっぱいにメロメロに見とれてるね。
-このまま距離を詰めて・・・。*
-ええいっ。必殺ロリおっぱいのパイズリだー！
+Loli Succubus：上
+Yaaay～❤
+A direct hit-❤*
+You've completely fallen for my breasts, hehe～
+I'll get closer just like this...*
+Eeyah! Loli boobie paizuri time!
 
-ちびっこ淫魔：上
-きゃは❤気持ちいいみたいだね。**
-わたし背が低いから、普通に立ってたら
-ちょうどおっぱいが、
-お兄ちゃんのおちんちんの高さだよ。
-パイズリしやすくていいよね。
-えいっ、えいっ、むぎゅむぎゅ―❤
+Loli Succubus：上
+Kyahaha-❤ You seem to be enjoying it～**
+Because I'm so short, if I stand normally,
+my breasts are just the right height for
+big brother's penis!
+So performing paizuri is really easy～
+Yah! Yah! Squeeze squeeze-❤
 
-ちびっこ淫魔：上
-ほらほら、
-サキュバスになっておっぱい、おっきくなったから
-いちおう、全部包めるんだよ。
-みっちりロリおっぱいに包んで、
-ズリズリしごいちゃう・・・❤*
-どうかな？死んじゃうぐらい気持ちいいかな？
+Loli Succubus：上
+Hora Hora-
+Now that I'm a succubus, my boobs are so big
+they can nearly cover up your entire penis.
+I'll rub and scrub your penis,
+wrapped in my firm loli boobs...❤*
+What do you think? It feels so good you could 
+die, right?
 
-ちびっこ淫魔：上
-きゃ❤
-いっぱい出た❤*
-お兄ちゃんのエナジーおいしい。
-うふふ、わたしのおっぱいも捨てたもんじゃないんだね。
+Loli Succubus：上
+Whoa～❤
+You came so much～❤*
+Big brother's semen is delicious.
+Fufufu- I don't ever want to go back to my old 
+breasts～
 
 <TK20>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Dammit... I'm, already...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Urgh...❤ Dammit...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+Dammit... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
-足コキ淫魔：上
-ぷっ。なに？
-わたしの足にメロメロになって、
-自分でしごきだしたの？
-あははっ、バカみたいね。
-敵の前で我慢できずにオナニー？*
-ほぉら、せっかくだから足指をくにくにしてあげるわ。
-足裏を見て、
-自分のおちんちんがしごかれるのを想像したら？
-あははっ。「ありがとうございます❤」？
-あんた最低だねー❤*
-いいわよ。戦いを放棄した自爆オナニーで、
-どびゅどびゅ射精しちゃいなさい❤変態！
+Footjob Succubus：上
+Pfft- 
+Whoa, first you fall in love with my feet, 
+and now you're stroking your penis?
+Ahahaha! What an idiot. You just couldn't resist 
+masturbating in front of your enemies, could you?*
+Hora- I'll carefully rub the tip with my toes,
+so ahead, stare at my soles...*
+You know what happens when you stroke 
+your penis right? Ahaha!
+Huh? Now you're thanking me as well?
+You really are the worst-❤*
+It's okay. Forget about the fight, and stroke
+yourself to a messy climax～❤ Pervert!
 
-足コキ淫魔：上
-ふふ、変態精液、ありがと❤
-もらった分の力であんたの仲間も搾ってあげるわ❤
+Footjob Succubus：上
+Fufu- thanks for the semen, pervert～❤
+I'll use this power you've given me to squeeze 
+out more of your friends' semen-❤
 
 <TK21>
 Ray：上
-あうぅ・・、踏んで、踏んでください・・・あぁ・・❤
+Aaah... Please... Please step on me...❤
 
 Miles：上
-ううっ・・・❤たのむ・・・❤
-もう我慢できねぇ・・・❤
+Ooh...❤ Please...❤
+I can't take it anymore...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
-うううっ、お願いします・・・❤
+Dammit... I'm, already...❤
+Ooooh... Please...❤
 
 アクティブ：上
-ううっ、気持ちよくしてください・・・❤
-お願いします・・・❤
+Oooh, please make me feel good...❤
+I beg you...❤
 
-足コキ淫魔：上
-くす♪
-自分から「踏んでください」っておねだりしちゃうの？
-ダメダメじゃない♪
+Footjob Succubus：上
+Teehee～♪
+Did you just ask me to step on you?
+You bad, bad boy～♪
 
-足コキ淫魔：上
-ふふっ、こんなに出しちゃって。
-わたしの足コキは気持ちよかった？
-変態君❤
+Footjob Succubus：上
+Ufufu- it all came out. 
+Did my footjob make you feel good?
+Mr. Pervert～❤
 
 <TK22>
-足コキ淫魔：上
-痛っぁ・・・。
-あなた、なかなかやるわね。*
-いいわ。その実力を評価してご褒美をあげる♥**
-ほら、そこに足を延ばして座りなさい。
-わたしの足でイクまで扱いてあげるわ❤
+Footjob Succubus：上
+Ouch...
+You dealt with me so easily...*
+That's good. In fact, I'll acknowledge and reward 
+your strength～♥*
+Hora- Sit there and spread your legs apart.
+I'll stroke you with my feet until you cum～❤
 
 選択肢：1
-足をのばして座った
-とどめをさした
+Sit down and spread your legs apart.
+Stand up and put an end to her.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+You were too aroused to refuse her temptation!
 
 選択肢：1
-足をのばして座った
+Sit down and spread your legs apart.
 
-足コキ淫魔：上
-ちぇ・・・。気持ちいいのになぁ・・・。
+Footjob Succubus：上
+Bu... But it would have felt so good...
 
-足コキ淫魔：上
-ふふ、そうそういい子ね❤**
-素直な子にはたくさんご褒美をあげる♥
-ほら！
+Footjob Succubus：上
+Fufufu- that's it, good boy...❤**
+Obedient boys get lots of rewards-♥
+Hora!
 
-足コキ淫魔：上
-足で踏みつけて、
-シコシコ・・・❤*
-クスクス・・・。口からよだれが出ているわよ。
-そんなに気持ちいい？
+Footjob Succubus：上
+Stroke stroke stroke...
+It's so easy to wrap my feet around your 
+member...❤
+Hehehe... You're drooling from your mouth.
+It must feel really good～
 
-足コキ淫魔：上
-実力じゃ勝っているのに、
-足の魅力に負けて、
-見下ろされながら、足コキされている・・・。
-みじめで情けないマゾにお似合いの状況ね❤
-ん？なに？怒った？*
-ふふ、馬鹿にされても、
-こうやって足でしこしこすれば・・・。*
-すぐ、あへぇって情けない声をあげちゃう❤
+Footjob Succubus：上
+Although, you could have won if you tried.
+You're getting a footjob while being looked down 
+on, submitting to my seductive feet...
+How fitting for a pathetic masochist-❤
+Hm? Oh? Did I make you mad?*
+Fufu- Even if I make fun of you,
+if I stroke you with my feet just like this...*
+Kehehe, the only thing you can do is moan-❤
 
-足コキ淫魔：上
-大事なところを足で弄ばれて
-もう頭は真っ白・・・。
-死ぬかもしれないのにね❤
-ほら、早くしごいてあげるから、
-快楽で脳天とろかして、
-みじめに死んじゃいなさい❤イケ❤
+Footjob Succubus：上
+When I use my feet to fiddle with your important 
+place, your weak mind quickly becomes blank... 
+Even though you could die-❤
+Hora- I'll stroke you even faster, so die a pathetic 
+death as your mind melts in pleasure～❤ Cum～❤
 
-足コキ淫魔：上
-エナジー吸われて、幸せだったね？
-足に負けたマゾ奴隷さん❤
+Footjob Succubus：上
+Were you happy to have your energy drained?
+Foot slave masochist-❤
 
 <TK23>
-足コキ淫魔：上
-ちょ、ちょっと待って。**
-ねえ、わたし別に悪いことしてなくない？
-他人のこと気持ちよくしているだけだよ！？*
-だから、ね❤おねがい、見逃して❤
+Footjob Succubus：上
+Wa... Wait just a moment!**
+Hey, I'm not actually that bad, you know?
+I just wanted to make everyone feel good...!*
+Really!❤ Please forgive me-❤
 
 選択肢：1
-見逃す
-見逃さない
+Turn a blind eye to her actions.
+Don't turn a blind eye.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+You were too aroused to refuse her temptation!
 
 選択肢：1
-見逃す
+Turn a blind eye to her actions.
 
-足コキ淫魔：上
-ううっ、容赦ないなぁ・・・。
+Footjob Succubus：上
+Uugh, I won't forget this...
 
-足コキ淫魔：上
-ほんと！ありがとうー❤**
-それじゃ、バイバイ♪
-
-アクティブ：上
-・・・・。
-
-足コキ淫魔：上
-なんてね❤
+Footjob Succubus：上
+Really!? Thank you-❤**
+Well, see you later～♪
 
 アクティブ：上
-・・・！！
+...
 
-足コキ淫魔：上
-んー？後ろから抱き着かれて驚いちゃった？
-くすくす、油断するからだよー❤*
-淫魔のお姉さんは、
-君たち人間の敵なの。
-情けなんてかけたら、絞りつくされちゃう。
-あははっ、暴れようとしたって無駄だよ。
-こうやって・・・。
+Footjob Succubus：上
+Just kidding!～❤
 
-足コキ淫魔：上
-後ろから足を回して、
-きみの大事なところをシコシコ❤
-力抜けちゃうでしょ？
-ふふ、淫魔に抱き着かれたらもう終わり。
-お姉さんの絶品足技で、
-ミイラになるまで精液吐き出しちゃお❤
+アクティブ：上
+...！！
 
-足コキ淫魔：上
-あははっ。噴水みたいに出た❤
-ぜんぶのエナジー、わたしに捧げられて
-よかったねー❤
+Footjob Succubus：上
+Mmm? Were you surprised that I caught you
+from behind?
+Hehehe, looks like I caught you off guard-❤
+Your big sister is a succubus, so
+all of you humans are our enemies.*
+Even if you show us mercy, we'll drain you dry 
+anyway.*
+Ahaha! It’s useless to try and resist.
+After all...
+
+Footjob Succubus：上
+I can wrap my legs around you from behind, and
+use my feet to stroke your most important place-❤
+You're already starting to relax, aren't you?
+Fufu- Once a succubus catches you, it's already 
+too late.*
+Your big sister's unrivaled footwork will make 
+you spout semen until you become a dried up
+husk-❤
+
+Footjob Succubus：上
+Haha, you spurt like a water fountain-❤
+Thank you for dedicating all your semen to me～❤
 
 <TK24>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Dammit... I'm, already...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Urgh...❤ Dammit...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+Dammit... I'm, already...❤
 
 アクティブ：上
-ああ・・・❤うっ・・・❤
+Aaah...❤ Ooh...❤
 
-巨乳少女：上
-あらあら。
-おっぱいを見てたら
-我慢できなくなっちゃったの？
-いいよ。
-お姉さんがオナニーのお手伝いしてあげるね。*
-おっぱいをこうやって、ゆさゆさって・・・❤**
-ふふ、目がくぎ付け❤
-敵のおっぱいに脳を揺さぶられながら、
-シコシコ自爆オナニー、気持ちいいんだね。
-パイズリでもパフパフでもないよ？
-ただおっぱい揺さぶっているだけ・・・
-それでも負けちゃうの？
-ふふ、ザーコ❤
-ゆさゆさ、むぎゅー❤
+Big Breasted Girl：上
+Ara ara.
+The sight of my wonderful tits is too much
+for you, isn't it?
+It's alright.
+Your big sister will help you masturbate*
+I'll sway my breasts, just like this...❤**
+Fufu- it's like your eyes are glued to them-❤
+It feels good to stroke yourself into submission
+as my breasts rock your mind, doesn't it?～
+Not to my paizuri or Puff-Puff,
+but you gave in... Just to the sway 
+of my breasts...
+Fufu- it's the best-❤
+Sway... Sway... Squeeze～❤
 
-巨乳少女：上
-あん、精液ありがとう。
-おっぱいに負けて
-敵にいっぱいエナジーあげちゃったね❤
-ふふ、他のお仲間さんも
-見てるだけじゃなくて
-おっぱいでオナニーしてもいいんだよ❤おいで❤
+Big Breasted Girl：上
+Aaah, thank you for the semen.
+I can drain the energy of enemies who
+submit to my breasts-❤
+Fufu- to all you other fighters...
+Don't just stand there～*
+You should masturbate to my boobs too-❤
+Come here～❤
 
 <TK25>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Dammit... I'm, already...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Urgh...❤ Dammit...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+Dammit... I'm, already...❤
 
 アクティブ：上
-ああ・・・❤うっ・・・❤
+Aaah...❤ Ooh...❤
 
-巨乳少女：上
-あはっ。ほんとに二人目が来ちゃった❤**
-仲間がおっぱいオナニーしているの見て、
-我慢できなくなっちゃったんだ？*
-いいよ。
-お姉さんがオナニーのお手伝いしてあげるね。*
-おっぱいをこうやって、ゆさゆさって・・・❤**
-ふふ、目がくぎ付け❤
-敵のおっぱいに脳を揺さぶられながら、
-シコシコ自爆オナニー、気持ちいいんだね。
-パイズリでもパフパフでもないよ？
-ただおっぱい揺さぶっているだけ・・・
-それでも負けちゃうの？
-ふふ、ザーコ❤
-ゆさゆさ、むぎゅー❤
+Big Breasted Girl：上
+Ahaha. Another guy actually came～❤**
+You couldn't resist anymore after seeing
+your ally masturbate to my breasts, could you?*
+It's alright.
+Your big sister will help you masturbate*
+I'll sway my breasts, just like this...❤**
+Fufu- it's like your eyes are glued to them-❤
+It feels good to stroke yourself into submission
+as my breasts rock your mind doesn't it?～
+Not to my paizuri or Puff-Puff,
+but you gave in... Just to the sway 
+of my breasts...
+Fufu- it's the best-❤
+Sway... Sway... Squeeze～❤
 
-巨乳少女：上
-あん、精液ありがとう。
-おっぱいに負けて
-敵にいっぱいエナジーあげちゃったね❤
-ふふ、他のお仲間さんも
-見てるだけじゃなくて
-おっぱいでオナニーしてもいいんだよ❤おいで❤
+Big Breasted Girl：上
+Aaah, thank you for the semen.
+I can drain the energy of enemies who
+submit to my breasts-❤
+Fufu- to all you other fighters...
+Don't just stand there～*
+You should masturbate to my boobs too-❤
+Come here～❤
 
 <TK26>
 Ray：上
-はぁ・・、はぁ・・❤
+Haah, aah....❤
 
 Miles：上
-ううっ・・・❤たのむ・・・❤
-もう我慢できねぇ・・・❤
+Ooh...❤ Please...❤
+I can't take it anymore...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
-うううっ、お願いします・・・❤
+Dammit... I'm, already...❤
+Ooooh... Please...❤
 
 アクティブ：上
-ううっ、気持ちよくしてください・・・❤
-お願いします・・・❤
+Oooh, please make me feel good...❤
+I beg you...❤
 
-巨乳少女：上
-あら、大の男が女にひざまずいておねだり？
-そんなに、おっぱい、してほしかったのかな？
-うふふ♪
-でも・・・直接パイズリするのはお預け。
-たくさんおっぱいで挑発してあげるから、
-興奮して、ぴゅってしちゃいなさい❤
+Big Breasted Girl：上
+Ara, who is this great man pleading at my feet?
+Oh? You wanted me to service you with my breasts, 
+did you? Ufufu～♪
+But... If you want a paizuri, you'll have to wait.
+You're already so aroused by my breasts, I bet I
+can make you cum on the spot just like this～❤
 
-巨乳少女：上
-あはは❤ドピュドピュ出てる♪
-おちんちんに触られていないのに、
-射精しちゃったわね。
+Big Breasted Girl：上
+Ahahaha-❤ Pew pew pew～♪
+I didn't even touch your penis, 
+but you came anyway～
 
 <TK27>
-巨乳少女：上
-あうぅ。
-このままじゃ、負けちゃうよ・・・。
+Big Breasted Girl：上
+Agh...
+I'm going to lose at this rate...
 
-巨乳少女：上
-おっぱいを見せたら
-これまでは、みんな負けてくれたのになぁ。*
-ねえ？このおっぱい見たくない？
-いっぱい楽しみたくない？
+Big Breasted Girl：上
+Although, I know that everyone I've faced gives in
+once I show them my exposed boobs...*
+Come on... Don't you want to peek?
+Don't you want to fully enjoy them?
 
 選択肢：1
-おっぱいに見とれる
-とどめを刺す
+Stare longingly at her breasts.
+Stab at her, disregarding temptation.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+You were too aroused to refuse her temptation!
 
 選択肢：1
-おっぱいに見とれる
+Stare longingly at her breasts.
 
-巨乳少女：上
-あうぅ。自信なくしちゃうなぁ。
+Big Breasted Girl：上
+Ugh, you really know how to hurt a woman's
+feelings...
 
-巨乳少女：上
-ん？
-あれれ？*
-うふふ❤
-なんだ、もうおっぱいに釘付けじゃない❤*
-何がよかったのかなぁ？
-谷間を見せてセクシーポーズしたところ？
-それともこうやってむぎゅーって両手で寄せたところかな
-そ・れ・と・も、
-手で持ったおっぱいを、
-上下にゆさゆさ揺らしたからぁ、
-パイズリ❤想像しちゃった？
+Big Breasted Girl：上
+Oh?
+Oh, oh, oh?*
+Ufufu-❤
+You seem to be unable to look away from my 
+breasts-❤
+Aren't you glad you peeked? It's so sexy when I 
+show off my cleavage, isn't it?*
+And if I squeeze them with both hands like this,
+or, may-be...*
+I hold my breasts in my hands, and shake and 
+rock them like this, just like a paizuri-❤
+You're imagining it, aren't you?
 
-巨乳少女：上
-あは❤当たりみたいだね。
-おっぱいでおちんちん挟んでほしくなっちゃったんだ。*
-うふふ、わたしはサキュバスだから、
-もちろん挟んであげるよ❤
-えいっ。
+Big Breasted Girl：上
+Ahaha-❤ Looks like I got it right～
+You wanted to insert your penis into my breasts.*
+Fufu- I'm a succubus, so I'd be more than happy
+to help you with that-❤ Mmph!
 
-巨乳少女：下
-あん❤
-おっぱいにおちんちん飲み込まれて、
-すっかり埋まっちゃったね。
-ぬくぬくおっぱい気持ちいい？
-このままズリズリしていくよ？*
-ほら、ほら❤
-脳をとろかすサキュバスのパイズリ❤*
-気持ちよすぎて体がビクンビクンはねちゃう？
-でも、逃がしてあげなーい❤*
-死んじゃうまで、にゅぷにゅぷパイズリされよう？
-最高の快楽でドビュドビュ射精しちゃお？
+Big Breasted Girl：下
+Aaah-❤
+Your penis got completely swallowed up, 
+buried in my breasts.
+Do my cozy breasts feel good?
+Should I rub them just like this?*
+Hora, hora-❤
+This is a succubus mind melting paizuri-❤*
+The pleasure is so good that your body's starting 
+to throb, right? But, you aren't going anywhere-❤*
+Will you keep getting fluffy paizuri until you 
+die? Are you going to go pew pew and have the 
+most pleasurable ejaculation ever?
 
-巨乳少女：下
-うふふ。谷間にどっぷり出しちゃったね。
-君のエナジーでわたしのおっぱい、もっと育っちゃう。*
-このおっぱいのために死ねたんだもん。
-よかったねー❤おっぱい奴隷さん❤
+Big Breasted Girl：下
+Ufufu. You're totally addicted to my cleavage～
+Devote more of your energy to my breasts.*
+You want to die for my breasts.
+Well done-❤ My boobie slave-❤
 
 <TK28>
-巨乳少女：上
-やあん❤
-あなた、とっても強いね。*
-こうなったら、必殺技、見せてあげる。
+Big Breasted Girl：上
+Uwaa-❤
+You're really strong～*
+In that case, I'll show you my special move.
 
 選択肢：1
-様子を見る
-かわす
+Inspect her appearance.
+Disregard it.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+You were too aroused to refuse her temptation!
 
 選択肢：1
-様子を見る
+Inspect her appearance.
 
-巨乳少女：上
-うそっ、避けられた！？**
-やっ、やめてっ、あん❤
+Big Breasted Girl：上
+Im... Impossible, you dodged it!?**
+Wa... Wait, stop! Aaah～❤
 
-巨乳少女：上
-いくよー、必殺、
-「昇天の抱擁❤」
+Big Breasted Girl：上
+Here it comes～ My special move!
+「Heavenly Hug of Death!❤」
 
-巨乳少女：上
-えへへ、かっこいい名前はついているけど、
-要は魔力を込めたパフパフだねー❤*
-え？大したことないって？
-そうかなー。でも、そう言いながら
-君はどんどんおっぱいに顔を押し付けているよ？
-ふふ、頭がふわふわするね。
-おっぱいに挟まれて、全部どうでもよくなるね。*
-ぱふぱふ、ぱふぱふ・・・❤
+Big Breasted Girl：上
+Ehehe, it's a cool name, but it's also a magical
+Puff-Puff-❤*
+Eh? It's no big deal?
+I see～ But then if you're saying that, then why
+are you burying your face in my breasts?
+Fufu- Your mind has done all fluffy, hasn't it?**
+Nothing matters when you're between these 
+breasts～ 
+Puff-Puff... Puff-Puff...❤
 
-巨乳少女：上
-この技はね、
-相手をおっぱいで洗脳しちゃう技なの。*
-おっぱいで挟んで、頭をメロメロにほぐして・・・**
-わたしのために戦う従順な戦士を作る
-素敵な魔法。*
-威力が低いのはわざとなんだよ？
-手ごまになってくれる子を、
-あんまり痛めつけちゃだめだもんね。
+Big Breasted Girl：上
+But this technique is also a special...
+boobie brainwashing technique.*
+Your mind will become loose and lovey dovey in
+my boobs...*
+As you drowning in the wonderful titty magic that
+makes good, obedient soldiers fight for me.*
+And if you're wondering why didn't I use it until
+now... Well, I only turn the kids into pawns when 
+I can't handle them. Teehee-
 
-巨乳少女：上
-うふふ。
-かわいい目だね。おっぱいでとろとろにされて、
-わたしにすがりつくみたいな目。
-もっと気持ちよくしてほしいの？
-生殺しみたいなパフパフじゃなくて、
-全力で搾り取ってほしい？
-なら、分かるよね・・・❤
+Big Breasted Girl：上
+Ufufu.
+Those eyes are so cute! Dependent eyes filled
+with love for my breasts.
+You want to feel even more pleasure, right?**
+My Puff-Puff won't milk you dry, but you want to
+be squeezed all the way, don't you?
+Well, I could help with that～❤
 
-巨乳少女：上
-あは❤おっぱい奴隷さんの完成❤**
-わたしのおっぱいのために頑張ってね❤
-うふふ・・・。
+Big Breasted Girl：上
+Hahaha-❤ 
+My boobie slave is complete-❤*
+Do your best for my tits, okay?～❤
+Ufufu...
 
 <TK29>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Aaah...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Urgh...❤ Dammit...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+Dammit... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aaah...❤
 
-ルミーネ：上
-\vo[rumi75]あはは❤
-わたしの魅力の前に耐えられなくなっちゃった？*
-\vo[rumi76]だめだよ、
-いくらしごいてもイカせてあげない。
-ん、ちゅっ❤
+Luminara：上
+\vo[rumi75]Ahahaha-❤
+Couldn't you resist my charms from earlier?*
+\vo[rumi76]It's no use. No matter how hard 
+you stroke, I won't let you cum. 
+Mm, mwah-❤
 
 アクティブ：下
-あひぃ❤気持ちいぃい…❤
-ルミーネさまぁ❤
+Oooaaghh...❤ It feels so good...❤
+Mistress Luminara-❤
 
-ルミーネ：上
-\vo[rumi77]ふふ、わたしのために死ぬまで働いてね。
-奴隷さん❤
+Luminara：上
+\vo[rumi77]Fufu- you work for me now,
+strokey slave-❤
 
 <TK30>
 Ray：上
-はぁ・・、はぁ・・❤
+Haa.. Haaah...❤
 
 Miles：上
-ううっ・・・❤たのむ・・・❤
-もう我慢できねぇ・・・❤
+Ooh...❤ Please...❤
+I can't take it anymore...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
-うううっ、お願いします・・・❤
+Dammit... I'm, already...❤
+Ooooh... Please...❤
 
 アクティブ：上
-ううっ、気持ちよくしてください・・・❤
-お願いします・・・❤
+Oooh, please make me feel good...❤
+I beg you...❤
 
-ルミーネ：上
-きゃは♪援軍に来たのに、
-我慢できないでわたしにおねだりしちゃうわけ？
-人間ってやっぱりダメだねー❤
-それで何をしてほしいの？
-言ってごらん？
-わたしってば優しいから、聞いてあげる❤
+Luminara：上
+Kyaha♪ Aren't you the reinforcements? 
+And yet, you can't even resist pleading to me-
+Bad, bad humans～❤
+So what do you want me to do?
+Speak up, won't you?
+I'm listening, I'll be gentle～❤
 
 選択肢：1
-裏切りの投げキッス
-魅了の投げキッス
-えっち攻撃LV2
+\wdb[18]
+\wdb[20]
+\wdb[21]
 
-ルミーネ：上
-洗脳されてわたしに服従を誓いながら射精したいの？
-ふふっ、変態❤
+Luminara：上
+You want to cum while being brainwashed, 
+swearing your allegiance to me?
+Fufu- what a pervert～❤
 
-ルミーネ：上
-魅了の魔力がこもった投げキッスで、
-頭の中メロメロにされたいんだ❤くすくす❤
+Luminara：上
+I'll fill your mind with my magical kisses, 
+and make you all lovey dovey～❤ Ufufu-❤
 
-ルミーネ：上
-投げキッスで焦らされて我慢できなくなっちゃった？
-直接気持ちよくされたいんだ。くすくす❤
+Luminara：上
+You can no longer resist the teasing of my 
+kisses, can you? I'll make you feel good with 
+them directly. Hehehe-❤
 
-ルミーネ：上
-あは❤みっともない射精❤
-こんなに白いの飛ばしちゃって♪*
-敵のリーダーにお願いしてする射精は、
-気持ちよかった？くすくす❤
+Luminara：上
+Haha-❤ What a pathetic ejaculation-❤
+Your white stuff is flying everywhere♪*
+Did it feel good asking the enemy leader to
+make you cum? Kehehe-❤
 
 <TK31>
-ルミーネ：上
-\vo[rumi44]あん、意外とやるじゃん。**
-\vo[rumi45]ねえ、あんた男なのにムラムラしないの？
-わたしのこの体。背は低いのに爆乳で、
-唇はプルンとみずみずしくて・・・。
-\vo[rumi46]少しじっとしててくれれば、
-天国を味合わせてあげられるのに・・・。
+Luminara：上
+\vo[rumi44]Ah! I wasn't expecting that-**
+\vo[rumi45]Hey, you are a man aren't you? Doesn't this body
+turn you on? With my huge looming breasts, my 
+plump, juicy lips...
+\vo[rumi46]If you stay still, I could give you a taste
+of heaven...
 
 選択肢：1
-じっとしている
-誘惑に抵抗する
+Wait and see what happens.
+Deal with her seduction.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+You were too aroused to refuse her temptation!
 
 選択肢：1
-じっとしている
+Wait and see what happens.
 
-ルミーネ：上
-\vo[rumi47]むぅ、ほんと意思が強いなぁ。
-普通の男なら、もうとっくにメロメロなのに❤*
-\vo[rumi48]しょうがない！逃げるが勝ちだわ！
-バイバイ♪ん、ちゅっ❤
+Luminara：上
+\vo[rumi47]Oooh, your willpower is strong.
+A normal man would have become lovestruck ages 
+ago-❤
+\vo[rumi48]Oh well, it's been fun! 
+He who flees lives to fight again, right?
+Bye bye～♪ Mm, mwah～❤
 
-ルミーネ：上
-\vo[rumi49]うふっ❤いい子じゃん❤
-それじゃあ、わたしのおっぱいと口を使って、
-天国に連れて行ってあげる。
-\vo[rumi50]んっ、まずはおっぱいで挟んで・・・。
+Ray：上
+...!!
 
-ルミーネ：上
-\vo[rumi51]あは❤
-これだけでも意識が飛ぶぐらい気持ちいいでしょ？
-でも、ここからが本番・・・。
-\vo[rumi52]おっぱいでズリズリしながら、
-先っぽに唇を近づけて・・・・
-ん、ちゅ♥
+Luminara：上
+\vo[rumi49]Fufuu-❤ Good boy～❤
+Alright! I'll use my boobs and mouth to
+send you to heaven.
+\vo[rumi50]Mmm, first I'll squeeze it between my 
+breasts... 
 
-ルミーネ：上
-\vo[rumi53]天国送りのパイズリフェラ❤
-先っぽに、魔力たっぷりのキスをまぶされた感覚は
-どうかしら？
-\vo[rumi54]ふふ・・・。
-声をあげてよがりくるっちゃうほど気持ちいい？*
-\vo[rumi55]それじゃあ、
-こうやってキスを何回も味合わせれば・・・❤
+Luminara：上
+\vo[rumi51]Ara❤
+Even this feels good enough to entrance your 
+mind, doesn't it?
+But... The real fun begins now...**
+\vo[rumi52]While rubbing it with my breasts,
+my lips approach the tip and...
+Mmm, mwah～♥
 
-ルミーネ：上
-\vo[rumi56]あは❤瞬殺❤**
-\vo[rumi57]おっぱいに包まれながら、
-わたしにキスをまぶされて
-やっぱり、男が耐えられるわけないね❤
-\vo[rumi58]他の人もおいで？
-わたしが最高の快楽で殺してあげるから❤
+Luminara：上
+\vo[rumi53]This is my heaven paizuri fellatio～❤
+How does it feel when I cover the tip
+with my magical kisses?
+\vo[rumi54]Fufu...
+Good enough to cry out in agony?*
+\vo[rumi55]Well then.
+I'll let you taste my kisses 
+many times just like this...❤
+
+Luminara：上
+\vo[rumi56]Ara-❤ Instant death-❤**
+\vo[rumi57]After all, there is no man who can
+resist the grip of my breasts while being showered
+in kisses-❤
+\vo[rumi58]Would anyone else like to come? 
+I'll kill you with the highest of pleasures-❤
 
 <TK32>
-ルミーネ：上
-\vo[rumi59]むぅ。また負けそう・・・。**
-\vo[rumi60]ねえ、さっきさ、
-私がパイズリフェラするの見てたよね？*
-\vo[rumi61]仲間がすごい快感によがりくるって、
-とろけ顔でイッちゃうところ・・・❤*
-\vo[rumi62]少しじっとしててくれれば、
-あなたにも同じ天国を味合わせてあげられるよ・・・？
-ね？
+Luminara：上
+\vo[rumi59]Uugh. I'm gonna lose again...**
+\vo[rumi60]Hey, just now,
+you watched me do the paizuri fellatio, didn't 
+you?
+\vo[rumi61]I made your partner feel soo good,
+his face melted and he came on the spot～❤*
+\vo[rumi62]Just stay right where you are.
+Could I give you a taste of heaven just like what 
+he got...? Can I?
 
 選択肢：1
-じっとしている
-誘惑に抵抗する
+Wait and see what happens.
+Deal with her seduction.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+You were too aroused to refuse her temptation!
 
 選択肢：1
-じっとしている
+Wait and see what happens.
 
-ルミーネ：上
-\vo[rumi47]むぅ、ほんと意思が強いなぁ。
-普通の男なら、もうとっくにメロメロなのに❤*
-\vo[rumi48]しょうがない！逃げるが勝ちだわ！
-バイバイ♪ん、ちゅっ❤
+Luminara：上
+Oooh, your willpower is strong.
+A normal man would have become lovestruck ages 
+ago～❤
+Oh well, it's been fun! 
+He who flees lives to fight again, right?
+Bye bye～♪ Mm, mwah～❤
 
-ルミーネ：上
-\vo[rumi63]うふっ❤いい子じゃん❤
-それじゃあ、わたしのおっぱいと口で、
-あなたも天国に連れて行ってあげる。
-\vo[rumi64]ほらっ、まずはおっぱいで挟んで・・・。
+Ray：上
+...!!
 
-ルミーネ：上
-\vo[rumi65]あは❤挟んだだけで、
-「気持ちいぃ・・❤」なんて
-間抜けな声あげちゃって。
-\vo[rumi66]これだけでも、
-意識が飛ぶぐらい気持ちいいでしょ？
-でも、ここからが本番・・・。
-\vo[rumi67]おっぱいでズリズリ、ぬちゅぬちゅしながら、**
-\vo[rumi68]先っぽに唇を近づけて・・・・
-ん、ちゅ♥
+Luminara：上
+\vo[rumi63]Fufuu-❤ Good boy～❤
+Alright! I'll use my boobs and mouth to
+send you to heaven too.
+\vo[rumi64]Hora, first I'll squeeze it between my 
+breasts... 
 
-ルミーネ：上
-\vo[rumi69]天国送りのパイズリフェラ❤
-先っぽに、魔力たっぷりのキスをまぶされた感覚は
-どうかしら？
-\vo[rumi70]ふふ・・・。
-声をあげてよがりくるっちゃうほど気持ちいい？*
-\vo[rumi71]それじゃあ、
-こうやってキスを何回も味合わせれば・・・❤
+Luminara：上
+\vo[rumi65]Ara-❤ I only just slipped it in,
+and you're already spouting "Soo good...❤"
+What a blockhead.
+\vo[rumi66]Just this feels good enough to entrance 
+your mind, doesn't it?
+But... The real thing is just beginning...
+\vo[rumi67]While rubbing it with my slippery 
+breasts...*
+\vo[rumi68]My lips approach the tip and...
+Mmm, mwah～♥
 
-ルミーネ：上
-\vo[rumi72]あは❤瞬殺❤**
-\vo[rumi73]こうも何人も、
-パイズリフェラに負けちゃうなんて、
-やっぱり男なんて大したことないのね❤
-\vo[rumi74]他の人もおいで？
-わたしが最高の快楽で殺してあげるから❤
+Luminara：上
+\vo[rumi69]Heaven paizuri fellatio-❤
+How does it feel when I cover the tip
+with my magical kisses?
+\vo[rumi70]Fufu...
+Good enough to cry out in agony?*
+\vo[rumi71]Well then.
+I'll let you taste my kisses 
+many times just like this...❤
+
+Luminara：上
+\vo[rumi72]Ara-❤ Instant death-❤**
+\vo[rumi73]Everyone
+always loses to my paizuri fellatio.
+How could men even compete?❤
+\vo[rumi74]Would anyone else like to come? 
+I'll kill you with the highest of pleasures～❤
 
 <TK33>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Haah...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Damn it...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+No... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aah-❤
 
-初等部生徒B：上
-きゃ、え、自分でしごくの・・・？**
-わたしのこと見てたら、我慢できなくなったんだ。
-そっか、うれしいな・・・❤*
-ね、嬉しいから、いっぱいチューしてあげるね。
-せんぱいはそのまましごいていて・・・・。*
-んっ、ちゅ❤んっ❤あむっ❤
+Junior Student：上
+Kyah! Huh? You're jerking off...?**
+I guess you couldn't endure staring at me.
+Is that so? I'm so happy...❤*
+Hey, because you made me happy, I'll give you
+lots of kisses.*
+That's it senpai, you stroke your penis too...
+Mmmmwah-❤ Mmm-❤ Omm-❤
 
 アクティブ：上
-はっ❤はぁぁ・・❤
+Haah-❤ Aaah...❤
 
-初等部生徒B：上
-お顔、とろとろになっているよ。
-力抜けちゃうだろうけど、
-そのままシコシコ止めちゃだめだよ。
-んっ、ちゅう❤ほら、しこしこ・・・・。
-キスされながらのオナニー、すごく気持ちいいね。
-いいんだよ。我慢しないで・・・。
-ね、びゅーって出して。
-わたしのキスで気持ちよく射精して。
-んっ❤
+Junior Student：上
+Your face is starting to melt away-
+You're losing all your strength,
+but you still can't stop stroking.
+Mmmwah-❤ Hora- Stroke for me...
+Masturbating while getting kissed feels
+incredible, doesn't it?
+Yeah, it does. There's no need to resist...
+That's it, pew pew-*
+Ejaculate in pleasure from my kisses-
+Mmm-❤
 
-初等部生徒B：上
-あん❤
-いっぱい出たね❤*
-せんぱいの精液とってもおいしい・・・。
-うふふ、ありがと、せんぱい❤
+Junior Student：上
+Ahh-❤
+You came so much-❤*
+Senpai's semen is so delicious...
+Ufufu- thank you senpai-❤
 
 <TK34>
 Ray：上
-あううっ、お願い、気持ちよくしてください・・・❤
+Uuuugh, please make me feel good...❤
 
 Miles：上
-ううっ・・・❤たのむ・・・❤
-もう我慢できねぇ・・・❤
+Ooh...❤ Please...❤
+Put me out of my misery-❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
-うううっ、お願いします・・・❤
+No... I'm... Already...❤
+Ooooh, please, I beg you...❤
 
 アクティブ：上
-ううっ、気持ちよくしてください・・・❤
-お願いします・・・❤
+Ooh, make me feel good...❤
+Please...❤
 
-初等部生徒B：上
-えへへ、せんぱい、わたしに甘えちゃうんだ。
-いいよ。気持ちいいこと、してあげるね❤
+Junior Student：上
+Eehehe, I'm gonna spoil you so much senpai!
+But don't worry.
+I'll only do things that feel nice-❤
 
-初等部生徒B：上
-おねだりしながらびゅっびゅっ・・・❤
-気持ちよかった？せんぱい❤
+Junior Student：上
+Begging and cumming at the same time...❤
+Did that feel good, senpai?❤
 
 <TK35>
-初等部生徒B：上
-きゃ。
-ううっ。どうしてそんなにいじめるの？
-お兄ちゃんのこと、わたし大好きなのに・・・❤
-ねえ、お兄ちゃん、
-好き❤好き❤大好き・・・❤*
-好きっていっぱい言ってあげると、
-脳がとろけてくるでしょ・・・？
-好き・・・❤好きだよ❤
-うふふ、そのまま声を聞いていてね・・・。
-
+Junior Student：上
+Kya!
+Ooh. Why must you bully me?
+Even though I love you so much...❤
+Come on, don't do this-
+I like you-❤ You like me-❤ I love you...❤*
+It's as if I'm melting your mind when I talk
+like this, right?
+I love you...❤ You love me...❤
+Ufufu- you want to listen to me even more...
 選択肢：1
-じっとしている
-とどめを刺す
+Wait and see what happens.
+Stab at her, disregarding temptation.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+You were too excited to resist her advances!
 
 選択肢：1
-じっとしている
+Wait and see what happens.
 
-初等部生徒B：上
-ええ？だめ？
-ね、お願い❤
+Junior Student：上
+Eh? You can't?
+Pretty please?❤
 
 ：スチル
-魅了されていて抗うことができない！
+It's impossible to defy her while enchanted!
 
-初等部生徒B：上
-きゃあ。
-好きなのにひどいよ・・・❤
+Junior Student：上
+Kyaa!
+Love is cruel...❤
 
-初等部生徒B：上
-お目目がとろんとしてきたね。
-ちょっとささやいただけなのに、
-もう抵抗できないのかな？
-ほら・・・。
-好き❤、好き❤、好きだよお兄ちゃん❤すごく好き❤、
-死んじゃうぐらい好き❤好きで好きでたまらない❤
-いっぱいささやかれると、耳がぞわぞわしてきちゃうね。
-ねえ、ほら、力も抜けて、
-腕がだらんってしちゃった・・・。
+Junior Student：上
+Your eyes are already becoming blank,
+aren't they?❤*
+With just a couple of whispers,
+you're already at your limit, aren't you?
+Hora...
+Lovey-❤ Dovey-❤ I love you big brother-❤
+You love me so much-❤ You love me so
+much you could die-❤ You can't stop loving me-❤
+The more you hear it,
+the blanker your mind becomes-❤*
+Come on, hora, relax,
+let your arms hang loose...
 
-初等部生徒B：上
-好き❤好き❤大好き❤
-好き❤好き❤好き・・・❤*
-うふふ・・・。
-もうささやかなくても、
-わたしの「好き」が頭の中でぐるぐるしているね。
-声に脳みそをかき混ぜられているみたいで、
-気持ちいいでしょ？
-くすくす・・・。
+Junior Student：上
+I like you-❤ I like you-❤ I love you-❤
+You love me-❤ You love me-❤ You love me...❤
+Ufufu...
+Even when I whisper like this,
+just hearing me say the word "love" makes
+your mind spin around and around-❤
+It's as if my voice is melting your mind.
+The pleasure is amazing, isn't it?
+Ufufu...
 
-初等部生徒B：上
-もうすっかり力が抜けて、
-お人形さんみたいになっちゃった・・・❤
-かわいいなぁ❤
-そうだ、少しだけエナジーをもらうね。
-ん、ちゅっ❤
+Junior Student：上
+You've lost all your strength,
+just like an empty puppet...❤
+My cute, loveable puppet-❤
+Okay, I'll give you some energy back-❤
+Mwah-❤
 
-初等部生徒B：上
-あは❤
-キスしただけでイッちゃった❤
-力が抜けて、我慢ができなかったんだ♪
-うふふ、我慢できないお兄ちゃんもかわいくて好き❤
-大好きなお兄ちゃんのエナジー、
-大事に使うからね。
+Junior Student：上
+Haha-❤
+You came from just a small kiss-❤
+You lost all your resistance♪
+Ufufu- I love big brothers who can't endure-❤
+And I love big brother's energy-
+I'll put it to good use.
 
-初等部生徒B：上
-うふふ、射精できなくてもどかしい？
-そこでじっとしててね。
-みんなでたくさん可愛がってあげるから❤
+Junior Student：上
+Ufufu- it's frustrating when you can't cum,
+isn't it? Just stay right there, and I'll make
+sure to give everyone lots of love～❤
+
+<AT15>
+Junior Student：上
+Kya!
+Ooh. Why must you bully me?
+Even though I love you so much...❤
+Come on, don't do this-
+I like you-❤ You like me-❤ I love you...❤**
+It's as if I'm melting your mind when I talk
+like this, doesn't it?
+I love you...❤ You love me...❤
+Ufufu- you want to listen to me even more...
+選択肢：1
+Wait and see what happens.
+Stab at her, disregarding temptation.
+
+テロップ：中央
+You were too excited to resist her advances!
+
+選択肢：1
+Wait and see what happens.
+
+Junior Student：上
+Eh? You can't?
+Pretty please?❤
+
+：スチル
+It's impossible to defy her while enchanted!
+
+Junior Student：上
+Kyaa!
+Love is cruel...❤
+
+Junior Student：上
+Your eyes are already becoming blank,
+aren't they?❤*
+With just a couple of whispers,
+you're already at your limit aren't you?
+Hora...
+Lovey-❤ Dovey-❤ I love you big brother-❤
+You love me so much-❤ You love me so
+much you could die-❤ You can't stop loving me-❤
+The more you hear it,
+the blanker your mind becomes-❤*
+Come on, hora, relax,
+let your arms hang loose...
+
+Junior Student：上
+I like you-❤ I like you-❤ I love you-❤
+You love me-❤ You love me-❤ You love me...❤
+Ufufu...
+Even when I whisper like this,
+just hearing me say the word "love" makes
+your mind spin around and around-❤
+It's as if my voice is melting your mind.
+The pleasure is amazing, isn't it?
+Ufufu...
+
+Junior Student：上
+You've lost all your strength,
+just like an empty puppet...❤
+My cute, loveable puppet-❤
+Okay, I'll give you some energy back-
+Mwah-❤
+
+Junior Student：上
+Haha-❤
+You came from just a small kiss-❤
+You lost all your resistance♪
+Ufufu- I love big brothers who can't endure-❤
+And I love big brother's energy-
+I'll put it to good use.
+
+Junior Student：上
+Ufufu- it's frustrating when you can't cum,
+isn't it? Just stay right there, and I'll make
+sure to give everyone lots of love-❤
 
 <TK36>
-初等部生徒B：上
-きゃ。
-ううっ。どうしてそんなにいじめるの？
-お兄ちゃんのこと、わたし大好きなのに・・・❤
-ねえ、お兄ちゃん、
-好き❤好き❤大好き・・・❤*
-好きっていっぱい言ってあげると、
-脳がとろけてくるでしょ・・・？
-好き・・・❤好きだよ❤
-うふふ、そのまま声を聞いていてね・・・。
-
+Junior Student：上
+Kya!
+Ooh. Why must you bully me?
+Even though I love you so much...❤
+Come on, don't do this-
+I like you-❤ You like me-❤ I love you...❤**
+It's as if I'm melting your mind when I talk
+like this, doesn't it?
+I love you...❤ You love me...❤
+Ufufu- you want to listen to me even more...
 選択肢：1
-じっとしている
-とどめを刺す
+Wait and see what happens.
+Stab at her, disregarding temptation.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+You were too excited to resist her advances!
 
 選択肢：1
-じっとしている
+Wait and see what happens.
 
-初等部生徒B：上
-ええ？だめ？
-ね、お願い❤
+Junior Student：上
+Eh? You can't?
+Pretty please?❤
 
 ：スチル
-魅了されていて抗うことができない！
+It's impossible to defy her while enchanted!
 
-初等部生徒B：上
-きゃあ。
-好きなのにひどいよ・・・❤
+Junior Student：上
+Kyaa!
+Love is cruel...❤
 
-初等部生徒B：上
-お目目がとろんとしてきたね。
-ちょっとささやいただけなのに、
-もう抵抗できないのかな？
-ほら・・・。
-好き❤、好き❤、好きだよお兄ちゃん❤すごく好き❤、
-死んじゃうぐらい好き❤好きで好きでたまらない❤
-いっぱいささやかれると、耳がぞわぞわしてきちゃうね。
-ねえ、ほら、力も抜けて、
-腕がだらんってしちゃった・・・。
+Junior Student：上
+Your eyes are already becoming blank,
+aren't they?❤*
+With just a couple of whispers,
+you're already at your limit aren't you?
+Hora...
+Lovey-❤ Dovey-❤ I love you big brother-❤
+You love me so much-❤ You love me so
+much you could die-❤ You can't stop loving me-❤
+The more you hear it,
+the blanker your mind becomes-❤*
+Come on, hora, relax,
+let your arms hang loose...
 
-初等部生徒B：上
-好き❤好き❤大好き❤
-好き❤好き❤好き・・・❤*
-うふふ・・・。
-もうささやかなくても、
-わたしの「好き」が頭の中でぐるぐるしているね。
-声に脳みそをかき混ぜられているみたいで、
-気持ちいいでしょ？
-くすくす・・・。
+Junior Student：上
+I like you-❤ I like you-❤ I love you-❤
+You love me-❤ You love me-❤ You love me...❤
+Ufufu...
+Even when I whisper like this,
+just hearing me say the word "love" makes
+your mind spin around and around-❤
+It's as if my voice is melting your mind.
+The pleasure is amazing, isn't it?
+Ufufu...
 
-初等部生徒B：上
-もうすっかり力が抜けて、
-お人形さんみたいになっちゃった・・・❤
-かわいいなぁ❤
-そうだ、少しだけエナジーをもらうね。
-ん、ちゅっ❤
+Junior Student：上
+You've lost all your strength,
+just like an empty puppet...❤
+My cute, loveable puppet-❤
+Okay, I'll give you some energy back-
+Mwah-❤
 
-初等部生徒B：上
-あは❤
-キスしただけでイッちゃった❤
-力が抜けて、我慢ができなかったんだ♪
-うふふ、我慢できないお兄ちゃんもかわいくて好き❤
-大好きなお兄ちゃんのエナジー、
-大事に使うからね。
+Junior Student：上
+Haha-❤
+You came from just a small kiss-❤
+You lost all your resistance♪
+Ufufu- I love big brothers who can't endure-❤
+And I love big brother's energy-
+I'll put it to good use.
 
-初等部生徒B：上
-うふふ、射精できなくてもどかしい？
-そこでじっとしててね。
-みんなでたくさん可愛がってあげるから❤
+Junior Student：上
+Ufufu- it's frustrating when you can't cum,
+isn't it? Just stay right there, and I'll make
+sure to give everyone lots of love-❤
 
 <TK37>
-初等部生徒B：上
-ううっ。このままじゃ負けちゃうよ・・・。**
-ねえ、お兄ちゃん。
-わたし消えちゃう前に、お兄ちゃんとエッチがしたい・・・。
-死んじゃう前に、いっぱい愛し合いたい・・・。
-だめ？
-お願い❤これが最後のお願いだから。*
-わたしの中におちんちん入れて、
-いっぱい出し入れしよう？
-絶対気持ちよくしてあげられるよ・・・。
-一回したあとは、わたしにとどめを刺していいから。
-だから、ね？
+Junior Student：上
+Ugh... I'm gonna lose at this rate...**
+Hey, mister.
+Before you defeat me, I wanna do something sexy
+with you mister-❤
+I want to make lots of sweet love before I die...**
+No?
+Aww, please?❤
+This is my dying wish.
+Just put your penis inside me,
+and then take it out, and then in...
+And then out... It'll feel extremely good-❤
+And after that, you can finish me off.
+Come on, what do you say?
 
 選択肢：1
-うなずく
-とどめをさす
+Nod silently.
+Finish her, disregarding temptation.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+You were too excited to resist her advances!
 
 選択肢：1
-うなずく
+Nod silently.
 
-初等部生徒B：上
-そんなぁ・・・。
+Junior Student：上
+Noo...!
 
-初等部生徒B：上
-やった！うれしい！**
-えっと、まずはパンツを脱いじゃうね。
-あっ、お兄ちゃん、見て？
-わたしのここ、すっかり濡れているでしょ・・・。
-お兄ちゃんのおちんちんを入れたくて、
-ずっと我慢していたんだよ❤
-うふふ。ゆっくり入れるね。んっ・・・。
+Junior Student：上
+Yay!! You know how to make a girl happy.**
+Okay... So first, I need to take my panties off-❤
+Oh mister, do you want to see?
+I've gotten completely wet down here...
+I want your penis inside of me,
+and you're gonna endure through it all-❤
+Ufufu. It's slowly pushing in-❤ Ooh...
 
-初等部生徒B：上
-あん❤
-入れただけなのに、ビクンって震えている❤*
-お兄ちゃんが気持ちよくなってくれてるの
-すごく嬉しいな❤えへへ・・・❤*
-んっ❤
-カチカチのおちんちん、わたしのおまんこで、
-たくさん気持ちよくしてあげるからね。
-こうやって、上下に動いて・・・・
-んっ、あんっ❤
+Junior Student：上
+Aah-❤
+You only just put it in, but I can already
+feel it twitching inside of me-❤
+You're feeling really good too, right?
+I'm so happy-❤ Ehehe...❤*
+Mmm-❤
+Your throbbing penis, and my pussy,
+together feel so, so good-❤
+And pumping up and down, like this...
+Mmm, aaah-❤
 
-初等部生徒B：上
-お兄ちゃん。好きだよ❤
-わたしのお願い聞いてくれてありがとう・・・。
-大好きだよ❤
-ねえ、もうわたしイキそうなの。
-お兄ちゃんも出したいよね。
-いっしょにイこう？
-ほら、中に出して。
-わたしのおまんこにたくさん射精して・・・。*
-んっ、いっぱい腰ふるからぁ❤
-あんっ❤あん❤ほら、気持ちよくなってっ❤
-いっぱい出してぇ❤んっ❤
+Junior Student：上
+Aah, I love you mister-❤
+Thanks for fulfilling my last request...
+I love you so much-❤
+Ooh- I'm gonna cum already.
+You're at your limit too, right?❤
+Wanna cum together?
+Hora, ejaculate inside me-❤
+Dye my insides white with your cum!*
+Ooh, I'll shake my waist even more-❤
+Aah-❤ Ooh-❤ Hora, the pleasure is too much-❤
+Cum lots for me-❤ Oooh-❤
 
-初等部生徒B：上
-ああん❤
-たくさん出ている。気持ちよかったね、お兄ちゃん❤*
-あれ・・・。お兄ちゃん・・・？
-あ、動かなくなっちゃってる・・・。
-そっか、サキュバスの中に出したら死んじゃうもんね。
-ごめんね。約束守れないみたい。
-わたしにとどめを刺す前に、お兄ちゃんが死んじゃった❤*
-んっ❤
-イった後も腰をふって気持ちよくしてあげるから、
-許してね・・・❤あん❤
+Junior Student：上
+Aaah-❤
+You came so much, that felt amazing mister-❤*
+Huh...? Mister...?
+Oh, he's not moving...*
+Oh yeah, cumming inside a
+succubus leads to death-❤*
+Sorry, guess I couldn't keep
+my end of the bargain.
+Mister died before he could kill me-❤
+Mmm-❤ Even after cumming,
+grinding my hips feels so good...
+Goddess forgive me...❤ Aaah-❤
 
 <TK38>
-初等部生徒B：上
-きゃううっ・・・。
-せんぱい、とっても強いんだね。
-このままじゃ、わたし倒されちゃう。
+Junior Student：上
+Kyaaah...!
+Senpai, how'd you get so strong?
+I'll be defeated at this rate.
 
-初等部生徒B：上
-ね、見て？
-わたしのおっぱい・・・❤
-体は小さいのに、大きいでしょ？
-魔物になってから、おっきくなったんだよ。
-わたしを倒しちゃったら、こんなおっぱい味わえないよ？*
-ね、服の中に入れて、
-おっぱいでズリズリしごいてあげようか？
-きっと気持ちいいよ・・・❤
-お願い❤
-大好きな先輩❤
-わたしにパイズリご奉仕、させて・・・？
+Junior Student：上
+Hey, you noticed it too, right?
+My breasts, I mean...❤
+I'm so small, yet they're so big, right?
+When I transformed, they swelled up like
+balloons❤*
+Don't you want to experience
+them before you defeat me?*
+Just put your thing inside my clothes,
+and I'll rub you a bit with my breasts, alright?
+The pleasure is exquisite, you won't regret it-❤
+Please?❤
+I love you so much senpai-❤*
+Won't you let me service you with my breasts...?
 
 選択肢：1
-じっとしている
-とどめをさす
+Wait and see what happens.
+Stab at her, disregarding temptation.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+You were too excited to resist her advances!
 
 選択肢：1
-じっとしている
+Wait and see what happens.
 
-初等部生徒B：上
-そんなぁ・・・。
+Junior Student：上
+Aww...
 
-初等部生徒B：上
-えへへ・・・。逃げないんだね？**
-ほら。服のここのところを開けてね。
-この隙間におちんちんを、
-ゆっくり・・・。
-んっ、入ったぁ❤
-どう？わたしのおっぱい柔らかい？
+Junior Student：上
+Ehehe... You're curious, aren't you?**
+Hora, I'll lift my clothes up a bit and...
+Slowly slide your penis into my cleavage...*
+Mm, insertion complete-❤
+You like it?
+My boobs are soft, aren't they?
 
-初等部生徒B：上
-ふふ、おちんちんがおっぱいを押し返しているね。
-ほんとにガチガチ・・・。*
-このガチガチおちんちんをおっぱいで
-ふにゃふにゃにとろかしてあげるね❤
-ほら。
+Junior Student：上
+Fufu- I'm going to jostle your penis in my
+breasts for a bit. Whoa, it's so hard...*
+I'll melt this stiff penis in the soft
+chasm of my bouncy breasts-❤
+Hora!
 
-初等部生徒B：上
-こうやってもみもみされるの気持ちいいよね？
-おっぱいを両手でこねこね。
-おちんちんに特別ご奉仕。
-おちんちんをおっぱいが包み込んで、
-そのままもみくちゃにされてるんだよ？
-ふふっ、体がビクンビクンはねちゃっている。
-ほら、もっと強く揉んであげる。
-ぐにぐにって押し付けて、
-おっぱいの圧力でおちんちんをこねこね❤
+Junior Student：上
+It feels good when I massage you like this, right?
+As a special service,
+I'll knead your penis with my breasts.
+As my breasts wrap around your penis,
+you want me to continue kneading it, don't you?
+Fufu- I can feel your body twitching in pleasure.
+Hora, time to increase the
+intensity of the massage.*
+I'm going to rub your penis in small circles,
+and knead it with the pressure of my breasts-❤
 
 アクティブ：上
-あふぅ❤なにこれぇ・・・❤
+Uaah-❤ Wha, what is...❤
 
-初等部生徒B：上
-あは❤おっぱいそんなに気持ちいいんだ。
-うれしい❤*
-ほらほら、もっと気持ちよくなろ？
-わたしに体を全部委ねちゃお？*
-おっぱいで天国に行っちゃおうね。
-せんぱい❤
+Junior Student：上
+Ara-❤ My breasts are melting your mind-❤
+I'm so pleased you like it-❤*
+Hora hora, you want to feel even better,
+don't you?*
+Let me take care of your body, okay?
+I'll make you ascend to heaven with my breasts,
+senpai-❤
 
-初等部生徒B：上
-きゃん❤
-たくさん出ている。谷間が熱いよ・・・。*
-ほら、最後まで絞り出してあげるね。
-おっぱいでむぎゅー❤*
-ふふ。もう体が動かないね。
-わたしのロリおっぱいに全部吸われちゃった❤*
-よかったね、せんぱい。
-最高の最期で・・・。くすくす・・・❤
+Junior Student：上
+Uwaah-❤
+You came so much. My cleavage is so hot...*
+Hora, I'll squeeze you till the last drop-❤
+Ready? My boobs are gonna squeeze you again-❤*
+Fufu. He's no longer moving.
+Sucked completely dry with my loli boobs-❤*
+That was fun Senpai-❤
+Your last moments were the best...
+Teeheehee...❤
 
 <TK39>
-初等部生徒B：上
-きゃううっ・・・。
-せんぱいもとっても強いんだね。
-このままじゃ、わたし倒されちゃう。
-ね、せんぱいもわたしのおっぱいで
-負けたくなぁい？
-とっても気持ちいいんだよ。
-このおっぱいに挟まれたらね。
-頭の中とろとろになって、
-射精すること以外、考えられなくなるの。
-さっき、お仲間さんがやられるところ、見てたよね。
-せんぱいも味わってみたくないかな・・・。*
-ね。じっとしていよ・・・❤
-お願い❤
-わたしにパイズリご奉仕、させて・・・？
+Junior Student：上
+Uwaah...
+Senpai, you're strong, aren't you?
+You'll defeat me if this keeps up.
+But, Senpai wouldn't want to
+lose to my boobs, right?*
+Even if they felt really good.
+Even if I wrapped you between my tits-❤*
+Your mind would become light and fluffy,
+unable to think about anything
+but cumming between them.
+You were watching what I did to your friend,
+I know it. I know Senpai wants a taste
+of it too...
+Right? Just don't do anything-❤
+Please?❤
+Won't you let me service you with my breasts...?
 
 選択肢：1
-じっとしている
-とどめをさす
+Wait and see what happens.
+Stab at her, disregarding temptation.
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+You were too excited to resist her advances!
 
 選択肢：1
-じっとしている
+Wait and see what happens.
 
-初等部生徒B：上
-そんなぁ・・・。
+Junior Student：上
+Uugh...
 
-初等部生徒B：上
-えへへ・・・。逃げないんだね？**
-ほら。服のここのところを開けてね。
-この隙間におちんちんを、
-ゆっくり・・・。
-んっ、入ったぁ❤
-どう？わたしのおっぱい柔らかい？
+Junior Student：上
+Ehehe... You're curious, aren't you?**
+Hora, I'll lift my clothes up a bit and...
+Slowly slide your penis into my cleavage...*
+Mm, insertion complete-❤
+You like it? My boobs are soft, aren't they?
 
-初等部生徒B：上
-ふふ、ぬるぬるしているから、
-とっても気持ちいいよね。
-みんな、ここにおちんちん入れて負けちゃうんだよ。
-挟んで少し揺さぶっただけで、
-ほら・・・。あっという間にとろけ顔・・・❤
+Junior Student：上
+Fufu- they're still slippery from earlier,
+so it'll feel even better than before-❤*
+Everyone loses once they
+put their penis in here-❤*
+Even just a little shake of my breasts,
+hora... Is enough to turn your mind into mush-❤
 
-初等部生徒B：上
-まだ終わりじゃないよ？
-おっぱいを両手でこねこねしたり、
-ぎゅーって圧し潰したり・・・。
-さっきの先輩も負けちゃった、パイズリご奉仕。
-どんなおちんちんも気持ちよすぎて、
-あっという間に射精しちゃう・・・。
-せんぱいもおんなじみたいだね。
-もうイキそうでしょ？
-頭の中、快感で真っ白でしょ・・・？
-しょうがないよ。おっぱいに男の子は勝てないもの。
-ほら、とどめにズリズリ揺さぶってあげる。*
-気持ちいい、上下パイズリで
-ドピュドピュっていっちゃえ❤
+Junior Student：上
+But we're not done yet-❤
+Using both of my hands, I can also massage my
+breasts with just the right amount of pressure...
+The same paizuri service that defeated
+your friend. This pleasure overwhelms any penis,
+and causes them to cum in an instant...
+Just like you, senpai-❤
+Are you gonna cum already?*
+Your head is becoming blank with pleasure,
+isn't it...?*
+There's no fighting it.
+No man can resist my breasts.*
+Hora, time to finish you off with one
+shake of my breasts.*
+The pleasure is too much, it feels so
+good to let loose your semen in the
+movements of my paizuri-❤
 
-初等部生徒B：上
-きゃん❤
-たくさん出ている。谷間が熱いよ・・・。*
-ほら、最後まで絞り出してあげるね。
-おっぱいでむぎゅー❤*
-ふふ。もう体が動かないね。
-わたしのロリおっぱいに全部吸われちゃった❤*
-よかったね、せんぱい。
-最高の最期で・・・。くすくす・・・❤
+Junior Student：上
+Uwaah-❤
+You came so much. My cleavage is so hot...*
+Hora, I'll squeeze you till the last drop-❤
+Ready? My boobs are gonna squeeze you again-❤*
+Fufu- He's no longer moving.
+Sucked completely dry with my loli boobs-❤*
+That was fun, senpai-
+Your last moments were the best...
+Teeheehee...❤
 
 <TK40>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Haah...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Damn it...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+No... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aah-❤
 
-初等部生徒A：上
-あははっ。
-自分でしごき始めちゃった❤*
-小っちゃい子に誘惑されて、
-我慢できなくなっちゃったのかなぁ。
-かわいい・・・❤
-ねえ、どんなふうにしごくのかよく見せて？
-うんうん、そうやって先っぽのほうとかを
-シコシコするんだ。へぇー。
-うーん？見られて興奮した？
-くすくす・・・。
-小っちゃい子に見せつけオナニー、気持ちいいんだね。
+Junior Student：上
+Ahahaha.
+You started stroking on your own!❤*
+To be unable to resist the
+temptations of such a young girl,
+that's so adorable...❤
+Hey- Can I show you how to stroke properly?
+Uh-huh, that's it, stroke the tip real hard
+like this- Aah-
+Well? Did my demonstration get you aroused?
+Teehee... I guess it feels even better when
+a girl shows you how to masturbate, right?
 
 アクティブ：上
-くうっ・・・。だめだ、もうっ❤
-ああっ・・・❤
+Ugh... No more... I'm already-❤
+Aaah-❤
 
-初等部生徒A：上
-あはは。情けない声あげちゃって。
-じーって見ててあげるから、
-シコシコオナニーいっぱい楽しもうね。
-ん？出ちゃう？出ちゃうの？
-我慢できない？そう、それじゃあ、とどめ❤*
-息をおちんちんに吹きかけてあげる❤
-ふぅー・・・❤
+Junior Student：上
+Ahaha. What a pathetic voice.
+Now just sit still okay? I'll stroke you
+lots, so just sit back and enjoy-
+Hmm? Gonna cum? Are you going to cum?
+Can't take it anymore? I see, well in that case,
+time to land the finishing blow-❤
+I'll breathe hot air on your penis-❤
+Pshew...❤
 
-初等部生徒A：上
-あはっ、触れてもいないのにイっちゃった。
-情けなーい❤くすくす。
+Junior Student：上
+You came and I didn't even touch you.
+How pathetic-❤ Teehee-
 
 <TK41>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Haah...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Ugh...❤ Damn it...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+No... I'm, already...❤
 
 アクティブ：上
-ああ…❤
+Aah-❤
 
-初等部生徒A：上
-あれれー。
-先輩もオナニーしちゃうの？*
-小っちゃい子に誘惑されて、
-我慢できなくなっちゃったのかなぁ。
-かわいい・・・❤
-ねえ、どんなふうにしごくのかよく見せて？
-うんうん、へぇー、
-前の先輩とはちょっと違うんだね。
-でも、見られて興奮するところはおんなじ。
-くすくす・・・。小っちゃい子に見せつけオナニー、
-そんなに気持ちいいの？
+Junior Student：上
+Oh, what's this-?
+Senpai's stroking his penis too?*
+To be unable to resist the
+temptations of such a young girl,
+that's so adorable...❤
+Hey- Can I show you how to stroke properly?
+Uh-huh, that's it, stroke the tip real hard
+like this- Aah-
+Well? Did my demonstration get you aroused?
+Teehee... I guess it feels even better when
+a girl shows you how to masturbate, right?
 
 アクティブ：上
-あっ❤あっ❤
+Aah-❤ Aah-❤
 
-初等部生徒A：上
-もうイキそうな声出してる。
-早ーい❤*
-前の先輩とおんなじように、
-息をおちんちんに吹きかけてあげる❤
-ふぅー・・・❤
+Junior Student：上
+Your moans are already getting louder.
+That's too quick-❤*
+Just like with the other senpai,
+I'll breathe hot air on your penis-❤
+Pshew...❤
 
-初等部生徒A：上
-あはっ、やっぱり瞬殺だー。
-触れてもいないのにイっちゃうんだもん、
-情けないねー❤くすくす。
+Junior Student：上
+Ara, as expected. Instant kill-
+You came and I didn't even touch you.
+How pathetic-❤ Teehee-
 
 <TK42>
 Ray：上
@@ -2406,7 +2613,7 @@ Nobus：上
 ううっ、気持ちよくしてください・・・❤
 お願いします・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ぷぷっ、わたしみたいな小さな子に、
 お願いしてまで気持ちよくしてもらうとか、
 プライドないの？
@@ -2415,7 +2622,7 @@ Nobus：上
 えっち攻撃Lv2
 誘惑攻撃Lv1
 
-初等部生徒A：上
+Junior School GirlA：上
 はい、射精❤
 せんぱい、弱いねー❤
 
@@ -2435,21 +2642,21 @@ Nobus：上
 ううっ、気持ちよくしてください・・・❤
 お願いします・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ぷぷっ、バリケード突破するのはもうどうでもいいんだ？
 わたしにエッチなことしてほしくて、
 頭、バカになっちゃったねー❤
 
-初等部生徒A：上
+Junior School GirlA：上
 はい、射精❤
 せんぱい、弱いねー❤
 
 <TK43>
-初等部生徒A：上
+Junior School GirlA：上
 あん！
 痛いよぉ・・・。
 
-初等部生徒A：上
+Junior School GirlA：上
 ねえ、お兄ちゃん、いじめないで。
 お願い。わたしの痛いのはやだよ・・・。*
 痛いことよりも、気持ちいいことしよ？
@@ -2466,22 +2673,22 @@ Due to arousal, you couldn't refuse her request!
 選択肢：1
 じっとしている
 
-初等部生徒A：上
+Junior School GirlA：上
 ひゃん！そんなぁ・・・。
 
-初等部生徒A：上
+Junior School GirlA：上
 えへへ。じっとしてくれるんだ。
 いい子❤いい子❤
 おちんちんをなでなでしてあげるね。
 ほらほら、こうやって手のひらを軽く押し付けて、
 なでなで♪、いい子、いい子❤
 
-初等部生徒A：上
+Junior School GirlA：上
 気持ちいいねー。
 痛いことなんかより、こっちの方が絶対楽しいよねー。*
 ほおら、なでなで、シコシコ・・・♪
 
-初等部生徒A：上
+Junior School GirlA：上
 ねえ、想像して？
 このままお手でびゅーって射精しちゃうところ。*
 小さいお手がシコシコするのに合わせて、
@@ -2494,18 +2701,18 @@ Due to arousal, you couldn't refuse her request!
 カリ首さんのところを指でぎゅって絞めながら、
 上下にシュ、シュ♪
 
-初等部生徒A：上
+Junior School GirlA：上
 あん❤ビクンってして射精しちゃった。**
 誘惑に負けてイっちゃうのは気持ちいいよね❤
 死んじゃったけど十分満足したでしょ？
 くすくす・・・。
 
 <TK44>
-初等部生徒A：上
+Junior School GirlA：上
 ううっ、このままじゃ負けちゃうよ・・・。
 こうなったらダメもとで・・・。
 
-初等部生徒A：上
+Junior School GirlA：上
 ねえ、先輩？
 見て？私の足。
 小さくてかわいいでしょ？
@@ -2523,10 +2730,10 @@ Due to arousal, you couldn't refuse her request!
 選択肢：1
 じっとしている
 
-初等部生徒A：上
+Junior School GirlA：上
 あうっ・・・。
 
-初等部生徒A：上
+Junior School GirlA：上
 え、ほんと！やった！**
 ふふっ・・・。とはいえ、
 先輩は小さい女の子の
@@ -2534,7 +2741,7 @@ Due to arousal, you couldn't refuse her request!
 いいよ。ほら、そこに立って・・・。
 わたしが座りながら両足でしごいてあげる。
 
-初等部生徒A：上
+Junior School GirlA：上
 ん。先輩のすっかりカチカチだね。
 足でこすられて、気持ちよくなっているのが分かるよ。*
 こうやって、両足でぎゅって挟んで、
@@ -2545,7 +2752,7 @@ Due to arousal, you couldn't refuse her request!
 アクティブ：上
 はっ、はひぃ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ふふっ。どうしたのよだれたらしちゃって。
 もう理性が残っていないのかな？*
 サキュバスの誘惑を受け入れちゃったんだもんね。
@@ -2558,12 +2765,12 @@ Due to arousal, you couldn't refuse her request!
 アクティブ：上
 はぁ、はふぅ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 くすくす・・・。もう夢見心地だね❤**
 それじゃあ、このまましゅこしゅこ扱いて、
 天国に行くまで気持ちよくなろっか❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あん❤
 うふふ、エナジーがたくさん。*
 女の子の足なんかで勝負を捨てて、
@@ -2571,11 +2778,11 @@ Due to arousal, you couldn't refuse her request!
 くすくす・・・。
 
 <TK45>
-初等部生徒A：上
+Junior School GirlA：上
 きゃあ！痛たたっ！
 ううっ、まさか倒されそうになるなんて・・・。
 
-初等部生徒A：上
+Junior School GirlA：上
 あっ、でも、先輩のアソコすっかり大きくなっているね。
 わたしたちに柵越しに誘惑されて、
 興奮しちゃったんだ❤
@@ -2583,7 +2790,7 @@ Due to arousal, you couldn't refuse her request!
 気持ちよくしてもらえないよ？
 そのギンギンになったの、びゅっびゅってできないよ？
 
-初等部生徒A：上
+Junior School GirlA：上
 想像して？
 わたしの小さいお口で、ちゅぱちゅぱ、しゃぶられて、
 おちんちんから白い精液、いっぱい出しちゃうところ。
@@ -2601,23 +2808,23 @@ Due to arousal, you couldn't refuse her request!
 選択肢：1
 じっとしている
 
-初等部生徒A：上
+Junior School GirlA：上
 うわっ！そんなぁ・・・。
 
-初等部生徒A：上
+Junior School GirlA：上
 えへへ。逃げないんだね。
 誘惑に流されちゃって、かわいい❤*
 それじゃ、咥えちゃうよ。
 あーむ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 んむっ❤
 あん❤先輩の、おっきいー♪
 舐めるとビクビクして気持ちよさそうだね。
 ふふ、どうしたの？そんなお顔して。
 口からよだれが垂れているよ？そんなに気持ちいい？
 
-初等部生徒A：上
+Junior School GirlA：上
 んっ❤んっ❤じゅぷ❤じゅぽ❤
 ふふ、サキュバスに身を任せたんだもん。
 そりゃ気持ちいいよね。
@@ -2632,7 +2839,7 @@ Due to arousal, you couldn't refuse her request!
 ほら、年下女の子のお口に負けて
 射精しちゃえ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あん❤
 濃厚精液とってもおいしい。*
 誘惑に負けてイっちゃうのは気持ちいいよね❤
@@ -21134,18 +21341,18 @@ Cherish：上
 腰を突き入れる
 誘惑に耐える
 
-初等部生徒A：上
+Junior School GirlA：上
 くすくす、ほんとに突き出すんだぁ。
 変態❤*
 いいよ？ほら、お尻をおちんちんに押し付けてあげる♥
 先輩の、念願のおパンツの感触、
 おちんちんで、いっぱい楽しもうね❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ふふ、まだ触れただけだよ？
 こうやってゆっくり腰を上下させれば・・・
 
-初等部生徒A：上
+Junior School GirlA：上
 あはっ、これだけで声あげちゃうの？
 「気持ちいいよぉ・・・」なんて情けない声❤
 パンツにおちんちん包まれて幸せですねー❤
@@ -21154,7 +21361,7 @@ Cherish：上
 いいよ。イッちゃえ❤
 白い精液、わたしのパンツに出しちゃえ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あん❤柵からおちんちん出てきたー❤
 ふふ、言うこと聞いてくれたご褒美に、。
 さきっぽ亀さんに足をのせて・・・。
@@ -21175,7 +21382,7 @@ Cherish：上
 ほらほら、イッちゃっていいよ？
 年下の女の子に、足なんかで負けてイかされちゃえ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ふふ、おちんちん、柵の向こうに出しちゃったね❤**
 ほら、おちんちんにおまんこ近づけるよ。
 サキュバスおまんこにちゅーちゅー吸われたら、
@@ -21186,7 +21393,7 @@ Cherish：上
 あん❤中に入ったぁ❤
 ふふ、気持ちいい？
 
-初等部生徒A：上
+Junior School GirlA：上
 うふふ。ほんとにおちんちん出しちゃった。
 いいよ、ほら、ご褒美上げる。*
 指のわっかで、きゅっとおちんちんを捕まえて・・・
@@ -21203,7 +21410,7 @@ Cherish：上
 ほら、イイよ❤後輩お手てに負けちゃお？
 情けなく、びゅって出しちゃお？うふふ・・・。
 
-初等部生徒A：上
+Junior School GirlA：上
 気持ちいいよねぇ❤
 サキュバスおまんこだもん。
 男の人を気持ちよくして、絞り殺すための女の子穴❤
@@ -21213,7 +21420,7 @@ Cherish：上
 でも、ダメだよ。最後までちゃんと味わって？
 ほら❤こうやって腰をパンパンって動かしてあげる！
 
-初等部生徒A：上
+Junior School GirlA：上
 えいっえいっ❤
 どうだ❤どうだ❤*
 ふふっ、そうだよ❤その顔、
@@ -21223,18 +21430,18 @@ Cherish：上
 脳みそとろけそうな快感で、全部、全部っ❤
 わたしに出して❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あん❤どびゅどびゅ出てきたぁ❤
 パンツに濃厚なエナジーこんなにかけるなんて、
 先輩もほんと変態だね。くすくす・・・。
 
-初等部生徒A：上
+Junior School GirlA：上
 あはぁ、あっという間に射精しちゃった♪
 足で挟まれてシコシコ、そんなに気持ちよかったんだ。*
 よかったね？
 最高の死に方ができて、ふふ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あん❤熱い・・❤
 どろどろ精液、わたしの中にたっぷり出てる・・・。*
 先輩は・・・、ふふっ、
@@ -21244,7 +21451,7 @@ Cherish：上
 エッチに誘惑したら、簡単に自爆しちゃうんだもん。
 ふふふ、次の獲物は誰かなぁ？
 
-初等部生徒A：上
+Junior School GirlA：上
 あはっ❤出た出た❤
 指のわっかでシコシコされて、
 あっという間に負けちゃった❤
@@ -21264,7 +21471,7 @@ Cherish：上
 顔を近づける
 誘惑に耐える
 
-初等部生徒B：上
+Junior School GirlB：上
 うふふ、ありがと。せんぱい❤**
 ほら、出してくれたおちんちん、
 わたしの手で包んじゃうね。
@@ -21279,7 +21486,7 @@ Cherish：上
 せんぱい、好きだよ❤
 大好き❤
 
-初等部生徒B：上
+Junior School GirlB：上
 ふふ、お手ておまんこで
 シコシコされるの気持ちいいんだ。
 かわいい声が出ているよ。
@@ -21292,7 +21499,7 @@ Cherish：上
 好きって言われながら、
 わたしのお手てに全部出しちゃお？
 
-初等部生徒B：上
+Junior School GirlB：上
 あっ、ほんとにおちんちん出した❤
 もうエッチなことしてほしくて、我慢できなくなったんだ❤*
 ほら、かっこいいせんぱいのおちんちん、
@@ -21314,7 +21521,7 @@ Cherish：上
 シコシコ、ペロペロしてあげるから❤
 んっ❤あむ❤えるっ❤えろうぅ❤
 
-初等部生徒B：上
+Junior School GirlB：上
 シコシコオナニー始めちゃったね❤**
 はい、しこしこ♪、しこしこ♪
 うふふ、わたしのパンツ見ながらの
@@ -21331,7 +21538,7 @@ Cherish：上
 そうそう、そのままイクまでしごくの❤
 ほら、しこしこ、しこしこ❤
 
-初等部生徒B：上
+Junior School GirlB：上
 んっ、ちゅ♥
 あん、せんぱいの唇が、わたしの唇に
 当たった・・・❤
@@ -21354,25 +21561,25 @@ Cherish：上
 わたしの気持ちいい唇に身を任せて、
 舌をいっぱいじゅぽじゅぽされちゃお・・・？
 
-初等部生徒B：上
+Junior School GirlB：上
 あん❤どびゅどびゅ出てきた❤
 うふふ、手がドロドロだよ♪*
 もう体が動かないね❤
 でも気持ちよくて、とてもよかったでしょ？
 せんぱい❤
 
-初等部生徒B：上
+Junior School GirlB：上
 んっ❤んっ❤ごくっ❤
 はぁ・・・。たくさん出たね。
 せんぱい❤
 
-初等部生徒B：上
+Junior School GirlB：上
 あん❤熱い・・❤
 柵越しにこっちに飛んできた・・・。*
 ふふっ、たくさん出せて、
 気持ちよかった？せんぱい❤
 
-初等部生徒B：上
+Junior School GirlB：上
 あはっ❤すっごい・・・。
 おちんちんからビクビク出てる・・・❤*
 んっ。おいしい・・・❤
@@ -22364,7 +22571,7 @@ Ray：上
 牢屋に捕らえられ、
 精気を供給するえさとして飼われていた。
 
-初等部生徒A：上
+Junior School GirlA：上
 あは❤
 先輩っ❤今日も絞りにきてあげたよー❤*
 もうお腹ペコペコなの。
@@ -22374,7 +22581,7 @@ Ray：上
 Ray：上
 うぐっ・・・。
 
-初等部生徒A：上
+Junior School GirlA：上
 なあに？足蹴にされて怒った？
 ふふ、足でツンってしただけで倒されて、
 女の子にのしかかられちゃったね。
@@ -22382,7 +22589,7 @@ Ray：上
 わたしのおまんこで、騎乗位セックスして、
 たっぷりしぼりとってあげるから♥
 
-初等部生徒A：上
+Junior School GirlA：上
 くすくす・・・。騎乗位セックスって言ったとたん、
 抵抗が弱くなったね。どうしたのかなー？*
 こうやって上にのしかかられて、
@@ -22392,12 +22599,12 @@ Ray：上
 Ray：上
 ち、ちがっ・・。あっ❤あっ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 おパンツすりすり気持ちいいですかー？
 くすくす。ほら、挿れちゃうよ？
 おちんちん、中にくわえこんじゃうよ？
 
-初等部生徒A：上
+Junior School GirlA：上
 ほおら、んっ❤
 あはっ❤サキュバスおまんこに
 おちんちん食べられちゃったね❤
@@ -22406,7 +22613,7 @@ Ray：上
 やめろっ❤あっ❤はなせぇ・・・❤
 あうぅっ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 うふふ、口では強がり言ってても、
 中に挿れた途端にとろけ顔じゃん❤*
 これなら、きっとエナジーもすぐ出ちゃうね❤
@@ -22422,7 +22629,7 @@ Ray：上
 あっ、あひぃ❤
 なにこれっ、あっ❤あっ❤ああっ❤❤❤
 
-初等部生徒A：上
+Junior School GirlA：上
 くすくす。はっやーい❤
 そんなに気持ちよかったんだ。*
 ねえねえ、さっきみたいに怒ってよ？
@@ -22431,7 +22638,7 @@ Ray：上
 Ray：上
 うっ、でもっ・・・❤ああっ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 くすくす。反抗できないんだ❤**
 わたしに逆らったら、
 もう、おまんこしてもらえないかもしれないもんね。
@@ -22448,7 +22655,7 @@ Ray：上
 だからっ、やめないでっ❤
 あっ❤あっ❤ああっ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 きゃはは❤
 おまんこにぬぽぬぽしごかれてっ、
 すっごく気持ちよくてぇ、全然逆らえない❤
@@ -22458,14 +22665,14 @@ Ray：上
 ほら、いっちゃえ❤いっちゃえ！！
 サキュバスまんこに降参しちゃえ。ザーコ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あん❤すっごい量。
 おまんこの中が精液でいっぱいだよー❤*
 でも、もっともっとちょうだい❤
 わたしが満腹になるまで、
 たくさん出すのっ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あー、おいしかったぁ❤
 くすくす・・・。*
 もう、エナジー吸われすぎて体がシナシナだね。
@@ -22501,7 +22708,7 @@ Miles：上
 ああっ、でも我慢できないっ・・・❤
 くそっ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ぷぷっ。見て、リーダーさん。
 あの人たち、あんなに強そうなのに、
 夢中でおちんちん突き出している。
@@ -22511,7 +22718,7 @@ Miles：上
 Ray：上
 うっ・・・❤ううっ・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 リーダーさんも我慢できないんだよね。
 みんなとおんなじように、
 おちんちん気持ちよくされたい。
@@ -22522,7 +22729,7 @@ Ray：上
 Ray：上
 くっ・・・❤うううっ・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 ほら、リーダーさんのおちんちん、
 さきっちょ握っちゃうよ？
 こうやって手でわっかを作って、ゆーっくり・・・。
@@ -22532,20 +22739,20 @@ Ray：上
 Ray：上
 はっ、はひぃぃ・・・❤なにこれぇ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あーあー、情けない顔。
 わたしたちよりずっと年上なのに、おちんちん握られただ
 けで、あっという間に降参しちゃうんだ❤
 よわーい、よわーい先輩だね❤
 ほらほら、いいよ。そのまま気持ちよくなっちゃおう？
 
-初等部生徒B：上
+Junior School GirlB：上
 えーい、ぐちゅぐちゅー♪
 
 Ray：上
 あっ❤あっ❤あああっ！！！
 
-初等部生徒A：上
+Junior School GirlA：上
 あははっ、いい声❤
 ほら、もっとよがってよ❤
 そうだ。耳も舐めてあげる。
@@ -22557,7 +22764,7 @@ Ray：上
 はふぅ❤
 あっ、あっ、だめ❤ああっ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ぷっ。
 乳首と耳なんかでそんな声あげるんだ。キモーい❤*
 ほら、なめやすいように
@@ -22566,7 +22773,7 @@ Ray：上
 そう、そうよ❤いい子ね❤
 くすくす・・・。
 
-初等部生徒B：上
+Junior School GirlB：上
 カッコ悪いね。
 リーダーさんなのに、
 小さい子にもてあそばれて・・・。
@@ -22580,7 +22787,7 @@ Ray：上
 Ray：上
 は、はひぃ・・・❤も、もうっ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 それじゃ、おねだりしなさい？
 言わないとやめちゃうわよ。
 ほら！
@@ -22590,7 +22797,7 @@ Ray：上
 おねがひぃしますっ❤ああっ❤
 イカせてくださいぃ・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 プライドも何もないんだね。ザーコ❤
 ほら、いっちゃえ❤情けなく手に出しちゃえ！
 
@@ -22601,12 +22808,12 @@ Ray：上
 はっ、はあっ・・・❤❤
 きもちいいぃ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あはっ、出しちゃった❤
 みんなのリーダーなのに、
 小さい女の子なんかの誘惑に負けちゃった❤くすくす❤
 
-初等部生徒B：上
+Junior School GirlB：上
 見て？手がドロドロだよ。
 こんなにたくさん出せて、気持ちよかったね❤*
 この精液にはね、あなたの命が溶け込んでいるの。
@@ -22619,22 +22826,22 @@ Ray：上
 い、いやですっ、もっとぉ・・・
 もっと、おねがいしますっ、ああっ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 気持ちよくなれれば、死んじゃってもいいんだ❤**
 腰をヘコヘコ押し付けて、
 シコシコしてください～っておねだりして、
 すっごくかっこ悪い❤
 
-初等部生徒B：上
+Junior School GirlB：上
 いいよ。
 ほら、シコシコしてあげるから、
 死んじゃうまで、気持ちよくなろうね・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 あーあ、動かなくなっちゃった。
 もうこの人も終わりだね。
 
-初等部生徒A：上
+Junior School GirlA：上
 他の人もだいたい絞り終わったみたいね。
 ふふっ、男って弱すぎー♪
 
@@ -22653,7 +22860,7 @@ Ray：上
 牢屋に捕らえられ、
 精気を供給するえさとして飼われていた。
 
-初等部生徒B：上
+Junior School GirlB：上
 くすくす。お待たせ。
 今日の搾精の時間だよ。*
 今日はどこで絞ってあげようかな。
@@ -22670,7 +22877,7 @@ Ray：上
 今日はこのおっぱいで絞ってあげるね❤
 見て？こうやって服のボタンをはずして・・・。
 
-初等部生徒B：上
+Junior School GirlB：上
 んっ、真ん中にすき間ができたね。
 おっぱいの谷間がいやらしくのぞいている。
 ねえ、これにどうしたい？
@@ -22685,7 +22892,7 @@ Ray：上
 Ray：上
 はううっ・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 あん❤
 おっぱいの中におちんちんが入っちゃった。
 入れただけでかわいい声あげちゃったね❤
@@ -22697,7 +22904,7 @@ Ray：上
 うっ・・・❤
 あっあっ、だめっ、ああっ・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 あれれ？腰、止まっちゃったね。
 どうしたの？
 ん・・・？気持ちよすぎてもう動けない？
@@ -22712,7 +22919,7 @@ Ray：上
 は、はひぃぃ・・・❤
 これ、すごいぃ・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 せんぱい、わたしよりずっとオトナなのに、
 おっぱいにしごかれて、
 そんなとろけ顔になっちゃうんだね❤
@@ -22727,7 +22934,7 @@ Ray：上
 は、はひぃ・・・❤だめになりますぅ・・・❤
 だから、もっとぉ・・・❤ああぁ・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 くすくす・・・。
 素直でいい子❤*
 ほら、おちんちんを挟んだまま、
@@ -22738,7 +22945,7 @@ Ray：上
 あっ、あっ、もうだめ・・・❤
 出るぅ・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 あん❤
 たっぷり出てきたぁ❤*
 おっぱい気持ちよくて、
@@ -22757,14 +22964,14 @@ Ray：上
 はっ❤はあぁっ❤❤
 きもちぃっ❤ああっ❤
 
-初等部生徒B：上
+Junior School GirlB：上
 もっと出すの❤
 ほら、ぎゅーっ❤
 
 Ray：上
 あっ、あっ❤とまらなっ❤
 
-初等部生徒B：上
+Junior School GirlB：上
 あん❤倒れちゃった・・・。
 もうエナジーを出し切ったんだね。
 うふふ。今日もおいしかったよ。
@@ -22795,7 +23002,7 @@ Miles：上
 ああっ、でも我慢できないっ・・・❤
 くそっ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ぷぷっ。見て、リーダーさん。
 あの人たち、あんなに強そうなのに、
 夢中でおちんちん突き出している。
@@ -22805,7 +23012,7 @@ Miles：上
 Ray：上
 うっ・・・❤ううっ・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 リーダーさんも我慢できないんだよね。
 みんなとおんなじように、
 おちんちん気持ちよくされたい。
@@ -22816,7 +23023,7 @@ Ray：上
 Ray：上
 くっ・・・❤うううっ・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 ほら、リーダーさんのおちんちん、
 さきっちょ握っちゃうよ？
 こうやって手でわっかを作って、ゆーっくり・・・。
@@ -22826,20 +23033,20 @@ Ray：上
 Ray：上
 はっ、はひぃぃ・・・❤なにこれぇ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あーあー、情けない顔。
 わたしたちよりずっと年上なのに、おちんちん握られただ
 けで、あっという間に降参しちゃうんだ❤
 よわーい、よわーい先輩だね❤
 ほらほら、いいよ。そのまま気持ちよくなっちゃおう？
 
-初等部生徒B：上
+Junior School GirlB：上
 えーい、ぐちゅぐちゅー♪
 
 Ray：上
 あっ❤あっ❤あああっ！！！
 
-初等部生徒A：上
+Junior School GirlA：上
 あははっ、いい声❤
 ほら、もっとよがってよ❤
 そうだ。耳も舐めてあげる。
@@ -22851,7 +23058,7 @@ Ray：上
 はふぅ❤
 あっ、あっ、だめ❤ああっ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ぷっ。
 乳首と耳なんかでそんな声あげるんだ。キモーい❤*
 ほら、なめやすいように
@@ -22860,7 +23067,7 @@ Ray：上
 そう、そうよ❤いい子ね❤
 くすくす・・・。
 
-初等部生徒B：上
+Junior School GirlB：上
 カッコ悪いね。
 リーダーさんなのに、
 小さい子にもてあそばれて・・・。
@@ -22874,7 +23081,7 @@ Ray：上
 Ray：上
 は、はひぃ・・・❤も、もうっ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 それじゃ、おねだりしなさい？
 言わないとやめちゃうわよ。
 ほら！
@@ -22884,7 +23091,7 @@ Ray：上
 おねがひぃしますっ❤ああっ❤
 イカせてくださいぃ・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 プライドも何もないんだね。ザーコ❤
 ほら、いっちゃえ❤情けなく手に出しちゃえ！
 
@@ -22895,12 +23102,12 @@ Ray：上
 はっ、はあっ・・・❤❤
 きもちいいぃ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あはっ、出しちゃった❤
 みんなのリーダーなのに、
 小さい女の子なんかの誘惑に負けちゃった❤くすくす❤
 
-初等部生徒B：上
+Junior School GirlB：上
 見て？手がドロドロだよ。
 こんなにたくさん出せて、気持ちよかったね❤*
 この精液にはね、あなたの命が溶け込んでいるの。
@@ -22913,22 +23120,22 @@ Ray：上
 い、いやですっ、もっとぉ・・・
 もっと、おねがいしますっ、ああっ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 気持ちよくなれれば、死んじゃってもいいんだ❤**
 腰をヘコヘコ押し付けて、
 シコシコしてください～っておねだりして、
 すっごくかっこ悪い❤
 
-初等部生徒B：上
+Junior School GirlB：上
 いいよ。
 ほら、シコシコしてあげるから、
 死んじゃうまで、気持ちよくなろうね・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 あーあ、動かなくなっちゃった。
 もうこの人も終わりだね。
 
-初等部生徒A：上
+Junior School GirlA：上
 他の人もだいたい絞り終わったみたいね。
 ふふっ、男って弱すぎー♪
 
@@ -26800,7 +27007,7 @@ Ray：上
 
 <TK377>
 テロップ：中央
-淫魔化したアルラウネに敗れたレイとユミルは、
+淫魔化したアルラウネに敗れたレイとMilesは、
 村が襲われるなか、彼女のツタに絡めとられ、
 無残に搾精されていた。
 
@@ -26855,7 +27062,7 @@ Miles：上
 ダークアルラウネ：上
 あらあら、無意識だったのかしら？
 わたくしが扱くのに合わせて、
-レイさんもユミルさんも腰を動かしていますのよ？
+レイさんもMilesさんも腰を動かしていますのよ？
 ヘコヘコ、ヘコヘコ腰を振って、
 「ああ早くイかせてください❤」と魔物のツタにおねだり。
 くすくす。かわいらしいこと。
@@ -27075,7 +27282,7 @@ Ray：上
 ダークアルラウネ：上
 くすくす♪こんなにドロッとした精液をたっぷり出して❤
 よほど気持ちよかったご様子ですわね。*
-見なさい？お仲間のユミルさんは、
+見なさい？お仲間のMilesさんは、
 横であなたと同じ速度で扱いていましたのに、
 きちんと耐えていますのよ？
 
@@ -27087,7 +27294,7 @@ Miles：上
 ダークアルラウネ：上
 くすくす♪こんなにドロッとした精液をたっぷり出して❤
 よほど気持ちよかったご様子ですわね。*
-見なさい？お仲間のユミルさんは、
+見なさい？お仲間のMilesさんは、
 横であなたより速い速度で扱いていましたのに、
 きちんと耐えていますのよ？
 
@@ -29962,13 +30169,13 @@ Ray：上
 なすすべなく敗れた主人公たちは、
 淫魔に搾精されもてあそばれていた。
 あちこちで団員たちの嬌声があがるなか、
-主人公とユミルも、ミレニアたちに襲われていた。
+主人公とMilesも、ミレニアたちに襲われていた。
 
 ミレニア：上
 \vo[mi246]くすくす。大勝利♪**
 \vo[mi247]作戦がハマると気持ちいいね。
 手のひらの上で踊らされた気分はどうだった？
-レイ君、ユミル君❤
+レイ君、Miles君❤
 
 Ray：上
 ううっ・・・・。
@@ -30024,7 +30231,7 @@ Ray：上
 二人に見せつけてあげよっか。ノブくん❤*
 \vo[mi257]今からノブくんとわたしで、
 ラブラブエッチをするの。
-レイ君とユミル君はそこで見ててね？
+レイ君とMiles君はそこで見ててね？
 \vo[mi258]ニンジャちゃんたちは、
 亀頭責めしてあげて？
 うふふ♪
@@ -30134,7 +30341,7 @@ Ray：上
 はいはい。腰をヘコヘコさせても無駄・・・・❤
 
 ミレニア：上
-\vo[mi269]ねえ、レイ君、ユミル君。
+\vo[mi269]ねえ、レイ君、Miles君。
 射精させてほしい？
 もう我慢できないよね。
 \vo[mi270]それなら、ほら・・・。おねだりして？**
@@ -30223,10 +30430,10 @@ Ray：上
 \vo[mi276]ニンジャちゃん。
 あとで拠点に運んでおいて。
 そこで淫紋を刻んで、完全に奴隷にするわ。
-\vo[mi277]ユミル君も、ふふっ、
+\vo[mi277]Miles君も、ふふっ、
 今負けを認めたみたいね。
 あんなに威張ってたのに、みっともないおねだり❤
-\vo[mi278]これでレイ君もユミル君もわたしのもの。
+\vo[mi278]これでレイ君もMiles君もわたしのもの。
 こんなに楽に勝てたのはノブくんのおかげだよ❤
 うふふ♪
 
@@ -33823,19 +34030,19 @@ Ray：上
 ！！！
 サキュバスが机の下に潜んでいた！
 
-初等部生徒A：上
+Junior School GirlA：上
 あん❤
 机、どけちゃ、だめだよ❤*
 せんぱい、ほらお口でくわえてあげるから、
 机どけないでぇ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 って、あれあれ？
 くわえただけでいっちゃった❤*
 ふふっ、早漏さんだね❤
 弱すぎだよ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 よいしょっと。**
 それじゃあ、
 誘惑でメロメロになった先輩たちを、
@@ -33846,7 +34053,7 @@ Ray：上
 アクティブ：上
 あふぅ・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ほら、そのままじっとして、
 しゃぶられて、いよ・・・？
 
@@ -33854,24 +34061,24 @@ Ray：上
 無抵抗になる
 振り払う
 
-初等部生徒A：上
+Junior School GirlA：上
 あん！
 もうっ、気持ちよくしてあげるっていうのに、
 素直じゃないなぁー・・・。
 いいもん。
 抵抗したって絞りつくしてあげるんだから❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あはん❤素直でかわいい・・・❤**
 ほら、ご褒美にたくさんしゃぶってあげるねぇ❤
 んっ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ふふっ。もだえちゃって・・・❤
 じゅぷ❤じゅぽ❤じゅるる❤
 かわいいなぁ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ほら、先輩❤
 出して、出してぇ❤
 机の下からしゃぶられて、
@@ -33879,7 +34086,7 @@ Ray：上
 んっ❤んっ❤んっ❤
 じゅぷ、じゅぷぅ❤じゅぽ❤じゅるるぅ❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あんっ❤おいしいぃー❤**
 ふふっ、この先は通さないよ？
 みんなメロメロにして、搾り取ってあげちゃう♥
@@ -33891,11 +34098,11 @@ Ray：上
 テロップ：中央
 毒ガスの罠だ！
 
-初等部生徒A：上
+Junior School GirlA：上
 きゃはは❤
 お兄ちゃん、囲まれちゃったね❤
 
-初等部生徒B：上
+Junior School GirlB：上
 やあん❤
 攻撃しても無駄だよ。
 だってわたしたち、ただの幻だもん。
@@ -33903,12 +34110,12 @@ Ray：上
 頭の中で見ている、
 ただのエッチな妄想・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ねえ、お兄ちゃん、見てえ❤
 お口をこうやって開けてぇ、れろれろって、
 誘惑してあげる・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 ふふ、わたしたちは
 左右から耳元でささやいてあげる❤*
 ほぉら、ロリコン。
@@ -33917,7 +34124,7 @@ Ray：上
 このまま気持ちいいのに身を任せなさい。
 誘惑に負けろ・・・❤負けちゃえ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 えへへ。三人がかりで囲まれて
 気持ちいいね。*
 ねえ❤えろって舌を動かしてあげるからぁ、
@@ -33936,28 +34143,28 @@ Ray：上
 腰を突き出す
 誘惑に抗う
 
-初等部生徒A：上
+Junior School GirlA：上
 うそぉ、抗うんだ❤
 すごぉーい❤
 
-初等部生徒B：上
+Junior School GirlB：上
 でも、時間の問題だと思うなぁ❤
 三人に囲まれて誘惑されて、
 理性がどれだけ耐えられるかしら。くすくす・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 そうだよ❤ほら、負けちゃお❤
 抗うだけ、無駄❤
 気持ちよくなれない時間がのびるだけ。
 
-初等部生徒B：上
+Junior School GirlB：上
 ほら、左右から手で乳首をコリコリ❤気持ちいい？
 それに手でわっかを作って、おちんちんを触れるか触れ
 ないかのところで、シコシコしてあげる❤
 見て？あとちょっとで、しこしこー❤って気持ちよくされち
 ゃうよ。あは、もどかしくて、腰ぴくぴく動いちゃうね❤
 
-初等部生徒A：上
+Junior School GirlA：上
 ほら、負けて❤負けて・・・❤
 お口に入れてぇ❤
 
@@ -33965,30 +34172,30 @@ Ray：上
 腰を突き出す
 誘惑に抗う
 
-初等部生徒A：上
+Junior School GirlA：上
 むぅ・・・。
 
-初等部生徒B：上
+Junior School GirlB：上
 あーあ、時間切れかぁ。残念。
 お兄ちゃんを気持ちよくしてあげたかったなぁ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 あん、おちんちん、入って来たぁ❤
 あむっ♪
 んっ❤んちゅ❤ふふ・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 あーあ、入れちゃったね。
 とろとろ淫魔のお口の中・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 んっ❤んっ❤
 ちゅぷっ❤れろぉ❤
 
 アクティブ：上
 はひぃ、あふっ・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 うふふ、気持ちいいんだ。
 でも・・・。*
 実際はただの幻。
@@ -34001,14 +34208,14 @@ Ray：上
 アクティブ：上
 うっ、ううっ・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 くすくす。
 腰ふり早くなったぁ❤*
 えー❤
 耳元で馬鹿にされて、
 興奮しちゃったんだ・・・❤
 
-初等部生徒A：上
+Junior School GirlA：上
 んっ、んっ❤
 おいひいよ❤んっ・・・❤
 
@@ -34016,7 +34223,7 @@ Ray：上
 はぁっ❤はぁっ❤
 ああっ・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 イクの？ぷぷっ❤
 弱すぎ・・・❤*
 年下フェラで簡単に追い詰められて、
@@ -34029,10 +34236,10 @@ Ray：上
 アクティブ：上
 うっ。もうっ・・・❤
 
-初等部生徒B：上
+Junior School GirlB：上
 はい。びゅっ、びゅー❤
 
-初等部生徒B：上
+Junior School GirlB：上
 くすくす・・・❤
 幻に負けて勝手にイっちゃった❤
 よわーい❤
