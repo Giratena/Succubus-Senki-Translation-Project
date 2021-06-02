@@ -1,1237 +1,1211 @@
-<(0)Ray@0>
-Ray：下
-Ahiee...❤
+<(0)レイ0>
+レイ：下
+はひぃ・・・❤
 
-Ray：下
-Ahiee...❤
+レイ：下
+はひぃ・・・❤
 
-Ray：下
-Uaaah-!!!
+レイ：下
+うわー！！！
 
-<(0)Ray@2>
-Ray：上
-...!!
+<(0)レイ2>
+レイ：上
+・・・・！！
 
-タイトル：中央
-聖剣解放（光）
-
-Alice：上
-\vo[a83]Uwawawah, I can't feel my body!
-What's going on? My sexy aura won't work...!
+乳魔アリス：上
+\vo[a83]うわわっ、体がしびれる！
+なにこれ。淫気がうまく出せない・・・？
 
 テロップ：中央
-When the holy sword of light is released,
-it can be used as a weapon.*
-In it's wake, enemy succubus will be inflicted
-with the "Light Seal" status.*
-The "Light Seal" status prevents enemies from 
-using stronger skills, and decreases their stats.*
-The "Light Seal" is so advanced it can even 
-effect advanced level succubus, and power them
-down.
+光の聖剣は解放することで、
+初めて武器として使用可能になります。*
+解放のさいに、敵淫魔に
+状態異常「光の封印」を付与します。*
+「光の封印」は敵の強力なスキルを封印するほか、
+ステータスを減少させることができます。*
+「光の封印」の効果は上級の淫魔であるほど
+強力なステータスダウン効果を発揮します。
 
-<(0)Ray@7>
+<(0)レイ7>
 テロップ：中央
-The holy sword can no longer be activated
-at this level!
-(No. Times activated-\va1[0], Currently-\va4[9]）
+現在のレベルではこれ以上、聖剣を解放できない！
+（聖剣解放可能数\va1[0]回、現在\va4[9]回）
 
-Ray：上
-...!!
+レイ：上
+・・・・！！
 
-タイトル：中央
-聖剣解放（光）
-
-Alice：上
-\vo[a83]Uwawawah, I can't feel my body!
-What's going on? My sexy aura won't work...!
+乳魔アリス：上
+\vo[a83]うわわっ、体がしびれる！
+なにこれ。淫気がうまく出せない・・・？
 
 テロップ：中央
-When the holy sword of light is released,
-it can be used as a weapon.*
-In it's wake, enemy succubus will be inflicted
-with the "Light Seal" status.*
-The "Light Seal" status prevents enemies from 
-using stronger skills, and decreases their stats.*
-The "Light Seal" is so advanced it can even 
-effect advanced level succubus, and power them
-down.
+光の聖剣は解放することで、
+初めて武器として使用可能になります。*
+解放のさいに、敵淫魔に
+状態異常「光の封印」を付与します。*
+「光の封印」は敵の強力なスキルを封印するほか、
+ステータスを減少させることができます。*
+「光の封印」の効果は上級の淫魔であるほど
+強力なステータスダウン効果を発揮します。
 
-<(1)Miles@0>
-Miles：下
-Uwahh...❤
+<(1)ユミル0>
+ユミル：下
+うはぁ・・・❤
 
-Miles：下
-Uwahh...❤
+ユミル：下
+うはぁ・・・❤
 
-Miles：下
-Damn it...
+ユミル：下
+ちくしょう・・・。
 
-<(1)Miles@1>
-Miles：上
-Alright! It's go time!
+<(1)ユミル1>
+ユミル：上
+おっしゃあ、行くぜぇ！
 
-<(1)Miles@3>
-Miles：上
-Alright! It's go time!
+<(1)ユミル3>
+ユミル：上
+おっしゃあ、行くぜぇ！
 
-<(1)Miles@2>
-Miles：上
-O'holy wind sword! Lend me your power!
-Distill all evil and cast it to the wind!
+<(1)ユミル2>
+ユミル：上
+風の聖剣よ！俺に力を貸してくれ！
+邪気払う大いなる風をここに！
 
-タイトル：中央
-聖剣解放（風）
-
-Miles：上
-What on earth...? 
-I feel the holy sword's power flowing through me!*
-It's as if my whole body is being 
-protected by the wind...
+ユミル：上
+なんだこりゃ・・・。
+聖剣から力があふれてくる！
+それに風のバリアが体中を覆って・・・。
 
 テロップ：中央
-When the holy sword of wind is released,
-it can be used as a weapon.*
-In it's wake, allies will receive the 
-"Wind Blessing" status for three turns.
-As long as the "Wind Blessing" is active, allies
-will not receive abnormal states.
-Some powerful enemy attacks can only be prevented
-via the "Wind Blessing" status.*
-※Caution※
-If an ally is already under an abnormal state,
-they won't be cured when the blessing is applied.
+風の聖剣は、解放することで初めて、
+武器として使用可能になります。*
+解放のさいに味方全体に「風の加護」を付与します。
+「風の加護」がある限り、基本的な状態異常を
+防ぐことができます。3ターンの間有効です。
+一部の敵の強力な攻撃は、
+「風の加護」でしか防ぐことができません。*
+※注意※
+風の加護は既にある状態異常には効果がなく、
+それらを解除するわけではありません。
 
-<(1)Miles@4>
+<(1)ユミル4>
 テロップ：中央
-The holy sword can no longer be activated
-at this level!
-(No. Times activated-\va1[0], Currently-\va4[10]）
+現在のレベルではこれ以上、聖剣を解放できない！
+（聖剣解放可能数\va1[0]回、現在\va4[10]回）
 
-Miles：上
-O'holy wind sword! Lend me your power!
-Distill all evil and cast it to the wind!
+ユミル：上
+風の聖剣よ！俺に力を貸してくれ！
+邪気払う大いなる風をここに！
 
-タイトル：中央
-聖剣解放（風）
-
-Miles：上
-What on earth...? 
-I feel the holy sword's power flowing through me!*
-It's as if my whole body is being 
-protected by the wind...
+ユミル：上
+なんだこりゃ・・・。
+聖剣から力があふれてくる！
+それに風のバリアが体中を覆って・・・。
 
 テロップ：中央
-When the holy sword is released,
-it can be used as a weapon.*
-In it's wake, allies will receive the 
-"Wind Blessing" status for three turns.
-As long as the "Wind Blessing" is active, allies
-will not receive abnormal states.
-Some powerful enemy attacks can only be prevented
-via the "Wind Blessing" status.*
-※Caution※
-If an ally is already under an abnormal state,
-they won't be cured when the blessing is applied.
+風の聖剣は、解放することで初めて、
+武器として使用可能になります。*
+解放のさいに味方全体に「風の加護」を付与します。
+「風の加護」がある限り、基本的な状態異常を
+防ぐことができます。3ターンの間有効です。
+一部の敵の強力な攻撃は、
+「風の加護」でしか防ぐことができません。*
+※注意※
+風の加護は既にある状態異常には効果がなく、
+それらを解除するわけではありません。
 
-<(2)Nobus@0>
-Nobus：下
-Aah, aaah...❤
+<(2)ノブ0>
+ノブ：下
+あっ、ああっ・・・❤
 
-Nobus：下
-Aah, aaah...❤
+ノブ：下
+あっ、ああっ・・・❤
 
-Nobus：下
-Ugh...
+ノブ：下
+うう・・・。
 
-<(2)Nobus@1>
-Nobus：上
-I'll protect you!
+<(2)ノブ1>
+ノブ：上
+味方は俺が守る！
 
-<(3)Lyon@0>
-Lyon：下
-Ooh, aaaah...❤
+<(3)イエヤス0>
+イエヤス：下
+うっ、ああっ・・・❤
 
-Lyon：下
-Ooh, aaaah...❤
+イエヤス：下
+うっ、ああっ・・・❤
 
-Lyon：下
-Ugh...
+イエヤス：下
+ぐっ・・・。
 
-<(3)Lyon@1>
+<(3)イエヤス1>
 アクティブ：上
-I'll pray for your wounds...!
+傷をいやす祈りを・・・！
 
-<(3)Lyon@2>
+<(3)イエヤス2>
 アクティブ：上
-For your wounds, I pray for a miracle...!
+傷をいやす奇跡を・・・！
 
-<(10)Mizuhide@0>
-Mizuhide：下
-Haaaagh...❤
+<(10)ミツヒデ0>
+ミツヒデ：下
+はうぅっ・・・❤
 
-Mizuhide：下
-Haaaagh...❤
+ミツヒデ：下
+はうぅっ・・・❤
 
-Mizuhide：下
-Ugh...
+ミツヒデ：下
+くっ・・・。
 
-<(10)Mizuhide@1>
+<(10)ミツヒデ1>
 アクティブ：上
-Haaa-...!!
+はあぁー・・・！！
 
-<(10)Mizuhide@2>
+<(10)ミツヒデ2>
 アクティブ：上
-Haaa-...!!
+はあぁー・・・！！
 
-<(4)Foot Soldier A@0>
-Foot Soldier A：下
-Haah, aaah...❤
+<(4)凡骨雑兵 A0>
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Haah, aaah...❤
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Gugh...
+凡骨雑兵 A：下
+ぐふっ・・・。
 
-<(5)Foot Soldier B@0>
-Foot Soldier A：下
-Haah, aaah...❤
+<(5)凡骨雑兵 B0>
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Haah, aaah...❤
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Gugh...
+凡骨雑兵 A：下
+ぐふっ・・・。
 
-<(6)Foot Soldier C@0>
-Foot Soldier A：下
-Haah, aaah...❤
+<(6)凡骨雑兵 C0>
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Haah, aaah...❤
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Gugh...
+凡骨雑兵 A：下
+ぐふっ・・・。
 
-<(13)Foot Soldier D@0>
-Foot Soldier A：下
-Haah, aaah...❤
+<(13)凡骨雑兵 D0>
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Haah, aaah...❤
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Gugh...
+凡骨雑兵 A：下
+ぐふっ・・・。
 
-<(14)Foot Soldier E@0>
-Foot Soldier A：下
-Haah, aaah...❤
+<(14)凡骨雑兵 E0>
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Haah, aaah...❤
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Gugh...
+凡骨雑兵 A：下
+ぐふっ・・・。
 
-<(15)Foot Soldier F@0>
-Foot Soldier A：下
-Haah, aaah...❤
+<(15)凡骨雑兵 F0>
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Haah, aaah...❤
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Gugh...
+凡骨雑兵 A：下
+ぐふっ・・・。
 
-<(16)Foot Soldier G@0>
-Foot Soldier A：下
-Haah, aaah...❤
+<(16)凡骨雑兵 G0>
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Haah, aaah...❤
+凡骨雑兵 A：下
+はあっ、うっ・・・❤
 
-Foot Soldier A：下
-Gugh...
+凡骨雑兵 A：下
+ぐふっ・・・。
 
-<(7)Elite Soldier A@0>
-Elite Soldier A：下
-Haah, aaah...❤
+<(7)エリート雑兵 A0>
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Haah, aaah...❤
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Gugh...
+エリート雑兵 A：下
+ぐふっ・・・。
 
-<(8)Elite Soldier B@0>
-Elite Soldier A：下
-Haah, aaah...❤
+<(8)エリート雑兵 B0>
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Haah, aaah...❤
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Gugh...
+エリート雑兵 A：下
+ぐふっ・・・。
 
-<(17)Elite Soldier C@0>
-Elite Soldier A：下
-Haah, aaah...❤
+<(17)エリート雑兵 C0>
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Haah, aaah...❤
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Gugh...
+エリート雑兵 A：下
+ぐふっ・・・。
 
-<(18)Elite Soldier D@0>
-Elite Soldier A：下
-Haah, aaah...❤
+<(18)エリート雑兵 D0>
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Haah, aaah...❤
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Gugh...
+エリート雑兵 A：下
+ぐふっ・・・。
 
-<(19)Elite Soldier E@0>
-Elite Soldier A：下
-Haah, aaah...❤
+<(19)エリート雑兵 E0>
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Haah, aaah...❤
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Gugh...
+エリート雑兵 A：下
+ぐふっ・・・。
 
-<(20)Elite Soldier  F@0>
-Elite Soldier A：下
-Haah, aaah...❤
+<(20)エリート雑兵 F0>
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Haah, aaah...❤
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Gugh...
+エリート雑兵 A：下
+ぐふっ・・・。
 
-<(21)Elite Soldier G@0>
-Elite Soldier A：下
-Haah, aaah...❤
+<(21)エリート雑兵 G0>
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Haah, aaah...❤
+エリート雑兵 A：下
+はあっ、うっ・・・❤
 
-Elite Soldier A：下
-Gugh...
+エリート雑兵 A：下
+ぐふっ・・・。
 
-<(9)Professor@2>
+<(9)教官 A2>
 アクティブ：下
-Haah, aaah...❤
-
-アクティブ：下
-Haah, aaah...❤
+はあっ、うっ・・・❤
 
 アクティブ：下
-Gugh...
-
-<(9)Professor@0>
-テロップ：中央
-You already have too many items.
-
-<(9)Professor@3>
-テロップ：中央
-You already have too many items.
-
-<(9)Professor@4>
-テロップ：中央
-You already have too many items.
-
-<(9)Professor@1>
-テロップ：中央
-You already have too many items.
-
-テロップ：中央
-Obtained 1500G!
-
-<(12)Excavator@2>
-アクティブ：下
-Haah, aaah...❤
+はあっ、うっ・・・❤
 
 アクティブ：下
-Haah, aaah...❤
+ぐふっ・・・。
 
-アクティブ：下
-Gugh...
-
-<(12)Excavator@0>
+<(9)教官 A0>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
+
+<(9)教官 A3>
+テロップ：中央
+すでに所持アイテムがいっぱいだ。
+
+<(9)教官 A4>
+テロップ：中央
+すでに所持アイテムがいっぱいだ。
+
+<(9)教官 A1>
+テロップ：中央
+すでに所持アイテムがいっぱいだ。
 
 テロップ：中央
-Obtained some gold!
+1500Gを持っていない！
 
-<(12)Excavator@1>
+<(12)発掘家 A2>
+アクティブ：下
+はあっ、うっ・・・❤
+
+アクティブ：下
+はあっ、うっ・・・❤
+
+アクティブ：下
+ぐふっ・・・。
+
+<(12)発掘家 A0>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 テロップ：中央
-Obtained some gold!
+ゴールドを発見した！
 
-<(12)Excavator@3>
+<(12)発掘家 A1>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 テロップ：中央
-Obtained some gold!
+ゴールドを発見した！
 
-<(11)Lancer A@0>
-アクティブ：下
-Agh, oooh...❤
-
-アクティブ：下
-Agh, oooh...❤
-
-アクティブ：下
-Ugggh...
-
-<(38)Lancer B@0>
-アクティブ：下
-Agh, oooh...❤
-
-アクティブ：下
-Agh, oooh...❤
-
-アクティブ：下
-Ugggh...
-
-<(39)Lancer C@0>
-アクティブ：下
-Agh, oooh...❤
-
-アクティブ：下
-Agh, oooh...❤
-
-アクティブ：下
-Ugggh...
-
-<(22)Healer A@0>
-アクティブ：下
-Ooh, aaaah...❤
-
-アクティブ：下
-Ooh, aaaah...❤
-
-アクティブ：下
-Ugh...
-
-<(23)Healer B@0>
-アクティブ：下
-Ooh, aaaah...❤
-
-アクティブ：下
-Ooh, aaaah...❤
-
-アクティブ：下
-Ugh...
-
-<(24)Healer C@0>
-アクティブ：下
-Ooh, aaaah...❤
-
-アクティブ：下
-Ooh, aaaah...❤
-
-アクティブ：下
-Ugh...
-
-<(27)Alchemist A@0>
-アクティブ：下
-Haah, aaah...❤
-
-アクティブ：下
-Haah, aaah...❤
-
-アクティブ：下
-Gugh...
-
-<(27)Alchemist A@1>
+<(12)発掘家 A3>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
-アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
-
-アクティブ：上
-Ugh, not my best work...
-
-アクティブ：上
-Ha! Success!
-
-アクティブ：上
-Wahaha! The experiment was a huge success!
-
-アクティブ：上
-Muhahahaha!! A glorious turnout!
-
-<(27)Alchemist A@3>
 テロップ：中央
-You already have too many items.
+ゴールドを発見した！
 
-アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+<(11)ランサー A0>
+アクティブ：下
+くあっ、うっ・・・❤
 
-アクティブ：上
-Ugh, not my best work...
+アクティブ：下
+くあっ、うっ・・・❤
 
-アクティブ：上
-Ha! Success!
+アクティブ：下
+げふっ・・・。
 
-アクティブ：上
-Wahaha! The experiment was a huge success!
+<(38)ランサー B0>
+アクティブ：下
+くあっ、うっ・・・❤
 
-アクティブ：上
-Muhahahaha!! A glorious turnout!
+アクティブ：下
+くあっ、うっ・・・❤
 
-アクティブ：上
-Muhahahaha!! A glorious turnout!
+アクティブ：下
+げふっ・・・。
 
-<(27)Alchemist A@2>
+<(39)ランサー C0>
+アクティブ：下
+くあっ、うっ・・・❤
+
+アクティブ：下
+くあっ、うっ・・・❤
+
+アクティブ：下
+げふっ・・・。
+
+<(22)ヒーラー A0>
+アクティブ：下
+うっ、ああっ・・・❤
+
+アクティブ：下
+うっ、ああっ・・・❤
+
+アクティブ：下
+ぐっ・・・。
+
+<(23)ヒーラー B0>
+アクティブ：下
+うっ、ああっ・・・❤
+
+アクティブ：下
+うっ、ああっ・・・❤
+
+アクティブ：下
+ぐっ・・・。
+
+<(24)ヒーラー C0>
+アクティブ：下
+うっ、ああっ・・・❤
+
+アクティブ：下
+うっ、ああっ・・・❤
+
+アクティブ：下
+ぐっ・・・。
+
+<(27)アルケミスト A0>
+アクティブ：下
+はあっ、うっ・・・❤
+
+アクティブ：下
+はあっ、うっ・・・❤
+
+アクティブ：下
+ぐふっ・・・。
+
+<(27)アルケミスト A1>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+ふふふ・・・。調合の時間だ・・・。
 
 アクティブ：上
-Drat, it's a dud...
+くっ、微妙な出来だな・・・。
 
 アクティブ：上
-Ha! Success!
+ふむ、成功だ。
 
 アクティブ：上
-Wahaha! The experiment was a huge success!
+ふはは、大成功だ！
 
 アクティブ：上
-Muhahahaha!! A glorious turnout!
+ぬはははは！素晴らしい出来だ！
 
-<(27)Alchemist A@4>
+<(27)アルケミスト A3>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+ふふふ・・・。調合の時間だ・・・。
 
-<(27)Alchemist A@5>
+アクティブ：上
+くっ、微妙な出来だな・・・。
+
+アクティブ：上
+ふむ、成功だ。
+
+アクティブ：上
+ふはは、大成功だ！
+
+アクティブ：上
+ぬはははは！素晴らしい出来だ！
+
+アクティブ：上
+ぬはははは！素晴らしい出来だ！
+
+<(27)アルケミスト A2>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+ふふふ・・・。調合の時間だ・・・。
 
 アクティブ：上
-Wahaha! The experiment was a huge success!
+くっ、失敗だと・・・。
 
 アクティブ：上
-Ha! Success!
+ふむ、成功だ。
 
 アクティブ：上
-Muhahahaha!! A glorious turnout!
+ふはは、大成功だ！
 
-<(28)Alchemist B@0>
-アクティブ：下
-Haah, aaah...❤
+アクティブ：上
+ぬはははは！素晴らしい出来だ！
 
-アクティブ：下
-Haah, aaah...❤
-
-アクティブ：下
-Gugh...
-
-<(28)Alchemist B@1>
+<(27)アルケミスト A4>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+ふふふ・・・。調合の時間だ・・・。
 
-アクティブ：上
-Ugh, not my best work...
-
-アクティブ：上
-Ha! Success!
-
-アクティブ：上
-Wahaha! The experiment was a huge success!
-
-アクティブ：上
-Muhahahaha!! A glorious turnout!
-
-<(28)Alchemist B@2>
+<(27)アルケミスト A5>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+ふふふ・・・。調合の時間だ・・・。
 
 アクティブ：上
-Ugh, not my best work...
+ふはは、大成功だ！
 
 アクティブ：上
-Ha! Success!
+ふむ、成功だ。
 
 アクティブ：上
-Wahaha! The experiment was a huge success!
+ぬはははは！素晴らしい出来だ！
 
-アクティブ：上
-Muhahahaha!! A glorious turnout!
+<(28)アルケミスト B0>
+アクティブ：下
+はあっ、うっ・・・❤
 
-アクティブ：上
-Muhahahaha!! A glorious turnout!
+アクティブ：下
+はあっ、うっ・・・❤
 
-<(28)Alchemist B@3>
+アクティブ：下
+ぐふっ・・・。
+
+<(28)アルケミスト B1>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+ふふふ・・・。調合の時間だ・・・。
 
 アクティブ：上
-Drat, it's a dud...
+くっ、微妙な出来だな・・・。
 
 アクティブ：上
-Ha! Success!
+ふむ、成功だ。
 
 アクティブ：上
-Wahaha! The experiment was a huge success!
+ふはは、大成功だ！
 
 アクティブ：上
-Muhahahaha!! A glorious turnout!
+ぬはははは！素晴らしい出来だ！
 
-<(28)Alchemist B@4>
+<(28)アルケミスト B3>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+ふふふ・・・。調合の時間だ・・・。
 
-<(28)Alchemist B@5>
+アクティブ：上
+くっ、微妙な出来だな・・・。
+
+アクティブ：上
+ふむ、成功だ。
+
+アクティブ：上
+ふはは、大成功だ！
+
+アクティブ：上
+ぬはははは！素晴らしい出来だ！
+
+アクティブ：上
+ぬはははは！素晴らしい出来だ！
+
+<(28)アルケミスト B2>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+ふふふ・・・。調合の時間だ・・・。
 
 アクティブ：上
-Wahaha! The experiment was a huge success!
+くっ、失敗だと・・・。
 
 アクティブ：上
-Ha! Success!
+ふむ、成功だ。
 
 アクティブ：上
-Muhahahaha!! A glorious turnout!
+ふはは、大成功だ！
 
-<(29)Alchemist C@0>
-アクティブ：下
-Haah, aaah...❤
+アクティブ：上
+ぬはははは！素晴らしい出来だ！
 
-アクティブ：下
-Haah, aaah...❤
-
-アクティブ：下
-Gugh...
-
-<(29)Alchemist C@1>
+<(28)アルケミスト B4>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+ふふふ・・・。調合の時間だ・・・。
 
-アクティブ：上
-Ugh, not my best work...
-
-アクティブ：上
-Ha! Success!
-
-アクティブ：上
-Wahaha! The experiment was a huge success!
-
-アクティブ：上
-Muhahahaha!! A glorious turnout!
-
-<(29)Alchemist C@2>
+<(28)アルケミスト B5>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+ふふふ・・・。調合の時間だ・・・。
 
 アクティブ：上
-Ugh, not my best work...
+ふはは、大成功だ！
 
 アクティブ：上
-Ha! Success!
+ふむ、成功だ。
 
 アクティブ：上
-Wahaha! The experiment was a huge success!
+ぬはははは！素晴らしい出来だ！
 
-アクティブ：上
-Muhahahaha!! A glorious turnout!
+<(29)アルケミスト C0>
+アクティブ：下
+はあっ、うっ・・・❤
 
-アクティブ：上
-Muhahahaha!! A glorious turnout!
+アクティブ：下
+はあっ、うっ・・・❤
 
-<(29)Alchemist C@3>
+アクティブ：下
+ぐふっ・・・。
+
+<(29)アルケミスト C1>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+ふふふ・・・。調合の時間だ・・・。
 
 アクティブ：上
-Drat, it's a dud...
+くっ、微妙な出来だな・・・。
 
 アクティブ：上
-Ha! Success!
+ふむ、成功だ。
 
 アクティブ：上
-Wahaha! The experiment was a huge success!
+ふはは、大成功だ！
 
 アクティブ：上
-Muhahahaha!! A glorious turnout!
+ぬはははは！素晴らしい出来だ！
 
-<(29)Alchemist C@4>
+<(29)アルケミスト C3>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+ふふふ・・・。調合の時間だ・・・。
 
-<(29)Alchemist C@5>
+アクティブ：上
+くっ、微妙な出来だな・・・。
+
+アクティブ：上
+ふむ、成功だ。
+
+アクティブ：上
+ふはは、大成功だ！
+
+アクティブ：上
+ぬはははは！素晴らしい出来だ！
+
+アクティブ：上
+ぬはははは！素晴らしい出来だ！
+
+<(29)アルケミスト C2>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
 アクティブ：上
-Ohoho... It's time for a bit of chemistry...!
+ふふふ・・・。調合の時間だ・・・。
 
 アクティブ：上
-Wahaha! The experiment was a huge success!
+くっ、失敗だと・・・。
 
 アクティブ：上
-Ha! Success!
+ふむ、成功だ。
 
 アクティブ：上
-Muhahahaha!! A glorious turnout!
-
-<(30)Flag Bearer A@0>
-アクティブ：下
-Ah, oooh...❤
-
-アクティブ：下
-Haah, aaah...❤
-
-アクティブ：下
-Gugh...
-
-<(30)Flag Bearer A@1>
-アクティブ：上
-Stay strong everyone!
+ふはは、大成功だ！
 
 アクティブ：上
-Let's go! We can do this!
+ぬはははは！素晴らしい出来だ！
 
-アクティブ：上
-Go go go!
-
-アクティブ：上
-There's no 'I' in 'team'!
-We will win!
-
-<(30)Flag Bearer A@3>
-アクティブ：上
-Keep it up! Don't stop now!
-
-アクティブ：上
-Let's go! We can do this!
-
-アクティブ：上
-Go go go!
-
-アクティブ：上
-There's no 'I' in 'team'!
-We will win!
-
-<(31)Flag Bearer B@0>
-アクティブ：下
-Ah, oooh...❤
-
-アクティブ：下
-Haah, aaah...❤
-
-アクティブ：下
-Gugh...
-
-<(31)Flag Bearer B@1>
-アクティブ：上
-Stay strong everyone!
-
-アクティブ：上
-Let's go! We can do this!
-
-アクティブ：上
-Go go go!
-
-アクティブ：上
-There's no 'I' in 'team'!
-We will win!
-
-<(31)Flag Bearer B@2>
-アクティブ：上
-Keep it up! Don't stop now!
-
-アクティブ：上
-Let's go! We can do this!
-
-アクティブ：上
-Go go go!
-
-アクティブ：上
-There's no 'I' in 'team'!
-We will win!
-
-<(32)Flag Bearer C@0>
-アクティブ：下
-Ah, oooh...❤
-
-アクティブ：下
-Haah, aaah...❤
-
-アクティブ：下
-Gugh...
-
-<(32)Flag Bearer C@1>
-アクティブ：上
-Stay strong everyone!
-
-アクティブ：上
-Let's go! We can do this!
-
-アクティブ：上
-Go go go!
-
-アクティブ：上
-There's no 'I' in 'team'!
-We will win!
-
-<(32)Flag Bearer C@2>
-アクティブ：上
-Keep it up! Don't stop now!
-
-アクティブ：上
-Let's go! We can do this!
-
-アクティブ：上
-Go go go!
-
-アクティブ：上
-There's no 'I' in 'team'!
-We will win!
-
-<(26)コモン君@1>
-Ray：上
-コモンイベントとして使えるんじゃね？
-
-<(33)Bandit A@0>
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Gugh...
-
-<(42)Bandit B@0>
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Gugh...
-
-<(43)Bandit C@0>
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Gugh...
-
-<(35)Martial Artist A@0>
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Ugggh...
-
-<(35)Martial Artist A@1>
-アクティブ：上
-Hiyah!
-
-<(35)Martial Artist A@4>
-アクティブ：上
-Hiyah!
-
-<(35)Martial Artist A@2>
-アクティブ：上
-Hiyah!
-
-<(36)Martial Artist B@0>
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Ugggh...
-
-<(36)Martial Artist B@1>
-アクティブ：上
-Hiyah!
-
-<(36)Martial Artist B@2>
-アクティブ：上
-Hiyah!
-
-<(36)Martial Artist B@3>
-アクティブ：上
-Hiyah!
-
-<(37)Martial Artist C@0>
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Ugh, ahieee...❤
-
-アクティブ：下
-Ugggh...
-
-<(37)Martial Artist C@1>
-アクティブ：上
-Hiyah!
-
-<(37)Martial Artist C@2>
-アクティブ：上
-Hiyah!
-
-<(37)Martial Artist C@3>
-アクティブ：上
-Hiyah!
-
-<(34)Black Mage A@0>
-アクティブ：下
-Uugh, ahieee...❤
-
-アクティブ：下
-Uugh, ahieee...❤
-
-アクティブ：下
-Gugh...
-
-<(34)Black Mage A@1>
+<(29)アルケミスト C4>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
-<(34)Black Mage A@2>
+アクティブ：上
+ふふふ・・・。調合の時間だ・・・。
+
+<(29)アルケミスト C5>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
-<(40)Black Mage B@0>
+アクティブ：上
+ふふふ・・・。調合の時間だ・・・。
+
+アクティブ：上
+ふはは、大成功だ！
+
+アクティブ：上
+ふむ、成功だ。
+
+アクティブ：上
+ぬはははは！素晴らしい出来だ！
+
+<(30)軍旗持ち A0>
 アクティブ：下
-Uugh, ahieee...❤
+あっ、ううっ・・・❤
 
 アクティブ：下
-Uugh, ahieee...❤
+はあっ、うっ・・・❤
 
 アクティブ：下
-Gugh...
+ぐふっ・・・。
 
-<(40)Black Mage B@1>
+<(30)軍旗持ち A1>
+アクティブ：上
+みんなにエールを！
+
+アクティブ：上
+いくぞぉ！がんばれぇ！
+
+アクティブ：上
+フレ―フレー！
+
+アクティブ：上
+俺たちの団に敗北の二文字はない！
+勝つぞぉ！
+
+<(30)軍旗持ち A3>
+アクティブ：上
+士気をガンガン上げるぜぇ！
+
+アクティブ：上
+いくぞぉ！がんばれぇ！
+
+アクティブ：上
+フレ―フレー！
+
+アクティブ：上
+俺たちの団に敗北の二文字はない！
+勝つぞぉ！
+
+<(31)軍旗持ち B0>
+アクティブ：下
+あっ、ううっ・・・❤
+
+アクティブ：下
+はあっ、うっ・・・❤
+
+アクティブ：下
+ぐふっ・・・。
+
+<(31)軍旗持ち B1>
+アクティブ：上
+みんなにエールを！
+
+アクティブ：上
+いくぞぉ！がんばれぇ！
+
+アクティブ：上
+フレ―フレー！
+
+アクティブ：上
+俺たちの団に敗北の二文字はない！
+勝つぞぉ！
+
+<(31)軍旗持ち B3>
+アクティブ：上
+士気をガンガン上げるぜぇ！
+
+アクティブ：上
+いくぞぉ！がんばれぇ！
+
+アクティブ：上
+フレ―フレー！
+
+アクティブ：上
+俺たちの団に敗北の二文字はない！
+勝つぞぉ！
+
+<(32)軍旗持ち C0>
+アクティブ：下
+あっ、ううっ・・・❤
+
+アクティブ：下
+はあっ、うっ・・・❤
+
+アクティブ：下
+ぐふっ・・・。
+
+<(32)軍旗持ち C1>
+アクティブ：上
+みんなにエールを！
+
+アクティブ：上
+いくぞぉ！がんばれぇ！
+
+アクティブ：上
+フレ―フレー！
+
+アクティブ：上
+俺たちの団に敗北の二文字はない！
+勝つぞぉ！
+
+<(32)軍旗持ち C3>
+アクティブ：上
+士気をガンガン上げるぜぇ！
+
+アクティブ：上
+いくぞぉ！がんばれぇ！
+
+アクティブ：上
+フレ―フレー！
+
+アクティブ：上
+俺たちの団に敗北の二文字はない！
+勝つぞぉ！
+
+<(33)盗賊くずれ A0>
+アクティブ：下
+ぐうっ、あひぃっ・・・❤
+
+アクティブ：下
+ぐうっ、あひぃっ・・・❤
+
+アクティブ：下
+ぐふっ・・・。
+
+<(42)盗賊くずれ B0>
+アクティブ：下
+ぐうっ、あひぃっ・・・❤
+
+アクティブ：下
+ぐうっ、あひぃっ・・・❤
+
+アクティブ：下
+ぐふっ・・・。
+
+<(43)盗賊くずれ C0>
+アクティブ：下
+ぐうっ、あひぃっ・・・❤
+
+アクティブ：下
+ぐうっ、あひぃっ・・・❤
+
+アクティブ：下
+ぐふっ・・・。
+
+<(35)格闘家A0>
+アクティブ：下
+あっ、あひぃっ・・・❤
+
+アクティブ：下
+あうっ、あひぃっ・・・❤
+
+アクティブ：下
+げふっ・・・。
+
+<(35)格闘家A1>
+アクティブ：上
+せいやぁ！
+
+<(35)格闘家A4>
+アクティブ：上
+せいやぁ！
+
+<(35)格闘家A2>
+アクティブ：上
+せいやぁ！
+
+<(36)格闘家B0>
+アクティブ：下
+あっ、あひぃっ・・・❤
+
+アクティブ：下
+あうっ、あひぃっ・・・❤
+
+アクティブ：下
+げふっ・・・。
+
+<(36)格闘家B1>
+アクティブ：上
+せいやぁ！
+
+<(36)格闘家B4>
+アクティブ：上
+せいやぁ！
+
+<(36)格闘家B2>
+アクティブ：上
+せいやぁ！
+
+<(37)格闘家C0>
+アクティブ：下
+あっ、あひぃっ・・・❤
+
+アクティブ：下
+あうっ、あひぃっ・・・❤
+
+アクティブ：下
+げふっ・・・。
+
+<(37)格闘家C1>
+アクティブ：上
+せいやぁ！
+
+<(37)格闘家C4>
+アクティブ：上
+せいやぁ！
+
+<(37)格闘家C2>
+アクティブ：上
+せいやぁ！
+
+<(34)呪術師 A0>
+アクティブ：下
+うぐうっ、あひぃっ・・・❤
+
+アクティブ：下
+うぐうっ、あひぃっ・・・❤
+
+アクティブ：下
+ぐふっ・・・。
+
+<(34)呪術師 A1>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
-<(40)Black Mage B@2>
+<(34)呪術師 A2>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
-<(41)Black Mage C@0>
+<(40)呪術師 B0>
 アクティブ：下
-Uugh, ahieee...❤
-
-アクティブ：下
-Uugh, ahieee...❤
+うぐうっ、あひぃっ・・・❤
 
 アクティブ：下
-Gugh...
+うぐうっ、あひぃっ・・・❤
 
-<(41)Black Mage C@1>
+アクティブ：下
+ぐふっ・・・。
+
+<(40)呪術師 B1>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
-<(41)Black Mage C@2>
+<(40)呪術師 B2>
 テロップ：中央
-You already have too many items.
+すでに所持アイテムがいっぱいだ。
 
-<(44)Village Girl@0>
-アクティブ：上
-Aaah, but that's...❤
+<(41)呪術師 C0>
+アクティブ：下
+うぐうっ、あひぃっ・・・❤
 
-<(44)Village Girl@1>
-アクティブ：上
-Ah- Aahhn-❤
-I'll fill your mind up with lots of sexy thoughts-❤
+アクティブ：下
+うぐうっ、あひぃっ・・・❤
 
-<(45)Determined Girl@0>
-アクティブ：上
-Ooogh...❤
+アクティブ：下
+ぐふっ・・・。
 
-<(53)モルジア@1>
-アクティブ：上
-Drink my milk.
-It will help you recover-
+<(41)呪術師 C1>
+テロップ：中央
+すでに所持アイテムがいっぱいだ。
 
-アクティブ：上
-I'll heal you with my succubus breast milk-
+<(41)呪術師 C2>
+テロップ：中央
+すでに所持アイテムがいっぱいだ。
 
+<(44)村娘0>
 アクティブ：上
-Hora- Drink directly from my boobies.
-They'll cure all your wounds.
-You'll get a little addicted to them though...❤
+ああっ、そんな・・・❤
 
-<(53)モルジア@2>
+<(44)村娘1>
 アクティブ：上
-Ho-ra- Become captivated by my body-❤
+あはーん❤
+えっちな妄想で、あたまいっぱいにしてあげる❤
 
+<(45)勝ち気むすめ0>
 アクティブ：上
-Stare deep into my cleavage, okay?-
-Ufufufu-❤
+ううっ・・・❤
 
+<(53)モルジア1>
 アクティブ：上
-I wonder if men can keep their reason before
-these succubus breasts?
-Hora- Stare. Stare at my cleavage-❤
-
-<(54)村の少女@1>
-アクティブ：上
-Drink my milk.
-It will help you recover-
+わたしのミルクを飲みなさい。
+体力が回復するわ。
 
 アクティブ：上
-I'll heal you with my succubus breast milk-
+乳魔のミルクで回復させてあげる。
 
 アクティブ：上
-Hora- Drink directly from my boobies.
-They'll cure all your wounds.
-You'll get a little addicted to them though...❤
+ほら、直接わたしのおっぱいから飲みなさい。
+体の傷も治るから。
+ちょっとおっぱいに依存しちゃうけど・・・❤
 
-<(55)敬虔な少女@1>
+<(53)モルジア2>
 アクティブ：上
-Drink my milk.
-It will help you recover-
-
-アクティブ：上
-I'll heal you with my succubus breast milk-
+ほぉら、わたしの体に魅了されなさい❤
 
 アクティブ：上
-Hora- Drink directly from my boobies.
-They'll cure all your wounds.
-You'll get a little addicted to them though...❤
-
-<(56)フェラ盗賊@1>
-アクティブ：上
-Drink my milk.
-It will help you recover-
+この谷間、見とれてていいのよ？
+うふふふ❤
 
 アクティブ：上
-I'll heal you with my succubus breast milk-
+男が乳魔の前で理性を保てるのかしら。
+ほら、見なさい。わたしの谷間❤
+
+<(54)村の少女1>
+アクティブ：上
+わたしのミルクを飲みなさい。
+体力が回復するわ。
 
 アクティブ：上
-Hora- Drink directly from my boobies.
-They'll cure all your wounds.
-You'll get a little addicted to them though...❤
-
-<(57)シスター@2>
-アクティブ：上
-Fall under my pheromones-❤
-
-<(57)シスター@3>
-アクティブ：上
-You will melt with my pheromones-❤
-Pshew-...❤
+乳魔のミルクで回復させてあげる。
 
 アクティブ：上
-My sweet aroma will captivate you 
-until your brain melts-❤
+ほら、直接わたしのおっぱいから飲みなさい。
+体の傷も治るから。
+ちょっとおっぱいに依存しちゃうけど・・・❤
+
+<(55)敬虔な少女1>
+アクティブ：上
+わたしのミルクを飲みなさい。
+体力が回復するわ。
 
 アクティブ：上
-Now, you serve me-❤
-Pshew-...❤
-
-<(57)シスター@1>
-アクティブ：上
-Drink my milk.
-It will help you recover-
+乳魔のミルクで回復させてあげる。
 
 アクティブ：上
-I'll heal you with my succubus breast milk-
+ほら、直接わたしのおっぱいから飲みなさい。
+体の傷も治るから。
+ちょっとおっぱいに依存しちゃうけど・・・❤
+
+<(56)フェラ盗賊1>
+アクティブ：上
+わたしのミルクを飲みなさい。
+体力が回復するわ。
 
 アクティブ：上
-Hora- Drink directly from my boobies.
-They'll cure all your wounds.
-You'll get a little addicted to them though...❤
-
-<(58)巨乳エルフ@2>
-アクティブ：上
-Fall under my pheromones-❤
-
-<(58)巨乳エルフ@1>
-アクティブ：上
-Drink my milk.
-It will help you recover-
+乳魔のミルクで回復させてあげる。
 
 アクティブ：上
-I'll heal you with my succubus breast milk-
+ほら、直接わたしのおっぱいから飲みなさい。
+体の傷も治るから。
+ちょっとおっぱいに依存しちゃうけど・・・❤
+
+<(57)シスター2>
+アクティブ：上
+わたしの香りで昂りなさい❤
+
+<(57)シスター3>
+アクティブ：上
+わたしのフェロモンで、とろけてしまいなさい❤
+ふぅー・・・❤
 
 アクティブ：上
-Hora- Drink directly from my boobies.
-They'll cure all your wounds.
-You'll get a little addicted to them though...❤
-
-<(59)美脚エルフ@2>
-アクティブ：上
-Fall under my pheromones-❤
-
-<(59)美脚エルフ@1>
-アクティブ：上
-Drink my milk.
-It will help you recover-
+甘い香りで、脳までとろけさせてあげましょう❤
 
 アクティブ：上
-I'll heal you with my succubus breast milk-
+さあ、わたしのしもべになりなさい❤
+ふぅー・・・❤
+
+<(57)シスター1>
+アクティブ：上
+わたしのミルクを飲みなさい。
+体力が回復するわ。
 
 アクティブ：上
-Hora- Drink directly from my boobies.
-They'll cure all your wounds.
-You'll get a little addicted to them though...❤
+乳魔のミルクで回復させてあげる。
 
-<(60)アルラウネ@2>
 アクティブ：上
-Fall under my pheromones-❤
+ほら、直接わたしのおっぱいから飲みなさい。
+体の傷も治るから。
+ちょっとおっぱいに依存しちゃうけど・・・❤
 
-<(60)アルラウネ@1>
+<(58)巨乳エルフ2>
 アクティブ：上
-The power of my honey compels you...!
+わたしの香りで昂りなさい❤
 
-<(61)美乳マーメイド@2>
+<(58)巨乳エルフ1>
 アクティブ：上
-Fall under my pheromones-❤
+わたしのミルクを飲みなさい。
+体力が回復するわ。
 
-<(61)美乳マーメイド@1>
 アクティブ：上
-My song will rob you of the will to fight-
+乳魔のミルクで回復させてあげる。
 
-<(62)投げキッス人魚@2>
 アクティブ：上
-Fall under my pheromones-❤
+ほら、直接わたしのおっぱいから飲みなさい。
+体の傷も治るから。
+ちょっとおっぱいに依存しちゃうけど・・・❤
 
-<(62)投げキッス人魚@1>
+<(59)美脚エルフ2>
 アクティブ：上
-I'll give you a little kiss, so do your best-♪
-Mmm--wah!-❤
+わたしの香りで昂りなさい❤
 
-<(63)ラミア@2>
+<(59)美脚エルフ1>
 アクティブ：上
-Fall under my pheromones-❤
+わたしのミルクを飲みなさい。
+体力が回復するわ。
 
-<(63)ラミア@1>
 アクティブ：上
-I'll give you a little kiss, so do your best-♪
-Mmm--wah!-❤
+乳魔のミルクで回復させてあげる。
 
-<(64)サキュバスエルフ@2>
 アクティブ：上
-Fall under my pheromones-❤
+ほら、直接わたしのおっぱいから飲みなさい。
+体の傷も治るから。
+ちょっとおっぱいに依存しちゃうけど・・・❤
 
-<(64)サキュバスエルフ@1>
+<(60)アルラウネ2>
 アクティブ：上
-I'll give you a little kiss, so do your best-♪
-Mmm--wah!-❤
+わたしの香りで昂りなさい❤
 
-<(65)ダークエルフ@2>
+<(60)アルラウネ1>
 アクティブ：上
-Fall under my pheromones-❤
+この蜜であなたに力を・・・！
 
-<(65)ダークエルフ@1>
+<(61)美乳マーメイド2>
 アクティブ：上
-I'll give you a little kiss, so do your best-♪
-Mmm--wah!-❤
+わたしの香りで昂りなさい❤
 
-<(66)サキュバスエルフ@2>
+<(61)美乳マーメイド1>
 アクティブ：上
-Fall under my pheromones-❤
+わたしの歌で、戦う気力を奪ってあげる。
 
-<(66)サキュバスエルフ@1>
+<(62)投げキッス人魚2>
 アクティブ：上
-I'll give you a little kiss, so do your best-♪
-Mmm--wah!-❤
+わたしの香りで昂りなさい❤
 
-<(67)ダークアルラウネ@2>
+<(62)投げキッス人魚1>
 アクティブ：上
-Fall under my pheromones-❤
+頑張れー。応援に投げキッスしたげる♪
+んーーっちゅ❤
 
-<(67)ダークアルラウネ@1>
+<(63)ラミア2>
 アクティブ：上
-I shall weaken you with my aphrodisiac.
-Pshew-...♪
+わたしの香りで昂りなさい❤
 
-<(67)ダークアルラウネ@3>
+<(63)ラミア1>
 アクティブ：上
-I shall entrance you with my aphrodisiac.
-Pshew-...♪
+頑張れー。応援に投げキッスしたげる♪
+んーーっちゅ❤
 
-<(68)チェリッシュ@2>
+<(64)サキュバスエルフ2>
 アクティブ：上
-Fall under my pheromones-❤
+わたしの香りで昂りなさい❤
 
-<(68)チェリッシュ@1>
+<(64)サキュバスエルフ1>
 アクティブ：上
-I shall weaken you with my aphrodisiac.
-Pshew-...♪
+頑張れー。応援に投げキッスしたげる♪
+んーーっちゅ❤
 
-<(68)チェリッシュ@3>
+<(65)ダークエルフ2>
 アクティブ：上
-I shall entrance you with my aphrodisiac.
-Pshew-...♪
+わたしの香りで昂りなさい❤
 
-<(69)ドレインインプ@2>
+<(65)ダークエルフ1>
 アクティブ：上
-Fall under my pheromones-❤
+頑張れー。応援に投げキッスしたげる♪
+んーーっちゅ❤
 
-<(69)ドレインインプ@1>
+<(66)サキュバスエルフ2>
 アクティブ：上
-I shall weaken you with my aphrodisiac.
-Pshew-...♪
+わたしの香りで昂りなさい❤
 
-<(69)ドレインインプ@3>
+<(66)サキュバスエルフ1>
 アクティブ：上
-I shall entrance you with my aphrodisiac.
-Pshew-...♪
+頑張れー。応援に投げキッスしたげる♪
+んーーっちゅ❤
+
+<(67)ダークアルラウネ2>
+アクティブ：上
+わたしの香りで昂りなさい❤
+
+<(67)ダークアルラウネ1>
+アクティブ：上
+わたしの毒で弱らせてあげましょう。
+ふぅー・・♪
+
+<(67)ダークアルラウネ3>
+アクティブ：上
+わたしの毒でしびれさせてあげましょう。
+ふぅー・・♪
+
+<(68)チェリッシュ2>
+アクティブ：上
+わたしの香りで昂りなさい❤
+
+<(68)チェリッシュ1>
+アクティブ：上
+わたしの毒で弱らせてあげましょう。
+ふぅー・・♪
+
+<(68)チェリッシュ3>
+アクティブ：上
+わたしの毒でしびれさせてあげましょう。
+ふぅー・・♪
+
+<(69)ドレインインプ2>
+アクティブ：上
+わたしの香りで昂りなさい❤
+
+<(69)ドレインインプ1>
+アクティブ：上
+わたしの毒で弱らせてあげましょう。
+ふぅー・・♪
+
+<(69)ドレインインプ3>
+アクティブ：上
+わたしの毒でしびれさせてあげましょう。
+ふぅー・・♪

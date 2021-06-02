@@ -4585,75 +4585,77 @@ priestess' affection-❤
 
 <TK74>
 Ray：上
-あうぅ・・、気持ちよくして・・・❤
-おねがいです・・・❤
+Auhhh... Make me feel good-❤
+Please...❤
 
 Miles：上
-ううっ・・・❤たのむ・・・❤
-もう我慢できねぇ・・・❤
+Ughh...❤ Come on...❤
+I can't take it anymore...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
-うううっ、お願いします・・・❤
+It's too much... I... Can't...❤
+Ugh... please...❤
 
 アクティブ：上
-ううっ、気持ちよくしてください・・・❤
-お願いします・・・❤
+Ugh, please make me feel good-❤
+I beg you...❤
 
 Devout Girl：上
-うふふ、シスター様の前に、
-ひざまづく準備ができたようですね。
-いいですよ❤素直な子には祝福をあげましょう。
+Ufufu- It seems you are ready to kneel before
+our priestess. Very well❤ I shall bless you for
+being such an obedient boy.
 
 選択肢：1
-通常
-ベットの上
+Normal
+On the bed
 
 Devout Girl：上
-あん、こんなにたくさん胸に出して・・・❤
-わたしの胸で幸せになれましたか？
-うふふ❤
+Ahn, you let out so much onto my chest...❤
+Did you enjoy my breasts that much?
+Ufufu-❤
 
 <TK77>
 Ray：上
-あうぅ・・、気持ちよくして・・・❤
-おねがいです・・・❤
+Auhhh... Make me feel good-❤
+Please...❤
 
 Miles：上
-ううっ・・・❤たのむ・・・❤
-もう我慢できねぇ・・・❤
+Ughh...❤ Come on...❤
+I can't take it anymore...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
-うううっ、お願いします・・・❤
+It's too much... I... Can't...❤
+Ugh... please...❤
 
 アクティブ：上
-ううっ、気持ちよくしてください・・・❤
-お願いします・・・❤
+Ugh, please make me feel good-❤
+I beg you...❤
 
 Devout Girl：上
-うふふ、シスター様の前に、
-ひざまづく準備ができたようですね。
-いいですよ❤素直な子には祝福をあげましょう。
+Ufufu- it seems you are ready to kneel before
+our priestess. Very well❤ I shall bless you for
+being such an obedient boy.
 
 Devout Girl：上
-あん、こんなにたくさん❤
-気持ちよさそうに果ててしまいましたね。
-素直になれてよかったでしょう？
+Ahn, you let out so much onto my chest...❤
+Did you enjoy my breasts that much?
+Ufufu-❤
 
 <TK81>
-Devout Girl：上
-うふふ。さっきからおっぱいに視線を感じます❤
+アクティブ：上
+Ufufu- I can tell you've been staring
+at my chest-❤
 
-Devout Girl：上
-ほら、胸をはだけて・・・。
-どうですか？この胸に顔を挟まれて、
-気持ちよくなりたくありませんか？
-さあ、おいで❤
-いっぱい谷間の香りで洗脳してあげますよ❤
+アクティブ：上
+Look- Now my breasts are completely exposed...
+What do you think?*
+Wouldn't you like to enjoy the feeling of your 
+face between these breasts?*
+I thought so- Now, come to me-❤
+I'll brainwash you with the scent of my breasts-❤
 
 タイトル：中央
-特殊技：「強制洗脳ぱふぱふ」（引き寄せ+洗脳）
+[Brainwashing Puff-Puff Encouragement] (Treachery+Approach)
 
 <TK78>
 Devout Girl：上
@@ -8030,7 +8032,7 @@ Nobus：上
 搾り取ってあげるね❤
 
 選択肢：1
-通常攻撃
+Normal攻撃
 ミニマム状態
 誘惑状態
 自軍最後の一人
@@ -10770,7 +10772,7 @@ Nobus：上
 くすくす。
 
 選択肢：1
-通常攻撃
+Normal攻撃
 誘惑状態
 
 ニンジャガール：上
@@ -11484,7 +11486,7 @@ Drain Imp：上
 感謝するのですよ？
 
 選択肢：1
-通常攻撃
+Normal攻撃
 誘惑状態
 
 Drain Imp：上
@@ -11807,7 +11809,7 @@ Drain Imp：上
 こんな場面で女の子に、おねだり❤変態なのです❤
 
 選択肢：1
-通常攻撃
+Normal攻撃
 誘惑状態
 
 Drain Imp：上
@@ -12295,7 +12297,7 @@ Nobus：上
 
 <TK218>
 選択肢：1
-通常セリフ
+Normalセリフ
 自軍一人生存
 
 ルミーネ：上
@@ -12739,7 +12741,7 @@ Nobus：上
 全部、わたしが食べてあげるわ❤
 
 選択肢：1
-通常攻撃
+Normal攻撃
 誘惑状態
 
 クロワ：上
@@ -13125,7 +13127,7 @@ Nobus：上
 わたしがおっぱいで気持ちよく抜いてあげる❤
 
 選択肢：1
-通常攻撃
+Normal攻撃
 誘惑状態
 
 ミレニア：上
@@ -17283,7 +17285,7 @@ Miles：上
 \vo[h]ねえねえ、その甘い匂いにくるまれながら・・・・❤
 あたしと一緒にねんねしたい？*
 \vo[a426]いいよ？
-あとでベットの上でいっぱいぎゅーって
+あとでOn the bedでいっぱいぎゅーって
 おっぱい抱っこしてあげる❤
 \vo[a427]でもそのかわりぃ・・・❤**
 \vo[a428]今はアリスのために戦って？
@@ -21907,7 +21909,7 @@ Junior School GirlB：上
 
 <TK342>
 選択肢：1
-通常セリフ
+Normalセリフ
 自軍残り１人
 
 選択肢：1
@@ -34720,7 +34722,7 @@ Soldier：上
 <TK416>
 Blowjob Bandit：上
 あは❤
-ベットの上にようこそ❤
+On the bedにようこそ❤
 
 テロップ：中央
 毛布の中から隠れていたサキュバスが現れた！
@@ -34728,7 +34730,7 @@ Blowjob Bandit：上
 Blowjob Bandit：上
 ねえ❤サキュバスに誘惑されて、もう疲れたでしょ？
 我慢なんてやめて、
-ベットの上でわたしと楽しいことしない？
+On the bedでわたしと楽しいことしない？
 毛布の中でギシギシアンアン、いっぱいセックス。
 とっても気持ちいいわよ？
 それこそ、腰が溶けちゃうくらい・・・❤
@@ -34817,7 +34819,7 @@ Blowjob Bandit：上
 <TK417>
 Village Girl：上
 うふふ❤
-ベットの上にようこそ❤
+On the bedにようこそ❤
 
 テロップ：中央
 毛布の中から隠れていたサキュバスが現れた！
@@ -37276,7 +37278,7 @@ Ray：上
 
 レミラミ：上
 よし到着。やっぱりがっつり搾りたいときは、
-ベットの上の方が雰囲気出ていいよね❤*
+On the bedの方が雰囲気出ていいよね❤*
 今からお兄さんと生ハメエッチするの。
 行くよ❤ほら・・・❤
 
@@ -37410,7 +37412,7 @@ Ray：上
 
 レミラミ：上
 よし到着。やっぱりがっつり搾りたいときは、
-ベットの上の方が雰囲気出ていいよね❤*
+On the bedの方が雰囲気出ていいよね❤*
 今からお兄さんと生ハメエッチするの。
 行くよ❤ほら・・・❤
 
