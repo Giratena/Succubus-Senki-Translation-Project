@@ -1,8 +1,9 @@
 <PL0>
 テロップ：中央
 備考：
-Determined GirlとVillage Girlはオナニーするキャラが、
-ノブかそれ以外かでセリフ分岐。
+The Determined Girl and Village Girl have
+different masturbation dialogue if the character
+is Nobus.
 
 <PL1>
 テロップ：中央
