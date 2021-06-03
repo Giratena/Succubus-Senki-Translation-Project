@@ -164,8 +164,10 @@ Let's make you feel good, okay? Come on-
 選択肢：1
 Submit to temptation
 Deliver the final blow
+
 テロップ：中央
 You were too aroused to refuse her temptation!
+
 選択肢：1
 Submit to temptation
 
@@ -584,12 +586,14 @@ They're so plump and soft, aren't they?*
 (Giggle) Just relax-
 Let all the tension flow out from your body... 
 You'll do that for me, right?❤
+
 選択肢：1
 Struggle casually
 Shake the woman off
 
 テロップ：中央
 You were too aroused to refuse her temptation!
+
 選択肢：1
 Struggle casually
 
@@ -673,6 +677,7 @@ Shake the woman off
 
 テロップ：中央
 You were too aroused to refuse her temptation!
+
 選択肢：1
 Struggle casually
 
@@ -957,6 +962,7 @@ Strike while the iron's hot
 
 テロップ：中央
 You were too aroused to refuse her temptation!
+
 選択肢：1
 武器を大振りする
 
@@ -3899,7 +3905,7 @@ my facial expression looked like it had
 completely melted in pleasure.
 
 情報：なし
-ここで冒険をあきらめますか？
+Give up on your adventure here?
 
 選択肢：1
 Don't give up
