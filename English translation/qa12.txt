@@ -82,7 +82,8 @@ Skill+5
 Strength+5
 
 テロップ：中央
-You can prevent any fetishes gained in this room.
+You can prevent any fetishes gained in this room
+here.
 
 選択肢：1
 No fetishes
