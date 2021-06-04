@@ -1,8 +1,9 @@
 <PL0>
 テロップ：中央
 備考：
-Determined GirlとVillage Girlはオナニーするキャラが、
-ノブかそれ以外かでセリフ分岐。
+The Determined Girl and Village Girl have
+different masturbation dialogue if the character
+is Nobus.
 
 <PL1>
 テロップ：中央
@@ -81,7 +82,8 @@ Skill+5
 Strength+5
 
 テロップ：中央
-You can prevent any fetishes gained in this room.
+You can prevent any fetishes gained in this room
+here.
 
 選択肢：1
 No fetishes
@@ -5944,14 +5946,14 @@ I don't mind what you do with them,
 so go right ahead-❤
 
 選択肢：1
-Become mindlessly drawn into her breas
+Become mindlessly drawn to her breasts
 Clear your head of wild imaginations
 
 テロップ：中央
 Due to arousal, you couldn't refuse her request!
 
 選択肢：1
-Become mindlessly drawn into her breas
+Become mindlessly drawn to her breasts
 
 Boobie Elf：上
 Auu...
@@ -6033,19 +6035,18 @@ Don't you want to use them to squirt out all
 the tension in your penis?
 
 選択肢：1
-Become mindlessly drawn into her breas
+Become mindlessly drawn to her breasts
 Clear your head of wild imaginations
 
 テロップ：中央
 Due to arousal, you couldn't refuse her request!
 
 選択肢：1
-Become mindlessly drawn into her breas
+Become mindlessly drawn to her breasts
 
 Boobie Elf：上
 Auu...
 But my paizuri is the best...
-
 
 Boobie Elf：上
 Ufufu-❤ Watch out-
@@ -6924,7 +6925,7 @@ Not good..., I, I'm already...❤
 アクティブ：上
 Aaah...❤
 
-アルラウネ：上
+Alraune：上
 Ufufu- Is something wrong?
 The moment you approached me, you took out
 your penis and started masturbating-❤
@@ -6936,7 +6937,7 @@ Teehee-❤ How weak willed...❤
 アクティブ：上
 Ooh, oooh...
 
-アルラウネ：上
+Alraune：上
 My pollen can be quite troublesome,
 so I was placed here on this island.
 You must have come here to defeat me, right?
@@ -6952,7 +6953,7 @@ It's okay-
 Hora- Give me all of that energy of yours,
 like a true perverted masochist-❤
 
-アルラウネ：上
+Alraune：上
 Ahn-❤ Such delicious energy-❤
 Your facial expression looks like it's in
 complete ecstasy- It must have felt really good-
@@ -6978,7 +6979,7 @@ Oooh, please...❤
 Oooh, please make me feel good...❤
 I'm begging you...❤
 
-アルラウネ：上
+Alraune：上
 Ara ara- You're pleading to me? An Alraune?
 The soldiers who are challenging the trial are
 kind of pathetic, huh-*
@@ -6989,16 +6990,16 @@ I won't do anything if you don't say-
 \wdb[30]
 \wdb[58]
 
-アルラウネ：上
+Alraune：上
 You want to be caressed between these plump 
 breasts of mine?
 It's okay- I'll give you lots of affection-
 
-アルラウネ：上
+Alraune：上
 Ufufu- You want to meet your end breathing in my
 pollen? You have such strange tastes- Teehee♪
 
-アルラウネ：上
+Alraune：上
 Ufufu- You sure came a lot-
 I hope you enjoyed yourself-
 
@@ -9793,7 +9794,7 @@ Nobus：上
 アクティブ：上
 ああ・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 くすくす❤くすくす❤
 ああ、おかしい。
 なぜ敵の前に来て自分でしごいているのですか？
@@ -9807,7 +9808,7 @@ Nobus：上
 胸
 香り
 
-ダークアルラウネ：上
+ダークAlraune：上
 そう、この胸に魅了されてしまったのですね。
 男の方は本当にお胸がお好きですこと。*
 ほら、あなたが我慢できなくなった淫魔のおっぱい、
@@ -9826,7 +9827,7 @@ Nobus：上
 ペニスを胸に押しつぶされる妄想で
 イッテしまいなさい❤くすくす❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 そう、わたくしの香りにメロメロになってしまったのですね。
 人間のオスを引き寄せる妖しい魔花の香りですもの。
 それは仕方ないですわ。
@@ -9846,7 +9847,7 @@ Nobus：上
 直接香りを吹きかけてあげますわ。
 手のひらを口にそえて・・・。ふぅーー・・・❤❤❤❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 あん❤
 熱い精液がたっぷり❤*
 わたくしに栄養を捧げてくださってありがとうございます。
@@ -9866,7 +9867,7 @@ Nobus：上
 アクティブ：上
 ああ・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 あははは❤またわたくしの前で自慰ですか？
 まったく英雄の一団は
 ずいぶん情けない人たちの集まりですのね。
@@ -9881,7 +9882,7 @@ Nobus：上
 胸
 香り
 
-ダークアルラウネ：上
+ダークAlraune：上
 そう、この胸に魅了されてしまったのですね。
 男の方は本当にお胸がお好きですこと。*
 ほら、あなたが我慢できなくなった淫魔のおっぱい、
@@ -9900,7 +9901,7 @@ Nobus：上
 ペニスを胸に押しつぶされる妄想で
 イッてしまいなさい❤くすくす❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 そう、わたくしの香りにメロメロになってしまったのですね。
 人間のオスを引き寄せる妖しい魔花の香りですもの。
 それは仕方ないですわ。
@@ -9920,7 +9921,7 @@ Nobus：上
 直接香りを吹きかけてあげますわ。
 手のひらを口にそえて・・・。ふぅーー・・・❤❤❤❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 あん❤
 熱い精液がたっぷり❤*
 エナジーを敵に捧げて、くすくすご苦労様❤
@@ -9944,7 +9945,7 @@ Nobus：上
 ううっ、気持ちよくしてください・・・❤
 お願いします・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 あらあら、村を守るのも忘れて、
 敵の淫魔におねだりですか。
 聖剣の英雄が、ぷぷっ、聞いてあきれますわね。
@@ -9956,33 +9957,33 @@ Nobus：上
 洗脳の花粉
 誘い花
 
-ダークアルラウネ：上
+ダークAlraune：上
 胸の中にたくさん出したいのですね。
 うふふ、それなら、挟んであげましょうか。
 
-ダークアルラウネ：上
+ダークAlraune：上
 わたくしの奴隷に堕ちながら、
 精をまき散らしたいのですか？*
 村を守る騎士団が、
 敵の奴隷に堕ちたいと願うなんて・・・。
 罪な人ですね。うふふ❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 そう、わたくしの中に入りたいのですね・・・❤
 でも、大丈夫ですか？気持ちよすぎて
 きっと全然耐えられませんわよ。
 
-ダークアルラウネ：上
+ダークAlraune：上
 んふ❤濃い精液がたくさん・・・❤
 あなたの命、確かにいただきましたわ。
 
 <TK175>
-ダークアルラウネ：上
+ダークAlraune：上
 くっ、やりますね・・・・。**
 かくなるうえは、くらいなさい！
 「ソーンバインド」！
 
-ダークアルラウネ：上
+ダークAlraune：上
 ふふふ。あなたの足を拘束させてもらいました。
 これならもう抵抗できないでしょう？*
 さあ、とびきり濃厚な花粉で、
@@ -9999,38 +10000,38 @@ Due to arousal, you couldn't refuse her request!
 選択肢：1
 もがくのをあきらめた
 
-ダークアルラウネ：上
+ダークAlraune：上
 そんな！まさかあの拘束から逃れるなんて！
 きゃあ！
 
-ダークアルラウネ：上
+ダークAlraune：上
 ほおら、体をすぐ近くまで引き寄せて・・・。
 
-ダークアルラウネ：上
+ダークAlraune：上
 わたくしに隷従なさい。
 ふうぅーー・・・❤
 
 タイトル：中央
 隷従の香り
 
-ダークアルラウネ：上
+ダークAlraune：上
 うふふ。まだですわ。
 徹底的に脳を犯してさしあげます。*
 甘い香りを肺いっぱいに吸い込みなさい。
 ふぅぅー・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 くす♪これであなたはもうわたくしの操り人形ですわ。
 さあ、死ぬまでわたくしのために戦いなさい❤
 うふふふ❤
 
 <TK176>
-ダークアルラウネ：上
+ダークAlraune：上
 ううっ、まだ抗いますか・・・。**
 かくなるうえは、あなたも洗脳してさしあげます。
 くらいなさい！「ソーンバインド」！
 
-ダークアルラウネ：上
+ダークAlraune：上
 ふふふ。あなたの足を拘束させてもらいました。
 これならもう抵抗できないでしょう？*
 さあ、とびきり濃厚な花粉で、
@@ -10048,23 +10049,23 @@ Due to arousal, you couldn't refuse her request!
 選択肢：1
 無抵抗になった
 
-ダークアルラウネ：上
+ダークAlraune：上
 そんな！まさかあの拘束から逃れるなんて！
 きゃあ！
 
-ダークアルラウネ：上
+ダークAlraune：上
 くすくす。体から力を抜いてしまわれましたね。
 気持ちよくなりたいのですか？ダメなお方❤*
 ほおら、体をすぐ近くまで引き寄せて・・・。
 
-ダークアルラウネ：上
+ダークAlraune：上
 わたくしに隷従なさい。
 ふうぅーー・・・❤
 
 タイトル：中央
 隷従の香り
 
-ダークアルラウネ：上
+ダークAlraune：上
 うふふ。どうですか。至近距離でかぐわたくしの花粉は。
 脳がとろけてしまいそうでしょう？*
 しかし、一度かけただけでは、
@@ -10073,14 +10074,14 @@ Due to arousal, you couldn't refuse her request!
 ほおら、甘い香りを肺いっぱいに吸い込みなさい。
 ふぅぅー・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 くす♪これであなたもわたくしの操り人形ですわ。
 二度と解けることはありません。*
 さあ、死ぬまでわたくしのために戦いなさい❤
 うふふふ❤
 
 <TK177>
-ダークアルラウネ：上
+ダークAlraune：上
 ううっ・・・。**
 もうやめてくださいませ。
 あなた方が来るのが遅れたから、
@@ -10107,19 +10108,19 @@ Due to arousal, you couldn't refuse her request!
 選択肢：1
 ふらふらと彼女に近づいた
 
-ダークアルラウネ：上
+ダークAlraune：上
 ううっ・・・・。素晴らしい意志ですわ。
 
-ダークアルラウネ：上
+ダークAlraune：上
 うふふ。
 どうぞわたくしの花弁の中にいらしてください。
 
-ダークアルラウネ：上
+ダークAlraune：上
 そうです。そこに立って。
 おしべを挿入する前にまずはわたくしの花びらで
 体をくるんであげますわね。
 
-ダークアルラウネ：上
+ダークAlraune：上
 いかがですか？
 柔らかな花びらにさわさわと体中をくすぐられる感触は。*
 あん❤身をよじって。くすぐったいのですか？
@@ -10133,7 +10134,7 @@ Due to arousal, you couldn't refuse her request!
 タイトル：中央
 男殺しのめしべ
 
-ダークアルラウネ：上
+ダークAlraune：上
 うふ。挿れた瞬間に大きな声をあげて、
 たいそうお気にめしたようですわね。*
 あなたのおしべもわたくしの中で
@@ -10142,7 +10143,7 @@ Due to arousal, you couldn't refuse her request!
 こういうこともできますのよ。
 めしべでペニスの先に吸い付いてエナジードレイン❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 女性の膣にちゅうちゅう吸い付かれたことなんて
 いままでありませんわよね。
 いかがです？天国でしょう？
@@ -10155,7 +10156,7 @@ Due to arousal, you couldn't refuse her request!
 わたくしのめしべに吸ってもらえます。
 天国はそう簡単には終わりません。ほらほら❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 あら、たったこれだけしか吸っていませんのに、
 もう体が干からびそうですわね。*
 うふふ、
@@ -10167,20 +10168,20 @@ Due to arousal, you couldn't refuse her request!
 あなたの命、
 わたくしの中にたっぷり吐き出してくださいな❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 あん❤熱い精液が中にこんなに・・・。**
 うふふふ♪なんと美味なのでしょう。
 これはたまりませんわね。
 
 <TK178>
-ダークアルラウネ：上
+ダークAlraune：上
 ううっ・・・。
 あなたもお強いのですね。*
 どうしてあえて戦うのでしょうか。
 さっきの殿方のように、じっとしていてくだされば、
 わたくしの花の中で天国を味わえるというのに。
 たとえそれで死ぬことになろうとも、
-アルラウネのめしべにすべてを吸いだされるのなら、
+Alrauneのめしべにすべてを吸いだされるのなら、
 誰も後悔などしないはずですわ。
 あなたもわたくしの中におしべを差し込んで、
 幸せな最期、迎えてみませんこと？
@@ -10195,22 +10196,22 @@ Due to arousal, you couldn't refuse her request!
 選択肢：1
 ふらふらと彼女に近づいた
 
-ダークアルラウネ：上
+ダークAlraune：上
 ううっ・・・・。
 素晴らしい意志ですわ。
 
-ダークアルラウネ：上
+ダークAlraune：上
 あなたもやはり男、なのですね。
 誘惑されれば抗えない。くすくす♪*
 さあ、どうぞわたくしの花弁の中にいらしてください。
 最高の快楽が待っていますから。
 
-ダークアルラウネ：上
+ダークAlraune：上
 そうです。そこに立って。
 さて、おしべを挿入する前に
 まずはわたくしの花びらで体をくるみましょう。
 
-ダークアルラウネ：上
+ダークAlraune：上
 いかがですか？
 柔らかな花びらにさわさわと体中をくすぐられる感触は。*
 あらあら、さきほどの殿方と同様に
@@ -10223,7 +10224,7 @@ Due to arousal, you couldn't refuse her request!
 タイトル：中央
 男殺しのめしべ
 
-ダークアルラウネ：上
+ダークAlraune：上
 うふ。挿れた瞬間に大きな声をあげて、
 たいそうお気にめしたようですわね。*
 我慢汁をこんなに垂れ流して、すごい量❤
@@ -10233,7 +10234,7 @@ Due to arousal, you couldn't refuse her request!
 めしべでペニスの先に吸い付いて、
 エナジードレイン、してさしあげますわね❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 ほらほらほら❤
 女性の膣にちゅうちゅう吸い付かれたことなんて
 いままでありませんわよね？
@@ -10247,7 +10248,7 @@ Due to arousal, you couldn't refuse her request!
 どうせ、すぐに干からびてしまいますから。
 ほら、どんどん吸い上げますわよ❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 うふふ。もうすぐ終わりですわね。
 あなたの精気も大変おいしゅうございました。*
 最期はわたくしのめしべに、たっぷり中出ししてください。
@@ -10257,7 +10258,7 @@ Due to arousal, you couldn't refuse her request!
 あなたの命、
 わたくしの中に全部吐き出してくださいな❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 あん❤熱い精液が中にこんなに・・・。**
 うふふふ♪なんと美味なのでしょう。
 ああ、何度でも味わいたい味ですわ。*
@@ -10266,13 +10267,13 @@ Due to arousal, you couldn't refuse her request!
 おいしく食べられたい方は早くいらして？
 
 <TK179>
-ダークアルラウネ：上
+ダークAlraune：上
 くうっ・・・・。
 さすがに試練を突破しただけはありますわね。*
 ですが、ほら、どうですか？
 こうやって胸を体に押し当てれば・・・。
 
-ダークアルラウネ：上
+ダークAlraune：上
 ほら、力が抜けてしまうでしょう？
 男の方の体のつくりは簡単ですからね。
 魔物のおっぱいには勝てないのです❤
@@ -10289,17 +10290,17 @@ Due to arousal, you couldn't refuse her request!
 選択肢：1
 おっぱいが気持ちよくて力が入らなかった
 
-ダークアルラウネ：上
+ダークAlraune：上
 きゃ！
 わたくしに抱きしめられても正気でいられるなんて・・・。
 
-ダークアルラウネ：上
+ダークAlraune：上
 そう。それでいいのです。
 殿方はサキュバスに吸われるべき存在なのですから。*
 ほら、あなたが負けたおっぱいですよ？
 たっぷり味わいなさい❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 あら、挟んで少ししごいただけで、
 お胸の中でペニスが跳ね回っていますわ。
 敏感ですのね。
@@ -10307,7 +10308,7 @@ Due to arousal, you couldn't refuse her request!
 全力で動かしたときにすぐイッてしまわれますわよ？
 ほら、こんなふうに圧をかけながら上下させれば・・・。
 
-ダークアルラウネ：上
+ダークAlraune：上
 ね？とても気持ちいいでしょう？
 ハリのある胸がペニスをぎゅうぎゅうと圧迫して、
 たまらないのではないですか？
@@ -10323,7 +10324,7 @@ Due to arousal, you couldn't refuse her request!
 わたくしの与える胸の快楽に溺れて、
 命を吐き出しなさい❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 うふふ。お胸にたっぷり出しましたわね。
 精液がこぼれそうですわ。*
 それに、とてもおいしい。
@@ -10331,13 +10332,13 @@ Due to arousal, you couldn't refuse her request!
 くすくす、病みつきになりそう。
 
 <TK180>
-ダークアルラウネ：上
+ダークAlraune：上
 くうっ・・・・。
 あなたもなかなかやりますね。このままではまずいです。*
 ですが、ほら、どうですか？
 こうやって胸を体に押し当てれば・・・。
 
-ダークアルラウネ：上
+ダークAlraune：上
 力が抜けてしまうでしょう？
 くすくす❤
 やはり男の方の体のつくりは簡単ですね。
@@ -10355,11 +10356,11 @@ Due to arousal, you couldn't refuse her request!
 選択肢：1
 おっぱいが気持ちよくて力が入らなかった
 
-ダークアルラウネ：上
+ダークAlraune：上
 きゃ！
 わたくしに抱きしめられても正気でいられるなんて・・・。
 
-ダークアルラウネ：上
+ダークAlraune：上
 うふふ。素直でいい子ですよ。
 もしかすると、先ほどの方が気持ちよさそうに胸で
 搾り取られるのを見て、期待していたのでしょうか。
@@ -10367,14 +10368,14 @@ Due to arousal, you couldn't refuse her request!
 その破裂しそうに膨らんだいちもつで、
 たっぷり味わいなさい❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 あらあら。挟んでほんのちょっとしごいただけなのに、
 お胸の中でペニスが跳ね回っていますわね？*
 そんなにもろいようでは、
 全力で動かしたときにすぐイッてしまわれますわよ。
 ほら、こんなふうに圧をかけながら上下させれば・・・。
 
-ダークアルラウネ：上
+ダークAlraune：上
 ね？とろけるように気持ちいいでしょう？
 ハリのある胸がペニスをぎゅうぎゅうと圧迫して、
 中から精液を押し出そうとしていますわ。
@@ -10390,7 +10391,7 @@ Due to arousal, you couldn't refuse her request!
 何往復もしごきあげてさしあげます。
 わたくしの与える胸の快楽に溺れて、射精なさい❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 うふふ。お胸にたっぷり出しましたわね。
 精液がこぼれそうですわ。*
 それに、とてもおいしい。
@@ -11449,131 +11450,140 @@ Due to arousal, you couldn't refuse her request!
 骨身にしみたでしょう？くすくす・・・。
 
 <TK200>
-スナイパー：上
-くっ、楽勝のはずが、よけいな援軍のせいで・・・。**
-はぁ・・・。もうどうせわたしの負けよ。
-だから、ほら、最後にダメ元で色仕掛けしてあげる。
+Sniper：上
+Urgh, this should have been an easy victory, 
+but because of those extra reinforcements...*
+Huugh... Either way, I've already lost.
+I may as well try and seduce you with this then.
+Hora- 
 
-スナイパー：上
-見なさい。
-服を全部脱いで、完全に裸よ。
-おっぱいもアソコも丸出し。
-わりと厚着だったから、
-肌の面積が増えてだいぶ煽情的でしょ？*
-あら、こんな雑な色仕掛けなのに、
-ずいぶん食いつきがいいわね。
-視線が吸い寄せられているじゃない。
-ねえ、どうする？
-わたしのこと抱きたいなら・・・、
-もちろん止めたりしないわ。
-このおっぱいに吸い付きたくない？
-それとも生足に踏まれてみたいかしら？*
-ブーツで蒸れていたから、
-たぶんとっても「いい匂い」がすると思うけど。くす❤
+Sniper：上
+Look at me.
+I've taken off all my clothes, my pussy...
+my breasts... everything is exposed.
+I dress rather tightly, so it's as if my body 
+suddenly got bigger- Now you really
+see how lascivious my body is...
+Ara, even though this is such sloppy seduction,
+you really seem to be into it huh?-
+It's like your eyes are being drawn to me.
+So- What will you do?
+If you want to hug me...
+I won't stop you-
+Maybe suck on my breasts?
+Or maybe... you'd like me to step on you 
+with my bare feet?
+They've been in my stuffy boots, so I bet 
+[they'd smell really good]. Kuhu-❤
 
 選択肢：1
-足に踏まれたい
-必死に抗った
-おっぱいに吸い付きたい
+I want her feet to step on my penis…
+No! I must resist!
+I want to suck on her breasts…
 
 テロップ：中央
-Due to arousal, you couldn't refuse her request!
+You couldn't refuse her due to sexual excitement!
 
 選択肢：1
-足に踏まれたい
-おっぱいに吸い付きたい
+I want her feet to step on my penis…
+I want to suck on her breasts…
 
-スナイパー：上
-くっ、ムラムラしているくせに、生意気っ！
-きゃあ！
+Sniper：上
+Ugh! Willpower, while still being aroused!?
+Kyah!
 
-スナイパー：上
-そう。おっぱい吸いたいんだ。
-くすくす❤*
-大事な場面で最後に欲望に負けるあたり、
-さすがは低級な人間って感じね。*
-でも、仕方ないか。
-こんな美乳を見せつけられたら、
-吸い付きたくもなるわよね。
-ほら、顔に近づけてゆさゆさ❤
+Sniper：上
+So, you want to suck on my breasts.
+Teehee-❤*
+Losing to your lust at the decisive battle,
+as one would expect from a lowly human-*
+But, it can't be helped.
+When you see such beautiful breasts as these,
+it's only natural to want to suck on them.
+Hora- Watch them sway in front of your face-❤
 
-スナイパー：上
-くすくす。
-鼻息荒ーい❤*
-我慢しないで舐めなさい。
-赤ん坊みたいに吸ってもいいわよ？
+Sniper：上
+Teehee-
+That's it, breathe in my scent-❤*
+Don't resist, lick- You can even suck on 
+them like a baby, I don't mind-
 
-スナイパー：上
-あん❤ペロペロ始めちゃった。
-淫魔のおっぱいの味はどう？
-夢中で舐めてまるで犬のようね。くすくす。
-ゆっくり可愛がってあげてもいいんだけど、
-でも、他の人もいるから、
-あなたにあまり時間はかけられないの。
-すぐにイカセテあげる。
-手でペニスを包んで・・・。*
-それじゃあ、しごくわね。
-あなたはそのままおっぱいで遊んでなさい。
+Sniper：上
+Ahnn-❤ You started licking- How is the taste of 
+a succubus' breasts? You're lapping it all up 
+like an entranced dog- (Giggle)
+I would like to take it slow,
+but there are others around, so I'm afraid
+you may not have much time-
+I'll make you cum right now
+with my hand around your penis...*
+Ok, I'm going to start stroking okay?-
+You just continue playing with my breasts-
 
-スナイパー：上
-んー？
-「もう出ちゃう我慢できない」って？*
-イかせるつもりでしごいているから当然よ❤
-わたしの全力の手コキを、そんなおっぱいに吸い付いた
-無防備な体勢で耐えられると思う？
-男を何人もからめとってきた手管で、
-あなたもすぐ天国送りにしてあげる❤
+Sniper：上
+Hmm?-
+"I can't hold it in anymore"?*
+Well, I am trying to make you cum by stroking 
+your penis, so it's only natural-❤*
+Did you honestly think you could resist as you
+defenselessly suck on my breasts while I stroke 
+your penis?
+I've coerced many men with these hands,
+and now I'll send you to heaven too-❤
 
-スナイパー：上
-はい。おしまい❤
-簡単にドプドプ出しちゃったわね。*
-みっともないけどかわいい末路だったわよ。
-おっぱい星人さん❤
+Sniper：上
+There we go. You're done-❤
+It was easy to make you go pew pew huh-*
+Anti-climatic, but an adorable end nonetheless-
+Mr. Boobie fetishist-❤
 
-スナイパー：上
-汗で蒸れた足に踏まれたいの？
-うふふ、変態ね❤*
-それじゃあ、まずは顔を踏んであげる。
-そこに寝ころびなさい。
+Sniper：上
+So you want me to step on you 
+with my stuffy sweaty feet?
+Ufufu- Oh you pervert-❤
+Very well then. First, I'll step on your face.
+Lie down over here.
 
-スナイパー：上
-あは❤
-顔を踏んだ途端、とろけた表情しちゃって。*
-そんなにわたしの汗の匂いがいいんだ？
-変態❤*
-ま、サキュバスの汗には発情作用があるし、
-当然と言えば当然かしら。*
-強い刺激だけど、
-でも脳みそピンクに染めちゃう、いい匂いよね？
-くすくす❤
+Sniper：上
+Aha-❤
+Just stepping on your face makes your
+expression melt away.
+Does my sweat really smell that nice?
+Pervert-❤*
+Well the sweat of a succubus has an aphrodisiac
+effect, so I suppose it's only natural.*
+It's a powerful smell, but it's so nice
+it's dyeing your mind pink right? 
+Teehee-❤
 
-スナイパー：上
-それじゃ、お待ちかね。
-ペニスも踏んであげるわ。*
-片足を顔にのせたまま、
-もう片足で踏みつけてあげる。*
-ふふ、あなたが地面に寝てくれているおかげで、
-踏みやすくて助かっちゃう。*
-まるでわたしの足ふきマットね。
-ほら、マットでふき取るみたいに
-足をズリズリこすりつけてあげる。
+Sniper：上
+And now, the moment you've been waiting for.
+I'll step on your penis.*
+While stepping on your face with one foot,
+I'll use the other to trample down on your penis.*
+Fufu- And since you're lying flat on the ground,
+stepping on you is easy-*
+It's like you're a welcome mat-
+Hora- I'll grind my feet against you just like
+wiping my feet on a mat.
 
-スナイパー：上
-ふふ、人間以下の扱いを受けているのに、
-そんなに喜んじゃって❤かわいい。
-アンタ淫魔の奴隷としての素質があるわ。
-もっと余裕があれば、
-連れ帰って飼ってあげてもいいんだけどね。
-今はこんな状況だから、残念、搾りつくしてあげる。
-ま、アンタにとっては
-搾りつくされるほうがうれしいかしら？
-くすくす❤
+Sniper：上
+Fufu- Even though you're being treated like an 
+object, you're so happy-❤ How adorable.
+You have the true makings of a succubus slave-
+If I could, I'd bring you back home with me.
+But this isn't the time, so I'll have to
+squeeze you dry. What a shame.
+But, for someone like you, maybe you're 
+happier being squeezed anyway?
+Teehee-❤
 
-スナイパー：上
-あは❤足の裏に精液べったり❤
-とっても幸せな顔で死んじゃった❤*
-足コキマゾの変態に生まれた以上、
-わたしには勝てないの。くすくす。残念だったわね。
+Sniper：上
+Aha-❤ I got semen on the sole of my foot-❤
+And you fainted with such happy expression too-❤*
+A masochist born with a foot fetish could
+never defeat me- (Giggle)
+Truly a shame-
 
 <TK201>
 スナイパー：上
@@ -26198,7 +26208,7 @@ Elf：上
 妖しい植物の魔物に敗れた主人公は、
 蔦で体を縛りつけられ、宙に持ち上げあげられていた。
 
-アルラウネ：上
+Alraune：上
 うふふ。
 試練、失敗しちゃいましたわね❤*
 わたくしの香りに当てられて、
@@ -26208,7 +26218,7 @@ Elf：上
 Ray：上
 くっ・・・・。
 
-アルラウネ：上
+Alraune：上
 あらあら、仲間を笑われて怒っているのですか？
 仲間のために怒れるだなんて、
 少しは骨のある方なのかしら。
@@ -26219,7 +26229,7 @@ Ray：上
 Ray：上
 なっ・・・、あっ、ああっ❤❤
 
-アルラウネ：上
+Alraune：上
 くすくす。間近で嗅ぐこの香りはすごいでしょう？
 あなたの肺の奥までわたくしの香りが
 染め上げていきますわ。
@@ -26232,7 +26242,7 @@ Ray：上
 こ、こんな・・・❤*
 ううっ、柔らかくてぇ・・・❤
 
-アルラウネ：上
+Alraune：上
 うふふ。挟んだとたん、
 体中から力が抜けてしまいましたわね❤*
 いいんですのよ。男の方ですから、
@@ -26248,7 +26258,7 @@ Ray：上
 あぁっ❤あっ❤はあっ❤
 あっあっ、ああっ・・・❤
 
-アルラウネ：上
+Alraune：上
 うふふ❤ペニスをお胸にこね回されて、
 そんなに気持ちよいのですか？*
 全然我慢できていないではないですか。
@@ -26264,7 +26274,7 @@ Ray：上
 あひぃ・・・❤腰がっ、溶けるぅぅ❤
 ああっ❤
 
-アルラウネ：上
+Alraune：上
 うふふ❤
 またたくさん出されましたわね❤*
 さっきはお仲間のために怒って、
@@ -26282,7 +26292,7 @@ Ray：上
 Ray：上
 あううっ・・・❤
 
-アルラウネ：上
+Alraune：上
 くすくす。バカにされているのにうれしそうなお顔❤
 全然我慢せずにたくさん出されましたわね❤
 これ以上搾り取っては殺してしまうかしら。
@@ -26292,7 +26302,7 @@ Ray：上
 
 テロップ：中央
 足腰立たなくなるまで搾られて、
-僕はアルラウネから解放された。*
+僕はAlrauneから解放された。*
 レベルを吸われこそしなかったが、
 彼女の快楽を、
 すっかり体に刻み付けられてしまったようだ。
@@ -26303,7 +26313,7 @@ Ray：上
 妖しい植物の魔物に敗れた主人公は、
 蔦で体を縛りつけられ、宙に持ち上げあげられていた。
 
-アルラウネ：上
+Alraune：上
 うふふ。
 また試練、失敗しちゃいましたわね❤*
 わたくしの香りに当てられて、
@@ -26315,7 +26325,7 @@ Ray：上
 Ray：上
 くっ・・・・。
 
-アルラウネ：上
+Alraune：上
 あらあら、仲間を笑われて怒っているのですか？
 前回もすぐにとろかされてしまったというのに、
 また無駄なことを。
@@ -26327,7 +26337,7 @@ Ray：上
 Ray：上
 うっ・・・、あっ、ああっ❤❤
 
-アルラウネ：上
+Alraune：上
 くすくす。何度嗅いでも、
 間近で嗅ぐこの香りはすごいでしょう？*
 あなたの肺の奥まで、
@@ -26342,7 +26352,7 @@ Ray：上
 こ、こんな脂肪・・・❤**
 ああうっ、柔らかくてぇ・・・❤
 
-アルラウネ：上
+Alraune：上
 うふふ。挟んだとたん、
 体中から力が抜けてしまいましたわね❤*
 いいんですのよ。男の方ですから、
@@ -26358,7 +26368,7 @@ Ray：上
 あぁっ❤あっ❤はあっ❤
 あっあっ、ああっ・・・❤
 
-アルラウネ：上
+Alraune：上
 うふふ❤ペニスをお胸にこね回されて、
 そんなに気持ちよいのですか？*
 二回目だと言うのに、
@@ -26375,7 +26385,7 @@ Ray：上
 あひぃ・・・❤腰がっ、溶けるぅぅ❤
 ああっ❤
 
-アルラウネ：上
+Alraune：上
 ただパイズリするだけでも、
 あなた程度を搾るには十分なのでしょうけど・・・。*
 二回目ですから少し趣向を変えて、
@@ -26388,7 +26398,7 @@ Ray：上
 もっと、もっと吸わせてぇ・・・❤
 あへぇ・・・❤
 
-アルラウネ：上
+Alraune：上
 目に見えるほど濃い濃度のわたくしの香り。
 いかがですか？*
 ふんわりと甘くて、官能的で・・・。
@@ -26414,7 +26424,7 @@ Ray：上
 だめ、だめ、だめぇ・・・❤
 止まらないっ・・・❤ああっ❤
 
-アルラウネ：上
+Alraune：上
 うふふ❤
 またたくさん出されましたわね❤*
 はじめはお仲間のために怒って、
@@ -26431,9 +26441,9 @@ Ray：上
 お化粧をまぶすみたいに、おっぱいでぱふぱふぱふ❤
 
 Ray：上
-あううっ・・・❤アルラウネさまぁ・・・❤
+あううっ・・・❤Alrauneさまぁ・・・❤
 
-アルラウネ：上
+Alraune：上
 くすくす。バカにされて見下されているのに、
 わたしの名前をうわ言のようにつぶやいて・・・。
 その上、「様付け」ですか。
@@ -26463,12 +26473,12 @@ Ray：上
 あきらめる
 
 テロップ：中央
-アルラウネに花粉をまぶされながら胸で責められて
+Alrauneに花粉をまぶされながら胸で責められて
 僕はすっかり彼女の虜になってしまった。*
 聖剣の試練に繰り返し挑んでも、、
-すぐにアルラウネに惑わされ、
+すぐにAlrauneに惑わされ、
 決して試練をクリアすることはできなかった。
-アルラウネの花粉には中毒性がある。
+Alrauneの花粉には中毒性がある。
 ついには彼女のいる小島に近づくだけで、
 僕の体は勝手に発情するようになり、
 試練とは名ばかりで、
@@ -26477,7 +26487,7 @@ Ray：上
 蜜蜂が女王蜂に花の蜜をせっせと貢ぐように、
 彼女のもとに通って精を捧げるだけの日々が過ぎた。*
 こうして僕らの物語は、
-アルラウネに精を貢ぐだけのみじめな精液奴隷として、
+Alrauneに精を貢ぐだけのみじめな精液奴隷として、
 その幕を閉じたのだった。
 
 <TK366>
@@ -27481,11 +27491,11 @@ Ray：上
 
 <TK377>
 テロップ：中央
-淫魔化したアルラウネに敗れたレイとMilesは、
+淫魔化したAlrauneに敗れたレイとMilesは、
 村が襲われるなか、彼女のツタに絡めとられ、
 無残に搾精されていた。
 
-ダークアルラウネ：上
+ダークAlraune：上
 うふふ。試練ではわたくしを倒した英雄たちが、
 サキュバス化した今となっては、
 わたくしのおもちゃですわ❤
@@ -27501,7 +27511,7 @@ Miles：上
 く、くそお、放しやがれ・・・！
 このっ！！
 
-ダークアルラウネ：上
+ダークAlraune：上
 あらあら❤大声をあげてはしたない。
 快感でふにゃふにゃになったその体では、
 わたくしのツタの拘束を解くことはできませんわ。
@@ -27512,7 +27522,7 @@ Miles：上
 あっ・・・❤くそ、扱くんじゃねえ、ああっ❤
 こんなツタなんかでっ！！
 
-ダークアルラウネ：上
+ダークAlraune：上
 ふふっ、ツタなんかとは失礼ですわ。
 そんなに我慢汁を垂らしているくせに。*
 このツタには男の人を敏感にするイケナイ蜜が
@@ -27523,7 +27533,7 @@ Miles：上
 Ray：上
 くぁっ・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 それに・・・。
 どれだけ言葉で抵抗しても、
 そんな風に腰をヘコヘコしていてはバレバレですわ。
@@ -27533,7 +27543,7 @@ Ray：上
 Miles：上
 なっ、これは、違っ・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 あらあら、無意識だったのかしら？
 わたくしが扱くのに合わせて、
 レイさんもMilesさんも腰を動かしていますのよ？
@@ -27551,12 +27561,12 @@ Miles：上
 あっ、ああっ❤
 だめだ、止まらねぇ・・・❤くああっ・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 くすくす。みんなを見捨てて腰ふり、
 気持ちいいのですか？聖剣の使い手なのに
 ヘコヘコが止められなくて本当にみじめですわね❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 このまま自爆させてもいいのですけれど、
 もっとみじめに・・・。
 あ、そうですわ！ちょっとお遊びをしましょう。
@@ -27577,7 +27587,7 @@ Miles：上
 俺は自力で脱出するんだっ❤
 自分の腰ぐらい自分で止めて・・・・。
 
-ダークアルラウネ：上
+ダークAlraune：上
 うふふ。ご自分の立場を分かっていないようですわね。
 あなた方に選択権など、はなからありませんわ。
 お二人はわたくしのおもちゃなのですから❤
@@ -27585,7 +27595,7 @@ Miles：上
 Miles：上
 うおっ❤ツタの動きが速くなって、ああっ❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 あらあら。始めてすぐにそんなへっぴり腰では
 すぐにゲームが終わってしまいますわ。*
 まだ竿をしごいているだけ。亀頭もカリ首も、
@@ -27596,14 +27606,14 @@ Ray：上
 あっ、あっ❤気持ちいいっ❤
 このままじゃあ、出ちゃう❤❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 では、少し速度を落としましょうか。
 
 Ray：上
 あっ・・・。止まった・・・？
 はぁ・・❤はぁ・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 いかがですか？ゆっくり、シュコ・・・、シュコ・・・。
 これぐらいなら弱いあなた方でも、
 射精しませんわよね。
@@ -27614,7 +27624,7 @@ Ray：上
 Ray：上
 うっ・・・❤ううっ・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 どうしました？
 もどかしいですか？*
 カリ首までツタでしごいてほしいですわよね。
@@ -27634,7 +27644,7 @@ Miles：上
 ううっ・・❤これぐらいの刺激お前なら耐え・・・。*
 あっ❤ああっ❤あひぃ❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 ほらほら、うるさいお友達は、
 ツタコキを速くして黙らせてさしあげましたわ。
 あなたはどうしますか？
@@ -27648,14 +27658,14 @@ Miles：上
 もっと速く動かしてくださいとおねだりした
 口をつぐんで必死に耐えた
 
-ダークアルラウネ：上
+ダークAlraune：上
 くすくす。素直ないい子ですこと❤
 
 Miles：上
 レイ、お前っ・・！
 むぐっ！？
 
-ダークアルラウネ：上
+ダークAlraune：上
 うふふ。お友達のお顔は
 わたくしの花で塞いで差し上げましたわ。*
 これで他人の目を気にすることなく、
@@ -27665,7 +27675,7 @@ Miles：上
 Ray：上
 うっ、ううっ・・・。
 
-ダークアルラウネ：上
+ダークAlraune：上
 ほら、あなたがおねだりした、
 とっておきのツタコキですわよ。*
 まずは根本をしゅっしゅっ♪とリズミカルにしごきあげて、
@@ -27681,7 +27691,7 @@ Ray：上
 先端が、ああっ、気持ちいいっ❤
 頭、まっしろになるっ❤あひぃ❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 とろけきって、いい表情ですわ。
 わたくしの本気のツタコキは中々のものでしょう？*
 ほら、サキュバスの甘美な刺激、
@@ -27694,7 +27704,7 @@ Ray：上
 Ray：上
 あっ、あああっ！！
 
-ダークアルラウネ：上
+ダークAlraune：上
 あら、生意気にも頑張りますのね。**
 うふふ。なら、ゆるやかなしごきのままで
 射精させて差し上げます。*
@@ -27704,7 +27714,7 @@ Ray：上
 Ray：上
 あっ、あうぅ・・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 いかがでしょうか？
 甘やかすようなゆったりしたツタコキと、
 わたくしのいい匂いのするおっぱいは❤
@@ -27720,7 +27730,7 @@ Ray：上
 ああなにこれぇ・・・❤気持ちいいぃ・・・❤
 おっぱいやわらかいよぉ・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 あらあら、発言がすっかりおバカさんですわね❤
 ぱふぱふで理性がとろとろになってしまいました。*
 どうぞ、ぎゅーってしてあげますから、
@@ -27739,7 +27749,7 @@ Miles：上
 レイ、くそぉ、頑張れ！負けるんじゃない！
 耐えれば希望はあるかもしれねえ！
 
-ダークアルラウネ：上
+ダークAlraune：上
 お友達が何か言っていますわね。**
 でも、もう脳みそとろとろで、
 レイさんには聞こえてないみたいですわ。*
@@ -27753,7 +27763,7 @@ Miles：上
 Ray：上
 あっ、あうぅぅう・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 くすくす♪こんなにドロッとした精液をたっぷり出して❤
 よほど気持ちよかったご様子ですわね。*
 見なさい？お仲間のMilesさんは、
@@ -27765,7 +27775,7 @@ Miles：上
 レイっ❤お前っ❤
 ちくしょうぉ❤俺たちこんなところでっ・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 くすくす♪こんなにドロッとした精液をたっぷり出して❤
 よほど気持ちよかったご様子ですわね。*
 見なさい？お仲間のMilesさんは、
@@ -27777,14 +27787,14 @@ Miles：上
 レイっ、お前っ❤
 ちくしょうぉ❤俺たちこんなところでっ・・・❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 あなたが途中で心が折れたから、
 この程度のツタコキに耐えられないのですわ。
 
 Ray：上
 うっ・・・。ううっ・・・。
 
-ダークアルラウネ：上
+ダークAlraune：上
 くすくす♪何も後悔する必要はありませんわ。
 先に射精した可愛らしい殿方は、
 たっぷり気持ちよくしながら養分にしてさしあげます。
@@ -27798,14 +27808,14 @@ Ray：上
 Ray：上
 はうぅう・・・・❤❤
 
-ダークアルラウネ：上
+ダークAlraune：上
 甘い香りで脳を壊しながら、
 たっぷりおっぱいとおまんこで搾りつくしてあげますね。*
 さあ、快楽に溺れて、
 短い間の天国を楽しみなさい・・・❤❤
 
 テロップ：中央
-こうしてサキュバス化したアルラウネに
+こうしてサキュバス化したAlrauneに
 骨の髄まで虜にされた主人公は、
 魔物の養分となって、干からびるまで吸いつくされた。
 残された団員や村のエルフたちが
@@ -28927,2397 +28937,2510 @@ Ray：上
 でも、これだけ接近していればっ！！
 
 スナイパー：上
-あら？まだ戦う意思があるの？
-すごいのね。*
-でも、わたしに接近してもあなたじゃ勝てないわ。
-「誘惑の弓矢」をバキューン❤
+Ara? Are you still wanting to fight?
+I'm impressed-*
+But, you'd never beat me, even at close range-
+[Bow of temptation]! Ping-❤
 
 Ray：上
-うっ・・・❤
+Oogh...❤
 
 Ray：上
-あうぅうう❤❤❤
+Aaahhh....❤❤❤
 
 スナイパー：上
-んふふ。崩れ落ちちゃった。**
-さあ、もうわたしに気持ちよくしてもらうことしか、
-頭にないでしょう？
-いいのよ？来なさい❤
+Ufufu- 
+And just like that, you crumple to the floor-*
+Now there are no thoughts in your head except
+being pleasured by me, isn't that right?
+Let's have some fun- Come over to me-❤
 
 Ray：上
-あへぇ・・・❤
-サキュバス様ぁ・・・・❤
+Aaaah...❤
+Miss Succubus...❤
 
 スナイパー：上
-あらあら・・・。
-剣を捨てて抱き着いたと思ったら、
-「気持ちよくしてください」っておねだりしちゃうの？
-くすくす。無様❤
-そうね。膝を貸してあげるわ。
-魔法で発情したまま、勝手にこすってイケば？
+Ara ara...
+The moment you thought about it, you threw away 
+your weapon begging "Please make me feel good"? 
+(Giggle) How unsightly-❤ Oh well, here. I present
+my leg to you- Perhaps aroused by my sexual magic,
+you can rub against it to make yourself cum?
 
 Ray：上
-はひぃ❤ありがとうございます❤❤**
-あっ、あっ❤太ももがこすれて気持ちいいっ❤**
-ああっ、ダメ、これ止まらないよぉ・・・❤
+Yesss-❤ Thank you very much-❤❤**
+Aah, aaah-❤ 
+Rubbing against your thighs feels soo good--❤*
+Aaah, oh noo- I can't stopp...!❤
 
 スナイパー：上
-ぷぷっ。腰をカクンカクン動かして・・・。
-わたしの体にチンポこすりつけるの、
-そんなに気持ちいいんだ？
-ま、聖剣がなければ人間なんてこんなものよね。**
-わたしたちに心のなかぐちゃぐちゃにされて、
-犬みたいに発情しちゃうのがお似合いな、
-下等な生き物。それが人間なのよ。
-分かった？分かったなら返事。
+Pfft- Your waist is trembling like anything...
+So rubbing your penis against my body really
+feels that good?
+Wow, so without the holy sword,
+this is the kind of human you are?-*
+When we melt your hearts, you all become aroused
+like a dog in heat as if some kind of lower animal-
+Like a human- Yes? Answer me if you agree.
 
 Ray：上
-あひぃっ❤その通りですっ❤
-サキュバス様ぁ❤*
-サキュバス様の脚、
-気持ちいいっ、気持ちいいですっ❤
+Ahieee-❤ Yes, absolutely-❤
+Miss Succubus-❤*
+Miss Succubus's legs feel soo good-
+They're soo good-❤
 
 スナイパー：上
-よく言えました。
-それじゃご褒美に・・・。*
-膝でチンポをグリグリ踏みつぶしてあげる❤
+Well said.
+Hmm, perhaps I should reward you...*
+I'll grind my legs against your penis-❤
 
 Ray：上
-ひあっ❤あっ❤あっ、ああっ❤❤
+Ahiee-❤ Aaah-❤ Aah, aaaaah-❤❤
 
 スナイパー：上
-ほらほらほら！
-こうやって細かく振動させるのがいいんでしょ？*
-男がどこをどうされたらいいかなんて、
-手に取るように分かるのよ。
-アンタたちを射精させるのなんて朝飯前。
-わたしの膝の上でぷるぷるタマをふるわせちゃってさ。
-タマと竿を一緒に刺激されて頭の中真っ白でしょ？*
-サキュバス様には勝てないの。
-分かったら、さっさとわたしの膝でイケ❤
-この雑魚❤
+Hora hora hora!
+It's nice when I vibrate my legs in small 
+movements like this right?
+I know exactly how and where to please a man-
+So making you all cum is just a trivial matter.*
+Your swollen balls quivering from above my legs, as
+the length of your penis is stimulated at the same
+time...It makes your mind go blank doesn't it?
+You can't win against your beloved succubus-
+Once you understand that, you may cum on my legs-❤
+Footsoldier-❤
 
 Ray：上
-あひぃい・・・❤❤
+Ahieiee...❤❤
 
 スナイパー：上
-さて、接近戦なら勝てるなんて考えが、
-どれだけ甘いか分かったかしら？*
-男の体はわたしたちに負けるためにできているのよ？
-ペニスをいじられたら、絶対に勝てないの。
+Now, do you see how naive you were to think you
+could defeat me in close combat?*
+Or perhaps this is what your body wanted from
+the start? Either way, once I start fiddling with
+your penis, winning is impossible-
 
 Ray：上
-あひぃっ・・・❤**
-ううっ・・・。
-くそ・・・、だ、だめだ・・・。
-僕が、僕が頑張らないと・・・・。
+Ahieeee...❤**
+Ooogh...
+Damnit... This, this is bad...
+If, if I don't resist...
 
 スナイパー：上
-あら、少し魔法が解けてきている。
-射精してすっきりしたのかしら？くすくす。*
-でもね。もうアンタはわたしに歯向かえないわ。
-だって、ほら、もう体がうずいてたまらないわよね？*
-魔法なんてなくても、
-一回味わっちゃったら、わたしから離れられないの。
-それが淫魔の快楽❤
-逃げたいなら好きにしなさい。
-でも・・・。*
-おねだりするならまたしてあげるわ。
-どうする？膝でグリグリされたい？
-人間の英雄くん❤
+Ara- My spell weakened a little.
+Perhaps your ejaculation refreshed your mind?
+(Giggle)
+But- It's already too late for you to defy me-
+After all, hora- Your body is already throbbing
+uncontrollably isn't it?
+Even without my magic, once you get a taste of me,
+you'll never part from me again-
+That's the pleasure of a succubus-❤
+Go on, run away if you want to-
+But...*
+If you beg for it we can go again-
+What will you do? Want my legs to grind
+up against you again? Mr. Human Hero?❤
 
 Ray：上
-う、ううっ・・・❤
-また、さっきみたいに気持ちよく・・・・？
+Oh, oooh...❤
+It... it'll feel as good as before...?
 
 スナイパー：上
-そうよ。さっきみたいにわたしの脚にチンポこすりつけて、**
-その上わたしが膝を動かして、
-あんたのチンポを可愛がってあげる。*
-あっという間に射精したあの快感。**
-味わいたいなら、どうすればいいか分かるわよね？
-ふふっ。
+Mmhm- You can rub your penis against my legs
+just as before-*
+And not only that, I'll spoil your penis by
+moving my legs over it too.*
+Pleasure that'll make you cum in the 
+blink of an eye.*
+If you want to taste it...you know what you
+need to do, don't you? 
+Fufu-
 
 Ray：上
-ああっ、お願いしますっ❤サキュバスさまぁ・・・❤
+Aaagh, please-❤ Please Miss Succubus...❤
 
 スナイパー：上
-はい。楽勝❤
-脳みそがあっという間に快感で蕩けちゃった。*
-おいで？
-膝の上でまた可愛がってあげる。*
-そう、そうやってダランとしてなさい。
-ご主人様に身を任せるのよ。*
-脚をグリグリ押し付けて、
-気持ちよく根こそぎ搾ってあげるから！
+There we go- Easy victory-❤
+The pleasure melted your mind rather quickly.*
+Ok, come over here OK?
+I'll caress your penis above my legs again.*
+That's it- Don't think too much about it,
+Just relax- Let your mistress handle the rest.*
+I'll squeeze you completely dry in pure bliss
+as I grind and rub your penis against my legs!
 
 Ray：上
-はひぃ❤あっ❤あっ、ああっ❤
+Yesss...❤ Ahhhh-❤ Aaah, aaaaah-❤
 
 スナイパー：上
-ふふ、わたしの脚一つで、
-人間の尊厳を全部捨てちゃったわね。
+Fufu- Man's dignity, completely abandoned though
+my one leg-
 
 Ray：上
-さっき出したばかりなのにぃ・・・❤
-あっ、あっ、またっ・・・❤耐えられないっ・・・❤
+I just came, but...❤
+Aah, aaah, not again-❤ I can't hold it in...!!❤
 
 スナイパー：上
-いいわよ。出しなさい。
-わたしの脚に全部ぶちまけるの。
-あんたのエナジーわたしが食べてあげる。
+It's OK- Cum-
+Splurt everything onto my leg-
+I'll consume your energy.
 
 スナイパー：上
-うふふ。とても濃いわ。どっぷり出しちゃって。**
-でも、休ませてあげない❤
+Ufufu- It's so thick. You really put out a lot-**
+But- I'm not going to let you rest-❤
 
 Ray：上
-あひぃっ、出したばかりなのに、
-そんなに動かされたらっ❤❤*
-気持ちいいっ❤
-と、とまらなっ❤あああっ！！
+Ahiee, I only just came,
+so if you start moving like that---❤❤*
+Aaaa, it's feels soo good!!❤
+I, I can't sto-❤ Aaaaaahh!!
 
 Ray：上
-サキュバス様ぁ・・・・❤
-もっと、もっとぉ・・・❤
+Miss Succubus...❤
+More... More....❤
 
 スナイパー：上
-くすくす。英雄くんの調教完了♪**
-死ぬ手前で止めてあげたのよ？
-感謝しなさい。*
-あなたにはこれからわたしの犬として、
-一緒に戦ってもらうわ。*
-前衛の戦士がいるほうが狩りは捗るの。
-あなたをわたしの盾にしてあげる。*
-人間同士戦うことになるけれど、
-わたしのために戦えるなら別にいいわよね？
-うふふ♪
+(Giggle) Mr. Hero's training is complete!-♪**
+I stopped just before you were about to die-
+You should thank me.*
+After this I'll keep you as my pet dog, 
+and we'll fight together-*
+I'll hunt down the frontline soldiers,
+and you will be my shield.*
+You'll be fighting against your own kind,
+But as long as you're fighting for me,
+it doesn't matter right? Ufufu♪
 
 テロップ：中央
-僕は彼女にすっかり調教されて、
-彼女にご褒美をもらうために
-人間と敵対するようになった。
-英雄と呼ばれた僕が、
-人間の村を襲い、
-サキュバスを倒そうとする騎士団に剣を向ける日々。
-戦いが終われば、
-ボロボロになった僕を、彼女がひしと抱きしめて、
-そのままご褒美の足コキをしてくれるのだった。
-他の騎士団のメンバーも
-サキュバスたちに手籠めにされて、
-次々と寝返ってしまったらしい。
-僕たちが淫魔軍にとり込まれたことで、
-王国の軍は劣勢に立たされるが、
-もはやそんなことはどうでもよかった。
-こうして裏切り者のペットに堕ちて、
-快楽でいいように道具として使われながら、
-僕らの物語は幕を閉じたのだった。
+After broken down and trained by her "rewards",
+I became an enemy to humankind.*
+Me, who they once called a Hero,
+attacked human villages, and pointed my sword
+against those who opposed the Succubus.
+When a fight ended, 
+she would closely embrace my worn-down body 
+and reward me with her footjobs.
+Even the Knights of Order were raped by succubus,
+and eventually turned to their side one by one.*
+As more of us were recruited into the succubus 
+army, the kingdoms military force diminished,
+and later fell to their mercy.
+Disgraced as traitorous pets, our story ended 
+while being used as tools for pleasure.
 
 <TK386>
 テロップ：中央
-サキュバスの奇襲の前に、
-なすすべなく敗れた主人公たちは、
-淫魔に搾精されもてあそばれていた。
-あちこちで団員たちの嬌声があがるなか、
-主人公も狙撃手の淫魔に襲われていた。
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as even the hero was attacked by one of
+the sniper succubus...
 
 スナイパー：上
-ふう・・・。
-援軍が来たときは驚いたけど、何とかなったわ。*
-せっかくわたしたち遠距離部隊を崖上から落としたのに
-エッチな攻撃に負けてちゃ、わけないわよね。
-くすくす❤
+Pssh...
+I was surprised when the reinforcements came,
+but we managed somehow-
+It was surprisingly simple defeating you
+from the top of the cliff with our lewd long 
+distance attacks- Teehee-❤
 
 Ray：上
-ぐっ・・・。１体１でこの距離ならっ・・・！
+Ugh... But perhaps in a one on one fight...!
 
 スナイパー：上
-あら？まだ戦う意思があるの？
-すごいのね。*
-でも、わたしに接近してもあなたじゃ勝てないわ。
-「誘惑の弓矢」をバキューン❤
+Ara? Are you still wanting to fight?
+I'm impressed-*
+But, you'd never beat me, even at close range-
+[Bow of temptation]! Ping-❤
 
 Ray：上
-うっ・・・❤
+Oogh...❤
 
 Ray：上
-あうぅうう❤❤❤
+Aaahhh....❤❤❤
 
 スナイパー：上
-んふふ。崩れ落ちちゃった。**
-さあ、もうわたしに気持ちよくしてもらうことしか、
-頭にないでしょう？
-いいのよ？来なさい❤
+Ufufu- 
+And just like that, you crumple to the floor-*
+Now there are no thoughts in your head except
+being pleasured by me, isn't that right?
+Let's have some fun- Come over to me-❤
 
 Ray：上
-あへぇ・・・❤
-サキュバス様ぁ・・・・❤
+Aaaah...❤
+Miss Succubus...❤
 
 スナイパー：上
-あらあら・・・。
-剣を捨てて抱き着いたと思ったら、
-「気持ちよくしてください」っておねだりしちゃうの？
-くすくす。無様❤
-そうね。膝を貸してあげるわ。
-魔法で発情したまま、勝手にこすってイケば？
+Ara ara...
+The moment you thought about it, you threw away 
+your weapon begging "Please make me feel good"? 
+(Giggle) How unsightly-❤ Oh well, here. I present
+my leg to you- Perhaps aroused by my sexual magic,
+you can rub against it to make yourself cum?
 
 Ray：上
-はひぃ❤ありがとうございます❤❤**
-あっ、あっ❤太ももがこすれて気持ちいいっ❤**
-ああっ、ダメ、これ止まらないよぉ・・・❤
-
+Yesss-❤ Thank you very much-❤❤**
+Aah, aaah-❤ 
+Rubbing against your thighs feels soo good--❤*
+Aaah, oh noo- I can't stopp...!❤
 スナイパー：上
-ぷぷっ。腰をカクンカクン動かして・・・。
-わたしの体にチンポこすりつけるの、
-そんなに気持ちいいんだ？
-ま、聖剣がなければ人間なんてこんなものよね。**
-わたしたちに心のなかぐちゃぐちゃにされて、
-犬みたいに発情しちゃうのがお似合いな、
-下等な生き物。それが人間なのよ。
-分かった？分かったなら返事。
+Pfft- Your waist is trembling like anything...
+So rubbing your penis against my body really
+feels that good?
+Wow, so without the holy sword,
+this is the kind of human you are?-*
+When we melt your hearts, you all become aroused
+like a dog in heat as if some kind of lower animal-
+Like a human- Yes? Answer me if you agree.
 
 Ray：上
-あひぃっ❤その通りですっ❤
-サキュバス様ぁ❤*
-サキュバス様の脚、
-気持ちいいっ、気持ちいいですっ❤
+Ahieee-❤ Yes, absolutely-❤
+Miss Succubus-❤*
+Miss Succubus's legs feel soo good-
+They're soo good-❤
 
 スナイパー：上
-よく言えました。
-それじゃご褒美に・・・。*
-膝でチンポをグリグリ踏みつぶしてあげる❤
+Well said.
+Hmm, perhaps I should reward you...*
+I'll grind my legs against your penis-❤
 
 Ray：上
-ひあっ❤あっ❤あっ、ああっ❤❤
+Ahiee-❤ Aaah-❤ Aah, aaaaah-❤❤
 
 スナイパー：上
-ほらほらほら！
-こうやって細かく振動させるのがいいんでしょ？*
-男がどこをどうされたらいいかなんて、
-手に取るように分かるのよ。
-アンタたちを射精させるのなんて朝飯前。
-わたしの膝の上でぷるぷるタマをふるわせちゃってさ。
-タマと竿を一緒に刺激されて頭の中真っ白でしょ？*
-サキュバス様には勝てないの。
-分かったら、さっさとわたしの膝でイケ❤
-この雑魚❤
+Hora hora hora!
+It's nice when I vibrate my legs in small 
+movements like this right?
+I know exactly how and where to please a man-
+So making you all cum is just a trivial matter.*
+Your swollen balls quivering from above my legs, as
+the length of your penis is stimulated at the same
+time...It makes your mind go blank doesn't it?
+You can't win against your beloved succubus-
+Once you understand that, you may cum on my legs-❤
+Footsoldier-❤
 
 Ray：上
-あひぃい・・・❤❤
+Ahieiee...❤❤
 
 スナイパー：上
-さて、接近戦なら勝てるなんて考えが、
-どれだけ甘いか分かったかしら？*
-男の体はわたしたちに負けるためにできているのよ？
-ペニスをいじられたら、絶対に勝てないの。
+Now, do you see how naive you were to think you
+could defeat me in close combat?*
+Or perhaps this is what your body wanted from
+the start? Either way, once I start fiddling with
+your penis, winning is impossible-
 
 Ray：上
-あひぃっ・・・❤**
-ううっ・・・。
-くそ・・・、だ、だめだ・・・。
-僕が、僕が頑張らないと・・・・。
+Ahieeee...❤**
+Ooogh...
+Damnit... This, this is bad...
+If, if I don't resist...
 
 スナイパー：上
-あら、少し魔法が解けてきている。
-射精してすっきりしたのかしら？くすくす。*
-でもね。もうアンタはわたしに歯向かえないわ。
-だって、ほら、もう体がうずいてたまらないわよね？*
-魔法なんてなくても、
-一回味わっちゃったら、わたしから離れられないの。
-それが淫魔の快楽❤
-逃げたいなら好きにしなさい。
-でも・・・。*
-おねだりするならまたしてあげるわ。
-どうする？膝でグリグリされたい？
-人間の英雄くん❤
+Ara- My spell weakened a little.
+Perhaps your ejaculation refreshed your mind?
+(Giggle)
+But- It's already too late for you to defy me-
+After all, hora- Your body is already throbbing
+uncontrollably isn't it?
+Even without my magic, once you get a taste of me,
+you'll never part from me again-
+That's the pleasure of a succubus-❤
+Go on, run away if you want to-
+But...*
+If you beg for it we can go again-
+What will you do? Want my legs to grind
+up against you again? Mr. Human Hero?❤
 
 Ray：上
-う、ううっ・・・❤
-また、さっきみたいに気持ちよく・・・・？
+Oh, oooh...❤
+It... it'll feel as good as before...?
 
 スナイパー：上
-そうよ。さっきみたいにわたしの脚にチンポこすりつけて、**
-その上わたしが膝を動かして、
-あんたのチンポを可愛がってあげる。*
-あっという間に射精したあの快感。**
-味わいたいなら、どうすればいいか分かるわよね？
-ふふっ。
+Mmhm- You can rub your penis against my legs
+just as before-*
+And not only that, I'll spoil your penis by
+moving my legs over it too.*
+Pleasure that'll make you cum in the 
+blink of an eye.*
+If you want to taste it...you know what you
+need to do, don't you? 
+Fufu-
 
 Ray：上
-ああっ、お願いしますっ❤サキュバスさまぁ・・・❤
+Aaagh, please-❤ Please Miss Succubus...❤
 
 スナイパー：上
-はい。楽勝❤
-脳みそがあっという間に快感で蕩けちゃった。*
-おいで？
-膝の上でまた可愛がってあげる。*
-そう、そうやってダランとしてなさい。
-ご主人様に身を任せるのよ。*
-脚をグリグリ押し付けて、
-気持ちよく根こそぎ搾ってあげるから！
+There we go- Easy victory-❤
+The pleasure melted your mind rather quickly.*
+Ok, come over here OK?
+I'll caress your penis above my legs again.*
+That's it- Don't think too much about it,
+Just relax- Let your mistress handle the rest.*
+I'll squeeze you completely dry in pure bliss
+as I grind and rub your penis against my legs!
 
 Ray：上
-はひぃ❤あっ❤あっ、ああっ❤
+Yesss...❤ Ahhhh-❤ Aaah, aaaaah-❤
 
 スナイパー：上
-ふふ、わたしの脚一つで、
-人間の尊厳を全部捨てちゃったわね。
+Fufu- Man's dignity, completely abandoned though
+my one leg-
 
 Ray：上
-さっき出したばかりなのにぃ・・・❤
-あっ、あっ、またっ・・・❤耐えられないっ・・・❤
+I just came, but...❤
+Aah, aaah, not again-❤ I can't hold it in...!!❤
 
 スナイパー：上
-いいわよ。出しなさい。
-わたしの脚に全部ぶちまけるの。
-あんたのエナジーわたしが食べてあげる。
+It's OK- Cum-
+Splurt everything onto my leg-
+I'll consume your energy.
 
 スナイパー：上
-うふふ。とても濃いわ。どっぷり出しちゃって。**
-でも、休ませてあげない❤
+Ufufu- It's so thick. You really put out a lot-**
+But- I'm not going to let you rest-❤
 
 Ray：上
-あひぃっ、出したばかりなのに、
-そんなに動かされたらっ❤❤*
-気持ちいいっ❤
-と、とまらなっ❤あああっ！！
+Ahiee, I only just came,
+so if you start moving like that---❤❤*
+Aaaa, it's feels soo good!!❤
+I, I can't sto-❤ Aaaaaahh!!
 
 Ray：上
-サキュバス様ぁ・・・・❤
-もっと、もっとぉ・・・❤
+Miss Succubus...❤
+More... More....❤
 
 スナイパー：上
-くすくす。英雄くんの調教完了♪**
-死ぬ手前で止めてあげたのよ？
-感謝しなさい。*
-あなたにはこれからわたしの犬として、
-一緒に戦ってもらうわ。*
-前衛の戦士がいるほうが狩りは捗るの。
-あなたをわたしの盾にしてあげる。*
-人間同士戦うことになるけれど、
-わたしのために戦えるなら別にいいわよね？
-うふふ♪
+(Giggle) Mr. Hero's training is complete!-♪**
+I stopped just before you were about to die-
+You should thank me.*
+After this I'll keep you as my pet dog, 
+and we'll fight together-*
+I'll hunt down the frontline soldiers,
+and you will be my shield.*
+You'll be fighting against your own kind,
+But as long as you're fighting for me,
+it doesn't matter right? Ufufu♪
 
 テロップ：中央
-僕は彼女にすっかり調教されて、
-彼女にご褒美をもらうために
-人間と敵対するようになった。
-英雄と呼ばれた僕が、
-人間の村を襲い、
-サキュバスを倒そうとする騎士団に剣を向ける日々。
-戦いが終われば、
-ボロボロになった僕を、彼女がひしと抱きしめて、
-そのままご褒美の足コキをしてくれるのだった。
-他の騎士団のメンバーも
-サキュバスたちに手籠めにされて、
-次々と寝返ってしまったらしい。
-僕たちが淫魔軍にとり込まれたことで、
-王国の軍は劣勢に立たされるが、
-もはやそんなことはどうでもよかった。
-こうして裏切り者のペットに堕ちて、
-快楽でいいように道具として使われながら、
-僕らの物語は幕を閉じたのだった。
+After broken down and trained by her "rewards",
+I became an enemy to humankind.*
+Me, who they once called a Hero,
+attacked human villages, and pointed my sword
+against those who opposed the Succubus.
+When a fight ended, 
+she would closely embrace my worn-down body 
+and reward me with her footjobs.
+Even the Knights of Order were raped by succubus,
+and eventually turned to their side one by one.*
+As more of us were recruited into the succubus 
+army, the kingdoms military force diminished,
+and later fell to their mercy.
+Disgraced as traitorous pets, our story ended 
+while being used as tools for pleasure.
 
 <TK384>
 テロップ：中央
-サキュバスの奇襲の前に、
-なすすべなく敗れた主人公は、
-淫魔に連れ去られて、彼女たちの捕虜となっていた。
+After the succubus' surprise attack,
+our defeated protagonist was captured 
+by succubus and became their prisoner...
 
 Drain Imp：上
-お、目を覚ましましたですか？
+Oh...have you woken up?
 
 Ray：上
-ううっ・・・。ここは・・・。
+Oogh... Where, where am I...?
 
 Drain Imp：上
-英雄さんはわたしたちにボロボロに負けて、
-捕まっちゃったのです。
-ここは王都から遠いところにある地下牢なのです。
-わたしにレベルをびゅーびゅーって吐き出したの
-覚えてないです？
+You collapsed when you were defeated by us,
+so we captured you. This is a dungeon 
+far...far away from the Royal Capital.
+Don't you remember going "pew pew pew" as you
+squirted out all your levels for me?
 
 Ray：上
-くっ・・・❤
+Ooogh......❤
 
 Drain Imp：上
-あは、思い出してお顔が真っ赤です。
-こんな小さな女の子に負けて悔しかったです？*
-身長差がこんなにあるのに、
-わたしにエッチに責められて、
-なすすべもなく、力をびゅーびゅー吐き出して・・・❤
-とっても可愛らしかったですよ❤
-お兄さん。くすくす❤*
-んー？そんなに柵を握りしめて・・・。
-牢屋から出してほしいですか？*
-・・・・。
-いいですよ❤
-はい。
+Aha- Your face just went all red-
+Was it embarrassing losing to such a small girl?*
+Being sexually teased by me...despite our height 
+differences...Unable to resist squirting out 
+your strength going pew...-- pew...--❤
+What you did back there meant so much to me 
+big brother-❤ Teehee-❤*
+Huh-?
+You're grasping at the prison bars pretty hard...
+Do you want to come out of the cell?
+...
+Okay then-❤
+Here-
 
 Ray：上
-なっ・・・！
+Wha...!
 
 Drain Imp：上
-驚いたです？
-どうして解放されたんだろうって思いましたか？*
-それは、牢屋から出ても、
-お兄さんは「解放」されないからですよ。
-くすくす❤
+Surprised?
+Were you wondering why I released you?*
+Well, just because you're out of the prison
+doesn't mean I'm [setting you free] big brother-
+Teehee-❤
 
 Drain Imp：上
-どういうことか教えてあげますね。
-えい・・・❤パクン❤
+I'm here to teach you some things OK?-
+Eei....❤ Omm-❤
 
 Ray：上
-はひぃっ❤やめろ、ああっ、舌が・・・❤
+Ahieee-❤ Stop! Ahhh, you're tongue is...❤
 
 Drain Imp：上
-男の子の弱点、お口でくわえたです❤**
-舌でカリ首さんをちろちろしただけなのに、
-たまらなさそうな顔しちゃって。くすくす❤*
-それじゃあ、まずは残ったレベルを
-全部ちゅーちゅーしてあげます❤*
-とっても気持ちいいですけど、暴れちゃダメですよ？
-ほら、ちゅー❤ちゅー・・・❤
+...is holding your weak point in my mouth-❤**
+Even though I'm just flicking my tongue 
+over the head of your penis, your expression 
+tells me you can't resist at all- Teehee-❤
+Now then- First I'll slurrurp out all your
+remaining levels-❤*
+It'll feel really, really good, so don't
+thrash about OK? 
+Hora- Slrururup-...❤ Splurururp-...❤
 
 Ray：上
-はうぅ・・・❤❤❤
+ooogh...❤❤❤
 
 Drain Imp：上
-んふふ。
-お口で吸われると、
-気持ちよすぎて腰砕けになるです。
-みんなそうなんですよ？
-ロリコンさんじゃなくても、
-お口が気持ちよすぎてすぐメロメロです❤
-ほら、ちゅーちゅー❤
+Ufufu-
+When I suck on you with my mouth,
+it feels so good, your waist is buckling-
+You're just like everyone else aren't you?
+Even if you're not a lolicon, my mouth feels
+so good, you become infatuated instantly-❤  
+Hora- Mmwah- Slurururp-❤
 
 Ray：上
-はひぃ・・・❤❤吸われるぅ・・・❤
+Ahieee--❤❤ I'm being sucked...❤
 
 Drain Imp：上
-力と一緒に精液も昇ってきたです❤
-そのままお口の中に出したいですか？*
-今は戦闘中じゃないのです。
-だから我慢しないでいいのですよ。*
-ほら、強く吸いますよ？ちゅーーーー❤
+All your semen and power is welling up from within 
+your penis-❤ You want to splurt it all inside
+my mouth don't you?
+We're not in the middle of a fight right now-
+So don't hold hold back, it's OK-*
+Hora- 
+I'll increase the suction OK? 
+Slurururrurppp...❤
 
 Ray：上
-あひぃい・・・❤❤
+AHHhiieeEeeEee...❤❤
 
 Drain Imp：上
-んっ、ごく❤**
-くすくす❤白いおもらし上手にできたですね❤
-これでお兄さんの力は空っぽです❤
+MMmmph-❤ (Gulp)**
+Fufu-❤ That was great milky semen-❤
+With this, big brother's strength is no more-❤
 
 Drain Imp：上
-さて、レベルが１になっちゃったお兄さんには、
-これから外で魔物と戦ってほしいのです。*
-そしてレベルをたくさんあげて、
-また貢いでほしいのですよ❤*
-え？帰ってこなかったらどうするのかって？**
-くすくす・・・。分かってるくせに。
-お兄さん、わたしのところに帰ってこないなんて
-本当にできるのですか？
-おちんちんがわたしのフェラの味、
-もうすっかり覚えちゃったですよね？*
-レベルを溜めている間、
-どんどんおちんちんがうずいてくるです。
-そして我慢できなくなってここに戻ってくるのです。
-ほかのみんなもそうなんですよ？
-ここに捕まったら、
-牢屋から出ても一生”解放”されないのです❤
-今、レベル吸いたてですから、
-特に力が強くなっているのです。*
-この状態でとびっきりのフェラをしてあげて、
-せんべつにしてあげますね❤*
-ちゅー・・・❤
+Now after this, I want my level 1 big brother
+to go out and defeat some monsters-*
+Then get lots of levels so you can give them
+all to me-❤*
+Eh? If I did that, you'd never come back?**
+Teehee... I know that-
+But are you absolutely sure you can leave 
+me big brother?
+Your penis has already memorized the taste
+of my fellatio hasn't it?*
+With every level you gain, your penis will
+start to ache and throb... Eventually, you'll
+be unable to resist and come back to me-
+Everyone else does the same thing you know-
+This jail only exists for us to "release" 
+our prisoners from here-❤
+Now, gain some levels, and get really strong 
+for me-*
+Then, I'll give you my extraordinary fellatio-
+Here's a reminder-❤*
+Slurp--...❤
 
 Ray：上
-あひぃっ❤あっ、そんな激しくっ❤❤**
-なにこれぇ、腰がぬけるっ❤
-あああっ・・・・❤❤
+Ahiee-❤ Aah, it's so strong...!--❤❤**
+What is...my waist is melting!!❤
+Aaaaahhhh....❤❤
 
 Ray：上
-おうふっ、止まらないっ❤❤
-やめてっ、おかしくなるからっ❤あひぃ❤❤
+Oowaah, I can't stopp...❤❤
+Stop-- I'm feeling strange...❤ Ahieeee-❤❤
 
 Drain Imp：上
-ダメです。やめません。
-ちゅー・・・❤
+Nope- I'm not gonna stop-
+Suuuuckkkk---....❤
 
 Drain Imp：上
-くすくす。へたりこんじゃいましたね。
-わたしのお口、最高でしたか？*
-しばらくそのままボーっとしてていいですよ？
-レベルがたまったらまたわたしのところに来るといいです。*
-そのときは、ご褒美に、
-いっぱいちゅーちゅー吸ってあげるのです❤
-くすくす❤
+(Giggle) You crumpled to the floor-
+My mouth is the best isn't it?*
+It's OK to do nothing for a bit right?-
+When you get some levels, come and see me again-*
+Then, I'll give you a reward
+by slurping and sucking on your penis lots-❤
+Teehee-❤
 
 テロップ：中央
-彼女のフェラで心の底までメロメロにされた僕は、
-彼女にレベルを貢ぐことに、
-すっかりやみつきになってしまった。
-外に出てレベルを上げても、
-人間たちの国に戻ることはなく、*
-律儀にご主人様のもとへ戻ってきては、
-レベルが空っぽになるまで根こそぎ
-フェラで吸ってもらうのであった。
-彼女から聞いた話だと、僕だけではなく他の仲間たちも
-ここから近い場所に捕らえられており、*
-外に解放されては、
-レベルを捧げに戻ってくる生活を送っているのだという。*
-サキュバスに力を分け与え、
-人間の王国に害となっていることは明らかだったが、*
-この幸せな日々にどっぷりと浸かり、
-従順なペットになった僕らは
-抵抗することなど思い浮かべもしなかった。
-こうして僕たちは
-サキュバス軍の戦力を底上げするレベルタンクに堕ちて
-その物語の幕を閉じたのだった。
+My heart and mind seduced by the girl's fellatio,
+I became addicted to tributing her with my levels.*
+Despite going out and gaining levels,
+I never made it back to the human capital.*
+I faithfully returned to her, and she sucked me
+rapidly with her deep fellatio until there was
+nothing left.
+According to her, it wasn't just me they captured
+around here, but my other companions as well.*
+Being released to the outside world only meant
+working to raise our levels before returning.*
+With our power being distributed to the succubus
+army, the human kingdom's fate was clear.*
+Addicted to our lives of perpetual happiness,
+we became their obedient pets, and the thought
+of resisting never even came to mind.
+And so, our stories ended. Degraded into level 
+tanks to increase the Succubus' military force.
 
 <TK385>
 テロップ：中央
-サキュバスの奇襲の前に、
-なすすべなく敗れた主人公は、
-淫魔に連れ去られて、捕虜となっていた。
+After the succubus' surprise attack,
+our defeated protagonist was captured 
+by succubus and became their prisoner...
 
 Ray：上
-うぐっ・・・・・。
+Ugh....
 
 Drain Imp：上
-おはようなのです。
-英雄のお兄さん、よく眠れましたか？*
-ん？ここはどこかって？
-ここは経験値タンクの男の人を捕まえておく、
-収容所なのです。
-人間の王国からは遠いところにあって、
-外には魔物がうようよいるのですよ。*
-お兄さんたちには、
-お外でレベルをあげてもらって、
-わたしたちにレベルを貢いでもらうのです。
-え？嫌ですか？
-ぷぷっ・・・。くすくす❤*
-何がおかしいかって？
-だってお兄さん、
-わたしに逆らえると思っているんですもん。
-それがとってもおかしいです。
-こんな小さな体してても、
-お兄さんたちからたっぷりレベルもらっちゃいましたから、
-今のわたしとっても強いんですよ？
-ほら・・・。
+Oh- Good morning...!
+Did you sleep well big brother?*
+Hmm? Where are we?
+This is our detention facility where we keep
+men as our exp level tanks.
+A place far, far away from the human capital,
+swarming with monsters on the outside.*
+You can level up outside, and then give all
+those levels back to us big brother-*
+Eh? You won't...?
+Pfft.... Teeheehee-❤*
+"What's so funny?" You say?
+My big brother thinks he 
+can disobey me- It's funny-
+Despite my small body, I've already drained lots
+of levels from others just like you-
+So I must be really strong now right?
+Hora...
 
 Drain Imp：上
-んふふ。わたしに押さえつけられて、
-跳ねのけられませんね。
-こんな小さい子に力で負けちゃうんですか？くすくす❤
-でもでも、力でいたぶるのは趣味じゃないのです。
-だから、サキュバスらしく快楽で虜にしてあげます。*
-こうやって足で踏んで・・・❤
+Ufufu- When I hold you down, you can't push me
+off- You're not weaker than a little girl 
+like me are you? Teehee-❤
+Oh! And I don't like hurting people physically,
+so I'll turn you into our slave with my succubus
+pleasure powers-
+By stepping on you with my feet like this...
 
 Drain Imp：上
-あは❤踏みつけたとたん、
-体がビクンビクンて跳ねたです❤*
-圧倒的なレベル差のサキュバスに踏まれると、
-電気が流れるみたいに、
-ビリビリって気持ちよくなっちゃうのです。
-そしてちょっと足の指を動かせば・・・。**
-「あひぃ❤」って情けない声をあげて、
-どぴゅどぴゅっお漏らししちゃうのですよ❤
+Aha-❤ The moment I stepped on you,
+your body jumped up and down-❤*
+When a succubus with such a huge difference in
+levels steps on someone, pleasure shoots through 
+them like jolts of electricity-
+And then, with just a little wriggle of my toes...**
+They moan pathetically going "Ahieee-❤"
+and start peeing white, creamy fluid-❤
 
 Drain Imp：上
-くすくす❤
-小娘の足裏に速攻で負けちゃいましたね❤*
-どうです？
-足指を曲げただけで、射精させられちゃった気分は。*
-悔しいです？みっともなくてみじめです？
-それとも・・・。*
-とっても気持ちよかったですか？
-くすくす・・・❤*
-もしレベルを貢いでくれれば、
-もっともっと気持ちよくしてあげるのです。
+Teehee-❤
+You've just been instantly defeated by the sole of
+a little girl's foot-❤
+How did it feel? The feeling of being made to 
+ejaculate from just the curl of my toes...*
+Frustration? Humiliation?
+Or maybe...*
+It just felt really good?
+Teehee...❤*
+If you tribute me with levels,
+I'll make you feel even more, and more pleasure-
 
 Drain Imp：上
-例えば、
-こんな風に足を円を描くみたいに動かしたり・・・❤*
-かかとでグリグリぃって踏んであげたり、
-いっぱいしてあげるです❤*
-んふふ。触れるか触れないかの距離で、
-足をこんな風に動かされたら、
-興奮でおかしくなっちゃいますか？
-少しだけご褒美を前払いしてあげますね。
-ほら、足でグリグリ・・・❤*
-あは❤すっごく間抜けなとろけ顔です❤
-それじゃ、レベル差圧倒的なわたしのテクで、
-さっさと果てるのです。雑魚のお兄さん❤
+For example, we'll do lots of things together-
+Like moving my feet in small circles like this...❤*
+Or grinding your penis with the heel of my foot...❤**
+Ufufu- Regardless of whether you're within touching
+distance or not, the moment I start moving my feet
+like this, you end up hopelessly aroused don't you?
+Here's an advance payment as a little reward OK?
+Hora- I'll give you a sque-eeze with my feet...❤*
+Aha-❤ What an amazing, idiotic face-❤
+Ok- With our difference in levels, and my overwhelming 
+techniques, finish at once- Silly big brother-❤
 
 Drain Imp：上
-んふふ。気絶しちゃいましたか？
-強すぎるのも不便なのです。*
-雑魚のお兄さんに合わせて
-手加減も覚えないとだめですね。*
-ま、踏まれただけで出しちゃう人に、
-手加減なんて無理かもしれませんけど。
-くすくす・・・❤
+Ufufu- Did you faint?
+I guess I'm too strong for you...*
+It would be bad if I forgot to hold back
+when it comes to my weak little brother huh?*
+Although, when it comes to someone who cums from
+just being stepped on, that might be a hard
+task to pull off... Teehee...❤
 
 テロップ：中央
-彼女の足コキで心の底までメロメロにされた主人公は
-すっかり彼女の貢ぎ奴隷になってしまった。*
-外に出てレベルを上げても、
-人間たちの国に戻ることはなく、*
-律儀にご主人様のもとへ戻ってきては、
-レベルが空っぽになるまで根こそぎ
-足コキで吸ってもらうのだった。
-主人公だけではなく他の男たちも
-同じ場所に捕らえられており、
-外に解放されてはここに戻ってくる生活を送っていた。
-ドレイン能力のあるサキュバスに利用され、
-人間の王国に害となっていることは明らかだったが、*
-この幸せな日々にどっぷりと浸かり、
-従順なペットになった彼らは
-抵抗することなど思い浮かべもしなかった。
-こうして主人公たちは
-サキュバス軍の戦力を底上げするレベルタンクとして
-その人生を終えたのだった。
+Teased by the girl's feet until I was hopelessly 
+in love with her footjob, I became her 
+semen tank slave.
+Despite going out and gaining levels,
+I never made it back to the human capital.*
+I faithfully returned to her, and she drained me
+rapidly with her footjob techniques until there
+was nothing left.
+It wasn't just me they captured around here, 
+but my other companions as well, who also 
+returned to the prison after being released.
+With our power being distributed to the succubus
+army, the human kingdom's fate was clear.*
+Addicted to our lives of perpetual happiness,
+we became their obedient pets, and the thought
+of resisting never even came to mind.
+And so, our stories ended. Degraded into level 
+tanks to increase the Succubus' military force.
 
 <TK396>
 テロップ：中央
-サキュバスの奇襲の前に、
-なすすべなく敗れた主人公たちは、
-淫魔に搾精されもてあそばれていた。
-あちこちで団員たちの嬌声があがるなか、
-主人公もヒーラーの淫魔に襲われていた。
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as even the hero was attacked by one of
+the succubus healers...
 
 おっぱいヒーラー：上
-えー❤
-まさかわたしたちのおっぱいダンスで負けちゃうなんて。
-びっくり❤
-あれ、ただの妨害なんだよ？
-前衛が頑張っているときに、
-後ろからかき回すだけのただの”妨害”。
-それに負けちゃって、触ってもいないのに
-勝手に精液まき散らすんだもん。恥ずかしいね❤
-くすくす❤
+Whoa--❤
+I never thought you'd lose to the dance of my
+bouncing breasts. You really surprised me-❤
+They were supposed to be just a distraction,
+a "distraction" to obstruct the resistance of
+your front-lines from behind.
+But then you gave in and suddenly spewed out 
+semen on your own without being touched- 
+How embarrassing-❤ Teehee-❤
 
 おっぱいヒーラー：上
-わたしたち、
-人間だったころはまじめだったから、
-おっぱい大きいのとか嫌だったの。
-すぐ性的な目で見られるし、
-面倒くさいことの方が多かった。でも、今は違う。
-サキュバスになってからこんなに楽しい♪
-男の人をおっぱいでメロメロにしてぇ、
-はぁはぁさせるのが大好き❤
-うふふ。
+As humans, we were honestly disgusted by 
+our gigantic breasts.*
+We were often preyed on by the prying eyes
+of men... Our lives were terrible...
+But now, things are different.
+After becoming succubus, we couldn't be happier-
+Making men moan and gasp as they fall helplessly
+in love with our breasts is the best!- Ufufu-❤
 
 おっぱいヒーラー：上
-英雄くんはこれまで人間のために
-頑張って来たんでしょ？
-よく頑張ったね❤ご褒美にパイズリしてあげる。
-ただのパイズリじゃないよ？
-わたしたち二人がかりのWパイズリ❤
+You've done your best up until this point for
+the human race haven't you Mr. Hero?*
+Well done, well done-❤ As a reward, I'll give 
+you a paizuri- But not just any paizuri-
+A two person double paizuri-❤
 
 おっぱいヒーラー：上
-おっぱいダンスと違ってぇ、
-直接おちんちんをこのおっぱいでいじめちゃうの。*
-これされちゃうと、
-筋肉ムキムキの強い戦士さんでも、
-すぐにメロメロになって、びゅーって出しちゃうんだよ❤
+Instead of dancing our breasts in front of your 
+face, this time we'll be using out breasts to
+tease your penis directly.
+When we end up doing this, even big, burley
+muscle men soldiers end up falling madly in
+love with us and gush out all their semen-❤
 
 おっぱいヒーラー：上
-あは。今の聞いただけでビンビンじゃない❤**
-わたしたち二人のおっぱいで
-気持ちいいことしてもらいたいんだぁー❤*
-まだ頑張れば、周りの仲間たちを助けられるかもよ？
-いいの？いいの？
+Aha- You're quivering just from listening to us-❤**
+So you want us to do pleasant things to your penis
+with our two pairs of breasts--❤*
+If you still manage to hold out, you might be able
+to help your allies around you though-
+Is it really OK? Should you do it?
 
 おっぱいヒーラー：上
-ほらほら、二人のおっぱいがどんどん近づいてくるよ？
-このままじゃ挟まれちゃう。*
-あと少しで、ばちゅんって飲み込まれちゃう。
-あ、あ、もう挟まれる・・・。
+Hora hora- 
+Our two pairs of breasts are slowly getting closer...?
+If you don't do anything, your penis will get caught-
+In a moment, you'll get swallowed up in one gulp-
+Gu-, gu-, gu-lp...!
 
 おっぱいヒーラー：上
-はい❤
-ぱっくん❤
+All done-❤
+Gu-lp-❤
 
 Ray：上
-はひっ、あああっ❤**
-こ、こんな全部包まれて・・・❤
-すごい・・・❤と、とけるぅ・・・❤
+Ahiee, ooogh...❤**
+When, when they wrap around me like that...❤
+Amazing...❤ I, I'm melting...❤
 
 おっぱいヒーラー：上
-あはは❤腰ぴくぴくさせることしかできなかったね。
-もう少し抵抗して見せたら？英雄さん。
-くすくす・・・❤
-ま、いいか。
-すぐに終わらせちゃおう。*
-おっぱいを勢いよく二人でズリズリすれば、
-どんな男もすぐドピュって負けちゃうから、
-覚悟してね❤
-いくよ・・・❤
-えい！
+Ahaha-❤ You can't stop your hips from buckling 
+can you? Come on, you can show us a little more
+resistance than that, Mr. Hero-❤ (Giggle)
+Although...
+It'll all be over soon.*
+Once our soft breasts start rubbing any man's 
+penis, they all give in and start squirting all 
+the same- Prepare yourself-❤
+Here we go...!❤
+Eei!
 
 Ray：上
-あひぃっ❤
-あっ、あっ、そんあに動かしたら・・・❤*
-あへぇあ❤こすれて、気持ちいいっ❤
-あひい❤
+Ahieeeee!!❤
+Aah, aah, su, such movements...❤*
+Ahiaaaaaah!❤ Being rubbed feels soo gooddd--❤
+Aieeeee-❤
 
 おっぱいヒーラー：上
-わたしもえい❤
-手のひらでぎゅーっと押さえつけて、ズリズリ―❤*
-ああん。悶えちゃってすごーい❤
-腰もビクンビクンさせちゃってさ。*
-気持ちよすぎて叫び声まであげているわ。
-他の仲間もいるのにみっともなくないの？
-くすくす❤
-あ、そんなこと、もう考えられないか。
-二人のおっぱいに飲み込まれるのすっごいもんね。*
-おちんちんが全部おっぱいに包まれて、
-脳みそドロドロに溶けちゃいそうな気持ちよさ。
-これされたら仲間のことなんて、わかんないよね。
-手加減しないと、すぐに壊れちゃうかも。
-おっぱいのことしか考えられない、
-廃人になっちゃうかも・・・。
+And don't forget me-❤
+I'll squeeze my breasts together with the palms of my 
+hands and...! Rub rub-rub rub rub!❤
+Aaahn- You're really struggling-❤
+Even your waist is throbbing and pulsating-*
+It feels so good, you wanna scream right? Even
+though all your companions can hear you right?
+Teehee-❤
+Ahh- You can't think of those things any longer 
+can you? Only the soft ocean of our breasts
+swirling around your penis-
+Think about the mind melting pleasure from having
+the entire length of your penis wrapped in our 
+breasts- Right now, your companions are nothing-
+When we aren't going easy on someone, they
+break instantly. A mentally disabled person who
+can't think of anything except breasts...
 
 おっぱいヒーラー：上
-ほらほら❤手加減なんてするわけないじゃん。
-たぱんたぱんってたたきつけて、すぐにイカせてあげる。*
-人間だった頃は人をいやすのが仕事だったのにね。
-それが今じゃ、おっぱいでキミのこと、
-ボロボロにしちゃってる。
-ああ、楽しいなぁ❤
-欲望に素直になって、
-おっぱいで男の人をメロメロのぐちゃぐちゃにして・・・❤
-くす。おちんちんから我慢汁がすごい出ているよ。
-わたしたちに容赦なくパイズリされてやばい？
-亀頭も竿もおっぱいに飲み込まれてとろけちゃいそう？
-なら、さっさととろけなさい。
-もう英雄くんは負けたの。
-これ以上の抵抗は無駄❤
-パイズリに負けて、射精しちゃえ❤
-むぎゅって圧をかけながら、えいえいえいー❤
+Hora hora-❤ And we don't have any reason to go 
+easy on you do we? We'll make you cum instantly
+as our bouncy breasts slap against your penis-
+During our time as humans we would have healed 
+you- But now we're going to break you with
+our breasts!
+Aah, soo much bliss-❤
+Be honest with your desires, fall in love with
+the heavy pull of our breasts...❤
+Kuhu- Your penis is already leaking amazing 
+amounts of precum- Being massaged by our merciless
+paizuri is the ultimate pleasure isn't it?
+The tip... The base... It's as if your entire 
+penis is melting and being swallowed up in 
+breasts right?
+Please, go ahead and melt-
+Mr. Hero already lost a long time ago-
+Resisting anymore is pointless-❤
+Surrender to our paizuri, and cum-❤
+Cum while we squeeze our breasts together-
+Eei, Eei, Eeei!!❤
 
 Ray：上
-はひぃっ、あっ、だめっ❤
-こんなの無理ぃっ❤❤あがぁっ❤
+Ahiee, aah ahhh, noooo!❤
+It's too much...!❤❤ Aaaaaghhh!!!❤
 
 おっぱいヒーラー：上
-あは❤たくさん出た❤
-ビクンビクンっておっぱいの中で跳ねている❤*
-でも、おっぱいから精液飛び出さないね。
-わたしたちのおっぱいが大きすぎて、
-精液が谷間の中に閉じ込められちゃってる。
-元人間のよしみで許さないのかなって？
-くすくす❤甘いなあ。そんなの関係あるわけないじゃん。*
-搾りつくすまでやめないよ。
-こんなおいしいエナジー、全部飲まなきゃもったいない。*
-乳圧をどんどんかけてあげる。
-おちんちんが、柔らかいお肉に
-押しつぶされちゃうぐらいにぎゅーって❤
-ほら・・・・。ぎゅー・・・❤
-そしてこの状態で思いっきりズリズリ❤
+Aha-❤ You came bucketloads-❤
+I can feel it sloshing around between our breasts-❤*
+But, your semen never made it out of our breasts 
+did it? Out breasts were so big, all your semen
+ended up getting trapped inside our cleavage-
+You didn't think we'd let you off the hook 
+since we were once humans did you? 
+Teehee-❤ That's sweet-
+We have no intention of doing anything of the
+sort- We won't stop until you've been completely 
+squeezed. 
+It'd be a shame to let all this delicious energy 
+go to waste, so I'll make the pressure around my
+breasts tighter.
+I'll squeeze until the soft flesh of my breasts 
+crushes your penis-❤ Hora- Squeeze...❤
+Then like that, I'll rub you as hard as I can!❤
 
 Ray：上
-あぐぅっ❤あっ❤
-おっぱいが、ああっ❤*
-すご、すごいっ❤はひぃ、気持ちいいよぉ❤
-我慢なんて・・・❤❤あうぅっ❤
+Aughhh!!❤ Aahh-❤
+Breasts... Aaahh-❤*
+A, a, amazing...❤ Ahhuugh, so goodd...❤
+My resistance...❤❤ Aaaoggghhh...❤
 
 おっぱいヒーラー：上
-あっという間に弾切れになっちゃった❤**
-ダブルおっぱいにすぐ負けちゃったね❤
-くすくす・・・❤
+(Giggle) You snapped faster than expected-**
+Our double paizuri defeated you instantly...❤
+Teehee...❤
 
 おっぱいヒーラー：上
-ああん❤エナジーがおいしい❤**
-他の団員さんもわたしたちのおっぱいで、
-気持ちよくしてあげよう。
-まだまだたくさんいるから、今夜はごちそうだね。
+Aahnn-❤ Such delicious energy-❤**
+Let's make the other soldiers feel good with
+our breasts too- With the amount of men here,
+we'll be able to feast until evening-
 
 おっぱいヒーラー：上
-うふふ・・・❤
-男ってほんとおっぱいに弱い生き物❤
+Ufufu...❤
+When it comes to big breasts, men are just weak,
+pathetic creatures-❤
 
 テロップ：中央
-二人組の巨乳のヒーラーにパイズリで吸いつくされて、
-主人公は力尽きてしまった。*
-他の団員達も、
-その暴力的な快楽の前になすすべがなく、
-次々と搾りつくされていき、
-翌朝には干からびた男たちが、
-崖の間に無残に横たわり、
-凄惨な光景を作り出していた。
-こうして淫魔の誘惑に負けた主人公たちは、
-元人間の淫魔にエナジーを吸いつくされ、
-その物語の幕を閉じたのであった。
+The hero lost all his power,
+drained by the two healer's ginormous breasts.*
+The others, unable to resist their breasts'
+terrifyingly sexual pleasure, were tragically
+squeezed one after the other.
+The next morning, the only thing that remained
+of them was the ghastly mountains of withered
+men piled between the cliffs.
+And so the story of the heroes who yielded to
+succubus temptation ended, having their energy
+squeezed dry by once human succubus.
 
 <TK395>
 テロップ：中央
-援軍が到着したにも関わらず、
-胸の大きなヒーラーに敗れてしまった主人公たちは、
-淫魔に搾精されもてあそばれていた。
+Despite the arrival of reinforcements, our heroes 
+were ultimately defeated by the succubus healers'
+huge breasts, and were played with and squeezed...
 
 おっぱいヒーラー：上
-えー❤
-まさかわたしたちのおっぱいダンスで負けちゃうなんて。
-びっくり❤
-あれ、ただの妨害なんだよ？
-前衛が頑張っているときに、
-後ろからかき回すだけのただの”妨害”。
-それに負けちゃって、触ってもいないのに
-勝手に精液まき散らすんだもん。恥ずかしいね❤
-くすくす❤
+I never thought you'd lose to the dance of my
+bouncing breasts. You really surprised me-❤
+They were supposed to be just a distraction,
+a "distraction" to obstruct the resistance of
+your front-lines from behind.
+But then you gave in and suddenly spewed out 
+semen on your own without being touched- 
+How embarrassing-❤ Teehee-❤
 
 おっぱいヒーラー：上
-わたしたち、
-人間だったころはまじめだったから、
-おっぱい大きいのとか嫌だったの。
-すぐ性的な目で見られるし、
-面倒くさいことの方が多かった。でも、今は違う。
-サキュバスになってからこんなに楽しい♪
-男の人をおっぱいでメロメロにしてぇ、
-はぁはぁさせるのが大好き❤
-うふふ。
+As humans, we were honestly disgusted by 
+our gigantic breasts.*
+We were often preyed on by the prying eyes
+of men... Our lives were terrible...
+But now, things are different.
+After becoming a succubus, I couldn't be happier-
+Making men moan and gasp as they fall helplessly
+in love with my breasts is the best!- Ufufu-❤
 
 おっぱいヒーラー：上
-英雄くんはこれまで人間のために
-頑張って来たんでしょ？
-よく頑張ったね❤ご褒美にパイズリしてあげる。
-ただのパイズリじゃないよ？
-わたしたち二人がかりのWパイズリ❤
+You've done your best up until this point for
+the human race haven't you Mr. Hero?*
+Well done, well done-❤ As a reward, I'll give 
+you a paizuri- But not just any paizuri-
+A two person double paizuri-❤
 
 おっぱいヒーラー：上
-おっぱいダンスと違ってぇ、
-直接おちんちんをこのおっぱいでいじめちゃうの。*
-これされちゃうと、
-筋肉ムキムキの強い戦士さんでも、
-すぐにメロメロになって、びゅーって出しちゃうんだよ❤
+Instead of dancing our breasts in front of your 
+face, this time we'll be using out breasts to
+tease your penis directly.
+When we end up doing this, even big, burley
+muscle men soldiers end up falling madly in
+love with us and gush out all their semen-❤
 
 おっぱいヒーラー：上
-あは。今の聞いただけでビンビンじゃない❤**
-わたしたち二人のおっぱいで
-気持ちいいことしてもらいたいんだぁー❤*
-まだ頑張れば、周りの仲間たちを助けられるかもよ？
-いいの？いいの？
+Aha- You're quivering just from listening to us-❤**
+So you want us to do pleasant things to your penis
+with our two pairs of breasts--❤*
+If you still manage to hold out, you might be able
+to help your allies around you though-
+Is it really OK? Should you do it?
 
 おっぱいヒーラー：上
-ほらほら、二人のおっぱいがどんどん近づいてくるよ？
-このままじゃ挟まれちゃう。*
-あと少しで、ばちゅんって飲み込まれちゃう。
-あ、あ、もう挟まれる・・・。
+Hora hora- 
+Our two pairs of breasts are slowly getting closer...?
+If you don't do anything, your penis will get caught-
+In a moment, you'll get swallowed up in one gulp-
+Gu-, gu-, gu-lp...!
 
 おっぱいヒーラー：上
-はい❤
-ぱっくん❤
+All done-❤
+Gu-lp-❤
 
 Ray：上
-はひっ、あああっ❤**
-こ、こんな全部包まれて・・・❤
-すごい・・・❤と、とけるぅ・・・❤
+Ahiee, ooogh...❤**
+When, when they wrap around me like that...❤
+Amazing...❤ I, I'm melting...❤
 
 おっぱいヒーラー：上
-あはは❤腰ぴくぴくさせることしかできなかったね。
-もう少し抵抗して見せたら？英雄さん。
-くすくす・・・❤
-ま、いいか。
-すぐに終わらせちゃおう。*
-おっぱいを勢いよく二人でズリズリすれば、
-どんな男もすぐドピュって負けちゃうから、
-覚悟してね❤
-いくよ・・・❤
-えい！
+Ahaha-❤ You can't stop your hips from buckling 
+can you? Come on, you can show us a little more
+resistance than that, Mr. Hero-❤ (Giggle)
+Although...
+It'll all be over soon.*
+Once our soft breasts start rubbing any man's 
+penis, they all give in and start squirting all 
+the same- Prepare yourself-❤
+Here we go...!❤
+Eei!
 
 Ray：上
-あひぃっ❤
-あっ、あっ、そんあに動かしたら・・・❤*
-あへぇあ❤こすれて、気持ちいいっ❤
-あひい❤
+Ahieeeee!!❤
+Aah, aah, su, such movements...❤*
+Ahiaaaaaah!❤ Being rubbed feels soo gooddd--❤
+Aieeeee-❤
 
 おっぱいヒーラー：上
-わたしもえい❤
-手のひらでぎゅーっと押さえつけて、ズリズリ―❤*
-ああん。悶えちゃってすごーい❤
-腰もビクンビクンさせちゃってさ。*
-気持ちよすぎて叫び声まであげているわ。
-他の仲間もいるのにみっともなくないの？
-くすくす❤
-あ、そんなこと、もう考えられないか。
-二人のおっぱいに飲み込まれるのすっごいもんね。*
-おちんちんが全部おっぱいに包まれて、
-脳みそドロドロに溶けちゃいそうな気持ちよさ。
-これされたら仲間のことなんて、わかんないよね。
-手加減しないと、すぐに壊れちゃうかも。
-おっぱいのことしか考えられない、
-廃人になっちゃうかも・・・。
+And don't forget me-❤
+I'll squeeze my breasts together with the palms of my 
+hands and...! Rub rub rub rub rub!❤
+Aaahn- You're really struggling-❤
+Even your waist is throbbing and pulsating-*
+It feels so good, you wanna scream right? Even
+though all your companions can hear you right?
+Teehee-❤
+Ah, you can't think of those things any longer 
+can you? Only the soft ocean of our breasts
+swirling around your penis-
+Think about the mind melting pleasure from having
+the entire length of your penis wrapped in our 
+breasts- Right now, your companions are nothing-
+When we aren't going easy on someone, they
+break instantly. A mentally disabled person who
+can't think of anything except breasts...
 
 おっぱいヒーラー：上
-ほらほら❤手加減なんてするわけないじゃん。
-たぱんたぱんってたたきつけて、すぐにイカせてあげる。*
-人間だった頃は人をいやすのが仕事だったのにね。
-それが今じゃ、おっぱいでキミのこと、
-ボロボロにしちゃってる。
-ああ、楽しいなぁ❤
-欲望に素直になって、
-おっぱいで男の人をメロメロのぐちゃぐちゃにして・・・❤
-くす。おちんちんから我慢汁がすごい出ているよ。
-わたしたちに容赦なくパイズリされてやばい？
-亀頭も竿もおっぱいに飲み込まれてとろけちゃいそう？
-なら、さっさととろけなさい。
-もう英雄くんは負けたの。
-これ以上の抵抗は無駄❤
-パイズリに負けて、射精しちゃえ❤
-むぎゅって圧をかけながら、えいえいえいー❤
+Hora hora-❤ And we don't have any reason to go 
+easy on you do we? We'll make you cum instantly
+as our bouncy breasts slap against your penis-
+During our time as humans we would have healed 
+you- But now we're going to break you with
+our breasts!
+Aah, soo much bliss-❤
+Be honest with your desires, fall in love with
+the heavy pull of our breasts...❤
+Kuhu- Your penis is already leaking amazing 
+amounts of precum- Being massaged by our merciless
+paizuri is the ultimate pleasure isn't it?
+The tip... The base... It's as if your entire 
+penis is melting and being swallowed up in 
+breasts right?
+Please, go ahead and melt-
+Mr. Hero has already lost a long time ago-
+Resisting anymore is pointless-❤
+Surrender to our paizuri, and cum-❤
+Cum while we squeeze our breasts together-
+Eei, Eei, Eeei!!❤
 
 Ray：上
-はひぃっ、あっ、だめっ❤
-こんなの無理ぃっ❤❤あがぁっ❤
+Ahiee, aah ahhh, noooo!❤
+It's too much...!❤❤ Aaaaaghhh!!!❤
 
 おっぱいヒーラー：上
-あは❤たくさん出た❤
-ビクンビクンっておっぱいの中で跳ねている❤*
-でも、おっぱいから精液飛び出さないね。
-わたしたちのおっぱいが大きすぎて、
-精液が谷間の中に閉じ込められちゃってる。
-元人間のよしみで許さないのかなって？
-くすくす❤甘いなあ。そんなの関係あるわけないじゃん。*
-搾りつくすまでやめないよ。
-こんなおいしいエナジー、全部飲まなきゃもったいない。*
-乳圧をどんどんかけてあげる。
-おちんちんが、柔らかいお肉に
-押しつぶされちゃうぐらいにぎゅーって❤
-ほら・・・・。ぎゅー・・・❤
-そしてこの状態で思いっきりズリズリ❤
+Aha-❤ You came bucketloads-❤
+I can feel it sloshing around between our breasts-❤*
+But, your semen never made it out of our breasts 
+did it? Out breasts were so big, all your semen
+ended up getting trapped inside our cleavage-
+You didn't think we'd let you off the hook 
+since we were once humans did you? 
+Teehee-❤ That's sweet-
+We have no intention of doing anything of the
+sort- We won't stop until you've been completely 
+squeezed. 
+It'd be a shame to let all this delicious energy 
+go to waste, so I'll make the pressure around my
+breasts tighter.
+I'll squeeze until the soft flesh of my breasts 
+crushes your penis-❤ Hora- Squeeze...❤
+Then like that, I'll rub you as hard as I can!❤
 
 Ray：上
-あぐぅっ❤あっ❤
-おっぱいが、ああっ❤*
-すご、すごいっ❤はひぃ、気持ちいいよぉ❤
-我慢なんて・・・❤❤あうぅっ❤
+Aughhh!!❤ Aahh-❤
+Breasts... Aaahh-❤*
+A, a, amazing...❤ Ahhuugh, so goodd...❤
+My resistance...❤❤ Aaaoggghhh...❤
 
 おっぱいヒーラー：上
-あっという間に弾切れになっちゃった❤**
-ダブルおっぱいにすぐ負けちゃったね❤
-くすくす・・・❤
+(Giggle) You snapped faster than expected-**
+Our double paizuri defeated you instantly...❤
+Teehee...❤
 
 おっぱいヒーラー：上
-ああん❤エナジーがおいしい❤**
-他の団員さんもわたしたちのおっぱいで、
-気持ちよくしてあげよう。
-まだまだたくさんいるから、今夜はごちそうだね。
+Aahnn-❤ Such delicious energy-❤**
+Let's make the other soldiers feel good with
+our breasts too- With the amount of men here,
+we'll be able to feast until evening-
 
 おっぱいヒーラー：上
-うふふ・・・❤
-男ってほんとおっぱいに弱い生き物❤
+Ufufu...❤
+When it comes to big breasts, men are just weak,
+pathetic creatures-❤
 
 テロップ：中央
-二人組の巨乳のヒーラーにパイズリで吸いつくされて、
-主人公は力尽きてしまった。*
-他の団員達も、
-その暴力的な快楽の前になすすべがなく、
-次々と搾りつくされていき、
-翌朝には干からびた男たちが、
-崖の間に無残に横たわり、
-凄惨な光景を作り出していた。
-こうして淫魔の誘惑に負けた主人公たちは、
-元人間の淫魔にエナジーを吸いつくされ、
-その物語の幕を閉じたのであった。
+the hero lost all his power,
+drained by the two healer's ginormous breasts.*
+The others, unable to resist their breasts'
+terrifyingly sexual pleasure, were tragically
+squeezed one after the other.
+The next morning, the only thing that remained
+of them was the ghastly mountains of withered
+men piled between the cliffs.
+And so the story of the heroes who yielded to
+succubus temptation ended, having their energy
+squeezed dry by once human succubus.
 
 <TK387>
 テロップ：中央
-サキュバスの奇襲の前に、
-なすすべなく敗れた主人公たちは、
-淫魔に搾精されもてあそばれていた。
-あちこちで団員たちの嬌声があがるなか、
-主人公もヒーラーの淫魔に襲われていた。
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as even the hero was attacked by one of
+the succubus healers...
 
 おっぱいヒーラー：上
-えー❤
-まさかわたしたちのおっぱいダンスで負けちゃうなんて。
-びっくり❤
-あれ、ただの妨害なんだよ？
-前衛が頑張っているときに、
-後ろからかき回すだけのただの”妨害”。
-それに負けちゃって、触ってもいないのに
-勝手に精液まき散らすんだもん。恥ずかしいね❤
-くすくす❤
+Whoa--❤
+I never thought you'd lose to the dance of my
+bouncing breasts. You really surprised me-❤
+They were supposed to be just a distraction,
+a "distraction" to obstruct the resistance of
+your front-lines from behind.
+But then you gave in and suddenly spewed out 
+semen on your own without being touched- 
+How embarrassing-❤ Teehee-❤
 
 おっぱいヒーラー：上
-わたしたち、
-人間だったころはまじめだったから、
-おっぱい大きいのとか嫌だったの。
-すぐ性的な目で見られるし、
-面倒くさいことの方が多かった。でも、今は違う。
-サキュバスになってからこんなに楽しい♪
-男の人をおっぱいでメロメロにしてぇ、
-はぁはぁさせるのが大好き❤
-うふふ。
+As humans, we were honestly disgusted by 
+our gigantic breasts.*
+We were often preyed on by the prying eyes
+of men... Our lives were terrible...
+But now, things are different.
+After becoming succubus, we couldn't be happier-
+Making men moan and gasp as they fall helplessly
+in love with our breasts is the best!- Ufufu-❤
 
 おっぱいヒーラー：上
-英雄くんはこれまで人間のために
-頑張って来たんでしょ？
-よく頑張ったね❤ご褒美にパイズリしてあげる。
-ただのパイズリじゃないよ？
-わたしたち二人がかりのWパイズリ❤
+You've done your best up until this point for
+the human race haven't you Mr. Hero?*
+Well done, well done-❤ As a reward, I'll give 
+you a paizuri- But not just any paizuri-
+A two person double paizuri-❤
 
 おっぱいヒーラー：上
-おっぱいダンスと違ってぇ、
-直接おちんちんをこのおっぱいでいじめちゃうの。*
-これされちゃうと、
-筋肉ムキムキの強い戦士さんでも、
-すぐにメロメロになって、びゅーって出しちゃうんだよ❤
+Instead of dancing our breasts in front of your 
+face, this time we'll be using out breasts to
+tease your penis directly.
+When we end up doing this, even big, burley
+muscle men soldiers end up falling madly in
+love with us and gush out all their semen-❤
 
 おっぱいヒーラー：上
-あは。今の聞いただけでビンビンじゃない❤**
-わたしたち二人のおっぱいで
-気持ちいいことしてもらいたいんだぁー❤*
-まだ頑張れば、周りの仲間たちを助けられるかもよ？
-いいの？いいの？
+Aha- You're quivering just from listening to us-❤**
+So you want us to do pleasant things to your penis
+with our two pairs of breasts--❤*
+If you still manage to hold out, you might be able
+to help your allies around you though-
+Is it really OK? Should you do it?
 
 おっぱいヒーラー：上
-ほらほら、二人のおっぱいがどんどん近づいてくるよ？
-このままじゃ挟まれちゃう。*
-あと少しで、ばちゅんって飲み込まれちゃう。
-あ、あ、もう挟まれる・・・。
+Hora hora- 
+Our two pairs of breasts are slowly getting closer...?
+If you don't do anything, your penis will get caught-
+In a moment, you'll get swallowed up in one gulp-
+Gu-, gu-, gu-lp...!
 
 おっぱいヒーラー：上
-はい❤
-ぱっくん❤
+All done-❤
+Gu-lp-❤
 
 Ray：上
-はひっ、あああっ❤**
-こ、こんな全部包まれて・・・❤
-すごい・・・❤と、とけるぅ・・・❤
+Ahiee, ooogh...❤**
+When, when they wrap around me like that...❤
+Amazing...❤ I, I'm melting...❤
 
 おっぱいヒーラー：上
-あはは❤腰ぴくぴくさせることしかできなかったね。
-もう少し抵抗して見せたら？英雄さん。
-くすくす・・・❤
-ま、いいか。
-すぐに終わらせちゃおう。*
-おっぱいを勢いよく二人でズリズリすれば、
-どんな男もすぐドピュって負けちゃうから、
-覚悟してね❤
-いくよ・・・❤
-えい！
+Ahaha-❤ You can't stop your hips from buckling 
+can you? Come on, you can show us a little more
+resistance than that, Mr. Hero-❤ (Giggle)
+Although...
+It'll all be over soon.*
+Once our soft breasts start rubbing any man's 
+penis, they all give in and start squirting all 
+the same- Prepare yourself-❤
+Here we go...!❤
+Eei!
 
 Ray：上
-あひぃっ❤
-あっ、あっ、そんあに動かしたら・・・❤*
-あへぇあ❤こすれて、気持ちいいっ❤
-あひい❤
+Ahieeeee!!❤
+Aah, aah, su, such movements...❤*
+Ahiaaaaaah!❤ Being rubbed feels soo gooddd--❤
+Aieeeee-❤
 
 おっぱいヒーラー：上
-わたしもえい❤
-手のひらでぎゅーっと押さえつけて、ズリズリ―❤*
-ああん。悶えちゃってすごーい❤
-腰もビクンビクンさせちゃってさ。*
-気持ちよすぎて叫び声まであげているわ。
-他の仲間もいるのにみっともなくないの？
-くすくす❤
-あ、そんなこと、もう考えられないか。
-二人のおっぱいに飲み込まれるのすっごいもんね。*
-おちんちんが全部おっぱいに包まれて、
-脳みそドロドロに溶けちゃいそうな気持ちよさ。
-これされたら仲間のことなんて、わかんないよね。
-手加減しないと、すぐに壊れちゃうかも。
-おっぱいのことしか考えられない、
-廃人になっちゃうかも・・・。
+And don't forget me-❤
+I'll squeeze my breasts together with the palms of my 
+hands and...! Rub rub-rub rub rub!❤
+Aaahn- You're really struggling-❤
+Even your waist is throbbing and pulsating-*
+It feels so good, you wanna scream right? Even
+though all your companions can hear you right?
+Teehee-❤
+Ahh- You can't think of those things any longer 
+can you? Only the soft ocean of our breasts
+swirling around your penis-
+Think about the mind melting pleasure from having
+the entire length of your penis wrapped in our 
+breasts- Right now, your companions are nothing-
+When we aren't going easy on someone, they
+break instantly. A mentally disabled person who
+can't think of anything except breasts...
 
 おっぱいヒーラー：上
-ほらほら❤手加減なんてするわけないじゃん。
-たぱんたぱんってたたきつけて、すぐにイカせてあげる。*
-人間だった頃は人をいやすのが仕事だったのにね。
-それが今じゃ、おっぱいでキミのこと、
-ボロボロにしちゃってる。
-ああ、楽しいなぁ❤
-欲望に素直になって、
-おっぱいで男の人をメロメロのぐちゃぐちゃにして・・・❤
-くす。おちんちんから我慢汁がすごい出ているよ。
-わたしたちに容赦なくパイズリされてやばい？
-亀頭も竿もおっぱいに飲み込まれてとろけちゃいそう？
-なら、さっさととろけなさい。
-もう英雄くんは負けたの。
-これ以上の抵抗は無駄❤
-パイズリに負けて、射精しちゃえ❤
-むぎゅって圧をかけながら、えいえいえいー❤
+Hora hora-❤ And we don't have any reason to go 
+easy on you do we? We'll make you cum instantly
+as our bouncy breasts slap against your penis-
+During our time as humans we would have healed 
+you- But now we're going to break you with
+our breasts!
+Aah, soo much bliss-❤
+Be honest with your desires, fall in love with
+the heavy pull of our breasts...❤
+Kuhu- Your penis is already leaking amazing 
+amounts of precum- Being massaged by our merciless
+paizuri is the ultimate pleasure isn't it?
+The tip... The base... It's as if your entire 
+penis is melting and being swallowed up in 
+breasts right?
+Please, go ahead and melt-
+Mr. Hero already lost a long time ago-
+Resisting anymore is pointless-❤
+Surrender to our paizuri, and cum-❤
+Cum while we squeeze our breasts together-
+Eei, Eei, Eeei!!❤
 
 Ray：上
-はひぃっ、あっ、だめっ❤
-こんなの無理ぃっ❤❤あがぁっ❤
+Ahiee, aah ahhh, noooo!❤
+It's too much...!❤❤ Aaaaaghhh!!!❤
 
 おっぱいヒーラー：上
-あは❤たくさん出た❤
-ビクンビクンっておっぱいの中で跳ねている❤*
-でも、おっぱいから精液飛び出さないね。
-わたしたちのおっぱいが大きすぎて、
-精液が谷間の中に閉じ込められちゃってる。
-元人間のよしみで許さないのかなって？
-くすくす❤甘いなあ。そんなの関係あるわけないじゃん。*
-搾りつくすまでやめないよ。
-こんなおいしいエナジー、全部飲まなきゃもったいない。*
-乳圧をどんどんかけてあげる。
-おちんちんが、柔らかいお肉に
-押しつぶされちゃうぐらいにぎゅーって❤
-ほら・・・・。ぎゅー・・・❤
-そしてこの状態で思いっきりズリズリ❤
+Aha-❤ You came bucketloads-❤
+I can feel it sloshing around between our breasts-❤*
+But, your semen never made it out of our breasts 
+did it? Out breasts were so big, all your semen
+ended up getting trapped inside our cleavage-
+You didn't think we'd let you off the hook 
+since we were once humans did you? 
+Teehee-❤ That's sweet-
+We have no intention of doing anything of the
+sort- We won't stop until you've been completely 
+squeezed. 
+It'd be a shame to let all this delicious energy 
+go to waste, so I'll make the pressure around my
+breasts tighter.
+I'll squeeze until the soft flesh of my breasts 
+crushes your penis-❤ Hora- Squeeze...❤
+Then like that, I'll rub you as hard as I can!❤
 
 Ray：上
-あぐぅっ❤あっ❤
-おっぱいが、ああっ❤*
-すご、すごいっ❤はひぃ、気持ちいいよぉ❤
-我慢なんて・・・❤❤あうぅっ❤
+Aughhh!!❤ Aahh-❤
+Breasts... Aaahh-❤*
+A, a, amazing...❤ Ahhuugh, so goodd...❤
+My resistance...❤❤ Aaaoggghhh...❤
 
 おっぱいヒーラー：上
-あっという間に弾切れになっちゃった❤**
-ダブルおっぱいにすぐ負けちゃったね❤
-くすくす・・・❤
+(Giggle) You snapped faster than expected-**
+Our double paizuri defeated you instantly...❤
+Teehee...❤
 
 おっぱいヒーラー：上
-ああん❤エナジーがおいしい❤**
-他の団員さんもわたしたちのおっぱいで、
-気持ちよくしてあげよう。
-まだまだたくさんいるから、今夜はごちそうだね。
+Aahnn-❤ Such delicious energy-❤**
+Let's make the other soldiers feel good with
+our breasts too- With the amount of men here,
+we'll be able to feast until evening-
 
 おっぱいヒーラー：上
-うふふ・・・❤
-男ってほんとおっぱいに弱い生き物❤
+Ufufu...❤
+When it comes to big breasts, men are just weak,
+pathetic creatures-❤
 
 テロップ：中央
-二人組の巨乳のヒーラーにパイズリで吸いつくされて、
-主人公は力尽きてしまった。*
-他の団員達も、
-その暴力的な快楽の前になすすべがなく、
-次々と搾りつくされていき、
-翌朝には干からびた男たちが、
-崖の間に無残に横たわり、
-凄惨な光景を作り出していた。
-こうして淫魔の誘惑に負けた主人公たちは、
-元人間の淫魔にエナジーを吸いつくされ、
-その物語の幕を閉じたのであった。
+The hero lost all his power,
+drained by the two healer's ginormous breasts.*
+The others, unable to resist their breasts'
+terrifyingly sexual pleasure, were tragically
+squeezed one after the other.
+The next morning, the only thing that remained
+of them was the ghastly mountains of withered
+men piled between the cliffs.
+And so the story of the heroes who yielded to
+succubus temptation ended, having their energy
+squeezed dry by once human succubus.
+
 
 <TK394>
 テロップ：中央
-援軍が到着したにも関わらず、
-胸の大きなヒーラーに敗れてしまった主人公たちは、
-淫魔に搾精されもてあそばれていた。
+Despite the arrival of reinforcements, our heroes 
+were ultimately defeated by the succubus healers'
+huge breasts, and were played with and squeezed...
 
 おっぱいヒーラー：上
-えー❤
-まさかわたしたちのおっぱいダンスで負けちゃうなんて。
-びっくり❤
-あれ、ただの妨害なんだよ？
-前衛が頑張っているときに、
-後ろからかき回すだけのただの”妨害”。
-それに負けちゃって、触ってもいないのに
-勝手に精液まき散らすんだもん。恥ずかしいね❤
-くすくす❤
+Whoa--❤
+I never thought you'd lose to the dance of my
+bouncing breasts. You really surprised me-❤
+They were supposed to be just a distraction,
+a "distraction" to obstruct the resistance of
+your front-lines from behind.
+But then you gave in and suddenly spewed out 
+semen on your own without being touched- 
+How embarrassing-❤ Teehee-❤
 
 おっぱいヒーラー：上
-わたしたち、
-人間だったころはまじめだったから、
-おっぱい大きいのとか嫌だったの。
-すぐ性的な目で見られるし、
-面倒くさいことの方が多かった。でも、今は違う。
-サキュバスになってからこんなに楽しい♪
-男の人をおっぱいでメロメロにしてぇ、
-はぁはぁさせるのが大好き❤
-うふふ。
+As humans, we were honestly disgusted by 
+our gigantic breasts.*
+We were often preyed on by the prying eyes
+of men... Our lives were terrible...
+But now, things are different.
+After becoming a succubus, I couldn't be happier-
+Making men moan and gasp as they fall helplessly
+in love with my breasts is the best!- Ufufu-❤
 
 おっぱいヒーラー：上
-英雄くんはこれまで人間のために
-頑張って来たんでしょ？
-よく頑張ったね❤ご褒美にパイズリしてあげる。
-ただのパイズリじゃないよ？
-わたしたち二人がかりのWパイズリ❤
+You've done your best up until this point for
+the human race haven't you Mr. Hero?*
+Well done, well done-❤ As a reward, I'll give 
+you a paizuri- But not just any paizuri-
+A two person double paizuri-❤
 
 おっぱいヒーラー：上
-おっぱいダンスと違ってぇ、
-直接おちんちんをこのおっぱいでいじめちゃうの。*
-これされちゃうと、
-筋肉ムキムキの強い戦士さんでも、
-すぐにメロメロになって、びゅーって出しちゃうんだよ❤
+Instead of dancing our breasts in front of your 
+face, this time we'll be using out breasts to
+tease your penis directly.
+When we end up doing this, even big, burley
+muscle men soldiers end up falling madly in
+love with us and gush out all their semen-❤
 
 おっぱいヒーラー：上
-あは。今の聞いただけでビンビンじゃない❤**
-わたしたち二人のおっぱいで
-気持ちいいことしてもらいたいんだぁー❤*
-まだ頑張れば、周りの仲間たちを助けられるかもよ？
-いいの？いいの？
+Aha- You're quivering just from listening to us-❤**
+So you want us to do pleasant things to your penis
+with our two pairs of breasts--❤*
+If you still manage to hold out, you might be able
+to help your allies around you though-
+Is it really OK? Should you do it?
 
 おっぱいヒーラー：上
-ほらほら、二人のおっぱいがどんどん近づいてくるよ？
-このままじゃ挟まれちゃう。*
-あと少しで、ばちゅんって飲み込まれちゃう。
-あ、あ、もう挟まれる・・・。
+Hora hora- 
+Our two pairs of breasts are slowly getting closer...?
+If you don't do anything, your penis will get caught-
+In a moment, you'll get swallowed up in one gulp-
+Gu-, gu-, gu-lp...!
 
 おっぱいヒーラー：上
-はい❤
-ぱっくん❤
+All done-❤
+Gu-lp-❤
 
 Ray：上
-はひっ、あああっ❤**
-こ、こんな全部包まれて・・・❤
-すごい・・・❤と、とけるぅ・・・❤
+Ahiee, ooogh...❤**
+When, when they wrap around me like that...❤
+Amazing...❤ I, I'm melting...❤
 
 おっぱいヒーラー：上
-あはは❤腰ぴくぴくさせることしかできなかったね。
-もう少し抵抗して見せたら？英雄さん。
-くすくす・・・❤
-ま、いいか。
-すぐに終わらせちゃおう。*
-おっぱいを勢いよく二人でズリズリすれば、
-どんな男もすぐドピュって負けちゃうから、
-覚悟してね❤
-いくよ・・・❤
-えい！
+Ahaha-❤ You can't stop your hips from buckling 
+can you? Come on, you can show us a little more
+resistance than that, Mr. Hero-❤ (Giggle)
+Although...
+It'll all be over soon.*
+Once our soft breasts start rubbing any man's 
+penis, they all give in and start squirting all 
+the same- Prepare yourself-❤
+Here we go...!❤
+Eei!
 
 Ray：上
-あひぃっ❤
-あっ、あっ、そんあに動かしたら・・・❤*
-あへぇあ❤こすれて、気持ちいいっ❤
-あひい❤
+Ahieeeee!!❤
+Aah, aah, su, such movements...❤*
+Ahiaaaaaah!❤ Being rubbed feels soo gooddd--❤
+Aieeeee-❤
 
 おっぱいヒーラー：上
-わたしもえい❤
-手のひらでぎゅーっと押さえつけて、ズリズリ―❤*
-ああん。悶えちゃってすごーい❤
-腰もビクンビクンさせちゃってさ。*
-気持ちよすぎて叫び声まであげているわ。
-他の仲間もいるのにみっともなくないの？
-くすくす❤
-あ、そんなこと、もう考えられないか。
-二人のおっぱいに飲み込まれるのすっごいもんね。*
-おちんちんが全部おっぱいに包まれて、
-脳みそドロドロに溶けちゃいそうな気持ちよさ。
-これされたら仲間のことなんて、わかんないよね。
-手加減しないと、すぐに壊れちゃうかも。
-おっぱいのことしか考えられない、
-廃人になっちゃうかも・・・。
+And don't forget me-❤
+I'll squeeze my breasts together with the palms of my 
+hands and...! Rub rub rub rub rub!❤
+Aaahn- You're really struggling-❤
+Even your waist is throbbing and pulsating-*
+It feels so good, you wanna scream right? Even
+though all your companions can hear you right?
+Teehee-❤
+Ah, you can't think of those things any longer 
+can you? Only the soft ocean of our breasts
+swirling around your penis-
+Think about the mind melting pleasure from having
+the entire length of your penis wrapped in our 
+breasts- Right now, your companions are nothing-
+When we aren't going easy on someone, they
+break instantly. A mentally disabled person who
+can't think of anything except breasts...
 
 おっぱいヒーラー：上
-ほらほら❤手加減なんてするわけないじゃん。
-たぱんたぱんってたたきつけて、すぐにイカせてあげる。*
-人間だった頃は人をいやすのが仕事だったのにね。
-それが今じゃ、おっぱいでキミのこと、
-ボロボロにしちゃってる。
-ああ、楽しいなぁ❤
-欲望に素直になって、
-おっぱいで男の人をメロメロのぐちゃぐちゃにして・・・❤
-くす。おちんちんから我慢汁がすごい出ているよ。
-わたしたちに容赦なくパイズリされてやばい？
-亀頭も竿もおっぱいに飲み込まれてとろけちゃいそう？
-なら、さっさととろけなさい。
-もう英雄くんは負けたの。
-これ以上の抵抗は無駄❤
-パイズリに負けて、射精しちゃえ❤
-むぎゅって圧をかけながら、えいえいえいー❤
+Hora hora-❤ And we don't have any reason to go 
+easy on you do we? We'll make you cum instantly
+as our bouncy breasts slap against your penis-
+During our time as humans we would have healed 
+you- But now we're going to break you with
+our breasts!
+Aah, soo much bliss-❤
+Be honest with your desires, fall in love with
+the heavy pull of our breasts...❤
+Kuhu- Your penis is already leaking amazing 
+amounts of precum- Being massaged by our merciless
+paizuri is the ultimate pleasure isn't it?
+The tip... The base... It's as if your entire 
+penis is melting and being swallowed up in 
+breasts right?
+Please, go ahead and melt-
+Mr. Hero has already lost a long time ago-
+Resisting anymore is pointless-❤
+Surrender to our paizuri, and cum-❤
+Cum while we squeeze our breasts together-
+Eei, Eei, Eeei!!❤
 
 Ray：上
-はひぃっ、あっ、だめっ❤
-こんなの無理ぃっ❤❤あがぁっ❤
+Ahiee, aah ahhh, noooo!❤
+It's too much...!❤❤ Aaaaaghhh!!!❤
 
 おっぱいヒーラー：上
-あは❤たくさん出た❤
-ビクンビクンっておっぱいの中で跳ねている❤*
-でも、おっぱいから精液飛び出さないね。
-わたしたちのおっぱいが大きすぎて、
-精液が谷間の中に閉じ込められちゃってる。
-元人間のよしみで許さないのかなって？
-くすくす❤甘いなあ。そんなの関係あるわけないじゃん。*
-搾りつくすまでやめないよ。
-こんなおいしいエナジー、全部飲まなきゃもったいない。*
-乳圧をどんどんかけてあげる。
-おちんちんが、柔らかいお肉に
-押しつぶされちゃうぐらいにぎゅーって❤
-ほら・・・・。ぎゅー・・・❤
-そしてこの状態で思いっきりズリズリ❤
+Aha-❤ You came bucketloads-❤
+I can feel it sloshing around between our breasts-❤*
+But, your semen never made it out of our breasts 
+did it? Out breasts were so big, all your semen
+ended up getting trapped inside our cleavage-
+You didn't think we'd let you off the hook 
+since we were once humans did you? 
+Teehee-❤ That's sweet-
+We have no intention of doing anything of the
+sort- We won't stop until you've been completely 
+squeezed. 
+It'd be a shame to let all this delicious energy 
+go to waste, so I'll make the pressure around my
+breasts tighter.
+I'll squeeze until the soft flesh of my breasts 
+crushes your penis-❤ Hora- Squeeze...❤
+Then like that, I'll rub you as hard as I can!❤
 
 Ray：上
-あぐぅっ❤あっ❤
-おっぱいが、ああっ❤*
-すご、すごいっ❤はひぃ、気持ちいいよぉ❤
-我慢なんて・・・❤❤あうぅっ❤
+Aughhh!!❤ Aahh-❤
+Breasts... Aaahh-❤*
+A, a, amazing...❤ Ahhuugh, so goodd...❤
+My resistance...❤❤ Aaaoggghhh...❤
 
 おっぱいヒーラー：上
-あっという間に弾切れになっちゃった❤**
-ダブルおっぱいにすぐ負けちゃったね❤
-くすくす・・・❤
+(Giggle) You snapped faster than expected-**
+Our double paizuri defeated you instantly...❤
+Teehee...❤
 
 おっぱいヒーラー：上
-ああん❤エナジーがおいしい❤**
-他の団員さんもわたしたちのおっぱいで、
-気持ちよくしてあげよう。
-まだまだたくさんいるから、今夜はごちそうだね。
+Aahnn-❤ Such delicious energy-❤**
+Let's make the other soldiers feel good with
+our breasts too- With the amount of men here,
+we'll be able to feast until evening-
 
 おっぱいヒーラー：上
-うふふ・・・❤
-男ってほんとおっぱいに弱い生き物❤
+Ufufu...❤
+When it comes to big breasts, men are just weak,
+pathetic creatures-❤
 
 テロップ：中央
-二人組の巨乳のヒーラーにパイズリで吸いつくされて、
-主人公は力尽きてしまった。*
-他の団員達も、
-その暴力的な快楽の前になすすべがなく、
-次々と搾りつくされていき、
-翌朝には干からびた男たちが、
-崖の間に無残に横たわり、
-凄惨な光景を作り出していた。
-こうして淫魔の誘惑に負けた主人公たちは、
-元人間の淫魔にエナジーを吸いつくされ、
-その物語の幕を閉じたのであった。
+The hero lost all his power,
+drained by the two healer's ginormous breasts.*
+The others, unable to resist their breasts'
+terrifyingly sexual pleasure, were tragically
+squeezed one after the other.
+The next morning, the only thing that remained
+of them was the ghastly mountains of withered
+men piled between the cliffs.
+And so the story of the heroes who yielded to
+succubus temptation ended, having their energy
+squeezed dry by once human succubus.
 
 <TK388>
 テロップ：中央
-サキュバスの奇襲の前に、
-なすすべなく敗れた主人公たちは、
-淫魔に搾精されもてあそばれていた。
-あちこちで団員たちの嬌声があがるなか、
-主人公もクロワに襲われていた。
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as even the hero was attacked by Croix...
 
 Ray：上
-ぐっ・・・・。
+Gugh......
 
 クロワ：上
-うふふ。
-英雄がなすすべなしね。*
-どうせなら、こんな形じゃなくて、
-真っ向勝負で搾り取ってあげたかったのだけれど・・・。*
-わたしもサキュバス軍の一員として
-作戦には背けないの、ごめんなさいね。*
-その代わり、といってはなんだけど・・・。**
-とっても気持ちよく、吸い殺してあげる❤
+Ufufu-
+And so, the hero lies fallen at my feet-*
+If it weren't for this, I would have
+liked to wring you dry in a head on fight...*
+But I don't intend on going against our
+succubus war plan. No hard feelings-*
+So instead, you'll get something very special...**
+Being blissfully drained to death by me-❤
 
 Ray：上
-来るなっ・・・。
+As if I'd let you...
 
 クロワ：上
-あん。そんなヘロヘロの攻撃、当たらないわ。**
-一回射精しちゃって、
-体に力入らないんでしょう？くすくす・・・❤*
-こんなに簡単に後ろに回り込まれちゃって
-もうダメね・・・❤
+Ahhn- You won't be able to land a hit against me
+at all with such flimsy attacks-*
+You body hasn't run out of strength after 
+just one ejaculation has it? Teehee...❤*
+That would be very, very bad- Especially now that
+I can cut behind you so easily...❤
 
 Ray：上
-うあっ・・❤
+Uwaah...❤
 
 クロワ：上
-足で触れた瞬間に可愛い声出ちゃったね。**
-指で亀頭をにぎにぎされたのがよかったのかな？
-くす・・・❤
+You let out such cute moans the moment I
+touched you with my feet-*
+Does it make you happy when my toes dance
+over the length and head of your penis?
+Kuhu...❤
 
 Ray：上
-ちがう、放せっ・・❤
-ああっ、やめろ、そんな風に足を動かすなっ・・・❤❤
+Nu, no, release...❤
+Aaaah, stopp!- 
+When you move your feet like that...❤❤
 
 クロワ：上
-もう強がりは言わなくていいのよ？
-あなたは負けたのだから・・・。*
-楽にしてわたしの足にすべて吸い出されなさい。
-人生最後の快楽ぐらい素直に味わった方がいいわ。*
-ほら、わたしの能力で、
-強制的に力を抜かせてあげる❤
+Now now, there's no need to cry sour
+grapes is there? You've been defeated after all...*
+Just relax and let me draw everything out of you
+with my feet, be a good boy for me as you 
+experience the greatest pleasure of your life-
+Hora- I'll wring out your power with my 
+techniques whether you like it or not-❤
 
 クロワ：上
-レベルドレインの甘美な刺激を楽しみなさい・・・❤
+Enjoy the sweet stimulation of my Level Drain...❤❤
 
 Ray：上
-はひぃ・・・。吸われてぇ・・・❤
-や、やめ、ああっ・・・❤
+Ahieee... I'm being sucked...❤
+St, sto-, Aaahhh.....❤
 
 クロワ：上
-うふふ。気持ちよすぎて腰が抜けちゃうでしょ？**
-あなたの大事なものがわたしに奪われていく感覚。
-こそばゆくて気持ちよくて、
-ウットリしちゃう甘い刺激・・・❤
-ああん❤力が流れ込んでくるわ❤
-おいしい・・・。*
-ここに来るまでたくさんの敵と戦ってきたのね。
-初めて会ったときとはまるで違う力の強さ・・・。
+(Giggle) It feels so good that your waist
+just melts doesn't it?*
+The sensation of your life energy being 
+snatched away by me- A ticklish, entrancingly
+sweet pleasure...❤
+Aaahnn-❤ I can feel your power flowing 
+through me-❤ It's delicious...*
+You've been fighting a lot of enemies since
+coming here haven't you? This power is much
+stronger than when we first met...
 
 Ray：上
-そうだ・・・、僕の大事な力だから・・・。
-に、逃げなきゃいけないのにぃ・・・❤*
-あううぅ・・・、だめ・・・❤力が抜けてぇ・・❤
+Yes... I need that strength so...
+I, I need to get away...❤*
+Aaooogh, nooo....❤ My strength is fading...❤
 
 クロワ：上
-くすくす❤
-お気に召してくれたようね。*
-あなたがウットリ快感に浸っている間に、
-すべて吸い出してあげる。*
-みんなと一緒に戦って手に入れた、
-肉体の強さ、戦いの技術、心の強さ・・・。*
-それをぜーんぶ、
-わたしに差し出すのよ？
-くすくす・・・❤
+Teehee-❤
+I can see you're enjoying this-*
+And while you soak yourself in that absent-minded 
+pleasure, I'll suck everything out of you.*
+Everyone you've fought, your strength,
+your body, your mind...*
+Everything...hand it all over to me OK?
+Teehee...❤
 
 Ray：上
-ああっ、やめてぇ❤
-敏感なところをっ、あっ、ああっ❤❤*
-あへぇ・・・❤❤
-あっ、出るっ、我慢でき、ないぃ・・・❤
+AAahh, stoppp-❤
+My sensitive place is... aah, aahhhh-❤❤*
+Aaaahhhaah-❤❤
+Aah, cumming...! I, can't...resist...❤
 
 Ray：上
-あっ、ああっ・・・❤
-大事な力が・・・・。
+Aah, aaaoogh...❤
+My strength is.......
 
 クロワ：上
-まだまだ貯めているんでしょう？
-残っている力も全部精液に溶かし込んであげる。*
-亀頭と一緒に玉袋も、優しく足でなでて・・・。**
-ふふっ、足指でタマタマの上に魔法陣を書いて、
-精液にたっぷり力を溶かしてあげるわ。*
-くにくに・・・って親指で線を書くの。
-玉袋を圧し潰されて、いじられて・・・❤*
-どう？頭の芯がしびれてくるでしょう？
+You still have a lot left stored up in there 
+don't you? Looks like I'll just have to dissolve
+all your remaining power into your semen too-
+Hora- Watch as my gentle feet caress over your
+penis' head and balls...*
+Fufu- I'll transform all your power into semen 
+by drawing a magical crest on your balls 
+with my toes- 
+I'll draw lazy circles around your penis with my
+toes and tease your ball sack by squeezing down 
+hard with my big toe-❤
+How is it? 
+Your mind is totally mesmerized isn't it?
 
 Ray：上
-はへぇ・・・❤あひぃ・・・❤
+Ray：上
+Hahiee-❤ Ahieee...❤
 
 クロワ：上
-くすくす。術が簡単にかかっちゃう。
-すっかり快感に素直ね。*
-わたしにいじられたせいで、
-精液がすごいスピードで作られているわ。
-タマタマもずっしり重たい❤
-精液がたくさんたまれば、
-ペニスをいじられたときの快感も強くなる・・・❤*
-何週間も射精していないみたいに、
-ギンギンでガチガチになって・・・❤
-きっとシコシコされたらすぐにイッちゃうわ。
-あら、腰をヒクヒクさせちゃって、
-もしかして、玉を足でなでなでしているだけで、
-イっちゃうのかしら？
-竿をしごいてあげたら、とっても気持ちいいのに・・・。
-くすくす❤
+(Giggle) So willing to fall under my spell...
+So obedient to pleasure....*
+Thanks to being teased by me, your body is 
+producing semen at an amazing rate-
+Your balls are getting heavier and heavier...❤
+And the more semen you have stored up in your
+balls, the more sensitive your penis becomes...❤*
+Your penis is frozen, rock solid, as if you 
+haven't ejaculated for weeks...❤
+Being stroked would make you cum instantly-
+Ara- Your waist is twitching so much-
+You wouldn't cum from just having your balls
+stroked by my soft, dexterous feet would you?
+I bet it'd feel even better if I stroked
+the shaft...
+Teehee-❤
 
 Ray：上
-あう、あううっ・・・❤**
-こ、こんなので・・・❤
-だめぇ、と、止まらないぃっ・・・❤
+Aaoogh, aaaaooogggh....❤**
+That's, only because...❤
+Oh no... I, I can't stopppp...!❤
 
 クロワ：上
-うふん。大量射精・・・❤
-おいしい。
-おかげで力がみなぎってくるわ。
-わたしにレベルを奪われるの、
-とっても気持ちよかったでしょ？*
-大事なものが体から抜け落ちて、
-かわいい女の子に奪われちゃう感覚。
-なぜかそれに、みんな病みつきになるのよ。
-さぁ、最後はこの両足で挟み込んで、
-グチュグチュグチュってしごいてあげる。*
-亀頭責めとかタマいじりとかもいいけれど、
-直接的な刺激ですぐに射精させちゃうんだから。*
-わたしとあなたのレベル差は歴然。
-この状態でドレインされながら、本格的に足コキ❤
-されてみたいでしょ？んふふ❤
+Ufufu- What a big ejaculation...❤
+Delicious. Thanks to this, 
+I can get even stronger-
+It felt amazing having your levels snatched
+away by me didn't it?*
+The sensation of having your beautiful energy
+stolen by such a cute girl...why, everyone
+becomes addicted to this feeling-
+Now, I'll wrap both my feet around your penis,
+and glide my soft, textured soles up and down 
+your length-
+The gentle tease of someone having their balls 
+and tip rubbed together is enough to make 
+anyone cum instantly-
+Our difference in levels should be blatantly
+obvious to you now.*
+And now that you've been drained, I bet you'd
+love to experience my "True Footjob" now
+wouldn't you?❤ Ufufu-❤
 
 クロワ：上
-ほらほらほらほら！
-ぜーんぶ吸い出してあげる❤*
-わたしの足でサンドイッチされて、
-ぐちゅぐちゅぐちゅぐちゅ、
-いやらしい音がたくさん出てる。
-両足でしごかれるのたまらない？
-うふふ。気持ちよすぎておかしくなっちゃいそうかな？
+Hora hora hora hora!!
+I'll drain every last drop out of you-❤*
+Lots of sexual squishy sounds are coming out
+as I sandwich your penis between my feet-*
+The stroking motions of my dexterous feet
+are irresistible. Ufufu- It feels so good,
+you're starting to feel strange aren't you?
+
 
 Ray：上
-あひっ❤あがぁっ❤ああああっ！！！！
+Ahiee-❤ Agghhh-❤ Aaaaaaahhh!!!
 
 クロワ：上
-あん。暴れちゃダーメ❤**
-ん、「気持ちよすぎる」？
-あは❤だからって、そんなに体をじたばたさせても、
-逃がさないわよ？
-私のほうがあなたより力が強いの。
-羽交い絞めにしているんだから、
-逃げられるわけないじゃない。
-ほらほら、おっぱい背中に押し付けてあげるから、
-柔らかい感触堪能していいよ？
-くすくす・・・❤
-脳みそおかしくしちゃうような快楽で、
-あなたの命も何もかも、搾りだしてあ・げ・る❤
+Ahnn- You shouldn't rage about like that-❤**
+Hm? "It feels too good"?
+Aha-❤ After all, no matter how much your body
+struggles, there's no escape-
+I'm much stronger than you.
+When I've got your arms pinned behind your back
+like this, there's no way you can escape.
+Hora hora- Can you feel the soft feeling of my
+breasts pressing against your back?
+Teehee...❤
+It's time for me to squeeze your mind, your
+being, your everything...with my mind mel-ting 
+ple-as-ure-❤
 
 Ray：上
-あひぃっ・・・❤こ、こんなの無理ぃ・・・❤❤
-あああっ❤
+Ahiee....❤ This, this is too much...!❤❤
+Aaaaah-❤
 
 Ray：上
-あっ、あっ、死んじゃう・・・❤❤
-死んじゃうのにっ・・・❤
+Aah, ahh, I'm gonna die...❤❤
+I'm gonna die but...!❤
 
 クロワ：上
-くすくす・・・❤
-たくさん出したわね。*
-もう干からびて動かなくなっちゃった。
-あんなにあった筋肉も、しなしなで、
-見る影もないわね。
-対価は決して安くはないけれど、
-男にとって最高の終わり方ができて、よかったでしょ？
-うふふ♪
-インプちゃんたち、そっちはどう？
+Teehee...❤
+You sure came a lot didn't you?*
+You've already become an unmoving husk.
+No muscles, no nothing. A shadow of your
+former self-
+Compensation for pleasure like this never comes
+cheap, but as a man, you'd pay anything for the
+highest pleasure wouldn't you? Ufufu♪
+Drain Imps, progress report-
 
 Drain Imp：上
-クロワ様ぁ、順調です！**
-兵隊さんたちはみんなレベル１になるまで吸い取って、
-気絶させたです。*
-あとはレベルドレイン用の餌箱に運んでおくです！
-あそこで魔物と戦わせて、
-レベル上げの餌にするです。
+Everything is going smoothly Miss Croix!**
+All soldiers have been drained down to level 1
+and have fainted.*
+They'll later be carried to the Level Drain
+feeding facility! There, they'll fight monsters 
+to gain more levels as our live-stock.
 
 クロワ：上
-うふふ。悪くない成果だわ。**
-不意打ちみたいなやり方は好きじゃないけれど、
-ミレニアにはお礼を言っとかないとね。
+Ufufu- Not a bad result at all-**
+While I'm not particularly fond of surprise 
+attacks, Mileena really out did herself
+this time. I must remember to thank her.
 
 テロップ：中央
-クロワにレベルを吸いつくされて、僕は力尽き、**
-他の仲間たちも、
-彼女の手下のインプにレベルを吸われて
-そのあとどこかに運ばれていった。
-このあと彼らがどうなったのか知る者はいない。**
-こうして僕たちの物語は、
-淫魔にすべての力を吸いつくされて、
-その幕を閉じたのであった。
+Having being drained of all my levels by Croix,
+my strength was no more.*
+Even the other soldiers had their levels drained
+by her imp underlings, and were carried off
+somewhere else.
+What became of them, I do not know.**
+And so, our story ended, drained of all power
+by succubus.
 
 <TK393>
 テロップ：中央
-援軍が到着するも複数の中級サキュバスを前にして、
-主人公たちは敗北してしまった。*
-あちこちで団員たちの嬌声があがるなか、
-主人公もクロワに襲われていた。
+Despite the arrival of reinforcements, our Heroes 
+were defeated by the intermediate succubus.*
+Indecent moans from soldiers filled the
+area as even the hero was attacked by Croix...
 
 Knight of 3rd Order：上
-レイ君！無事か！
-被害は出たが、こちらはあらかた片付いたところだ。
-なっ・・・！
+Sir Ray! Are you OK!? We've sustained significant 
+damage, but there's a place where we can take safe
+refuge for the time being...
 
 クロワ：上
-あら、あなたのこと呼んでいるわよ？
-返事しなくていいの？
+Ara- Someone is calling you-
+Aren't you going to respond to them?
 
 Ray：上
-ううっ・・・・❤クロワ様ぁ・・・❤❤
+Ooogh.....❤ Miss Croix....❤❤
 
 Knight of 3rd Order：上
-レイ君・・・。
-くそ、正気に戻るんだ！*
-キミたちの聖剣なしでは
-ボクたちでは複数の中級淫魔の相手は荷が重い。
-キミたちが頼りなんだ！
+Sir Ray...
+Damnit! Come to your senses!*
+Without the holy swords, the intermediate
+succubus will overwhelm us.
+We're all counting on you!!
 
 クロワ：上
-うふふ。
-そんなに大声で言わなくても、
-彼には聞こえているわよ。
-でも、彼はもうすっかりわたしたちの虜なの。
-ね？そうでしょ？
+(Giggle) He doesn't need to shout that loudly for
+you to hear him right?*
+But...he's too late, you're already our slave now-
+Isn't that right Ray?-
 
 Ray：上
-うぐぅ・・・、ほんとはダメなんだ・・・。
-で、でも・・・❤❤*
-ああっ、そんな風に踏まれたらっ❤❤
-あひぃ❤
-クロワ様ぁ・・・❤❤
+Ugh... No! I'm not your slave...!
+I... I can't give in...!
+B, but...❤❤
+Aaah, when you step on me like that....❤❤
+Ahieee...❤
+Oooh, Miss Croix...❤❤
 
 クロワ：上
-ドレインの甘美な刺激、
-もう味わえなくなってもいいの？*
-サキュバスさまのおみ足に踏みつけられて、
-腰がとろけそうなんでしょう？
-強がりはいらないわ。
+Haven't you had enough of being drained by the
+sweet massage of my feet?*
+When your succubus lover steps on your penis,
+it feels as if your hips are melting doesn't it?
+You can't muster the strength to do anything else-
 
 Ray：上
-クロワ様ぁ・・・❤❤
-気持ちいいですぅ・・❤*
-あっ、ああっ・・・❤
+Miss Croix...❤❤
+It, it feels so good...❤*
+Aah, aaaaaahhh....❤
 
 クロワ：上
-そう。素直に言えていい子ね。
-でも・・・。*
-残念だけどここで休憩なの。
+Mmhm- Spoken like a good little boy-
+But...*
+I'm afraid we'll have to take a break now.
 
 Ray：上
-あっ、ああっ、なんで・・・。
+Aah, aaaah, wh, why...?
 
 クロワ：上
-見なさい？
-わたしたちのエッチを邪魔する悪い奴がいるの。
-あいつらがいる限り、これ以上踏んであげられないわ。
-もっと踏んで欲しければ・・・・。
-どうすればいいか、分かるわよね？
+See? This bad man is trying to ruin our sexy
+fun time- As long as he exists, I won't
+step on you any longer. 
+But, if you want my soft feet to caress your 
+aching penis once more...
+You know what you need to do, don't you?
 
 Ray：上
-ううっ、そんな、そんなこと・・・・。
-はうぅっ❤
+Uugh, but, but that would...
+Haaoogh...❤
 
 クロワ：上
-んふふ。ぐりぐりされて簡単に喘ぐくせに。
-いっちょ前に反抗するの？*
-本気でレベルドレインされる快感、
-あとでたっぷり味合わせてあげる。
-だから、さっさとわたしのために戦いなさい。下僕くん❤
+(Giggle) Though you resist, even just a light grind 
+against the back of your penis with my soft foot,
+is enough to change your weak willed mind-
+The pleasures of being truly drained by me
+await you. So, go on, fight for me-
+My slave-❤
 
 Ray：上
-了解しました、クロワ様・・・❤
-悪者は排除しますぅ・・・❤
+I, I understand Miss Croix...❤
+I, I will take care of this bad man for you...❤
 
 Knight of 3rd Order：上
-くっ、完全に魅了されているか・・・。
-まさか英雄の騎士団と戦うはめになるとはな・・・。*
-全員、気を引き締めてかかれ！
-下級淫魔の相手で疲弊しているかもしれないが、
-ここが正念場だ！！行くぞ！
+Guh! H-he's been completely infatuated...
+I never thought I'd end up fighting our Hero...*
+All soldiers, focus yourselves! We may have been 
+worn down by the lesser succubi, but right now 
+it's live or die!! We need to go now!
 
 テロップ：中央
-援軍の騎士団は懸命に戦ったが、
-第九騎士団とサキュバスたちに同時に襲い掛かられ、
-さすがに耐えきることができなかった。
-助けに来たはずが救援相手に裏切られて、
-壊滅してしまったのだった。
+Though the Knights of Order fought with their life,
+they were attacked simultaneously by the succubus,
+as well as the Ninth Order, and could not hold out.
+Betrayed by their own forces that they tried to
+help, they were completely annihilated.
 
 クロワ：上
-さあ、ご褒美よ❤**
-裏切り者の英雄さん❤
+And now, your reward-❤**
+My traitorous Hero of the ages-❤
 
 Ray：上
-はひぃ・・❤吸われるぅ・・・❤❤
-気持ちいいです、クロワ様ぁ・・・❤
+Ahiee....❤ I'm being sucked...❤❤
+It feels amazing Miss Croix...❤
 
 クロワ：上
-まだまだ・・・！！
+But we're not done yet...!!
 
 Ray：上
-ああっ！！！気持ちいいっ❤
-出したばかりなのにっ❤❤あああっ❤❤
+Aaaaah!!! It's soo gooodd--❤
+I only just came but...❤❤ Aaaaaahh...❤❤
 
 クロワ：上
-うふふ。
-わたしの本気のドレインはどうだったかしら？*
-あなたの中にある力を全部、
-わたしの足で吸い出してあげたの。*
-意識が強引に持っていかれて、
-頭の中が強すぎる快楽で真っ白になる感覚。
-素敵でしょう？
-これはあなたの裏切りへのご褒美。
-好きなだけ味わいなさい。
+(Giggle)
+What did you think of my true level drain?*
+I just drained entirety of your power 
+with my soft, magical foot-*
+The feeling of your consciousness leaving, your 
+mind becoming blank with overpowering pleasure...
+It's wonderful isn't it?
+This is the reward for your betrayal.
+Savour it as much as you like-
 
 Ray：上
-はい・・・。クロワ様ぁ・・・❤
+Yes... yes, Miss Croix...❤
 
 Ray：上
-あひぃ・・・❤
+Ahieee....❤
 
 クロワ：上
-くすくす・・・❤
-たくさん出したわね。*
-死ぬ寸前で止めてあげたのよ。
-感謝しなさい？*
-これからはわたしの奴隷として頑張ることね。
-うふふ・・・❤
+Teehee...❤
+You sure came a lot didn't you?*
+I stopped just before you were about to die-
+You should thank me-*
+Now, be sure to work hard as my slave OK?
+Ufufu...❤
 
 テロップ：中央
-かくしてクロワの奴隷に堕ちた主人公は、
-この先も彼女の子分として生きていくことになる。*
-空っぽになるまで吸われた力も、
-クロワの支援のもと魔物や人間と戦って、
-取り戻すことに成功したという。
-十分な戦力となった彼はクロワの懐刀となり、
-時にその聖剣を使い、
-淫魔たちの侵略に大いに活躍した。
-そして勲功を上げたときには、
-褒美と称して
-クロワに少しだけレベルを吸ってもらうのだった。
-いつの日か戦いが終われば、
-もはや自分は用なしとなり、
-また空っぽになるまで吸ってもらえるかもしれない。
-その日を夢見て、彼は今日も戦い続けている。**
-こうして主人公たちの物語は幕を閉じたのであった。
+And so, the hero, fallen as Croix's slave,
+lived as her underling.*
+Even with his power was completely drained, he
+fought humans and monsters to gain his strength
+back, only to help Croix all over again.
+Supplying her with power, he became Croix's right
+hand man, playing an active part using the holy
+sword of light in the succubus invasions.
+And later, for his distinguished services, he even
+had some of his levels drained again as a "reward".*
+When the war ends, they'll probably have no use for 
+him anymore, and drain him dry once again 
+until there's nothing left.
+Even today, he continues fighting, dreaming of
+that day.*
+And so, the heroes' stories came to a close.
 
 <TK389>
 テロップ：中央
-サキュバスの奇襲の前に、
-なすすべなく敗れた主人公たちは、
-淫魔に搾精されもてあそばれていた。
-あちこちで団員たちの嬌声があがるなか、
-主人公とMilesも、ミレニアたちに襲われていた。
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as the hero and Miles were attacked by
+Mileena...
 
 ミレニア：上
-\vo[mi246]くすくす。大勝利♪**
-\vo[mi247]作戦がハマると気持ちいいね。
-手のひらの上で踊らされた気分はどうだった？
-レイ君、Miles君❤
+\vo[mi246](Giggle) Huge success♪**
+\vo[mi247]Our pleasure trap felt amazing didn't it?
+How did it feel to be manipulated by the palms of
+my hands? Ray? Miles?❤
 
 Ray：上
-ううっ・・・・。
+Oogh...
 
 Miles：上
-くそぉ・・・。ノブ、お前がまだ戦えたら・・。
-正気を取り戻してくれ・・・！
+Dammit... Nobus, if you could just fight...
+Come to your senses...!
 
 ミレニア：上
-\vo[mi248]残念だけど、ノブくんは戻ってこないよ。
-念入りに時間をかけて術をかけたからね。*
-\vo[mi249]今頃夢の中で、
-わたしの幻とずっとエッチしているんじゃないかな？
-うふふ。
+\vo[mi248]Oh that's too bad, Nobu isn't coming back-
+He's spending some quality time under my spell-*
+\vo[mi249]Even as we speak, he's probably having
+a sexy, lewd dream with my illusion magic isn't he?
 
 Miles：上
-ううっ、まだ諦めてたまるか！
-食らえ、このやろう・・・！！
+Ugh, we can't give up now!!
+They, they're gonna eat us for food...!!
 
 ミレニア：上
-\vo[mi250]おっと、
-まだ立ち上がれるだけの力が残っているんだ。
-さすがにアリス様を退けただけはあるね。
-\vo[mi251]ニンジャちゃんたち、
-そこの二人を押さえておいて。
+\vo[mi250]Oh my!
+You still have strength left to stand, I would 
+expect no less from those who repelled Alice-
+\vo[mi251]Ninjas, come and suppress
+these two people here.
 
 ニンジャガール：上
-はっ。ミレニア様。
+Yes Mileena.
 
 Miles：上
-ぐっ、放せ・・・。
-俺はあいつを助けるんだっ・・・。*
-こんなところで終わるわけには、
-ああっ、やめろ❤
-その汚い手でさわるんじゃねえ。あううっ・・・❤
+Rgh, release me!
+I'm aiding him...*
+The fight's over, we,
+Aaagh, stop that-❤
+Get your dirty hands off my..ahhh...❤
 
 ミレニア：上
-\vo[mi252]ふふっ、口だけは威勢がいいね。
-体はもうサキュバスに屈しているみたいだけど。*
-\vo[mi253]ニンジャちゃんたちに羽交い絞めにされて、
-手でチンコ触られただけで、また勃起してるじゃん。*
-\vo[mi254]こんな状況なのに、
-気持ちよくなっちゃうの？
-レイ君も扱かれて勃起しちゃって・・・。くすくす❤
+\vo[mi252]Ufufu- Your mouth is quite lively isn't it?
+But your body has already yielded to us succubus.*
+\vo[mi253]Just being pinned down, and having your penis 
+stroked by my ninja's hands, has you fully erect again.
+\vo[mi254]But despite your situation, it feels good doesn't it?
+Even Ray got an erection from being stroked too-
+Teehee-❤
 
 Ray：上
-ちがっ・・・❤ああっ、やめてっ❤
+That's not...❤ Aaah, stopp-❤
 
 ミレニア：上
-\vo[mi255]はいはい。
-何が違うのかなー？あはは❤*
-\vo[mi256]ああ、そうだ。
-二人に見せつけてあげよっか。ノブくん❤*
-\vo[mi257]今からノブくんとわたしで、
-ラブラブエッチをするの。
-レイ君とMiles君はそこで見ててね？
-\vo[mi258]ニンジャちゃんたちは、
-亀頭責めしてあげて？
-うふふ♪
+\vo[mi255]Yeah yeah-
+"But that's not true"-? Ahaha-❤*
+\vo[mi256]Ahh, that's right-
+I want to show you two something. Oh Nobu-❤*
+\vo[mi257]Nobu and I will do lots of lovey dovey 
+stuff and make out, so Miles, Ray, watch closely OK?
+\vo[mi258]And Ninjas,
+Stroke the heads of their penis OK?
+Ufufu♪
 
 ニンジャガール：上
-はっ。了解しました。
-二人に亀頭責めを行います。
+Yes, understood.
+We will move to tease the heads of their penis.
 
 ミレニア：上
-\vo[mi259]ノーブくん❤
-おっぱい吸いながら手でシコシコしてあげるね。
+\vo[mi259]Nobu-❤
+As you suck on my breasts, I'll softly stroke you with
+my hand, okay?
 
 ミレニア：上
-\vo[mi260]どう？気持ちいい？**
-\vo[mi261]ノブくん、これ大好きだもんね。
-夢の中で何回もしてあげて、
-そのたびにいっつもたくさん出してくれたね・・・❤
-\vo[mi262]わたしのために働いてくれたノブくんには、
-たっぷりご褒美をあげるからね・・・❤
+\vo[mi260]How is it? Does it feel good?**
+\vo[mi261]I love Nobu so much-
+No matter how many dreams I give him,
+he always pours out so much for me...❤
+\vo[mi262]And because Nobu works for me,
+I give him lots of rewards....❤
 
 Ray：上
-うっ、ううっ・・・・❤
+Uugh, Ooogh...❤
 
 ニンジャガール：上
-ふふ。
-あんたらもギンギンなのね。*
-こんな状況なのに、
-ミレニア様のおっぱい見て興奮したのかしら？
-それとも・・・。
-わたしに背中越しにおっぱい押し付けられて、
-えっちな気分になっちゃった？
-くすくす・・・♪
-ミレニア様の命令通りに、
-たくさん亀頭をいじめてあげる。*
-友達が搾り取られるのを見ながら、
-決して射精することのできない刺激にもだえなさい？*
-ほら、こうやって手のひらを被せて・・・・。
+Fufu- 
+Both of you are as hard as rocks-*
+You couldn't be getting aroused by Miss Mileena's
+breasts during a time like this could you?
+Or maybe...
+It's the sexy feeling of having my firm breasts 
+pushing against your back?
+Teehee...♪
+As Miss Mileena instructed, 
+I'll tease the tip of your cock over and over.*
+Agonize over the sensation of being unable to cum
+as you watch your friend being squeezed OK?*
+Hora- 
+As I cover it with the palm of my hand like this...
 
 Miles：上
-くっ、やめっ、あああっ❤❤
+Gh! St, sto, aaaaahhh-❤❤
 
 ニンジャガール：上
-あはは❤
-喘ぎ声あげちゃって・・・。*
-チンポの一番敏感なところを
-こうやって責められたらたまらないわよね。
+Ahaha-❤
+You're breathing so heavily...*
+When your cock's most sensitive place is teased
+like this, you just can't help it can you?
 
 Ray：上
-こ、これぐらいっ❤
-うっ、ううっ❤❤
+That's that only becau-❤
+Uugh, ooooghhh-❤❤
 
 ニンジャガール：上
-あらあら、そんなこと言いながら、腰が突き出てるわよ？
-わたしの手のひらに突きこむみたいに、
-腰をふっちゃって・・・。
-やっぱり先っぽをくるくるいじめられるだけじゃ、
-もどかしい？*
-射精できないのに、快楽だけはドギツイものね。
-でも・・・。*
-だからって、
-腰を振ることも我慢できないなんて情けない・・・♪
-くすくす・・・❤
-ほら、いくら腰を振ってもいいのよ。
-手のひらに押し付けても、
-それじゃ、射精できないから。
-射精できないもどかしさを増やして、
-自分で自分を余計に追い込んでいるだけ。*
-先っぽいじめもクルクル回すだけじゃなくて、
-こうやって手のひらで揉み込んだりもできるの・・・❤
+Ara ara- 
+You say such things, but your hips
+won't stop thrusting you know?
+It's almost like your trying to move your hips,
+thrusting your stiff cock between the palms
+of my teasing hands...
+And yet, the my hand still keeps circling
+around and around the head of your cock,
+frustrating, isn't it?
+Even though you can't cum, the pleasure is 
+too intense-
+But...
+It seems you can't help but shamefully thrust
+your hips all the same...♪
+Teehee...❤
+Hora- Shake your waist as much as you like.
+Even if you try press your cock against the palms
+of my hands...well then, I just won't let you cum- 
+Your desire to make yourself ejaculate will
+only edge your submission towards us.*
+But just swirling my fingers around the tip of 
+your penis isn't the only thing I can do, I can 
+also massage it with the palms of my hands...❤
 
 Ray：上
-あっ、あひぃっ❤
-やめ、あああっ❤❤
+Aah, ahieee-❤
+Sto, sto, aaaahhhh!!❤❤
 
 ミレニア：上
-\vo[mi263]あはは❤
-アンアン喘いじゃって、みっともなーい❤*
-\vo[mi264]ノブくんは竿をしごいてもらえているのに、
-二人はずーっと先っぽだけ。
-もどかしいね。うらやましいよね。
-\vo[mi265]んふっ、見て？
-ノブくんもうすぐ射精しちゃうみたい。
-ペニスが膨らんで、精液が昇ってきてる。
-\vo[mi266]いいよ。ノブくん。
-二人に見せつけよう？
-腰から力を抜いて、気持ちよくぴゅっぴゅっしようね❤
-\vo[mi267]はい、ぴゅっ、ぴゅっ、ぴゅー・・・❤
+\vo[mi263]Ahaha-❤
+Your gasps and moans are so unbe-coming-❤*
+\vo[mi264]I'm stroking the whole length of Nobu's penis,
+but you two are just getting the tip-
+It's so irritating- You envy him don't you-
+\vo[mi265](Giggle) See?
+Nobu is about to cum very soon.
+Watch his penis swell as it splurts out semen.
+\vo[mi266]It's OK, Nobu- Let's show these two people OK?
+Just let your waist relax and let it all flow out,
+splurt splurt splurt-❤
+\vo[mi267]There we go- Pew- Pew- Peww----❤
 
 ミレニア：上
-\vo[mi268]あん、手にどぴゅってかかった❤
-こんなにたくさん出してくれてうれしい❤
-気持ちよかった？ノブくん・・・❤
+\vo[mi268]Ahnn- You went and creamed my hand-❤
+I'm so happy you gave me so much semen-❤
+Did it feel good? Nobu...❤
 
 ニンジャガール：上
-あら。お友達は気持ちよく射精したみたいよ。**
-それなのにアンタたちはずーっとイケないまま生殺し。
-先端をいじめられ続けて快感を止めることもできない。*
-イキたい、イキたいって腰を動かしても、
-ずーっと射精できないの。
-くすくす。かわいそう♪
+Ara- It seems your friend had quite a pleasurable 
+ejaculation, leaving just you and your friend on 
+the edge of orgasm...
+But, we still won't stop pleasuring your weak,
+pliable cock heads with our dexterous hands-*
+You want to cum- You have to cum... 
+But even as you shake your hips, you cannot
+ejaculate at all- Teehee- Pathetic♪
 
 Ray：上
-うっ・・❤ぐううっ・・・❤
-ああっ・・❤
+Ugh...❤ Ooooghhh....❤
+Aaagh...❤
 
 ニンジャガール：上
-はいはい。腰をヘコヘコさせても無駄・・・・❤
+Yeah yeah, even if you helplessly thrust your
+hips into my hands, it's useless....❤
 
 ミレニア：上
-\vo[mi269]ねえ、レイ君、Miles君。
-射精させてほしい？
-もう我慢できないよね。
-\vo[mi270]それなら、ほら・・・。おねだりして？**
-\vo[mi271]「サキュバス様に逆らってごめんなさい。
-奴隷になります、射精させてください」って
-おねだり❤
+\vo[mi269]Heey- Ray, Miles-
+Don't you want to cum?
+You can't take it anymore can you?
+\vo[mi270]If you do then, hora...
+why don't you beg me for it?*
+\vo[mi271]"I'm so sorry for disobeying my succubus 
+overlords- I'll become your slave, 
+just let me cum!-", beg just like that-❤
 
 Miles：上
-ふ、ふざけるなっ・・・❤
-あふぅっ❤こ、こんな、責めぐらいでっ・・・❤❤*
-あっ、やめろっ・・・❤❤
-そんなに動かすなっ❤くそっ、気持ちよくなんかっ❤❤
-うがぁっ❤❤
+Why you, little...❤
+Aauugghh-❤ Th, th, this is torture...!❤❤*
+Aah, stop...❤❤
+When you move like that...❤ Damn, 
+it's too good!❤❤ Uuaagaghh!❤❤
 
 ニンジャガール：上
-素直になった方がいいわよ。
-ミレニア様は途中で射精を許可したりしないわ。*
-アンタたちが屈服するまで、
-何分でも何時間でも、
-延々と亀頭責めを続けさせる。そういうお方よ。
-わたしたちも交代制でやれば、
-いくらでもいじめられる。
-ね？今の状況がどれだけ辛いか分かった？
-こんな風に五本指で
-カリ首をさわさわってしたりとか・・・❤
-たまらないでしょ？早く負けたほうがいいわ。
+You should become honest with your desires.
+Miss Mileena will not let you cum otherwise-*
+Until you both give in, be it minutes, hours,
+or an eternity, we'll continue teasing the tip of 
+your cock, just like this-
+We'll even take shifts, taking turns teasing your
+sensitive cock heads with our coercive hands as
+much as we like-
+Well? Now do you understand the severity of
+your situation?*
+We'll use all out five slender fingers to stroke 
+and caress the tip of your cock and more...❤*
+It'd be unbearable wouldn't it? 
+You'd better give in quick-
 
 ニンジャガール：上
-キスで最後の一押し、してあげる・・・。
-ちゅ❤
+Maybe a final kiss from me can change your mind...
+Mmwah-❤
 
 Ray：上
-あへぇ・・❤❤
-も、もう・・・❤
+Ahiee...❤❤
+No, no, no mor...❤
 
 ニンジャガール：上
-友達に聞こえるのが嫌なら、
-わたしの口の中で言えばいいわ。*
-周りに漏れない小声で、
-キスしながらおねだり、しちゃおう？*
-おねだりすればこうやっていじめているチンポも、
-一気に竿を握って上下にシコシコ・・・❤*
-溜まりにたまった精液を、
-どぷどぷって爆発するみたいに射精できるのよ。*
-ほら、んっちゅ❤
-おねだり、するわよね・・・？
+If you're afraid your of friend listening,
+just speak it into my mouth-*
+Beg for it, moan into my mouth so no one
+else will hear- It'll be just like a kiss right?*
+If you beg for it, I won't just tease your aching
+cock like this, I'll also grasp the length of your
+penis and tightly pump it up and down...❤
+All that stored up semen in your balls will rush
+up and explode, coating my hands in thick,
+creamy semen-
+Hora- Mmwah-❤
+You want to beg for it, don't you...?
 
 Ray：上
-あああっ❤❤あひぃ・・・❤
-だっ、だめっ、もう・・・❤❤*
-サ、サキュバス様に逆らってごめんなさいぃ・・・❤
-奴隷になります❤射精させてくださいっ・・・❤❤
-ああああっ❤❤
+Aaaagh-❤❤ Ahiee...❤
+I, no, no, I can't take it anymore...❤❤*
+I- I'm so sorry for disobeying my succubus overlords-❤
+I'll be your slave-❤ Please, just let me cum...❤❤
+Aaaaaaaah!❤❤
 
 ニンジャガール：上
-ちゅぱ❤ちゅぷっ・・・❤
-んふふ。素直に言えたわね。*
-それじゃあ、ご褒美よ。
-わたしたちの奴隷に堕ちなさい・・・❤
+Slurp-❤ Pop-❤
+(Giggle) Obediently said-*
+Well then, time for your reward-
+Fall and become our slave-❤
 
 Ray：上
-あっ、そこっ❤❤気持ちいいっ❤
-すごいよぉ・・・❤❤こんなのダメ・・・❤
+Aah, my-❤❤ It's soo goood!!❤
+Amazing---❤❤ This is bad...❤
 
 ミレニア：上
-\vo[mi272]あはぁ❤とっても気持ちよさそう。**
-\vo[mi273]ニンジャちゃんの手が勢いよく竿をしごいて
-ぬちゃぬちゃっていやらしい音がたっぷりしている。*
-\vo[mi274]よかったね。レイ君。
-やっと射精できるよ。
-サキュバスに堕ちたご褒美。しっかり味わってね❤
+\vo[mi272]Aha-❤ Looks like it felt really good-**
+\vo[mi273]When my Ninja's hand vigorously strokes
+the length of your penis, lot of lewd, squelching 
+sounds fill the area-*
+\vo[mi274]I'm so happy for you Ray- You finally managed 
+to cum- This is the reward for those corrupted 
+by succubus- Taste it well, OK?❤
 
 ニンジャガール：上
-ほらほらほら！
-わたしのテクですぐにイカセテあげる。
-溜まったもの全部吐き出しなさい。
-竿だけじゃなくて玉も同時責め。
-これで終わりよ。
+Hora hora hora! I'll make you cum instantly with my 
+superior techniques- Let all those stored up things 
+spurt out of your swollen cock-
+I'll tease your balls and the shaft of your penis
+at the same time...! This is the end for you!
 
 Ray：上
-き、気持ちいいぃ・・・❤
-止まらないよぉ・・・❤
+So, so good...❤
+I can't stop...❤
 
 ミレニア：上
-\vo[mi275]ありゃりゃ。気持ちよすぎて気絶しちゃった。**
-\vo[mi276]ニンジャちゃん。
-あとで拠点に運んでおいて。
-そこで淫紋を刻んで、完全に奴隷にするわ。
-\vo[mi277]Miles君も、ふふっ、
-今負けを認めたみたいね。
-あんなに威張ってたのに、みっともないおねだり❤
-\vo[mi278]これでレイ君もMiles君もわたしのもの。
-こんなに楽に勝てたのはノブくんのおかげだよ❤
-うふふ♪
+\vo[mi275]Ara ara- It felt so good that you fainted-**
+\vo[mi276]Ninjas, carry him back to base later.
+There, I'll place my lewd crest on him, 
+and enslave him permanently-
+\vo[mi277]Even Miles... (Giggle)
+Seems to have acknowledged his defeat now-
+So arrogant, but such pathetic pleas-❤
+\vo[mi278]With this, Ray and Miles are ours.
+An easy win, all thanks to my Nobu-❤
+Ufufu♪
 
 テロップ：中央
-ミレニアたちの手でサキュバスの快楽を
-たっぷり味合わされた主人公たちは、
-完全に彼女たちの奴隷に堕ちてしまった。
-聖剣の英雄たちがサキュバスたちの戦力に入ったことで
-人間とサキュバスの間の戦力バランスは、
-大きく狂っていくことになる。
-しかし、当の彼らは
-もはやそのようなことは何も考えられない。*
-サキュバスたちの与える快楽に浸って、
-使い捨てられる道具としての人生を、
-幸福に終えたのであった。
-こうして主人公たちの物語はその幕を閉じた・・・。
+The heroes, forced to taste the pleasure of
+a succubus by Mileena's hand, quickly degraded
+into her perfect slaves.
+With the heroes of the holy swords bolstering the
+succubus' warpower, the balance of war between the 
+humans and succubus quickly fell out of proportion.
+But, as for them, they weren't able capable of
+thinking of anything regarding that any longer.*
+Soaked in the pleasure given by succubus, they 
+lived happy lives used as disposable living tools.
+And so, the heroes' stories came to a close...
 
 <TK392>
 テロップ：中央
-援軍が到着するも、
-複数の中級サキュバスの前に敗れた主人公たちは
-サキュバスたちに拘束されていた。
-仲間たちがほかの淫魔の調教を受ける中、
-主人公もミレニアに弄ばれているのだった。
+Despite the arrival of reinforcements, our Heroes 
+were defeated by the intermediate succubus.*
+Indecent moans from soldiers filled the
+area as even the hero was attacked by Mileena...
 
 ミレニア：上
-\vo[mi279]ふぅ・・・。なんとかなった。**
-\vo[mi280]え？
-油断するのはまだ早い、援軍がお前たちを倒すって？*
-\vo[mi281]ふふっ、残念だけど、それはないよ。**
-\vo[mi282]だって援軍の相手は、
-レイ君たちにお願いするし。
+\vo[mi279]Phew... We made it somehow.**
+\vo[mi280]Eh?
+"Don't be so sure of yourself! Our 
+reinforcements will defeat you!"?
+\vo[mi281]Fufu- While that would be a shame, 
+it's no biggie-*
+\vo[mi282]After all, I can just ask Ray to take
+care of them for me-
 
 ミレニア：上
-\vo[mi283]わたしの能力はね。心にスキマがある人に
-「種」を植え付けることができるの。*
-\vo[mi284]種を植えられた人は、
-夜の間強制的に夢を見させられて、
-わたしの幻とずーっとエッチする。そしてね、
-\vo[mi285]夢を見ている間、
-体はわたしの操り人形になる。ついでに、射精するたび
-にわたしに記憶と精気を貢いでくれるおまけつき❤
-\vo[mi286]レイ君は心が強いから、
-普通なら種は植えられないんだけど、
-無理矢理植えるやり方があるの。
-\vo[mi287]それは・・・。
+\vo[mi283]You remember what I can do right?
+I can place a [seed] in a certain weakened
+man's heart.
+\vo[mi284]With my seed planted in them,
+they'll be forced to have wet dreams every night,
+doing lots of sexy things with my illusions-
+\vo[mi285]And while they dream, their body 
+becomes my puppet to use. Incidentally, each 
+time they cum, they supply me with their 
+energy and memories-❤
+\vo[mi286]Because Ray's heart is so strong, 
+I can't plant my seed normally, so I'll have
+to do it forcefully. 
+\vo[mi287]That is to say....
+
 
 ミレニア：上
-\vo[mi288]射精、させること。
-男の人は射精する瞬間、心が無防備になるからね。
-そのときならどんな男が相手でも種を植えられる。
-\vo[mi289]種を植えて洗脳すると、
-何も考えない人形みたいになっちゃうし
-夜の間しか操れないから不便なんだけど、
-\vo[mi290]時間もないし、さくっとやっちゃうね。
-えい❤
+\vo[mi288]By making you ejaculate-
+The moment a man ejaculates, his heart becomes
+open and defenseless- In that moment I can
+place my seed in any hostile male-
+\vo[mi289]Brainwashed and induced by the seed in
+their mind, they become like a mindless puppet,
+manipulated by me every night-
+\vo[mi290]But there isn't much time, 
+so I'll make this quick OK?
+Eei-❤
 
 ミレニア：上
-\vo[mi291]うふふ。
-おっぱいおいしい？*
-\vo[mi292]わたし少し乳魔の素質があるみたいでさ、
-顔に押し付けてあげれば、
-男の子はすぐだらしなくなってくれるんだよ。
-\vo[mi293]レイ君もそうみたいだね。
-お顔がとろけてる。*
-\vo[mi294]おちんちんもシコシコ・・・ってしてあげると、
-ビクビクして喜んでいるね。*
-\vo[mi295]射精するとわたしの操り人形に
-なっちゃうからね。ほら、援軍が戻ってくるまで
-耐えなくちゃだめだよ？我慢、我慢・・・・。
-\vo[mi296]んー？
-腰をひくひくさせちゃって、我慢するの辛い？
-くすくす・・・❤そっか。
+\vo[mi291]Ufufu-
+Are my boobs tasty?*
+\vo[mi292]A light press of my plush, Breast Succubus-like
+boobs against someone's face, and boys become 
+all slutty in an instant-
+\vo[mi293]And you are no different, are you Ray?
+Your face is melting-*
+\vo[mi294]Even as I stroke your penis...
+I can feel it twitching with pleasure-*
+\vo[mi295]Because when you cum, you'll become my puppet yes?
+Hora- If you don't resist until reinforcements 
+arrive it'll be bad you know? Resist, resist...
+\vo[mi296]Hmm-? Your hips are twitching,
+is it that hard for you to resist?
+Teehee...❤ So I see-
 
 ミレニア：上
-\vo[mi297]じゃあ、イっていいよ。
-時間ないし。*
-\vo[mi298]我慢なんて無駄。
-サキュバスの気持ちよさには
-男の子は勝てないの。
-\vo[mi299]だから、さっさとイッて？
-ほら、ほら・・・❤
+\vo[mi297]Well then, go ahead and cum-
+There's no time-*
+\vo[mi298]It's no use-
+No boy can resist the comforting pleasure
+of a succubus-
+\vo[mi299]So, just cum OK?
+Hora, hora....❤
 
 ミレニア：上
-\vo[mi300]まだ出る？
-いいよ。全部出して・・・・。
+\vo[mi300]Still cumming?
+It's OK, let it all out....
 
 ミレニア：上
-\vo[mi301]はい。おしまい❤**
-\vo[mi302]他の子もできる限り戦力にしないとね。
-援軍がいつ戻ってくるか分からないし、急ごう。*
-\vo[mi303]にしても、レイ君。
-おっぱい一つで即堕ちするなんて、
-弱いなぁ・・・。くすくす・・・❤
+\vo[mi301]There, all done-❤**
+\vo[mi302]I try to avoid fighting as much as I can,
+and I don't know when the reinforcements
+will arrive. Let's hurry.                                              
+\vo[mi303]Although, Ray-
+Sucking so intently on my breasts,
+so helpless... Teehee...❤
 
 テロップ：中央
-ミレニアの手で
-あっという間に術をかけられた主人公は、
-自我を失い彼女の操り人形になり果てた。
-他の仲間たちも同様に
-次々と彼女の手で洗脳されていくのであった。*
-こうして、第九騎士団たちは
-援軍と戦うための兵力にされて、
-サキュバス軍の勝利に貢献した。
-女王への奇襲作戦は失敗に終わったのだった。**
-・・・・・。**
-ミレニアに直接搾られ、
-彼女の魅力をたっぷり教えられた彼らには、
-もはやミレニアの呪いを解くすべはない。
-彼女の操り人形として、
-残りの人生を生きて、
-動けなくなったら捨てられる未来が待つだけである。
-こうして、僕たちの物語はその幕を閉じたのであった。
+And so by Mileena's hand, the hero
+quickly fell under her spell.*
+His other companions were also similarly
+brainwashed by her hand one by one.*
+And so, The soldiers of the Ninth Order were
+made to fight the reinforcements, leading to
+an overall victory for the succubus army.
+The surprise attack on the 
+Succubus Queen had failed.*
+.....**
+Squeezed by Mileena herself, they were taught in 
+great detail about the many charms of a woman, and
+Mileena's spell over them quickly became permanent.
+They lived the rest of their lives as her puppets,
+abandoning their future, unable to move.*
+And so, our stories came to an end.
+
 
 <TK390>
 テロップ：中央
-サキュバスの奇襲の前に、
-なすすべなく敗れた主人公たちは、
-淫魔に搾精されもてあそばれていた。
-あちこちで団員たちの嬌声があがるなか、
-主人公はルミーネに搾精されていた。
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as the hero was attacked by Luminara...
 
 ルミーネ：上
-\vo[r89]んっふふー♪
-リベンジ完了。*
-\vo[r90]わたしのパワーアップした投げキッスは
-どうだった？
-ん？英雄くん❤
+\vo[r89]Ufufufu♪
+Revenge complete!-*
+\vo[r90]How do you like my new and improved
+kisses?
+Hm? Mr. Hero?❤
 
 Ray：上
-あううっ・・・・、ルミーネ様ぁ・・・❤
+Aoooghhh, oh Luminara...❤
 
 ルミーネ：上
-\vo[r91]きゃは。すっかりメロメロね❤**
-\vo[r92]わたしを倒した憎らしいアンタたちが、
-崖の上から一方的に投げキッスされて、
-それでみっともなく射精❤
-\vo[r93]くすくす・・・❤
-ああっ爽快だわ。*
-\vo[r94]さてと、このあとどうするかよね。
-このままアンタを奴隷にしてあげてもいいんだけど、
-それじゃあ、あの時受けた屈辱がすっきりしないし・・・。
-\vo[r95]そうね、
-アンタはわたしが直々に搾りつくしてあ・げ・る❤
-えい❤
+\vo[r91]Kyaha- You're totally in love with me-❤**
+\vo[r92]Though you spitefully defeated me, 
+you got a blown kiss from me atop the cliff,
+and ejaculated miserably-❤
+\vo[r93]Teehee...❤
+Aaah, how refreshing-*
+\vo[r94]Well now, what should we do after this? I guess I 
+could keep you as my slave, but then, that wouldn't
+make up for the last time you humiliated me...
+\vo[r95]Oh well-
+I'll just have to drain you d-r-y-❤
+Eei-❤
 
 Ray：上
-はぅう・・・❤
-やわらかいぃ・・・❤
+Haaooogh...❤
+So, so soft...❤
 
 ルミーネ：上
-\vo[r96]わたしのおっぱいで死ぬまでイケるのよ？
-光栄に思いなさい。*
-\vo[r97]ほら、胸をみっちり寄せて・・・❤
+\vo[r96]You'll cum between my breasts until you die OK?
+You should think of yourself as honoured.*
+\vo[r97]Hora- I'll squeeze my chest a little more...❤
 
 Ray：上
-あうっ、ううっ・・・・❤
-気持ちいいです、ルミーネ様ぁ❤❤
+Aaaagh, ooogh...❤
+Luminara, it feels soo good--!❤❤
 
 ルミーネ：上
-\vo[r98]当たり前じゃない。
-このわたしがパイズリしてあげているのよ？*
-\vo[r99]アンタらみたいな人間が
-我慢できるはずがない・・・❤
-そうでしょ？
-\vo[r100]乳圧をかけながら、
-プルンプルンのこのおっぱいで、
-おちんちんをズリズリ・・・♪
-\vo[r101]あは、我慢汁が止まらない。
-まるでローション代わりね。*
-\vo[r102]ほらほら。
-カリ首のところを両側から押しつぶしてあげる。*
-\vo[r103]敏感なところおっぱいに埋め込まれて、
-幸福感にとろけなさい。
+\vo[r98]Yes, that's normal-
+I mean, this is my paizuri after all-*
+\vo[r99]Humans like you find it impossible to resist...❤
+Isn't that right?
+\vo[r100]Held between my tits,
+between my bouncing breasts,
+going rub- rub- on your penis...♪
+\vo[r101]Aha, you can't stop leaking precum-
+It's just like lotion isn't it?*
+\vo[r102]Hora hora-
+I'll crush the head of your penis from both sides.*
+\vo[r103]As your most sensitive place is buried in my
+breasts, melt in happiness.
 
 Ray：上
-あう、あうぅう・・・❤
-最高ですぅ・・・❤ルミーネ様ぁ・・・❤
+Aaah, aooogh....❤
+This is the best...❤ Oh, oh Luminara...❤
 
 ルミーネ：上
-\vo[r104]くすくす。これされたら、
-たいていの男は脳みそとろけちゃうのよね。*
-\vo[r105]一番敏感なところを
-おっぱいでむぎゅってされれば、
-気持ちいい幸福感で頭の中真っ白になる。
-\vo[r106]ほら、このまま先っぽズリズリしながら、
-とどめをさしてあげる。
-ちょこんと出た先端を舌でなめてぇ・・・❤
-\vo[r107]えるえろぉ・・・❤**
-\vo[r108]ふふ、腰をガクンガクン揺らしちゃって。
-顔もとろけてドロドロ。
-口が半開きになってみっともないわ。
-\vo[r109]すぐにイッちゃっていいのよ。
-こんな風にされて耐えられる男なんていないんだから。
+\vo[r104](Giggle) When I do this,
+Most men end up getting their brains melted-*
+\vo[r105]With their most sensitive place squee-zed
+between my breasts, the pleasure of happiness
+makes their minds go pure white-
+\vo[r106]Hora- While I continue circling around
+the tip, I'll deal the finishing blow.
+By slightly licking the tip with my tongue...❤
+\vo[r107]Aaomph, aaomph....❤**
+\vo[r108]Fufu- Your waist is jerking and shaking-
+Even your face has gone all melty-
+Your half open mouth is soo unbecoming-
+\vo[r109]It's OK to cum right away though-
+No man can endure this-
 
 Ray：上
-はいぃ、ルミーネ様ぁ❤❤
-も、もう我慢できません・・・❤
-ああっ❤❤
+Yess, yes Luminara-❤❤
+I, I can't hold back anymore...❤
+aaaahhh!❤❤
 
 ルミーネ：上
-\vo[r110]うふ。どっぷりおいしい精液が出てきた。**
-\vo[r111]えるえるぅ・・・❤❤
+\vo[r110]Ufu- Lots of delicious semen came out-
+\vo[r111]Slurrup slururp...❤❤
 
 Ray：上
-あっ、あっ、そんな舐めないで・・・❤❤
-今、敏感だからぁ・・・❤❤
+Aah, aah, when you lick me there...❤❤
+I, I'm still sensitive...!❤❤
 
 ルミーネ：上
-\vo[r112]ご主人様の食事に文句付ける気？
-餌はだまって食べられてなさい。*
-\vo[r113]んっちゅぱ、じゅるるぅ❤
-えろえるぅ・・・❤
+\vo[r112]A master's meal does not complain you know?
+My prey must be silent and eaten.*
+\vo[r113]Mmmwah, slururp-❤
+Aoommm, nommm...❤
 
 ルミーネ：上
-\vo[r114]あは。また出したの？
-こらえ性がない❤*
-\vo[r115]もう根こそぎ搾るわね。
-おっぱいを動かして・・・。えいえい❤*
-\vo[rb]射精直後だろうとサキュバスには関係ないわ。
-わたしにパイズリされれば、奴隷君は
-どんどん自分の命を削って精液を吐き出しちゃう。
-\vo[r117]アンタも同じ。
-もう腰の奥がうずいてしょうがないんでしょう？
-いいのよ、さっさと全部出しなさい❤
-\vo[r118]ほらほら！
-死んでも十分おつりがくる気持ちよさで、
-天国に送ってあげる・・・❤
+\vo[r114]aha- Did you cum again?
+You have no endurance-❤*
+\vo[r115]I'll squeeze every once out of you-
+By moving my breasts... Eei- Eei-❤*
+\vo[rb]Ejaculating to a succubus has nothing to do with it.
+Once you've had my paizuri, my slaves eventually
+end up willingly spurting their life force and semen.
+\vo[r117]You are the same too. Even now, you can't help but
+notice the throb in your hips right?
+It's OK- Let it all out-❤
+\vo[r118]Hora hora!
+Even if you die, I'll give you more than enough 
+pleasure to send you to heaven...❤
 
 Ray：上
-あひぃ、ああっ、ルミーネ様っ❤❤
-止まらないっ❤あああっ❤
+Ahiee, aaah, Luminara--❤❤
+I can't stopp-❤ Aaaaahhhh-❤
 
 ルミーネ：上
-\vo[r119]うふふ。動かなくなった。**
-\vo[r120]熱い精液をこんなに出して、べとべとだわ。
-にしても、んー、おいしい♪
-さすがは英雄の精気ね❤
-\vo[r121]これで汚名も返上したし、聖剣も奪って、
-女王様の命を狙う作戦も未然に防いだ。
-わたし大出世しちゃうんじゃない？あは、楽しみー♪
+\vo[r119](Giggle) You stopped moving.*
+\vo[r120]You splurted out so much hot semen, I'm all slimy-
+Although... Mmm- Delicious♪
+As I had expected from the vigor of a hero-❤
+\vo[r121]I've returned the favour for my disgrace, taken the
+holy swords, and stopped the assassination attack on
+the Queen. I'm gonna get it good- Aha, fun times♪
 
 テロップ：中央
-ルミーネに搾りつくされて
-主人公はその人生を終えた。*
-他の仲間たちもサキュバスの餌や奴隷となり、
-第九騎士団は壊滅してしまったのであった。*
-こうして淫魔軍に無残に大敗し、
-主人公たちの物語はその幕を閉じのであった。
+And so the hero's life ended, squeezed by
+Luminara.*
+With the other soldiers were turned into slaves
+and livestock, the Ninth Order was no more.*
+And so, the hero's story ended, suffering a 
+crushing defeat by the succubus army.
 
 <TK391>
 守護兵：上
-レイ君！無事か！
-被害は出たが、こちらはあらかた片付いたところだ。
-なっ・・・！
+Sir Ray! You're safe!
+We have sustained significant damage, but we
+found a place where we can retreat to...!
 
 Ray：上
-あううっ・・・・、ルミーネ様ぁ・・・❤
+Aooogh... Mistress Luminara...❤
 
 ルミーネ：上
-\vo[r122]あは、遅かったじゃない。
-アンタらの頼みの英雄くんたちは、
-もうすっかりわたしの奴隷よ？
-\vo[r123]ほら、
-額にべっとりわたしのキスマークを付けられて、
-くすくす・・・。気持ちよさそうな顔しているでしょ？
+\vo[r122]Aha- Looks like you were too slow-
+The hero you were so dependent on, is
+already my total slave now-
+\vo[r123]Hora- With my thick kissy-mark on his 
+head...Teehee...He looks so much happier
+now doesn't he?
 
 守護兵：上
-レイ君・・・。
-くそ、正気に戻るんだ！*
-キミたちの聖剣なしでは、
-ボクたちでは複数の中級淫魔の相手は荷が重い。
-キミたちが頼りなんだ！
+Sir Ray...
+Dammit! Come to your senses!*
+Without the power of the holy swords you wield,
+we stand no chance against the intermediate
+succubui! We're all counting on you!
 
 Ray：上
-はひぃ・・・❤
-もっと、もっとお願いします、ルミーネ様ぁ・・・❤❤
+Yeaaah...❤
+More-- Please, do me more Mistress Luminara...❤❤
 
 ルミーネ：上
-\vo[r124]きゃはは❤
-アンタらの声は全然届いてないわね♪*
-\vo[r125]ねえ、想像してごらん？
-使命感に燃えた英雄くんが、
-こんな風にメロメロになっちゃったその快楽・・・。
-\vo[r126]わたしにキスされたら、
-その快楽を味わえるんだよー？
+\vo[r124]Kyahaha-❤
+Looks like he can't hear you at all-*
+\vo[r125]Hey- Can you imagine it? The hero, fired up
+with his sense of duty, becoming all lovey dovey
+to pleasure like this...
+\vo[r126]A kiss from me, and you'd experience the 
+same kind of pleasure wouldn't you?
 
 守護兵：上
-（ごくり・・・。）
+(Gulp...)
 
 守護兵：上
-おい、お前たち。気をしっかり持つんだ！
-我々が勝てなければ、聖剣は敵の手に渡るんだぞ！
-ここで負けてどうする！
+Hey! Pull yourselves together you lot!
+If we don't win here, the holy swords will
+fall into enemy hands! We can't lose!
 
 ルミーネ：上
-\vo[r127]はーい、隙あり❤
-んーっちゅ❤
+\vo[r127]And, there we go- That's my chance-❤
+Mm-wah-❤
 
 守護兵：上
-はひぃ・・・❤❤
-これはぁ・・・❤❤
+Ahiee...❤❤
+Wh-what just...❤❤
 
 ルミーネ：上
-\vo[r128]くすくす❤
-もう一押しかなー？*
-\vo[r129]それじゃあ、とどめは
-風の聖剣がなければ防げない。
-とびっきりの必殺技。
-\vo[r130]くらいなさい。「ハーレムキッスレイン」❤
-んーっちゅ❤ちゅっ❤ちゅっ❤ちゅっ❤
+\vo[r128]Teehee-❤
+Oh, is it my turn again?*
+\vo[r129]Well then, the holy swords can't protect
+you now- Time for my special move-*
+\vo[r130]Take this- [Harem Rain Kiss]!❤
+Mmwah-❤ Chu-❤ Chu-❤ Chu-❤
 
 ルミーネ：上
-\vo[r131]行け❤
-わたしのハートで快楽に染めてあげる❤
+\vo[r131]Here I go-❤
+I'll dye you in the pleasure of my hearts-❤
 
 守護兵：上
-はひぃっ❤ああっ、すごいっ❤
-あうぅ・・・❤❤*
-ルミーネ様ぁ・・❤❤
+Ahiieee-❤ Aaaah, amazing-❤
+Aooogh...❤❤*
+Luminara...❤❤
 
 守護兵：上
-お前たち、気をしっかり保つんだ！
-うわっ、やめろ、同士討ちをするな！
+Hey, hey! Stand your ground!
+Augh! Stop! Those people are on our side!
 
 ルミーネ：上
-\vo[r132]きゃはは♪
-わたしのために頑張ってー❤*
-\vo[r133]ほら、もっと応援してあげる。
-ちゅっ、ちゅっーぱ❤
+\vo[r132]Kyahaha♪
+Try your best for me-❤*
+\vo[r133]Hora- Lets get some more help-
+Mmwah- Mmm-wah-❤
 
 守護兵：上
-はい・・・❤
-ルミーネ様のためにぃっ・・・❤❤
+Yess....❤
+I fight for Luminara now...❤❤
 
 ルミーネ：上
-\vo[r134]あー、楽しかった。**
-\vo[r135]見て？
-みんなでズタボロになるまで争い合って、
-たくさんいた兵隊がもうほとんど残っていないわ。
-\vo[r136]これも、アンタら聖剣の使い手が、
-わたしに負けてくれたおかげ。*
-\vo[r137]ご褒美よ？受け取りなさい❤
+\vo[r134]Ahh- This is fun-**
+\vo[r135]See? Everyone's fighting each other until they're 
+wiped out. There aren't many soldiers left now-*
+\vo[r136]And it's all thanks to the user of the holy sword
+giving in to me-*
+\vo[r137]How about a reward? Here you go-❤
 
 Ray：上
-あっ、ああっ、そんな直接・・・❤
+Aah, aaaah, directly on the...❤
 
 ルミーネ：上
-\vo[r138]わたしのキスマークを、
-アンタの一番気持ちいい所にべっとり付けてあげる。*
-\vo[r139]気持ちよすぎて狂っちゃうかも・・・❤**
-\vo[r140]んっちゅ、ちゅう・・❤
+\vo[r138]I'll place my thick, kissy mark
+on your most pleasurable place-*
+\vo[r139]It'll feel so good, you might go mad...❤**
+\vo[r140]Mmwah- Slururp-❤
 
 Ray：上
-はひぃっ❤❤あっ、ああっ❤
+Ahieee-❤❤ Aaah, aaaaahhh!❤
 
 ルミーネ：上
-\vo[r141]あは❤
-腰を浮かせてカクカクさせちゃって・・・。*
-\vo[r142]キスマークだけでイっちゃうの？
-まだしゃぶってないのに？
-んっちゅ❤
+\vo[r141]Aha-❤
+Your waist just thrust upwards on it's own...*
+\vo[r142]You're not going to cum from a kiss mark are you?
+I haven't even started sucking yet-
+Mmwah-❤
 
 Ray：上
-だって、気持ちよすぎてっ❤❤
-あっ、ルミーネ様っ、イく、イっちゃう・・❤❤
-あああっ❤❤
+But, but it's soo good-❤❤
+Aah, Mistress Luminara, I, I'm cumming...!❤❤
+Aaaahhh!!❤❤
 
 ルミーネ：上
-\vo[r143]くすくす・・・❤
-キスマークまみれにされただけで、
-こんなに出して・・・。
-\vo[r144]そんなじゃ、
-この先の刺激に耐えられないわよ？
-んっ、えるえろぉ・・❤❤
-\vo[r145]キスマークまみれのアンタのチンポ、
-口でくわえて、しゃぶりつくしてあげる❤*
-\vo[r146]じゅぷじゅるぅ、じゃぽじゅぽじゅぽっ❤❤
+\vo[r143]Teehee...❤
+To cum this much just from having my kissy marks
+smeared on you...
+\vo[r144]Well then, I guess you wouldn't be
+able to endure this stimulation either then huh?
+Mmm, slurup slurp slurp...❤❤
+\vo[r145]I'll take your lipstick smeared penis,
+and suck on it inside my mouth-❤*
+\vo[r146]Slurururrp- Ommmphmphmph-❤❤
 
 Ray：上
-あひっ、あっ、こ、こんなのっ❤❤
-無理っ❤❤ああっ、おかしくなるぅっ❤❤*
-ルミーネ様、ルミーネ様っ、ルミーネ様ぁぁ・・❤❤
+Ahiee, Aaahh, this, this--❤❤
+This is too much-❤❤ Aaaaah, I feel strange-❤❤*
+Mistress Luminara, Mistress Luminara-❤
+Mistress Luminaraaaaa....!❤
 
 ルミーネ：上
-\vo[r147]んっ、ごくぅ・・・。
-ごちそうさまでした♪*
-\vo[r148]せっかく虜にしたし、
-死ぬ寸前で止めてあげたわ。
-アンタは目覚めたら、この先ずーっとあたしの奴隷よ。
-\vo[r149]聞かなくてもわかってる。
-うれしいでしょ？*
-\vo[r150]さあ、わたしに尽くして
-サキュバスの侵略のために努力することね。
-人間の”救世主”、もしくは”英雄”さん❤きゃはは♪
+\vo[r147]Mmmph...gulp-
+Thanks for the meal♪*
+\vo[r148]You wanted to become my slave so much,
+so I stopped just before you were about to die-
+Now when you wake, you'll be my total slave-
+\vo[r149]I'm sure you can't even understand me-
+But you're happy aren't you?*
+\vo[r150]Now, you fight for the succubus army,
+devoting yourself to me, OK? Human "saviour", 
+or should I say, Mr. "Hero"-❤ Kyahaha♪
 
 テロップ：中央
-ルミーネに心の底まで魅了されて、
-僕は彼女の奴隷になってしまった。*
-彼女に与えられた快感が身体に深く深く染みつき、**
-もはや彼女に対して、
-反抗の意志を抱くことなどなかった。*
-僕の価値観は、彼女の快楽によって
-根底から作り変えられてしまったのである。*
-彼女のために尽くすことこそが
-人生の喜びとなってしまった僕は、
-サキュバスの軍においてに大いに活躍した。
-こうして、救国の英雄は淫魔の手先になり果て、
-その残りの人生を裏切り者として終えたのである。
-僕たちの物語はその幕を閉じた。
+Completely infatuated by Luminara, the hero 
+became her slave.*
+The pleasure she gave etched a deep, deep stain
+on his body, and he quickly found himself 
+without the will or reason to go against her.
+His sense of morals was changed and molded
+through her pleasures.*
+Rejoicing in his new life of pleasing her,
+he actively played a big part in helping the
+succubus army.
+And so, the story of the hero ended with him as
+a succubus goon, living the rest of his life
+as a traitor to humankind.
 
 <TK398>
 テロップ：中央
