@@ -27,7 +27,7 @@ to zero.
 <PL4>
 テロップ：中央
 The Village Girl and Devout Girl masturbation
-dialogue changes if you have their panties.
+dialogue changes if you have their panties.*
 Also, a special event occurs if the item is
 used adjacent to one or more of those
 characters. 
@@ -35,7 +35,7 @@ characters.
 <PL4-2>
 テロップ：中央
 The Village Girl and Devout Girl masturbation
-dialogue changes if you have their panties.
+dialogue changes if you have their panties.*
 Also, a special event occurs if the item is
 used adjacent to one or more of those
 characters. 
