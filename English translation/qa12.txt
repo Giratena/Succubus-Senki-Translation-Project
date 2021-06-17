@@ -1,37 +1,31 @@
 <PL0>
 テロップ：中央
-備考：
 The Determined Girl and Village Girl have
 different masturbation dialogue if the character
 is Nobus.
 
 <PL1>
 テロップ：中央
-備考：
 No outstanding features.
 
 <PL1-2>
 テロップ：中央
-備考：
 No outstanding features.
 
 <PL2>
 テロップ：中央
-備考：
 The two Primary School students have different
 last request dialogue should their HP reduce
 to zero.
 
 <PL2-2>
 テロップ：中央
-備考：
 The two Primary School students have different
 last request dialogue should their HP reduce
 to zero.
 
 <PL4>
 テロップ：中央
-備考：
 The Village Girl and Devout Girl masturbation
 dialogue changes if you have their panties.
 Also, a special event occurs if the item is
@@ -40,7 +34,6 @@ characters.
 
 <PL4-2>
 テロップ：中央
-備考：
 The Village Girl and Devout Girl masturbation
 dialogue changes if you have their panties.
 Also, a special event occurs if the item is
@@ -49,7 +42,6 @@ characters.
 
 <PL6>
 テロップ：中央
-備考：
 The Boobie Elf and Elf begging dialogue changes
 if the unit has a relevant "Submit" skill.
 The Lamia's last request also changes a little
@@ -58,7 +50,6 @@ for Ray, Miles, or Nobus.
 
 <PL6-2>
 テロップ：中央
-備考：
 The Boobie Elf and Elf begging dialogue changes
 if the unit has a relevant "Submit" skill.
 The Lamia's last request also changes a little
@@ -103,21 +94,18 @@ BGM 3
 
 <PL8>
 テロップ：中央
-備考：
 Ray and Miles have different masturbation
 dialogue after the Queen's spell has been
 broken.
 
 <PL8-2>
 テロップ：中央
-備考：
 Ray and Miles have different masturbation
 dialogue after the Queen's spell has been
 broken.
 
 <PL9>
 テロップ：中央
-備考：
 If a unit has the masturbation mad status,
 Cherish's last request will be masturbation
 focused.
@@ -127,7 +115,6 @@ position at least once.
 
 <PL9-2>
 テロップ：中央
-備考：
 If a unit has the masturbation mad status,
 Cherish's last request will be masturbation
 focused.
@@ -137,29 +124,24 @@ position at least once.
 
 <PL10>
 テロップ：中央
-備考：
 Luminara has an additional seduction event when
 the power of the wind sword is active.
 
 <PL10-2>
 テロップ：中央
-備考：
 Luminara has an additional seduction event when
 the power of the wind sword is active.
 
 <PL14>
 テロップ：中央
-備考：
 No outstanding features.
 
 <PL14-2>
 テロップ：中央
-備考：
 No outstanding features.
 
 <PL13>
 テロップ：中央
-備考：
 The Paizuri Doll (Big) "last request B" has
 a dialogue variation if the unit's strength
 is lower than hers.
@@ -168,7 +150,6 @@ slightly when masturbaing to Alice.
 
 <PL13-2>
 テロップ：中央
-備考：
 The Paizuri Doll (Big) "last request B" has
 a dialogue variation if the unit's strength
 is lower than hers.
@@ -177,7 +158,6 @@ slightly when masturbaing to Alice.
 
 <PL15>
 テロップ：中央
-備考：
 The dialogue when masturbaing to an illusion are
 all identical but have different begging dialogue.*
 Dialogue will also change if a unit masturbates
@@ -189,7 +169,6 @@ the sword of wind.
 
 <PL15-2>
 テロップ：中央
-備考：
 The dialogue when masturbaing to an illusion are
 all identical but have different begging dialogue.*
 Dialogue will also change if a unit masturbates
