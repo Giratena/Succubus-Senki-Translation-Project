@@ -1,6 +1,6 @@
 <(65541)Lamia@0>
 アクティブ：上
-Ahu- Well, look at that-
+Ahu- What's the matter?
 Your eyes are already glued to my chest.
 
 アクティブ：上
@@ -214,7 +214,7 @@ Ho-ra, listen to my song, and become my slave-❤
 Song of Seduction!❤
 
 タイトル：中央
-蠱惑の歌
+Song of Seduction
 
 ：上
 Teehee♪
@@ -1061,7 +1061,7 @@ that's all-
 So come on- Faint from the pleasure of my smooth 
 feet-❤
 
-<(65538)アルラウネ@0>
+<(65538)Alraune@0>
 アクティブ：上
 Ufufu-❤
 Were you tempted by my seductive aroma?❤*
@@ -1217,7 +1217,7 @@ Pshew-...❤
 I've infused my pollen with magic just for you-❤
 Go on, breathe it all in as much as you can-❤
 
-<(65546)アルラウネ@0>
+<(65546)Alraune@0>
 アクティブ：上
 Ufufu-❤
 Were you tempted by my seductive aroma?❤*
