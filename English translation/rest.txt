@@ -10496,24 +10496,26 @@ My strength was squeezed by Mirage...
 
 <CM114>
 テロップ：中央
-拠点イベントの回想において、
-ゴールドや名声などの減少が、
-実際に起きるかどうかを設定できます。
+In the investigation event memoirs,
+you have the option of setting whether
+gold or renown will decrease or not.
 
 テロップ：中央
-現在は無害化スイッチがONになっており、
-ゴールドの減少などは起きません。
+Currently, gold and renown retention
+is set to ON. Gold and renown will
+not decrease.
 
 テロップ：中央
-現在は無害化スイッチがOFFになっており、
-ゴールドの減少などが起きるので注意してください。
+Currently, gold and renown retention
+is set to OFF. Gold and renown will
+decrease during events, so be careful.
 
 選択肢：1
-無害化スイッチをONにする
-無害化スイッチをOFFにする
+Turn gold and renown retention ON
+Turn gold and renown retention OFF
 
 テロップ：中央
-設定が完了しました。
+Settings have been saved.
 
 <CM86>
 ：スチル
