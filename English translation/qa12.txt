@@ -1,55 +1,47 @@
 <PL0>
 テロップ：中央
-備考：
 The Determined Girl and Village Girl have
 different masturbation dialogue if the character
 is Nobus.
 
 <PL1>
 テロップ：中央
-備考：
 No outstanding features.
 
 <PL1-2>
 テロップ：中央
-備考：
 No outstanding features.
 
 <PL2>
 テロップ：中央
-備考：
 The two Primary School students have different
 last request dialogue should their HP reduce
 to zero.
 
 <PL2-2>
 テロップ：中央
-備考：
 The two Primary School students have different
 last request dialogue should their HP reduce
 to zero.
 
 <PL4>
 テロップ：中央
-備考：
 The Village Girl and Devout Girl masturbation
-dialogue changes if you have their panties.
+dialogue changes if you have their panties.*
 Also, a special event occurs if the item is
 used adjacent to one or more of those
 characters. 
 
 <PL4-2>
 テロップ：中央
-備考：
 The Village Girl and Devout Girl masturbation
-dialogue changes if you have their panties.
+dialogue changes if you have their panties.*
 Also, a special event occurs if the item is
 used adjacent to one or more of those
 characters. 
 
 <PL6>
 テロップ：中央
-備考：
 The Boobie Elf and Elf begging dialogue changes
 if the unit has a relevant "Submit" skill.
 The Lamia's last request also changes a little
@@ -58,7 +50,6 @@ for Ray, Miles, or Nobus.
 
 <PL6-2>
 テロップ：中央
-備考：
 The Boobie Elf and Elf begging dialogue changes
 if the unit has a relevant "Submit" skill.
 The Lamia's last request also changes a little
@@ -82,8 +73,8 @@ Skill+5
 Strength+5
 
 テロップ：中央
-You can prevent any fetishes gained in this room
-here.
+You can prevent any fetishes from being gained 
+in this room here.
 
 選択肢：1
 No fetishes
@@ -103,21 +94,18 @@ BGM 3
 
 <PL8>
 テロップ：中央
-備考：
 Ray and Miles have different masturbation
 dialogue after the Queen's spell has been
 broken.
 
 <PL8-2>
 テロップ：中央
-備考：
 Ray and Miles have different masturbation
 dialogue after the Queen's spell has been
 broken.
 
 <PL9>
 テロップ：中央
-備考：
 If a unit has the masturbation mad status,
 Cherish's last request will be masturbation
 focused.
@@ -127,39 +115,33 @@ position at least once.
 
 <PL9-2>
 テロップ：中央
-備考：
 If a unit has the masturbation mad status,
 Cherish's last request will be masturbation
 focused.
 Cherish's last request dialogue will also
-change of they have seen her cowgirl
+change if they have seen her cowgirl
 position at least once.
 
 <PL10>
 テロップ：中央
-備考：
 Luminara has an additional seduction event when
 the power of the wind sword is active.
 
 <PL10-2>
 テロップ：中央
-備考：
 Luminara has an additional seduction event when
 the power of the wind sword is active.
 
 <PL14>
 テロップ：中央
-備考：
 No outstanding features.
 
 <PL14-2>
 テロップ：中央
-備考：
 No outstanding features.
 
 <PL13>
 テロップ：中央
-備考：
 The Paizuri Doll (Big) "last request B" has
 a dialogue variation if the unit's strength
 is lower than hers.
@@ -168,7 +150,6 @@ slightly when masturbaing to Alice.
 
 <PL13-2>
 テロップ：中央
-備考：
 The Paizuri Doll (Big) "last request B" has
 a dialogue variation if the unit's strength
 is lower than hers.
@@ -177,7 +158,6 @@ slightly when masturbaing to Alice.
 
 <PL15>
 テロップ：中央
-備考：
 The dialogue when masturbaing to an illusion are
 all identical but have different begging dialogue.*
 Dialogue will also change if a unit masturbates
@@ -189,7 +169,6 @@ the sword of wind.
 
 <PL15-2>
 テロップ：中央
-備考：
 The dialogue when masturbaing to an illusion are
 all identical but have different begging dialogue.*
 Dialogue will also change if a unit masturbates
@@ -205,7 +184,7 @@ the sword of wind.
 Enemy characters from cleared stages are
 displayed in the Recollection Room.
 Move in front of each character
-to see their events.
+to see his/her events.
 - The green crystal will display relevant notes
 about viewing a certain lines of dialogue.
 - Examine the orange crystal to change the
@@ -246,7 +225,7 @@ Succubus Maid B：上
 So our guest likes the feel of our gloves on his 
 dick? Or maybe he's that way with any part of 
 clothing we wear?
-It may permeated with small traces of our sweat, 
+It may be permeated with small traces of our sweat, 
 which can act as an lovely aphrodisiac, so that 
 may be why it feels nice.
 Go on- Stroke and rub it up and down your shaft.
@@ -286,9 +265,9 @@ Ahh, aahhh...❤
 テロップ：中央
 Unable to endure any longer, \act started 
 masturbating.*
-He wrapped the timid succubus' soft panties around
-his penis, and started stroking with in a 
-mindless daze...
+He wrapped the timid succubus' soft panties 
+around his penis, and started stroking 
+in a mindless daze...
 
 アクティブ：上
 Haaah, Haah...❤
@@ -298,8 +277,8 @@ Aaahh-❤
 Succubus Maid A：上
 Ara ara- You're going to start stroking your 
 penis with such lewd underwear?*
-intentionally masturbating in front of us maids,
-stroking wholeheartedly... Teehee- You are a quite
+Intentionally masturbating in front of us maids,
+stroking wholeheartedly... Teehee- You're quite
 the perverted guest-❤
 
 Succubus Maid B：上
@@ -346,7 +325,7 @@ Ooh, oogh...❤
 Ahh, aaah...❤
 
 テロップ：中央
-Unable to control himself anylonger,
+Unable to control himself any longer,
 \act started masturbating.*
 No sooner than he had sniffed the scent of the
 panties, he wrapped them around his penis
@@ -424,7 +403,7 @@ of the trial?
 
 Elf：上
 (Giggle) You ejaculated like an idiot, and you've
-got such a pleasure filled expression too...*
+got such a pleasure-filled expression too...*
 I'll never understand these perverted creatures.
 
 Alraune：上
@@ -436,7 +415,7 @@ Did that feel good?
 Ahh, aaah...❤
 
 テロップ：中央
-Unable to control himself anylonger,
+Unable to control himself any longer,
 \act started masturbating.*
 No sooner than he had sniffed the scent of the
 bra, he wrapped them around his penis
@@ -510,7 +489,7 @@ breasts if you just asked-❤ (Giggle)
 
 Blowjob Bandit：上
 Ufufu-
-losing your mind while ejaculating from
+Losing your mind while ejaculating from
 masturbating to someone's bra...
 You really are beyond saving, aren't you?❤
 
@@ -566,7 +545,7 @@ like this～❤
 Village Girl：上
 (Giggle) You tried so hard to 
 resist our charms, so why did you start
-masturbating your big sisters breasts?～❤
+masturbating to your big sister's breasts?～❤
 You really can't resist～❤
 
 アクティブ：上
@@ -704,15 +683,15 @@ That's okay with you, right?
 Could you give me some of your energy?
 
 選択肢：1
-I I want it.
-I I don't want it.
+I want it.
+I don't want it.
 
 テロップ：中央
 Tainted by lust, her invitation 
 couldn't be refused!
 
 選択肢：1
-I I want it.
+I want it.
 
 Village Girl：上
 Uugh... You brute...
@@ -729,7 +708,6 @@ It's like your heart is slowly melting.
 Do you want more kisses? (Giggle)
 
 <TK5>
-Village Girl：上
 Village Girl：上
 Ooh, my HP has become 1 again...**
 Ufufu- you already know what you want your big 
@@ -942,7 +920,7 @@ Are you imagining my feet stroking you～❤*
 Cumming while suicide masturbating is the best～❤
 
 Determined Girl：上
-Ahaha, so this is you're so called mercenary
+Ahaha, so this is your so called mercenary
 group, who spurt semen on their enemies
 and lose on their own～❤
 
@@ -959,7 +937,7 @@ This is bad... I'm, already...～❤
 Determined Girl：上
 Ara ara. What is it?
 Couldn't you resist doing 
-something lewd with me?*
+something lewd with me?
 Everyone else's lives are lost,
 and you're going to cum stroking your penis.
 Isn't that pathetic～❤
@@ -999,7 +977,7 @@ Forget about getting a footjob,
 dying like this is the best～❤
 
 Determined Girl：上
-Ahaha, so this is you're so called mercenary
+Ahaha, so this is your so called mercenary
 group, who spurt semen on their enemies
 and lose on their own～❤
 
@@ -1051,7 +1029,7 @@ You... Cheeky...
 
 Determined Girl：上
 Fufu- 
-Yeah, just like that...～**
+Yeah, just like that...～*
 So you want to surrender to my feet after all～❤
 
 Determined Girl：上
@@ -1136,7 +1114,7 @@ If I whisper in your ear like this...
 It's like my succubus voice is melting
 your ears right?～❤
 Fufu...～❤
-It's okay. No man can win against a succubus.**
+It's okay. No man can win against a succubus.*
 Just entrust your body to my voice...**
 Hora- Cum～❤ Cum～❤
 
@@ -1236,7 +1214,7 @@ I'm so happy onii-chan thinks of me like that...
 I'll do something special for you. Lookie lookie!
 I'll lift my skirt and 
 show you my pan・ti・es～❤*
-Ahaha, your stroking got faster-❤
+Ahaha, you're stroking got faster-❤
 Did seeing my panties make you aroused?*
 It's okay-❤
 Rub yourself until you cum～❤
@@ -1269,12 +1247,12 @@ But, but! I'd love to help service you too～**
 Hora, I'll just lift my skirt, and flash my pan・ti・es～❤**
 Because you've come this far,
 I'll thrust out my ass just for you～❤*
-I can see the arousal flowing in to your penis～♥**
+I can see the arousal flowing into your penis～♥**
 Ahahaha, your bloodshot eyes are so scary!
 But you can't stop stroking, can you?～❤
 Are you gonna cum looking at my panties?
 Don't think about it～❤
-You’re a perv who gets off staring at 
+You're a perv who gets off staring at 
 little girl's panties～❤ Cum!
 
 Loli Succubus：上
@@ -1302,7 +1280,7 @@ it makes me want to make you feel good.
 Teeheehee～❤
 Uh huh. I see～
 It's okay, you don't need to say it so
-desperately. Let’s do lots of lewd things～❤
+desperately. Let's do lots of lewd things～❤
 
 Loli Succubus：上
 Ufufu. All your white pee-pee came out～❤
@@ -1387,7 +1365,7 @@ so ahead, stare at my soles...*
 You know what happens when you stroke 
 your penis right? Ahaha!
 Huh? Now you're thanking me as well?
-You really are the worst-❤*
+You really are the worst-❤
 It's okay. Forget about the fight, and stroke
 yourself to a messy climax～❤ Pervert!
 
@@ -1518,7 +1496,7 @@ Your big sister is a succubus, so
 all of you humans are our enemies.*
 Even if you show us mercy, we'll drain you dry 
 anyway.*
-Ahaha! It’s useless to try and resist.
+Ahaha! It's useless to try and resist.
 After all...
 
 Footjob Succubus：上
@@ -1553,7 +1531,7 @@ Ara ara.
 The sight of my wonderful tits is too much
 for you, isn't it?
 It's alright.
-Your big sister will help you masturbate*
+Your big sister will help you masturbate.*
 I'll sway my breasts, just like this...❤**
 Fufu- it's like your eyes are glued to them-❤
 It feels good to stroke yourself into submission
@@ -1591,7 +1569,7 @@ Ahaha. Another guy actually came～❤**
 You couldn't resist anymore after seeing
 your ally masturbate to my breasts, could you?*
 It's alright.
-Your big sister will help you masturbate*
+Your big sister will help you masturbate.*
 I'll sway my breasts, just like this...❤**
 Fufu- it's like your eyes are glued to them-❤
 It feels good to stroke yourself into submission
@@ -1901,9 +1879,9 @@ many times just like this...❤
 
 Luminara：上
 \vo[rumi56]Ara-❤ Instant death-❤**
-\vo[rumi57]After all, there is no man who can
-resist the grip of my breasts while being showered
-in kisses-❤
+\vo[rumi57]After all, there is no man who can resist the
+grip of my breasts while being showered
+with kisses-❤
 \vo[rumi58]Would anyone else like to come? 
 I'll kill you with the highest of pleasures-❤
 
@@ -2053,9 +2031,10 @@ Even though I love you so much...❤
 Come on, don't do this-
 I like you-❤ You like me-❤ I love you...❤*
 It's as if I'm melting your mind when I talk
-like this, right?
+like this, right?*
 I love you...❤ You love me...❤
 Ufufu- you want to listen to me even more...
+
 選択肢：1
 Wait and see what happens.
 Stab at her, disregarding temptation.
@@ -2122,94 +2101,18 @@ Ufufu- it's frustrating when you can't cum,
 isn't it? Just stay right there, and I'll make
 sure to give everyone lots of love～❤
 
-<AT15>
-Junior Student：上
-Kya!
-Ooh. Why must you bully me?
-Even though I love you so much...❤
-Come on, don't do this-
-I like you-❤ You like me-❤ I love you...❤**
-It's as if I'm melting your mind when I talk
-like this, doesn't it?
-I love you...❤ You love me...❤
-Ufufu- you want to listen to me even more...
-選択肢：1
-Wait and see what happens.
-Stab at her, disregarding temptation.
-
-テロップ：中央
-You were too excited to resist her advances!
-
-選択肢：1
-Wait and see what happens.
-
-Junior Student：上
-Eh? You can't?
-Pretty please?❤
-
-：スチル
-It's impossible to defy her while enchanted!
-
-Junior Student：上
-Kyaa!
-Love is cruel...❤
-
-Junior Student：上
-Your eyes are already becoming blank,
-aren't they?❤*
-With just a couple of whispers,
-you're already at your limit aren't you?
-Hora...
-Lovey-❤ Dovey-❤ I love you big brother-❤
-You love me so much-❤ You love me so
-much you could die-❤ You can't stop loving me-❤
-The more you hear it,
-the blanker your mind becomes-❤*
-Come on, hora, relax,
-let your arms hang loose...
-
-Junior Student：上
-I like you-❤ I like you-❤ I love you-❤
-You love me-❤ You love me-❤ You love me...❤
-Ufufu...
-Even when I whisper like this,
-just hearing me say the word "love" makes
-your mind spin around and around-❤
-It's as if my voice is melting your mind.
-The pleasure is amazing, isn't it?
-Ufufu...
-
-Junior Student：上
-You've lost all your strength,
-just like an empty puppet...❤
-My cute, loveable puppet-❤
-Okay, I'll give you some energy back-
-Mwah-❤
-
-Junior Student：上
-Haha-❤
-You came from just a small kiss-❤
-You lost all your resistance♪
-Ufufu- I love big brothers who can't endure-❤
-And I love big brother's energy-
-I'll put it to good use.
-
-Junior Student：上
-Ufufu- it's frustrating when you can't cum,
-isn't it? Just stay right there, and I'll make
-sure to give everyone lots of love-❤
-
 <TK36>
 Junior Student：上
 Kya!
 Ooh. Why must you bully me?
 Even though I love you so much...❤
 Come on, don't do this-
-I like you-❤ You like me-❤ I love you...❤**
+I like you-❤ You like me-❤ I love you...❤*
 It's as if I'm melting your mind when I talk
-like this, doesn't it?
+like this, doesn't it?*
 I love you...❤ You love me...❤
 Ufufu- you want to listen to me even more...
+
 選択肢：1
 Wait and see what happens.
 Stab at her, disregarding temptation.
@@ -2868,7 +2771,7 @@ No... I'm, already...❤
 アクティブ：上
 Aah-❤
 
-中等部生徒：上
+Middle School Girl：上
 Teehee❤
 Couldn't you endure the sight of my breasts?*
 To be taking your penis out before your enemy,
@@ -2878,7 +2781,7 @@ That looks like it feels good-❤ (Giggle)
 アクティブ：上
 Oooh...❤
 
-中等部生徒：上
+Middle School Girl：上
 Fufu. Since you're so pathetic,
 I'll show you my breasts.
 Hora... Stare at them as much as you like, okay?
@@ -2888,7 +2791,7 @@ And just like that, you're in my boobie trance-
 Hora, dye my cleavage in your white semen
 as I sway my breasts in front of your eyes-❤
 
-中等部生徒：上
+Middle School Girl：上
 Fufu- you made my cleavage all slimy-
 And so much energy too, thank you-❤
 Tee-hee...
@@ -3239,7 +3142,7 @@ Ooh, make me feel good...❤
 Please...❤
 
 High School Girl：上
-Ara, did you want me to put you under my charms?
+Ara, you want me to put you under my spell?**
 Okay,
 in that case, I'll be as affectionate as possible.
 
@@ -3253,8 +3156,8 @@ Oh my.
 You're better than I thought.
 I'm at my wit's end here.
 Fufu- looks like I'll have to get serious.
-Now, observe,
-as I turn you into a slave with my eyes!
+Now. Observe, as I turn you into a slave with
+my own eyes!
 
 選択肢：1
 Look into her eyes.
@@ -3365,7 +3268,7 @@ Ha! Seriously? You couldn't you stop yourself
 from jerking off couldn't you?*
 Even casting aside your weapons... How
 undignified. But it's okay. You can cum while
-masturbating if you want*
+masturbating if you want.
 Well then. Since you already came this far, you
 may as well perish while savouring my body-❤
 Hora, I'll embrace you with my naked body.
@@ -3810,9 +3713,10 @@ good, wouldn't it?
 It's irresistible, isn't it?
 
 Village Girl：上
-Ara-❤ You came so much-❤*
-Unable to stop yourself from giving your energy
-to the enemy...
+Ara-❤
+You came so much-❤*
+You were unable to stop yourself from giving your
+energy to your enemy...
 What an idiot-❤ Teehee-❤
 
 <TK64>
@@ -3881,8 +3785,10 @@ good, wouldn't it?
 It's irresistible, isn't it?
 
 Village Girl：上
-Ara-❤ You came so much-❤ Unable to stop yourself
-from giving your energy to the enemy...
+Ara-❤
+You came so much-❤*
+You were unable to stop yourself from giving your
+energy to your enemy...
 What an idiot-❤ Teehee-❤
 
 <TK65>
@@ -4126,7 +4032,7 @@ the slow strokes of a young girl's hand-
 That's super duper cute-❤
 It's okay. That just means you can feel even
 better with my hands, right?*
-Hora, I'll stroke you really fast
+Hora, I'll jerk you off really fast in order to
 to give you the best ejaculation ever, okay?❤
 Stroke-stroke-stroke-stroke♪
 
@@ -4803,7 +4709,7 @@ Squish squish-❤ Shake shake-❤ Squeeze-❤
 Devout Girl：上
 Fufu- Your penis has been twitching against my
 stomach for a while now.*
-Do you intent to rub your penis against me
+Do you intend to rub your penis against me
 until you wet yourself?*
 Grinding against my stomach as I spoil you with 
 my Puff-Puff... Powerless to stop yourself from
@@ -4875,7 +4781,7 @@ Ara- Could you hear my breasts swallowing up
 your penis? Doesn't it feel good?*
 Ufufu- Just looking at your face tells me that
 it feels amazing. Please, just relax-❤*
-I'ill start moving them up and down slowly now.
+I'll start moving them up and down slowly now.
 Ufufu-❤
 
 Devout Girl：上
@@ -5305,20 +5211,18 @@ This aroma, aaagh, my mind is melting...❤
 Ooh...❤ Moree...❤
 
 Priestess：上
-Ufufu. Ho-ra, I'll give you a nice soft hug-❤
-Please experience my aroma with your whole body-❤*
-I'll be gentle, like this,
-so just let your body relax, okay?*
-Oh, but don't stop stroking your penis.
-Rather, I want you to speed up-*
-You can't withstand my pheromones anymore,
-can you?*
-It's okay-❤ 
-Just surrender to that feeling...❤
+Ara ara, what ever is the matter?
+Such rough breathing, and you're starting to
+fidget in front of me...
+Teehee-❤
+Once my aroma gets to you,
+it's impossible to resist any longer-
+In that case, I'd better finish you off-❤
+Ha!❤
 
 アクティブ：上
-Ah, ahaaaa...❤
-Amazing...❤ Ahiaa...❤
+Ah, ahaaaa just clinging to her is like...❤
+I feel like I'm in heaven...❤ Ahiaa...❤
 
 Priestess：上
 Ufufu. Ho-ra, I'll give you a nice soft hug-❤
@@ -5815,7 +5719,8 @@ Alright then. Hora, come to me.
 Rest your hips on my lap...
 
 Boobie Elf：下
-Teehee! I completely caught your penis-❤*
+Teehee!
+I completely caught your penis-❤*
 I'll start moving now, okay?
 Hiyah!
 
@@ -5851,7 +5756,7 @@ Ufufu-❤
 <TK98>
 Boobie Elf：上
 Auuu...
-You're pretty strong as well...**
+You're pretty strong as well...*
 Hey, you saw my paizuri service from before, 
 right?*
 The way I rested him on my knee, and 
@@ -6607,7 +6512,7 @@ Well then. Hora-
 I'll give you a plentiful experience of heaven-❤
 
 Elf：上
-It haven't even been inserted yet, and it's
+It hasn't even been inserted yet, and it's
 already twitching and throbbing-❤
 What an undisciplined penis-
 Hora- If your penis is this inexperienced,
@@ -6679,7 +6584,7 @@ Well then. Hora-
 I'll give you a plentiful experience of heaven-❤
 
 Elf：上
-It haven't even been inserted yet, and it's
+It hasn't even been inserted yet, and it's
 already twitching and throbbing-❤*
 What could you possibly be anticipating? 
 Your penis has no honour-*
@@ -6897,7 +6802,7 @@ Ara- You don't have to stroke until
 you ejaculate, you know?
 That's it... Endure it.
 But, your knees are already trembling,
-you can as much even stand, can you?*
+you can't even so much as stand, can you?*
 If that's the case,
 you'll be defeated soon anyway, won't you?-*
 While we pleasure you, ejaculate at once.
@@ -6982,7 +6887,7 @@ I'm begging you...❤
 Alraune：上
 Ara ara- You're pleading to me? An Alraune?
 The soldiers who are challenging the trial are
-kind of pathetic, huh-*
+kind of pathetic, huh-
 Well then, how would you like to be squeezed?
 I won't do anything if you don't say-
 
@@ -7004,7 +6909,7 @@ Ufufu- You sure came a lot-
 I hope you enjoyed yourself-
 
 <TK118>
-アルラウネ：上
+Alraune：上
 Aahn-❤
 You're so strong-*
 Hey, I don't feel like fighting anymore-
@@ -7034,10 +6939,10 @@ Due to arousal, you couldn't refuse her request!
 選択肢：1
 Submit to temptation
 
-アルラウネ：上
+Alraune：上
 Aahn, even though it feels so good...
 
-アルラウネ：上
+Alraune：上
 Teehee-❤ So, you yielded to temptation 
 in the end after all-❤
 What a lovely boy-❤
@@ -7045,7 +6950,7 @@ Hora- Now I'll use my slippery breasts
 to take you to heaven-❤
 Poof-❤
 
-アルラウネ：上
+Alraune：上
 You're only just between them now, but 
 the tension in your face is already melting
 away, isn't it?
@@ -7062,7 +6967,7 @@ good soon...❤
 アクティブ：上
 Ah-❤ Ahhh-❤ Aaah...❤
 
-アルラウネ：上
+Alraune：上
 Teehee-❤
 What a loose facial expression you have-*
 You should know that anywhere my Alraune honey 
@@ -7077,14 +6982,14 @@ Ufufu- Even though I'm relaxing you with
 my Puff Puff, it feels so good you can't resist
 at all, can you?❤
 
-アルラウネ：上
+Alraune：上
 Hora, Puff Puff-❤ Puff Puff-❤
 Squeezing your face in tight plumpness...
 Boing boing-❤ Squish, squish...❤
 Please go ahead and ascend to heaven,
 as your mind melts in my sweet nectar-❤
 
-アルラウネ：上
+Alraune：上
 Aahn-❤
 I didn't even touch you, and you splurted so
 much out-
@@ -7092,7 +6997,7 @@ This is way more fun than fighting, isn't it?
 You understand now, don't you? (Giggle)
 
 <TK119>
-アルラウネ：上
+Alraune：上
 Aahn-❤
 This guy is strong too-*
 In that case, hora-
@@ -7120,10 +7025,10 @@ Due to arousal, you couldn't refuse her request!
 選択肢：1
 Submit to temptation
 
-アルラウネ：上
+Alraune：上
 Aahn, even though it feels so good...
 
-アルラウネ：上
+Alraune：上
 Teehee-❤ So, you yielded to temptation 
 in the end after all-❤
 What a lovely boy-❤
@@ -7131,7 +7036,7 @@ Hora- Now I'll use my slippery breasts
 to take you to heaven-❤
 Poof-❤
 
-アルラウネ：上
+Alraune：上
 You're only just between them now, but 
 the tension in your face is already melting
 away, isn't it?
@@ -7148,7 +7053,7 @@ good soon...❤
 アクティブ：上
 Ah-❤ Ahhh-❤ Aaah...❤
 
-アルラウネ：上
+Alraune：上
 Teehee-❤
 What a loose facial expression you have-*
 Anywhere the Alraune honey touches becomes an
@@ -7163,14 +7068,14 @@ Ufufu- Even though I'm relaxing you with
 my Puff Puff, it feels so good you can't resist
 at all, can you?❤
 
-アルラウネ：上
+Alraune：上
 Hora, Puff Puff-❤ Puff Puff-❤
 Squeezing your face in tight plumpness...
 Boing boing-❤ Squish, squish...❤
 Please go ahead and ascend to heaven,
 as your mind melts in my sweet nectar-❤
 
-アルラウネ：上
+Alraune：上
 Aahn-❤
 I didn't even touch you, and you splurted so
 much out-
@@ -7178,7 +7083,7 @@ This is way more fun than fighting, isn't it?
 You understand now, don't you? (Giggle)
 
 <TK120>
-アルラウネ：上
+Alraune：上
 Kyaah-
 Oogh, as expected from those here 
 to take the trial...
@@ -7189,7 +7094,7 @@ Ara?
 You're eyeing them intently, aren't you?
 If so, here- Let me give you a better look-
 
-アルラウネ：上
+Alraune：上
 It's okay-
 Stare at them to your heart's content.
 You can always stop me afterwards... Right?
@@ -7204,10 +7109,10 @@ Due to arousal, you couldn't refuse her request!
 選択肢：1
 Stare lustfully at her breasts
 
-アルラウネ：上
+Alraune：上
 Aahn, this cannot be...
 
-アルラウネ：上
+Alraune：上
 Ara ara? Your eyes are absolutely 
 glued to my breasts-*
 And your breathing is rough too,
@@ -7218,7 +7123,7 @@ Now you're totally defenseless in front
 of the enemy.
 Eiyah-❤
 
-アルラウネ：上
+Alraune：上
 Ho-ra- My ivy is wrapping around your legs.
 Now you can't move at all-*
 Ufufu- But even as my ivy coils around you,
@@ -7228,7 +7133,7 @@ If that's the case then, hora-
 I'll wrap my ivy around your penis, 
 and stroke it up and down-❤
 
-アルラウネ：上
+Alraune：上
 Teehee-❤ I bet it feels really good 
 having your penis stroked by my ivy, 
 as you stare longingly at my breasts-❤
@@ -7244,14 +7149,14 @@ Hora- Submit to your desires.
 Stare at my breasts as much as you like, and
 give in to the stroking motions of my ivy-
 
-アルラウネ：上
+Alraune：上
 Aahn-❤
 You ejaculated so much-
 Did the strokes of my ivy feel good?
 Ufufu...❤
 
 <TK133>
-アルラウネ：上
+Alraune：上
 Ara ara, are you resisting the aroma?**
 But it's no use-
 It's easy to connect my smell with your memories.*
@@ -7259,7 +7164,7 @@ Once you smell this fragrance, you can feel
 the memories of how you climaxed for me start to 
 well up inside your head bit by bit, right?
 
-アルラウネ：上
+Alraune：上
 Teehee-❤
 Hora- Your face is loosening up-*
 You're already a slave to my scent.
@@ -7270,7 +7175,7 @@ by thrusting your hips between our breasts-❤
 Please do the best you can- (Giggle
 
 <TK134>
-アルラウネ：上
+Alraune：上
 Ara ara, your face is so blissed out you
 can't even attack...*
 Shouldn't you temper your will for a bit longer?
@@ -7284,7 +7189,7 @@ your hands reaching for your penis, couldn't you?*
 Are you going to pleasure yourself into
 submission like last time?
 
-アルラウネ：上
+Alraune：上
 Ara, you seem to have regained your reason- 
 Well done, you stopped your hands at the last 
 moment-
@@ -7292,7 +7197,7 @@ If you had just rubbed it a little more,
 you would have ejaculated in pleasure... 
 That's too bad- Ufufu-❤
 
-アルラウネ：上
+Alraune：上
 Ara ara- You let yourself ejaculate pathetically, 
 guided by my seductive aroma-*
 How foolish, choosing to masturbate over
@@ -7381,7 +7286,7 @@ Ooh...❤ Oooh...❤
 
 Boobie Mermaid：上
 You thought about it for just a moment,
-and you didn't slow down your stroking at all?*
+and you didn't slow down you're stroking at all?*
 Ho-ra, even if I get right up to your face 
 like this, and sway my breasts back and forth...
 You mustn't stroke your penis.
@@ -7694,13 +7599,13 @@ Are you going to fight without
 stroking to me this time?*
 Good boy- 
 Stroking your penis while 
-gazing hard at my breasts...❤*
+gazing hard at my breasts...❤
 It was so pathetic, it makes me laugh just
 thinking about it-*
 Huh-...? Your penis is starting to twitch though-
 You must be getting aroused from remembering it.*
 Are you gonna start stroking?
-It's okay if you stop before you cum, right?
+It'll be fine if you stop before you cum, right?
 Hora- Let your hands wrap around your penis...❤
 
 Boobie Mermaid：上
@@ -7773,7 +7678,7 @@ Even though you only need to defeat me to win, you
 started masturbating, staring at a woman's body 
 at the very last moment- Kuhu, what a bad boy-❤
 Hora- What if I rock my breasts back and forth?
-What if I flicker my forked tongue in front 
+What if I flick my forked tongue in front 
 of you like this?
 
 アクティブ：上
@@ -7821,7 +7726,7 @@ Even though you only need to defeat me to win, you
 started masturbating, staring at a woman's body 
 at the very last moment- Kuhu, what a bad boy-❤
 Hora- What if I rock my breasts back and forth?
-What if I flicker my forked tongue in front 
+What if I flick my forked tongue in front 
 of you like this?
 
 アクティブ：上
@@ -8357,9 +8262,9 @@ I'll squeeze you dry, okay?❤
 
 選択肢：1
 Regular Attack
-ミニマム状態
+Mini Status
 During Temptation
-自軍最後の一人
+Last Unit Standing
 
 Alice：上
 \vo[a134]Ahn-❤ A swift ejaculation-❤
@@ -8652,8 +8557,8 @@ Hora- Come to me.
 I'll let you cum blissfully between my legs♪
 
 選択肢：1
-Because of arousal, 
-the seduction couldn't be resisted!
+I want to hump her thick thighs...
+Ignore her and attack!
 
 Dark Elf：上
 Kyah!!
@@ -8780,7 +8685,7 @@ If it's come to this, I'll just have to shake my
 hips more violently and give you extra kisses-
 Mmwah-❤ Slurrrup-❤ Slurp-❤
 I wonder how it feels to have their cock shaken by
-a succubus' hips while melting in kisses...?*
+a succubus' hips while melting in kisses...?
 There's no way a man can resist pleasure like this!
 Now, submit to me!
 
@@ -8795,8 +8700,8 @@ Kyah!!
 Dark Elf：上
 Teehee♪
 You stopped resisting-❤*
-So feels that good does it? Having your ability to 
-resist snatched away by my plentiful kisses...
+so it feels that good does it? Having your ability
+to resist snatched away by my plentiful kisses...
 coerced by the violent sway of my hips...♪
 Boys who have no experience with sex at all can't 
 resist this one b-it. You'll be squeezed until the
@@ -8810,11 +8715,11 @@ And although your life is in great danger,
 here you are looking like a fool-
 You Perv-❤ Masochist pervert-❤
 A helpless masochist, getting aroused from having
-his life snatched away my succubus' pussy-❤
+his life snatched away by my succubus' pussy-❤
 Ahahaha-❤ Your melted expression is so stupid.
 Wow- You really can't help it at all-❤*
 And no matter how angry or upset you are, you're 
-going to go ahead and pour everything into pussy 
+going to go ahead and pour everything into my pussy 
 anyway, like an idiot-❤ Too easy-❤
 Hora- Mmwah-❤ Slurp-❤ Suuck-❤
 I'll land the final blow with a shake of my hips
@@ -8868,11 +8773,11 @@ And although your life is in great danger,
 here you are looking like a fool-
 You Perv-❤ Masochist pervert-❤
 A helpless masochist, getting aroused from having
-his life snatched away my succubus' pussy-❤
+his life snatched away by my succubus' pussy-❤
 Ahahaha-❤ Your melted expression is so stupid.
-Wow- You really can't help it at all-❤*
+Wow- You really can't help it at all-❤
 And no matter how angry or upset you are, you're 
-going to go ahead and pour everything into pussy 
+going to go ahead and pour everything into my pussy 
 anyway, just like a stupid idiot-❤ Too easy-❤
 Hora- Mmwah-❤ Slurp-❤ Suuck-❤
 I'll land the final blow with a shake of my hips
@@ -8933,7 +8838,7 @@ at the soles of my feet?
 It'd be safer than being stepped on by me, right?
 Then you could just stop before you cum-*
 Hora- So what do you think? Are you going to 
-stroke or what? Or perhaps...*
+stroke or what? Or perhaps...
 You'd like me to step on your penis and stroke you 
 directly with the soles of my feet after all?
 
@@ -8951,7 +8856,7 @@ this. What would it feel like to have these toes
 curl around the head of your penis?
 Stroking your penis with my feet...as the tips of
 my toes stimulate man's ultimate weak point...*
-My feet going Stroke stroke, stroke stroke-
+My feet going stroke stroke, stroke stroke-
 As my toes going rub rub, rub rub-❤*
 The sudden stimulating is makes your mind go
 blank, doesn't it?-
@@ -9042,13 +8947,13 @@ at the soles of my feet?
 It'd be safer than being stepped on by me, right?
 Then you could just stop before you cum-*
 Hora- So what do you think? Are you going to 
-stroke or what? Or perhaps...*
+stroke or what? Or perhaps...
 You'd like me to step on your penis and stroke you 
 directly with the soles of my feet after all?
 
 Dark Elf：上
 Aha-❤ 
-You started stroking your penis-❤ 
+You started stroking your penis-❤*
 You actually started jerking off to an Elf's soles, 
 thinking about what it'd be like to have them  
 rubbing against your penis.
@@ -9060,7 +8965,7 @@ this. What would it feel like to have these toes
 curl around the head of your penis?
 Stroking your penis with my feet...as the tips of
 my toes stimulate man's ultimate weak point...*
-My feet going Stroke stroke, stroke stroke-
+My feet going stroke stroke, stroke stroke-
 As my toes going rub rub, rub rub-❤*
 The sudden stimulating is makes your mind go
 blank, doesn't it?-
@@ -9109,34 +9014,30 @@ Not good... I'm, already...❤
 Aaah...❤
 
 Succubus Elf：上
-That's it- Welcome-❤
-You just cwouldn't reswist the temptation of my
-boowbies, cwouldn't ywou?❤*
-Huh? "Don't mock me with baby talk"?
-"I'm only masturbating because I was jealous of 
-the guy who had breasts dropped on his face"?
-Well thwen, for a pwervert like ywou, bwaby talk
-is more than enwough- And if you dwon't lwike it,
-I won't push my bwoobies in your face-
-Ahaha-❤ You got twotally swilent-❤
-Your strwoking you pwenis with tears in your eyes
-and looking up at my bwoobies- What a gwood boy-❤
-Hora- Gwood bwoys get rewards-
-I'll slap my bwoobies down onto ywour face and 
-sqwueeze as hard as I cwan okay?❤
-Rea-dy-? Eiyah-❤
-Boobie-Squeeeze-❤
+Ara ara- What do you think you're doing,
+masturbating in front of the enemy? Ufu- You 
+couldn't resist doing something sexy could you?
+When I move sexily by showing off my big succubus 
+boobs and going "mwah-❤" with my plump pink 
+lips, you turn into a masturbating monkey-
+Hora- Kneel down and look up at me.
+Seeing the cleavage between my clothing is so
+much more sexy from below isn't it?
+(Giggle) You're panting like a pervert-
+Oh well, I'll deal the final hit by dropping my
+breasts on your kneeling face. 
+Hora- Here it comes- Boobie- Press-❤
 
 Succubus Elf：上
-Pfft- Ahahaha-❤ What an idiot- 
-What? Couldn't you protect the 
-village from enemy hands?
-Instead you fell in love with my boobs and
-masturbated as the enemy treated you like a baby-
-Pitiful-❤
+(Giggle) You fired your semen as you were crushed
+by my breasts-*
+Well? The breasts of a succubus Elf felt amazing
+right?*
+Ara- You look so happy-❤
+It seems like it felt really good- (Giggle)*
 In that case, is there anyone else who would like
-to have my breasts dropped on them? It's OK- If
-you ask, I'll do it as much as you like, teehee-❤
+to have my breasts dropped on them? It's OK- 
+If you ask, I'll do it as much as you like-❤
 
 <TK159>
 Ray：上
@@ -9154,7 +9055,7 @@ Aaah...❤
 Succubus Elf：上
 That's it- Welcome-❤
 You just cwouldn't reswist the temptation of my
-boowbies, cwouldn't ywou?❤*
+boowbies, cwouldn't ywou?❤
 Huh? "Don't mock me with baby talk"?
 "I'm only masturbating because I was jealous of 
 the guy who had breasts dropped on his face"?
@@ -9258,7 +9159,7 @@ Succubus Elf：上
 Mmm- How was that? The kiss on your forehead-❤
 Is your mind going blank with just this?*
 That was just a light kiss, so this time I'll 
-pucker my lips and give you big plump kiss-❤*
+pucker my lips and give you a big plump kiss-❤*
 When I kiss your forehead, my breasts approach
 your face- This pleases you, doesn't it?*
 Hora- Turn your forehead to me-
@@ -9439,7 +9340,7 @@ Succubus Elf：上
 Being able to manipulate men with the power of
 my eyes... What an interesting power-
 Even the strong man who had me cornered for awhile
-is totally blank and mindless with from having 
+is totally blank and mindless from having 
 just looked at my eyes.
 Ufufufu♪ Ooh, this is so fun-❤
 Hora- From now on, you are my slave too!
@@ -9836,8 +9737,9 @@ breast milk... (Giggle) Bye bye♪
 Succubus Elf：上
 Uugh, these Heroes are too strong...
 I'm going to lose at this rate...*
-Hey- You were watching earlier, right? When your companion was sucking my tits, he felt so 
-good, he spurted semen all over the place-
+Hey- You were watching earlier, right?
+When your companion was sucking my tits, he felt
+so good he spurted semen all over the place-
 Wouldn't you like to suck on my boobs too?
 I've become a succubus now, so the milk my 
 breasts produce is incredibly sweet.
@@ -10356,7 +10258,7 @@ The soft petals feel as if they're lightly
 tickling all of your body-
 Ara ara, your facial expression is already 
 entranced like the gentleman from earlier-
-You look like your melting in pleasure-
+You look like you're melting in pleasure-
 Hora- Your stamen is completely swollen too,
 anxiously awaiting for when it meets my pistil.
 Go on- I'll welcome you with open arms-
@@ -10618,7 +10520,7 @@ Well? Fufu- When you sniff, you can't help but
 get irresistibly turned on, right?*
 That's because even a succubus' body sweat can
 excite men- Aha-❤ You're already huffing it in
-ecstasy and your stroking got faster0❤
+ecstasy and you're stroking got faster❤
 Could you have a foot fetish? Teehee-❤
 Hora- Smell my bad succubus sweat, and shoot out
 your aroused rich energy as much as you like OK?
@@ -10659,7 +10561,7 @@ Well? Fufu- When you sniff, you can't help but
 get irresistibly turned on, right?*
 That's because even a succubus' body sweat can
 excite men- Aha-❤ You're already huffing it in
-ecstasy and your stroking got faster0❤
+ecstasy and you're stroking got faster❤
 Could you have a foot fetish? Teehee-❤
 Hora- Smell my bad succubus sweat, and shoot out
 your aroused rich energy as much as you like OK?
@@ -10901,7 +10803,7 @@ Kyaah!!
 Cherish：上
 \vo[c139]Aha-❤
 All the strength has relaxed and left your body-❤*
-\vo[c140]Humans always lose succubus after all-❤ They're
+\vo[c140]Humans always lose to succubus after all-❤ They're
 just an inferior species who submit to pleasure!
 Quietly perish inside me-❤ Hora hora hora hora!
 
@@ -11059,7 +10961,7 @@ Kyaah!!
 Cherish：上
 \vo[c139]Aha-❤
 All your strength has drained and left your body-❤*
-\vo[c140]Humans always lose succubus after all-❤ They're
+\vo[c140]Humans always lose to succubus after all-❤ They're
 just an inferior species who submit to pleasure!
 Quietly perish inside me-❤ Hora hora hora hora!
 
@@ -11071,7 +10973,7 @@ you all gave me... Hora- They're all gone-
 bad, huh?- Because you gave into pleasure, you'll
 just have to start all over again- Teehee-❤
 
-Ray：上
+Cherish：上
 \vo[c143]Fufu- You can't look away-❤
 Take this!
 
@@ -11183,7 +11085,7 @@ move my tongue lewdly like a pseudo-fellatio-❤
 Ninja Girl：上
 Ahaha-❤ You orgasmed just from your imagination-❤
 Did it feel good imagining yourself getting a 
-titfuck and fellatio?*
+titfuck and fellatio?
 Though if you had endured a little longer, 
 you would have got to experience it first hand...
 Too bad you couldn't resist making yourself cum-
@@ -11490,7 +11392,7 @@ I think perverts like you are cute-
 Hora- Surrender and ejaculate to me.
 I'll pick you up later and keep you in my house-
 Wouldn't you like that?
-Fufu- So you do. Your stroking is getting faster-❤
+Fufu- So you do. your stroking is getting faster-❤
 Now then- I wonder how skillful your first energy 
 devotion will be? Teehee-❤
 
@@ -12389,7 +12291,7 @@ this is my giving up pose-❤
 Please look-❤ Look at my lewd, sexy crotch.
 Look at the pulse of my beautiful pink folds.*
 Don't you want to have your penis
-spluuuuruped-----❤ ...right here?*
+sluuuurped-----❤ ...right here?*
 Ufufu- You're really staring aren't you? 
 So cute... Hora- I'll come closer so just stay
 still, I'll put you inside my pussy OK...?❤
@@ -12755,7 +12657,7 @@ Busty Healer：上
 That's it- You only need to be obedient-**
 No man's penis is safe when caught between the 
 soft pull of my breasts-
-Even, if I just hold in my mouth with the 
+Even...if I just hold it in my mouth and use the 
 pressure of my breasts like this...
 
 Busty Healer：上
@@ -13204,7 +13106,7 @@ I can hear the sounds of squishy precum with
 every stroke of your hands pumping your penis...
 Fufu- What a bad boy-
 Hm? You're going to cum already?
-Well, that was quick-*
+Well, that was quick-
 It's OK- 
 Show me. Cum-❤
 
@@ -13253,7 +13155,7 @@ I can hear the sounds of squishy precum with
 every stroke of your hands pumping your penis...❤
 Fufu- What a bad boy-
 Hm? You're going to cum already?
-Well, that was quick-*
+Well, that was quick-
 It's OK- 
 Show me. Cum-❤
 
@@ -13294,7 +13196,7 @@ melts, helplessly stroking their penis even
 if they were winning before. Teehee-❤
 Hmm- Doesn't it feel good to stroke?-
 Mmhm- I bet it does...*
-Even though your stroking efforts will help me
+Even though you're stroking efforts will help me
 drain your companions...you aren't thinking of
 such thoughts right now-
 I say, you must have fought a lot of succubus-
@@ -13586,7 +13488,7 @@ Hora- Look as much as you like-❤ Boing-❤*
 \vo[mi162]Aha-❤ Your eyes are glued to my nipples- Just
 having them out like this is super erotic right?
 And, hora- When they sway-❤ When they swing...
-\vo[mi163]Ufufu♪ Your stroking got faster-
+\vo[mi163]Ufufu♪ you're stroking got faster-
 You can cum anytime- Don't hold back-❤
 Hora- Stroke stroke- Pew pew-❤
 
@@ -13628,7 +13530,7 @@ Hora- Stare as much as you like-❤ Boing-❤*
 \vo[mi162]Aha-❤ Your eyes are glued to my nipples- Just
 having them out like this is super erotic right?
 And, hora- When they sway-❤ When they swing...
-\vo[mi163]Ufufu♪ Your stroking got faster-
+\vo[mi163]Ufufu♪ you're stroking got faster-
 You can cum anytime- Don't hold back-❤
 Hora- Stroke stroke- Pew pew-❤
 
@@ -14004,7 +13906,7 @@ Timid Succubus：上
 How is it? Does it get you aroused when I sway my
 huge, oversized breasts before your eyeees...?*
 Ufufu-❤ So you answer by stroking your penis-
-Your stroking is already getting faster as you
+your stroking is already getting faster as you
 become transfixed by my breasts.
 It's okaay... Go ahead, stroooke...
 I'll jiggle my breasts lots, so go ahead and
@@ -14060,7 +13962,7 @@ But if you can't hold it in anymore, I suppose it
 can't be helped huh-
 Ufufu-❤
 Ara ara- While you stare transfixed on my breasts,
-Your stroking is getting faster...❤*
+your stroking is getting faster...❤*
 In that case, hooora...❤ I'll shake my boobs 
 lots so you can cum right away-❤ Ah, you're 
 already about to cum aren't you?
@@ -14713,7 +14615,7 @@ Not good... I'm, I'm already...❤
 アクティブ：上
 Aahhh...❤
 
-淫魔スライム：上
+Slime Succubus：上
 (Giggle)
 Are you masturbating to me? I never knew someone
 would do something like this...
@@ -14738,7 +14640,7 @@ Ehehe-❤ You twitch whenever I wriggle my slime
 over your nipples- If you wanna cum like this,
 it's OK. Hora- Squishy squishy squishy-♪
 
-淫魔スライム：上
+Slime Succubus：上
 Ahnn-❤ You let out so much-❤
 Ahh- This semen is delicious...♪*
 I never thought I'd be fighting the heroes of
@@ -14758,7 +14660,7 @@ Not good... I'm, I'm already...❤
 アクティブ：上
 Aahhh...❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ah- Masturbating again?
 Everyone seems to really like my body huh-*
 It's not often you get to experience the body of
@@ -14769,7 +14671,7 @@ Eei-❤*
 How does it feel to have my gummy-like slime 
 coiling around your entire body? It's like were
 both becoming one- Isn't it arousing?
-Teehee-❤ Your stroking hand got faster, so it
+Teehee-❤ you're stroking hand got faster, so it
 you must be feeling really good- It makes me 
 happy, so I'll tease your nipples lots-❤
 Twist, twist- Above your nipples-❤
@@ -14781,7 +14683,7 @@ stroking-❤
 It's OK if you end up cumming though,
 Hora- Squishy squishy squishy-♪
 
-淫魔スライム：上
+Slime Succubus：上
 Ahnn-❤ Lots of white semen came out-❤
 Ufufu- And it's really delicious too.*
 Are there any others who will masturbate again? 
@@ -14805,7 +14707,7 @@ Oouggh... P-Please...❤
 Ouugh, please make me feel good...❤
 I'm begging you...❤
 
-淫魔スライム：上
+Slime Succubus：上
 Eh? Y-You're asking me to do something?
 And you won't attack me...?*
 Ehehe-♪
@@ -14814,12 +14716,12 @@ Well then, I guess it can't be helped-❤
 I'll tease Mr. Intruder's genitals lots with my
 slime-♪
 
-淫魔スライム：上
+Slime Succubus：上
 (Giggle) You put out a lot inside my slime huh?
 Did my attacks feel good?
 
 <TK251>
-淫魔スライム：上
+Slime Succubus：上
 Ouuughhh... I'm no match for these people, 
 they're so much stronger than I am...*
 Hey- Mr Intruder. Could you spare me, please?
@@ -14836,10 +14738,10 @@ helped me...
 Finish her
 Don't finish her
 
-淫魔スライム：上
+Slime Succubus：上
 Why, why me...?
 
-淫魔スライム：上
+Slime Succubus：上
 Why, why me...?**
 H-huh...?**
 What's wrong Mr. Intruder? You were going to 
@@ -14851,7 +14753,7 @@ Ooh, oogh, I can't control myself...❤❤
 テロップ：中央
 You were too aroused to refuse her temptation!
 
-淫魔スライム：上
+Slime Succubus：上
 Uwah-❤ So forceful-❤ Your penis is pushing 
 against my most sacred place...❤*
 Ahhhh-❤ It's going inside me...❤
@@ -14861,7 +14763,7 @@ Did you really think I'd let you enter me?
 That's too bad, what you inserted into wasn't my
 slimy pussy, but my gooey thighs-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Wait you mean it!? Wow thanks, that means a lot-❤
 Well then, let's get you inserted right away-*
 I'll just push your penis into my crotch like 
@@ -14873,7 +14775,7 @@ But, I wasn't lying when I said "I'll put you
 inside me", no? Since I'm a slime girl, you can
 enter inside me anywhere-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ehehe- But, it feels quite pleasurable doesn't 
 it? Your penis completely inserted between my
 thighs, entirely engulfed in my soft slime...❤
@@ -14881,7 +14783,7 @@ Hora- I have free control over my body, which
 means I can use my slime to stroke your penis just
 like this-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Eh? But you wanted to cum inside my pussy? It's 
 fine, don't worry about it- If you're feeling 
 good, then what's the difference?
@@ -14896,7 +14798,7 @@ sex-
 But actually, you're being forced to thrust your
 penis between my thighs. Teehee-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Hora it feels good doesn't it? Just like I said it
 would-*
 Thrusting in and out of my slime, lewdly piercing
@@ -14920,7 +14822,7 @@ Fill me up with your spermies!-
 Hora- Pis-ton! Pis-ton!♪
 Eei- Eei-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ahnn-❤ There's so much inside me-❤
 Delicious-❤*
 Ufufu- Did that feel good? Thanks to your energy 
@@ -14928,7 +14830,7 @@ I was able to make a full recovery! Phew- That was
 a close one...
 
 <TK252>
-淫魔スライム：上
+Slime Succubus：上
 Auoogh...
 As expected, I stand no chance against you guys...*
 Hey- Mr. Intruder... Could you spare me, please?
@@ -14945,10 +14847,10 @@ Please? Just think about what would happen if you
 Finish her
 Don't finish her
 
-淫魔スライム：上
+Slime Succubus：上
 Why, why me...?
 
-淫魔スライム：上
+Slime Succubus：上
 Why, why me...?**
 H-huh...?**
 What's wrong Mr. Intruder? You were going to 
@@ -14960,7 +14862,7 @@ Ooh, oogh, I can't control myself...❤❤
 テロップ：中央
 You were too aroused to refuse her temptation!
 
-淫魔スライム：上
+Slime Succubus：上
 Uwah-❤ So forceful-❤ Your penis is pushing 
 against my most sacred place...❤*
 Ahhhh-❤ It's going inside me...❤
@@ -14970,7 +14872,7 @@ Did you really think I'd let you enter me?
 That's too bad, what you inserted into wasn't my
 slimy pussy, but my gooey thighs-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Wait you mean it!? Wow thanks, that means a lot-❤
 Well then, let's get you inserted right away-*
 I'll just push your penis into my crotch like 
@@ -14982,7 +14884,7 @@ But, I wasn't lying when I said "I'll put you
 inside me", no? Since I'm a slime girl, you can
 enter inside me anywhere-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ehehe- But, it feels quite pleasurable doesn't 
 it? Your penis completely inserted between my
 thighs, entirely engulfed in my soft slime...❤
@@ -14990,7 +14892,7 @@ Hora- I have free control over my body, which
 means I can use my slime to stroke your penis just
 like this-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Eh? But you wanted to cum inside my pussy? It's 
 fine, don't worry about it- If you're feeling 
 good, then what's the difference?
@@ -15008,7 +14910,7 @@ huh?
 It feels great to be forced to piston your penis
 in and out of my thighs right? Teehee-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Aha- Your face tells me everything-❤**
 Thrusting in and out of my slime, lewdly piercing
 my soft, jiggly goo-❤*
@@ -15035,7 +14937,7 @@ Fill me up with your spermies!-
 Hora- Pis-ton! Pis-ton!♪
 Eei- Eei-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ahnn-❤ There's so much inside me-❤
 Delicious-❤*
 Ufufu- Did that feel good? Thanks to your energy 
@@ -15043,7 +14945,7 @@ I was able to make a full recovery! Phew- That was
 really close...
 
 <TK253>
-淫魔スライム：上
+Slime Succubus：上
 Oogh... This is it, I'm a goner...**
 But, but! I mustn't let you pass!
 S-so, I may as well try this...*
@@ -15070,11 +14972,11 @@ Wheeee-❤
 Shaker her off and finish her
 Let her be
 
-淫魔スライム：上
+Slime Succubus：上
 Ooogh, but my slime boobs would have felt soo
 good...
 
-淫魔スライム：上
+Slime Succubus：上
 Ooogh, but my slime boobs would have felt soo
 good...*
 H-huh? Ufufu- You managed to shake me off, but
@@ -15086,23 +14988,23 @@ Ouugh, I-I can't resist such huge breasts....❤
 テロップ：中央
 You were too aroused to refuse her temptation!
 
-淫魔スライム：上
+Slime Succubus：上
 Well then, let's get you inserted- That's OK with 
 you right? Eei-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Oh? Did my boobs just eat up your entire penis 
 in one go?*
 They're super squishy aren't they?♪ I bet if I 
 were to playfully pump them up and down your penis
 while squishing them together...❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ehehe-❤ It feels so good, your hips are twitching-**
 It's OK-❤ Nothing wrong about enjoying the bigger
 things in life after all-❤ Squish squish squish-♪
 
-淫魔スライム：上
+Slime Succubus：上
 Ufufu- You're already leaking lots of precum.
 I was already slimy without it, but now I'm even 
 more slippery than before-❤
@@ -15118,7 +15020,7 @@ Are you gonna end up cumming soon? It's OK! You
 don't need to ask-❤ Hora, cum! Let it all out-❤ 
 Don't try and fight it-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Woohoo-❤
 You let out loads of sperm inside my boobs-❤*
 Ufufu- I'm not gonna lie I thought I was done for,
@@ -15202,7 +15104,7 @@ let out this much-❤
 Hora- It's okay to keep coming like this-
 Fall in love with my dancing, you want to submit 
 and feel good-❤
-After all, giving in and stroking yourself to my
+After all, giving into and stroking yourself to my
 charms would feel so, so good- Come, come-❤
 Teehee-❤
 
@@ -15868,7 +15770,7 @@ Not good... I'm, I'm already...❤
 アクティブ：上
 Aahhh...❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ara ara- Esteemed guest, is there something 
 bothering you? What could have caused you to start
 stroking your penis like that?
@@ -15889,7 +15791,7 @@ I'll sway my cleavage from side to side like
 this too... Oh dearest guest, whatever will you
 do to me? Teehee...❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ahh- Such got creamy semen. I'm so happy you were
 able to get it all onto my cleavage-❤*
 Now, if there are any other guests who need help
@@ -15909,7 +15811,7 @@ Not good... I'm, I'm already...❤
 アクティブ：上
 Aahhh...❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Sorry to have kept you waiting, dear guest.
 You want to feel good while looking at my breasts 
 as well, correct?
@@ -15930,7 +15832,7 @@ Hora- I'm going to sway my soft breasts from side
 to side like this, so go ahead and keep stroking-
 Drench my breasts with everything you have-
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ahh- Such got creamy semen. 
 There's so much between my breasts now-
 Were you able to satisfy yourself, dear guest?❤
@@ -15954,7 +15856,7 @@ Oouggh... P-Please...❤
 Ouugh, please make me feel good...❤
 I'm begging you...❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 You are in need of my services, dear guest?
 What kind of service do you desire?*
 Ara- Your eyes, they're being drawn to my 
@@ -15963,7 +15865,7 @@ Of course.
 I'll service our guest's special place with my
 breasts and pleasure it lots-
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Mm- My cleavage is dripping wet with creamy semen.
 Were you satisfied with my paizuri service?*
 Your waist has become arched, and your facial
@@ -15971,7 +15873,7 @@ expression has melted too.
 Ufufu- It seems you were most pleased indeed-
 
 <TK266>
-サキュバスメイドA：上
+Succubus Maid A：上
 I can see how you were able to make it as far as
 this castle, but I'm afraid I have no intentions
 of losing.
@@ -15982,7 +15884,7 @@ Simply speaking, like this. Eei-❤
 タイトル：中央
 Hypnotic Puff-Puff Encouragement
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ufufu-❤
 How does it feel? My soft, plush breasts-*
 There is no retaining your sanity with your face 
@@ -15999,18 +15901,18 @@ Now then, to finish the job-*
 Embracing you with all my might and... 
 Squeeezeee-❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ufufu-❤ With this, my little maid serving 
 watchdog is complete- You fight for us now!
 Off you go-
 
-サキュバスメイドA：上
+Succubus Maid A：上
 I-Impossible! It's not working...**
 This is the holy sword's doing? What dreadful
 powers...
 
 <TK270>
-サキュバスメイドA：上
+Succubus Maid A：上
 Aaauugh... At the rate things are going, 
 I'll be hung out like yesterday's laundry...*
 Were you not satisfied with the service
@@ -16035,17 +15937,17 @@ between my breasts once more.
 Let her service you
 Ignore her and attack
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Oogh, you are a very strong willed gentleman...
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Oogh, you are a very strong willed gentleman...
 ...oh? What's this?
 
 テロップ：中央
 You were too aroused to refuse her temptation!
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ufufu-❤
 Whatever is the matter? Aren't you going to
 strike me down with your weapon?
@@ -16055,7 +15957,7 @@ So, what do you say, dearest guest?
 Please, allow me to service your penis with
 my breasts. Please-❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Aha-❤ Oh I'm so happy-❤
 Thank you for letting me serve you again-*
 Please, have a seat on the chair over there.
@@ -16066,7 +15968,7 @@ If the pleasure is too much, you may lose control
 and be unable to sit properly.
 Well then, let's get you inserted right away!
 
-サキュバスメイドA：上
+Succubus Maid A：上
 And...there! 
 Well? How does it feel? Were you able to properly
 insert yourself between my breasts?
@@ -16083,12 +15985,12 @@ Oh, are you trying to move your hips because you
 can't stand it? Ufufu- But you mustn't be 
 impatient, the real service starts now...
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Teehee-❤ Oh my, such loud moans... It seems our 
 guest is enjoying himself very much indeed- 
 Mouth half open, and drooling too-
 Such dirty faces will simply not do, I must
-take care of that for you later-
+take care of that for you later-*
 But shame and respectability can wait. Until
 then, please let me take care of your body.*
 Relish in the undulating motions of my boobs
@@ -16097,7 +15999,7 @@ Do that, and the core of your mind will go blank
 with pleasure as you reach a true, blissful
 ejaculation-
 
-サキュバスメイドA：上
+Succubus Maid A：上
 That's it, please leave everything to me.**
 It is my duty to take care of our guests, so
 there's no need to think about anything else.*
@@ -16105,11 +16007,11 @@ Forgetting all your worries in the comfort of my
 inviting breasts, please go ahead and pour all 
 that cloudy fluid into my cleavage.
 
-サキュバスメイドA：上
+Succubus Maid A：上
 I'll ever so slightly sway and move them like
 this, so please pour out lots as you cum-❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ahnn-❤ Oh esteemed guest, you're pouring so 
 much hot sperm between my cleavage-❤*
 Ufufu- You were quite strong, but in the end
@@ -16120,10 +16022,10 @@ and service the other guests with my pleasurable
 breasts.
 
 <TK271>
-サキュバスメイドA：上
+Succubus Maid A：上
 Oogh... At this rate, I'll be put out of service
 for good...*
-Were you not satisfied with the my titty 
+Were you not satisfied with my titty 
 treatment?*
 Did it not feel good to melt away in pleasure as I 
 stroked your penis over and over with these soft 
@@ -16150,17 +16052,17 @@ between my breasts once more.
 Let her service you
 Ignore her and attack
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Oogh, you are a very strong willed gentleman...
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Oogh, you are a very strong willed gentleman...
 ...oh? What's this?
 
 テロップ：中央
 You were too aroused to refuse her temptation!
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ufufu-❤
 Whatever is the matter? Aren't you going to
 strike me down with your weapon?
@@ -16170,7 +16072,7 @@ So, what do you say, dearest guest?
 Please, allow me to service your penis with
 my breasts. Please-❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Aha-❤ Oh I'm so happy-❤
 Thank you for letting me serve you again-*
 Please, have a seat on the chair over there.
@@ -16181,7 +16083,7 @@ If the pleasure is too much, you may lose control
 and be unable to sit properly.
 Well then, let's get you inserted right away!
 
-サキュバスメイドA：上
+Succubus Maid A：上
 And...there! 
 Well? How does it feel? Were you able to properly
 insert yourself between my breasts?
@@ -16198,7 +16100,7 @@ Oh, are you trying to move your hips because you
 can't stand it? Ufufu- But you mustn't be 
 impatient, the real service starts now...
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ara ara, such loud moans...❤ It seems our 
 guest is enjoying himself very much indeed- 
 Mouth half open, and drooling too-
@@ -16214,7 +16116,7 @@ Do that, and the core of your mind will go blank
 with pleasure as you reach a true, blissful
 ejaculation-
 
-サキュバスメイドA：上
+Succubus Maid A：上
 That's it, please leave everything to me.**
 It is my duty to take care of our guests, so
 there's no need to think about anything else.*
@@ -16224,14 +16126,14 @@ that cloudy fluid into my cleavage.
 I'll ever so slightly sway and move them like
 this, so please pour out lots as you cum-❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ahnn-❤ Oh esteemed guest, you're pouring so 
 much hot sperm between my cleavage-❤*
 Was your last ejaculation a pleasant one?
 Teehee-❤
 
 <TK272>
-サキュバスメイドA：上
+Succubus Maid A：上
 Oough, as I expected, you're quite strong...**
 Dearest guest, could you look at my chest?
 I'll just unveil my outfit and...❤*
@@ -16241,7 +16143,7 @@ my breasts are they?
 It seems our guests are full of openings-
 Eei-❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Please, permit me to rest your face between my 
 breasts as I service your painfully erect member.*
 I'll cover your penis in my apron, and stroke 
@@ -16256,11 +16158,11 @@ already over...
 Let her be
 Shake her off
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Kyah! Ooogh, to be able to resist even when my 
 breasts are on their face...*
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Kyah! Ooogh, to be able to resist even when my 
 breasts are on their face...*
 Oh, what's this...?
@@ -16268,7 +16170,7 @@ Oh, what's this...?
 テロップ：中央
 You were too aroused to refuse her temptation!
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Teehee-❤ You were about to shake me off, but it 
 didn't last for very long at all-*
 Your pliable, fatigued body has worn itself out-
@@ -16278,14 +16180,14 @@ Well then, allow me to rest your tired head
 between my breasts and... Ufufu- Start stroking
 your penis-
 
-サキュバスメイドA：上
+Succubus Maid A：上
 That's it. Just like that- Please relax and fawn
 over my boobs as much as you like.
 In the meantime, I'll give your penis lots of
 service too. Hora- I'll start by gently wrapping
 up the tip with my apron...
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ufufu- Did the intense stimulation surprise you?**
 The pleasure from having the tip of your penis
 teased with my fabric is a lot stronger than
@@ -16299,7 +16201,7 @@ dexterous hands service your penis.
 And if I stroke just below the head of your penis
 and tenderly treat it over my apron...❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Teehee-❤ It must be very pleasurable to be tended
 to by a maid like me-*
 Burying your face in her breasts... having your 
@@ -16328,7 +16230,7 @@ Well then, please go ahead. I'll stroke the shaft,
 neck, and head of your penis at the same time, so 
 please ejaculate blissfully going pew pew pew-❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ufufu- Well done, you were able to squirt it all
 over my apron-❤*
 Now lastly, please have a sound sleep between my
@@ -16348,7 +16250,7 @@ Not good... I'm, I'm already...❤
 アクティブ：上
 Aahhh...❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Teehee-❤ Can't you control yourself in front of
 my body?
 Self masturbating in the castle of your enemy...
@@ -16368,7 +16270,7 @@ you're also a premature ejaculator.
 Very well then. Go ahead, cum- Stroke stroke-❤ 
 Stroke stroke-❤ Stroke stroke stroke-❤ 
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Very good. What an excellent ejaculation. Look- 
 You got so much on my gloves... Did it feel 
 good to tribute to us succubus? Teehee-❤
@@ -16378,18 +16280,18 @@ course. You are all very welcome-
 
 <TK274>
 Ray：上
-はぁ・・。はぁ・・❤
+Haah... Haah...❤
 
 Miles：上
-うっ・・・❤ちくしょう・・・❤
+Ough...❤ D-Dammit...❤
 
 Nobus：上
-だめだっ・・、おれっ、もう・・・❤
+Not good... I'm, I'm already...❤
 
 アクティブ：上
-ああ・・・❤
+Ahh...❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Teehee-❤ Another one actually came over-
 I can't believe they let these sorts of people
 into the Hero's squadron.
@@ -16415,7 +16317,7 @@ an enemy succubus... How pitiful.
 Very well then. Go ahead, cum- Stroke stroke-❤ 
 Stroke stroke-❤ Stroke stroke stroke-❤ 
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Very good. What an excellent ejaculation. Look- 
 You got so much on my gloves... Did it feel 
 good to tribute to us succubus? Teehee-❤
@@ -16439,7 +16341,7 @@ Oouggh... P-Please...❤
 Ouugh, please make me feel good...❤
 I'm begging you...❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 If our guests desire it, our maids will
 do whatever they can to respond.*
 Now then, what is your wish?
@@ -16449,17 +16351,17 @@ Shall I wring your semen with my hands or breasts?
 Sexy Strike LV3
 Breast Strike LV3
 
-サキュバスメイドB：上
+Succubus Maid B：上
 But of course.
 I'll start servicing you with my hands and mouth
 at once.
 
-サキュバスメイドB：上
+Succubus Maid B：上
 But of course.
 I'll pleasure my dear guest's special place plenty
 with the titillating pressure of my breasts.
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Mmm- If you are about to cum, please do so inside
 my mouth or clothing- Very good, just like 
 that...❤
@@ -16468,14 +16370,14 @@ It seems you very much enjoyed the finest
 pleasures a maid succubus could give.
 
 <TK276>
-サキュバスメイドB：上
+Succubus Maid B：上
 Ugh, so this is it...**
 Normal men would cave in to this immediately,
 but it seems our guests are quite resistant to
 pleasure attacks.
 If it's come to this... Ha!!
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Fufu- Please forgive me for pushing you over in
 this way. You should know, negligence can be
 a powerful enemy-
@@ -16497,11 +16399,11 @@ services.
 I can't shake her off…
 Push her away
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Eek! You recovered faster than I expected!
 Kyaaah!
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Eek!
 You recovered faster than I expected...*
 But, it's no use- Your arousal has already peaked 
@@ -16515,20 +16417,20 @@ You were too aroused to refuse her temptation!
 アクティブ：上
 Uaaah...❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Teehee-❤
 All your strength vanished in an instant-*
 I would have expected you to counter attack the
 moment you threw me off but it seems you lacked
 the willpower to continue.
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Very well then, please go ahead and savour the
 exquisite charms of my skirt yourself.*
 I'll cover the entirety of your dick with my
 skirt...❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Teehee-❤ Your hips are shaking quite a bit-
 Are the sensations of the slimy, moving tendrils
 making your waist move on it's own?
@@ -16540,7 +16442,7 @@ Even just smearing my mucus on you with a light
 sway of my hips like this is enough to produce 
 irresistible pleasure.
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Ufufu-❤
 That expression you make when you're about to cum
 suits you very well-
@@ -16551,7 +16453,7 @@ It will likely be so much pleasure that your balls
 will end up completely drained, but you'll be 
 sucked to death here, so you don't mind right?
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Hora hora- How does it feel to be preyed on by
 my skirt? The pleasures not known to humans
 are irresistible aren't they?
@@ -16574,7 +16476,7 @@ I have no concern for how perverted our guests
 are, so release your semen right away-❤ Hora- 
 Until you break, my tendrils won't stop...❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Aha- This feeling of your life force flowing out
 with your creamy semen. Embrace it dearly...❤
 I'll drain every last drop of your lifeforce-❤
@@ -16582,7 +16484,7 @@ Huh... Is that it? Thank you for the meal.
 You dried up fasted than I expected- Teehee-❤
 
 <TK277>
-サキュバスメイドB：上
+Succubus Maid B：上
 Ugh, guess I've been cornered yet again...**
 I don't suppose I'll be able to use the same trick
 twice. Even in the case of a surprise attack, I 
@@ -16604,11 +16506,11 @@ that will leave you at peace with the world-
 Let her be
 Finish her off
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Kyah!
 Oogh, well resisted...
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Ogh, trying to resist my seduction?
 But it's no use, hora...*
 How about if I flutter my skirt like this, as it's
@@ -16622,7 +16524,7 @@ Uuwaah...❤
 テロップ：中央
 You were too aroused to refuse her temptation!
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Teehee-❤ All your strength vanished-
 You were so close, yet in the end, you succumbed
 to pleasure.
@@ -16634,12 +16536,12 @@ Ufufu-❤
 So, if you'd like to be eaten up by my dress...
 I would not mind at all- I live to serve.
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Fufu- So it seems you do want to be eaten by my 
 skirt. You simply don't have the strength to use
 your weapon do you?
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Hora- Please take a seat over there.
 I'll straddle you from above and give you an
 in-depth taste of my exquisite skirt-
@@ -16648,7 +16550,7 @@ for those to be honest with their desires.*
 Well then, please excuse me as I stretch over your
 legs. I'll bury your whole dick in my skirt...❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Ufufu-❤ Your dick has been completely swallowed
 by my skirt. It can't be seen from the outside 
 any longer-❤
@@ -16662,7 +16564,7 @@ Hora- If I lightly sway my hips like this and
 spread my skirt's fluids on your body, the 
 pleasure will become unbearable.
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Ufufu-❤
 With that orgasmic expression of yours it seems
 it feels very good indeed-
@@ -16681,7 +16583,7 @@ Now then please, faint and exhaust yourself as
 my slick tendrils crawl and wrap around your 
 exposed dick-❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Ufufu- The moment my tentacles gyrated around your
 dick, you ejaculated in an instant- The lifeforce
 of our guest is delicious-❤
@@ -16693,7 +16595,7 @@ be squeezed by me? If so please, don't hold back
 and let me know.
 
 <TK278>
-サキュバスメイドB：上
+Succubus Maid B：上
 Oogh, such strength...
 At this rate, our defenses will be breached.*
 I'm quite impressed by your strength dear guest.
@@ -16716,12 +16618,12 @@ my firm breasts would feel so, so good...❤
 Thrust out your hips
 Finish her off
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Kyah!
 To be defeated in such a shameful way...
 I have failed...
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Teehee-❤ Whatever is the matter?
 You stopped just as you were about to raise your
 weapon.
@@ -16734,12 +16636,12 @@ Oooh, oooh, b-boobs....❤
 テロップ：中央
 You were too aroused to refuse her temptation!
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Thank you very much. Well then please, be my 
 guest. Insert the tip of your dick into my 
 cleavage, and enjoy it as much as you like-❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Mmm- Your dick has been inserted. I can feel my 
 nipples pulsing against the head of your dick...*
 Is my cleavage comfortable enough for you?
@@ -16750,7 +16652,7 @@ to pull out at any time you start to feel uneasy.
 With all that in mind, it's time to begin...❤
 Squishy squishy squish...♪
 
-サキュバスメイドB：上
+Succubus Maid B：上
 How is it? Your waist is jerking a bit-❤
 Was having your tip massaged by my boobs more 
 pleasurable than you imagined?
@@ -16766,7 +16668,7 @@ Ufufu-❤ If you don't like it, you're welcome to
 pull out- I don't think there are any men who 
 would dislike this pleasure though.
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Ufufu- It seems you're feeling really good.
 Your dick is making so much precum, it's like a
 thin, slippery lotion.
@@ -16792,7 +16694,7 @@ anyway-
 Very well, shall we begin? With this, it'll be
 all over-❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Ahnn- You got my cleavage all creamy...❤
 Ufufu- You're pumping so much semen into my 
 boobs in pure desperation-❤*
@@ -16856,7 +16758,7 @@ My big brother can use my boobs as fap material
 too ok? I'll squeeze and massage my boobs with 
 both hands like this. It'll be super sexy-
 If you put your penis in here it might melt...
-Ahh-❤ Your stroking is getting faster-*
+Ahh-❤ your stroking is getting faster-*
 Does it turn you on when a such a young girl
 says such lewd things? Pervert❤*
 I'll catch all of my big brother's perverted 
@@ -17328,7 +17230,7 @@ suddenly reached for your groin...❤
 Ara- You're stroking your penis on your own?
 You must have been seduced by my boobs and 
 couldn't take it anymore-
-Men are no match for breast succubui.
+Men are no match for breast succubi.
 They all quickly turn into monkeys, becoming
 slaves to our boobs.
 And you're just like a monkey too aren't you?
@@ -17944,7 +17846,7 @@ I wonder how you'll able to win against Alice
 and friends with such small bodies? Teehee-❤
 
 Miles：上
-Ehehe, useless, useless!
+Ha! It's no use, that won't work on us!
 
 Alice：上
 \vo[a197]Ooough, I got blocked...?
@@ -18364,7 +18266,7 @@ Not good... I'm, already...❤
 アクティブ：上
 Ahh...❤
 
-女王の幻影：上
+Phantom Illusion：上
 Ara ara, when you suddenly fell to the floor I
 wondered what you were going to do...
 You're opening by, masturbating quickly?
@@ -18381,7 +18283,7 @@ Teehee...
 Keep stroking your penis. I'll squeeze your head
 tight between these...
 
-女王の幻影：上
+Phantom Illusion：上
 ...and help you out with a nice Puff-Puff❤
 Even though I'm an illusion, they're incredibly
 soft aren't they?
@@ -18405,7 +18307,7 @@ It won't be long now, won't it?*
 Aah, aaaooough...
 My queen...❤❤
 
-女王の幻影：上
+Phantom Illusion：上
 And there. It's over.
 Now you're my slave for life.*
 You can't disobey my breasts any longer anymore,
@@ -18415,7 +18317,7 @@ isn't that right? Teehee❤
 Y-Yes... I can't disobey...❤
 My, my queen...❤
 
-女王の幻影：上
+Phantom Illusion：上
 That will do. Slave boy❤**
 Use whatever strength you have remaining to 
 disrupt your allies as much as you can.*
@@ -18436,7 +18338,7 @@ Not good... I'm, already...❤
 アクティブ：上
 Ahh...❤
 
-女王の幻影：上
+Phantom Illusion：上
 Ara, another one is opening up to me in quick
 masturbation? I wonder what your allies would
 think- Teehee♪
@@ -18450,12 +18352,12 @@ Very well. Go ahead and keep stroking that horny
 penis of yours. I'll squeeze your head
 tight between these...
 
-女王の幻影：上
+Phantom Illusion：上
 ...and brainwash you with the Puff-Puff you wanted
 so much❤*
 Despite being an illusion, they're quite soft
 aren't they? Aha, you must be quite pleased with 
-them. Your stroking motions just got faster-
+them. You're stroking motions just got faster-
 Stroke stroke, pump pump-
 Even though your companions are looking, you can't
 hold back and keep stroking faster and faster-
@@ -18473,7 +18375,7 @@ It won't be long now, won't it?
 Aah, aaaooough...
 My queen...❤❤
 
-女王の幻影：上
+Phantom Illusion：上
 And there. It's over.
 Now you're my slave for life.*
 You can't disobey my breasts any longer anymore,
@@ -18483,7 +18385,7 @@ isn't that right? Teehee❤
 Y-Yes... I can't disobey...❤
 My, my queen...❤
 
-女王の幻影：上
+Phantom Illusion：上
 That will do. Slave boy❤**
 Use whatever strength you have remaining to 
 disrupt your allies as much as you can.*
@@ -18504,7 +18406,7 @@ Not good... I'm, already...❤
 アクティブ：上
 Ahh...❤
 
-女王の幻影：上
+Phantom Illusion：上
 Ufufu-
 You must be at your limit now, being teased by
 us illusions so much-
@@ -18521,7 +18423,7 @@ faster... Masochist pervert❤
 I'd better give you a reward for your betrayal,
 shouldn't I? Hora...
 
-女王の幻影：上
+Phantom Illusion：上
 I'll bury that embarrassed, bright red face of
 yours between my breasts.*
 There's no one else around, so there's no need to
@@ -18551,7 +18453,7 @@ It won't be long now, won't it?*
 Aah, aaaooough...
 My queen...❤❤
 
-女王の幻影：上
+Phantom Illusion：上
 And there. It's over.
 Now you're my slave for life.*
 You can't disobey my breasts any longer anymore,
@@ -18561,7 +18463,7 @@ isn't that right? Teehee❤
 Y-Yes... I can't disobey...❤
 My, my queen...❤
 
-女王の幻影：上
+Phantom Illusion：上
 That will do. Slave boy❤**
 Use whatever strength you have remaining to 
 disrupt your allies as much as you can.*
@@ -18582,7 +18484,7 @@ Not good... I'm, already...❤
 アクティブ：上
 Ahh...❤
 
-女王の幻影：上
+Phantom Illusion：上
 Ufufu, I can't believe another one started
 masturbating- Soon your entire army will be
 finished-
@@ -18602,7 +18504,7 @@ faster... Masochist pervert❤
 I'd better give you a reward for your betrayal,
 shouldn't I? Hora..
 
-女王の幻影：上
+Phantom Illusion：上
 I'll bury that embarrassed, bright red face of
 yours between my breasts.*
 There's no one else around, so there's no need to
@@ -18616,7 +18518,7 @@ Feeling your semen slowly building up... Feeling
 my boobs pressing against your face, sweet smells
 flowing into your nose and through your body...
 Ejaculating just like this, letting your queen
-absorb all your energy...
+absorb all your energy...*
 There's nothing better than letting your mind 
 drift in trance as you become my provisions-
 Don't you agree?
@@ -18631,7 +18533,7 @@ It won't be long now, won't it?*
 Aah, aaaooough...
 My queen...❤❤
 
-女王の幻影：上
+Phantom Illusion：上
 And there. It's over.
 Now you're my slave for life.*
 You can't disobey my breasts any longer anymore,
@@ -18641,7 +18543,7 @@ isn't that right? Teehee❤
 Y-Yes... I can't disobey...❤
 My, my queen...❤
 
-Ray：上
+Phantom Illusion：上
 That will do. Slave boy❤**
 Use whatever strength you have remaining to 
 disrupt your allies as much as you can.*
@@ -18662,7 +18564,7 @@ Not good... I'm, already...❤
 アクティブ：上
 Ahh...❤
 
-女王の幻影：上
+Phantom Illusion：上
 Ara ara, the last person remaining is going to
 finish himself off by masturbating to a sexy
 illusion-
@@ -18681,7 +18583,7 @@ you are, unable to stop masturbating❤
 アクティブ：上
 Uuugh, d-dammit...
 
-女王の幻影：上
+Phantom Illusion：上
 Ara, your face has become bright red.
 You're a little bit reserved aren't you?
 But, you've become so aroused from being humiliated.
@@ -18689,7 +18591,7 @@ Even now you're stroking your penis even faster...
 Masochist Pervert❤
 Hora, I'll deliver the final blow for you-
 
-女王の幻影：上
+Phantom Illusion：上
 I'll bury that embarrassed, bright red face of
 yours between my breasts.*
 There's no one else around, so there's no need to
@@ -18703,7 +18605,7 @@ Feeling your semen slowly building up... Feeling
 my boobs pressing against your face, sweet smells
 flowing into your nose and through your body...
 Ejaculating just like this, letting your queen
-absorb all your energy...
+absorb all your energy...*
 There's nothing better than letting your mind 
 drift in trance as you become my provisions-
 Don't you agree?
@@ -18714,7 +18616,7 @@ It won't be long now, won't it?*
 5, \.4, \.3, \.2, \.1...❤
 \.Cum!❤ You worthless lacky❤
 
-女王の幻影：上
+Phantom Illusion：上
 And there. It's over.
 What a disappointing death-*
 But, you looked extremely pleased doing it. 
@@ -18737,7 +18639,7 @@ Ooough, Please...❤❤
 Ooough, please make me feel good...❤
 Please...❤❤
 
-女王の幻影：上
+Phantom Illusion：上
 Ahaha! I'm surprised to hear our surprise
 attackers of all people are asking for
 pleasure.
@@ -18747,19 +18649,19 @@ Well then, drown in the illusions of our boobs-❤
 Queen's Paizuri
 Queen's Puff-Puff
 
-女王の幻影：上
+Phantom Illusion：上
 Hm? What? You want a paizuri?
 Ara ara, asking for such a simple request shows
 just how far you've fallen- Teehee❤
 
-女王の幻影：上
+Phantom Illusion：上
 Hm? What? You want a Puff-Puff? Ahaha!
 You want to ejaculate while I bury your face
 between my boobs?
 For a strong, burly soldier,
 you really are cute-❤
 
-女王の幻影：上
+Phantom Illusion：上
 Ufufu, ejaculating is useless with an illusion-
 You spurted out all your energy-
 What a embarrassing end, Mr. Soldier❤
@@ -18780,14 +18682,14 @@ Ooough, Please...❤❤
 Ooough, please make me feel good...❤
 Please...❤❤
 
-女王の幻影：上
+Phantom Illusion：上
 Ahaha, I would never have expected to hear a 
 request for pleasure from our surprise attackers-*
 Bowing so deeply and asking to be squeezed by my
 hand... Truly pathetic. Hora, I'll make sure you
 have a good time with us-❤
 
-女王の幻影：上
+Phantom Illusion：上
 That's it. Let it all uselessly flow out. It's
 really pathetic how easily I was able to milk out
 your thick energy with my hand-❤
@@ -18808,13 +18710,13 @@ Ooough, Please...❤❤
 Ooough, please make me feel good...❤
 Please...❤❤
 
-女王の幻影：上
+Phantom Illusion：上
 Teehee. So, you want me to suck you off with my
 mouth?*
 To desire even a moment of pleasure, even if it
 means being milked dry... Fufu-❤
 
-女王の幻影：上
+Phantom Illusion：上
 Mmm, gulp-❤
 Now it's all inside my mouth❤
 Did it feel good?
@@ -18837,14 +18739,14 @@ Ooough, Please...❤❤
 Ooough, please make me feel good...❤
 Please...❤❤
 
-女王の幻影：上
+Phantom Illusion：上
 Ara, you're pleading at me, because you want me
 to step on you.*
 What a masochistic pervert-❤
 Ufufu. Well, I don't mind. I'll trample you down
 with my feet, and give you the queen's compassion-❤
 
-女王の幻影：上
+Phantom Illusion：上
 And there. You ejaculated rather quickly.
 You looked rather pleased as you orgasmed to the
 curvy sole of my foot while I looked down on you❤
@@ -18866,14 +18768,14 @@ Ooough, Please...❤❤
 Ooough, please make me feel good...❤
 Please...❤❤
 
-女王の幻影：上
+Phantom Illusion：上
 So you want to cum between my thighs? Just when I
 thought you were staring at my legs earlier, here
 you are begging for them. What a bad boy-❤
 It's OK.
 I'll make sure you ascend to heaven at once❤
 
-女王の幻影：上
+Phantom Illusion：上
 Ufu, you're really pumping out creamy semen into
 my thighs- How is it? The tight pressure as you
 release your semen is mind melting, isn't it?
@@ -18881,12 +18783,12 @@ I'm glad I was able to help you die a happy death-
 Teehee❤
 
 <TK309>
-女王の幻影A：上
+Phantom IllusionA：上
 Ufufu-
 It was foolish of you to plunge yourself into 
 us, silly child❤
 
-女王の幻影B：上
+Phantom IllusionB：上
 Were you too busy thinking about defeating us?
 Or maybe...*
 You desire us to surround and shower
@@ -18895,7 +18797,7 @@ you in affection...? Kuhuhu❤
 アクティブ：上
 N-no, S-Sto...
 
-女王の幻影C：上
+Phantom IllusionC：上
 Ufufu- Just being grabbed by the two of us has
 already made you completely helpless huh?*
 Time to forcefully milk your defenseless penis-❤
@@ -18904,14 +18806,14 @@ Hora, slip inside our boobs...❤
 アクティブ：上
 A-Aah, aaaaough...❤❤
 
-女王の幻影A：上
+Phantom IllusionA：上
 Uh oh- It got swallowed up by our boobs❤
 That must have felt really good❤
 
 アクティブ：上
 Ooough, t-this is...
 
-女王の幻影B：上
+Phantom IllusionB：上
 Fufu, even if you struggle it's useless-
 Hora, focus on my fingers pinching both of
 your nipples okay...?♪
@@ -18919,12 +18821,12 @@ your nipples okay...?♪
 アクティブ：上
 Oogh...❤
 
-女王の幻影B：上
+Phantom IllusionB：上
 Your strength faded with just this.
 What a weak creature-❤
 Kuhuhu-
 
-女王の幻影C：上
+Phantom IllusionC：上
 The more you struggle, the more your penis flails
 about in our breasts-*
 Instead of trying to escape, it looks more like
@@ -18937,12 +18839,12 @@ OK. We'll send you to heaven at once-❤
 W-Wait! No, I-I...
 O-Ooough, my w-waist is melting....❤❤❤
 
-女王の幻影A：上
+Phantom IllusionA：上
 Aha❤
 You started shaking your hips on your own-
 What a pathetic male❤
 
-女王の幻影C：上
+Phantom IllusionC：上
 Is that because our breasts feel good?
 So you can't hold back anymore?*
 Swear your loyalty to us, and we'll let you
@@ -18950,7 +18852,7 @@ ejaculate between our breasts over and over
 until you die-
 Well? Doesn't that sound nice?
 
-女王の幻影C：上
+Phantom IllusionC：上
 Ufufu❤ You're trying to resist-
 You're resisting so much♪*
 But, it seems your heart is already breaking
@@ -18963,32 +18865,32 @@ Your hope for mankind finishes here, as you
 submit to the breasts around your cock-❤
 A wonderful end, don't you think? Kuhuhu♪
 
-女王の幻影C：上
+Phantom IllusionC：上
 Aha❤
 You came just from entering our breasts.*
 So you came to get some love from us after all?
 You weren't even trying at all-
 Kuhuhu♪
 
-女王の幻影B：上
+Phantom IllusionB：上
 Ara ara, did you ejaculate from having your
 nipples teased?*
 You went out of your way to get a paizuri from
 us, but just the stimulation was too much
 and made you cum in your pants-❤
 
-女王の幻影C：上
+Phantom IllusionC：上
 You came in our breasts, but you're still not
 satisfied are you? Fufu- You're still twitching
 inside our cleavage❤
 
-女王の幻影C：上
+Phantom IllusionC：上
 Our boobs made you ejaculate quickly❤
 Your melted expression looks so good♪*
 But there's nothing to be embarrassed about-
 Men are always like this after all. Kuhuhu♪
 
-女王の幻影C：上
+Phantom IllusionC：上
 Ahaha♪ You tried your best to hold it in, but
 in the end, you let it all out and went
 "splurt splurt splurt!"❤
@@ -19099,14 +19001,14 @@ It makes you happy to pour your thick semen
 inside a pair of breasts doesn't it? Ufufu♪
 
 <TK310>
-女王の幻影A：上
+Phantom IllusionA：上
 Ara ara, did you see us squeezing that man from
 earlier?*
 It was very careless of you to willingly
 thrust yourself between us in a position like
 this-
 
-女王の幻影B：上
+Phantom IllusionB：上
 But we know that's not true don't we?
 We know you aren't careless. You just want your
 cock between our breasts too don't you?
@@ -19118,7 +19020,7 @@ became blank didn't it? Kuhuhu♪
 アクティブ：上
 Ooough, T-That's not... Uaaaah....
 
-女王の幻影C：上
+Phantom IllusionC：上
 Ufufu- Once the two of us have restrained both
 your arms, you're completely helpless.*
 And once your penis becomes defenseless,
@@ -19128,14 +19030,14 @@ Hora, slip inside our boobs...❤
 アクティブ：上
 Aah, aaaaaah...❤❤
 
-女王の幻影A：上
+Phantom IllusionA：上
 Uh oh- It got swallowed up by our boobs❤
 That must have felt really good❤
 
 アクティブ：上
 Ooough, T-This is..
 
-女王の幻影B：上
+Phantom IllusionB：上
 Even if you struggle it's useless.
 Hora, focus on my fingers pinching both of
 your nipples okay...?♪
@@ -19143,12 +19045,12 @@ your nipples okay...?♪
 アクティブ：上
 Uagh...❤
 
-女王の幻影B：上
+Phantom IllusionB：上
 Your strength faded with just this.
 What a weak creature-❤
 Kuhuhu-
 
-女王の幻影C：上
+Phantom IllusionC：上
 The more you struggle, the more your penis flails
 about in our breasts-*
 Instead of trying to escape, it looks more like
@@ -19161,12 +19063,12 @@ OK. We'll send you to heaven at once-❤
 Aah, aaaah, m-my hips are...
 m-melting...❤❤❤
 
-女王の幻影A：上
+Phantom IllusionA：上
 Aha-❤
 You started shaking your hips on your own,
 hi-la-ri-ous-♪
 
-女王の幻影C：上
+Phantom IllusionC：上
 Is that because our breasts feel good?
 So you can't hold back anymore?*
 Swear your loyalty to us, and we'll let you
@@ -19174,7 +19076,7 @@ ejaculate between our breasts over and over
 until you die-
 Well? Doesn't that sound nice?
 
-女王の幻影B：上
+Phantom IllusionB：上
 Ufufu❤ You're trying to resist-
 You're resisting so much aren't you?♪*
 But, it seems your heart is already breaking up
@@ -19187,32 +19089,32 @@ Your hope for mankind finishes here, as you
 submit to the breasts around your cock-❤
 A wonderful end, don't you think? Kuhuhu♪
 
-女王の幻影C：上
+Phantom IllusionC：上
 Aha❤
 You came just from entering our breasts.*
 Perhaps you were expecting to get a harem, which
 is why you approached us alone?
 You weren't even trying at all- Kuhuhu♪
 
-女王の幻影B：上
+Phantom IllusionB：上
 Ara ara, did you ejaculate from having your
 nipples teased?*
 You went out of your way to get a paizuri from
 us, but just the stimulation was too much
 and made you cum in your pants-❤
 
-女王の幻影C：上
+Phantom IllusionC：上
 You came in our breasts, but you're still not
 satisfied are you? Fufu- You're still twitching
 inside our cleavage❤
 
-女王の幻影C：上
+Phantom IllusionC：上
 Our boobs made you ejaculate quickly❤
 Your melted expression looks so good♪*
 But there's nothing to be embarrassed about-
 Men are always like this after all. Kuhuhu♪
 
-女王の幻影C：上
+Phantom IllusionC：上
 Ahaha♪ You tried your best to hold it in, but
 in the end, you let it all out and went
 "splurt splurt splurt!"❤
@@ -19336,11 +19238,11 @@ It makes you happy to pour your thick semen
 inside a pair of breasts doesn't it? Ufufu♪
 
 <TK311>
-女王の幻影A：上
+Phantom IllusionA：上
 Three people makes a harem doesn't it?❤
 Ufufu❤
 
-女王の幻影B：上
+Phantom IllusionB：上
 Hora, come closer OK?
 We'll squeeze you tight-❤
 
@@ -19350,7 +19252,7 @@ Wa... Wait, stop tha...
 アクティブ：上
 Ough, a-aaaah...❤❤
 
-女王の幻影B：上
+Phantom IllusionB：上
 Aha, by pushing our boobs against you like this
 and wrapping around your legs, you can't run
 away anymore can you?
@@ -19360,7 +19262,7 @@ so comfortable- Kuhuhu❤
 アクティブ：上
 Augh, why, y-you...!
 
-女王の幻影C：上
+Phantom IllusionC：上
 Oooh, so you do have a little bit of will left-
 But, hora- Once we tease both your ears, even
 those strong intention will quickly fade away-❤
@@ -19370,25 +19272,25 @@ same time. Psheww---❤
 アクティブ：上
 A-Aaah...❤
 
-女王の幻影A：上
+Phantom IllusionA：上
 From having your ears teased, you've become weak 
 and helpless. Kuhuhu-*
 The three of us are going to tease your face 
 lots now. If you're going to escape, you should
 do it now-
 
-女王の幻影B：上
+Phantom IllusionB：上
 First a kiss on the lips-❤
 Mmmwah❤
 
-女王の幻影C：上
+Phantom IllusionC：上
 And then we'll lick your ears-❤
 Our tongues will rape your mind- Aaaahmm...❤
 
 アクティブ：上
 Aaah, aaahiheeah...!❤❤
 
-女王の幻影A：上
+Phantom IllusionA：上
 Kuhuhu❤
 It feels good enough to break your heart
 doesn't it?
@@ -19396,16 +19298,16 @@ You don't need to resist-
 Let your willpower melt away, and become our
 manservant-❤
 
-女王の幻影C：上
+Phantom IllusionC：上
 Ufufu❤
 His eyes have completely glazed over-❤
 
-女王の幻影B：上
+Phantom IllusionB：上
 And his face is covered in thick kisses-❤
 He's so lovey dovey, he's become our manservant
 already- Kuhuhu❤
 
-女王の幻影A：上
+Phantom IllusionA：上
 Now then, try your best till to the very end with
 what remaining energy you have left.*
 Betray your allies as our manservant❤
@@ -19479,11 +19381,11 @@ Betray your allies as our manservant❤
 Put on a nice show for us-
 
 <TK312>
-女王の幻影A：上
+Phantom IllusionA：上
 Three people makes a harem doesn't it?❤
 Ufufu❤
 
-女王の幻影B：上
+Phantom IllusionB：上
 Hora, come closer OK?
 We'll tease you with kisses and ear licking until
 you become our slave❤ Squeeeze-❤
@@ -19494,7 +19396,7 @@ Hey, s-stop tha...
 アクティブ：上
 Ough, ooohh...❤❤
 
-女王の幻影B：上
+Phantom IllusionB：上
 Aha, by pushing our boobs against you like this
 and wrapping around your legs, you can't run
 away anymore can you?
@@ -19504,7 +19406,7 @@ so comfortable- Kuhuhu❤
 アクティブ：上
 Ough, w-why you...!
 
-女王の幻影C：上
+Phantom IllusionC：上
 Oooh, so you do have a little bit of will left-
 But, hora- Once we tease both your ears, even
 those strong intention will quickly fade away-❤
@@ -19514,25 +19416,25 @@ same time. Psheww---❤
 アクティブ：上
 A-Aaah...❤
 
-女王の幻影A：上
+Phantom IllusionA：上
 From having your ears teased, you've become weak 
 and helpless. Kuhuhu-*
 The three of us are going to tease your face 
 lots now. If you're going to escape, you should
 do it now-
 
-女王の幻影B：上
+Phantom IllusionB：上
 First a kiss on the lips-❤
 Mmmwah❤
 
-女王の幻影C：上
+Phantom IllusionC：上
 And then we'll lick your ears-❤
 Our tongues will rape your mind- Aaaahmm...❤
 
 アクティブ：上
 Aaah, aaahiheeah...!❤❤
 
-女王の幻影A：上
+Phantom IllusionA：上
 Kuhuhu❤
 It feels good enough to break your heart
 doesn't it?
@@ -19540,16 +19442,16 @@ You don't need to resist-
 Let your willpower melt away, and become our
 manservant-❤
 
-女王の幻影B：上
+Phantom IllusionB：上
 Ufufu❤
 His eyes have completely glazed over-❤
 
-女王の幻影C：上
+Phantom IllusionC：上
 And his face is covered in thick kisses-❤
 He's so lovey dovey, he's become our manservant
 already- Kuhuhu❤
 
-女王の幻影A：上
+Phantom IllusionA：上
 Now then, try your best till to the very end with
 what remaining energy you have left.*
 Betray your allies as our manservant❤
@@ -19860,7 +19762,8 @@ Ahh...❤
 Mini Mirage：上
 Ufufu, another person actually got aroused from
 my air-handjob and came over-*
-Are you not able to control yourself when a small girl starts making you aroused? Or maybe, you 
+Are you not able to control yourself when a small
+girl starts making you aroused? Or maybe, you 
 wanted to stare at my boobs...♪
 Falling to your knees, going strokey strokey-❤
 Having me look down on you while going strokey
@@ -20120,7 +20023,7 @@ there's nothing left.
 Worries... Hardships... All fading out of your
 mind until the only thing left is pleasure.*
 Are you prepared?
-You look like your melting away Mister❤
+You look like you're melting away Mister❤
 Now then, your final fellatio, here it comes...!❤
 
 選択肢：1
@@ -20140,15 +20043,6 @@ Mini Mirage：上
 Sluurp, mmwah, suuuck- Ahh, aaaaaah...❤
 Chu, chu, chu- Slurururp, pop- Aahh❤
 Slurururururp❤
-
-Mini Mirage：上
-ん、ごくっ・・・❤
-ぷはぁ・・・❤*
-んー♪魔力がみなぎってくる。
-とってもおいしかったよ、ごちそうさまでした♪*
-最後の方は、ひぃひぃ叫んですごかったね❤
-わたしのおくち、よっぽど気持ちよかったのかな？
-きゃはは♪
 
 Mini Mirage：上
 Mmm... (gulp)❤
@@ -20400,7 +20294,7 @@ there's nothing left.
 Worries... Hardships... All fading out of your
 mind until the only thing left is pleasure.*
 Are you prepared?
-You look like your melting away Mister❤
+You look like you're melting away Mister❤
 Now then, your final fellatio, here it comes...!❤
 
 選択肢：1
@@ -20964,28 +20858,28 @@ Queen Mirage：上
 Ufufu♪ I'll show you what it's like to have a
 harem with my illusions❤
 
-女王の幻影A：中央
+Phantom IllusionA：中央
 Fall under my spell. Mwah-❤
 
-女王の幻影A：中央
+Phantom IllusionA：中央
 Become my slave. Mmmwah❤
 
-女王の幻影B：下
+Phantom IllusionB：下
 Hora, I'll place a red kiss mark on your cheek
 here too. Mwah❤
 
-女王の幻影B：下
+Phantom IllusionB：下
 Does it feel good being kissed by everyone?
 Your slutty face looks so relaxed...❤
 Mwah❤
 
 
-女王の幻影C：上
+Phantom IllusionC：上
 Aha❤ Your hips are trembling aren't they?
 Does it feel good being kissed from all sides?
 Mwah❤
 
-女王の幻影C：上
+Phantom IllusionC：上
 A wet, thick kissy mark on this cheek too❤
 You can feel it tingle on your skin, can't you?
 Mwah❤
@@ -21036,7 +20930,7 @@ Say, that barrier is such a nuisance, wouldn't
 you agree? Why not take it down already, so
 you can have some fun with us?
 
-女王の幻影B：中央
+Phantom IllusionB：中央
 The four of us will shower you in kisses and
 fill you with our magical power.*
 Your brain cells will melt as your mind empties.
@@ -21047,14 +20941,14 @@ ejaculate❤ It'll feel soo good-
 Deactivate the Holy Sword
 Ignore temptation
 
-女王の幻影C：下
+Phantom IllusionC：下
 That's it. Very good...
 Such a good, obedient boy-❤
 
 Miles：上
 Augh, I-I just want to...❤
 
-女王の幻影A：中央
+Phantom IllusionA：中央
 There's no need to be in such a hurry,
 lets kiss- Ufufu❤
 
@@ -21085,7 +20979,7 @@ there are better things you could be doing...
 Even though without this needless light, you
 could experience our true pleasures...
 
-女王の幻影B：中央
+Phantom IllusionB：中央
 The four of us showering you in kisses,
 filling you with our magical power...*
 Your brain cells melting as your mind empties...
@@ -21096,7 +20990,7 @@ ejaculate❤ It'd feel soo good-
 Deactivate the Holy Sword
 Ignore temptation
 
-女王の幻影C：下
+Phantom IllusionC：下
 That's it. Very good...
 Such a good, obedient boy-❤
 
@@ -21144,7 +21038,7 @@ The sway and pull of my soft boobs arouses you-**
 Paizuri... Puff-Puffs...♪
 It's OK to fantasize about them.
 
-女王の幻影A：下
+Phantom IllusionA：下
 Ufufu♪ Rest your eyes on my breasts and let your
 mind glaze over. You're full of openings, 
 so by wrapping my arms around you from behind...♪
@@ -21152,7 +21046,7 @@ Hora, your face got engulfed in my boobs.
 Well? Does it feel good to rub your face against
 my boobs?
 
-女王の幻影A：下
+Phantom IllusionA：下
 Ufufu♪ Rest your eyes on my breasts and let your
 mind glaze over. You're full of openings, 
 so by wrap my arms around you from behind...♪
@@ -21207,7 +21101,7 @@ Kuhuhu♪
 The extent of your inexperience knows no bounds,
 wouldn't you say?
 
-女王の幻影A：上
+Phantom IllusionA：上
 Kuhuhu❤
 Ejaculating from being Puff-Puffed...*
 And to think if you had resisted a little more
@@ -21256,7 +21150,7 @@ Don't you think it's a waste?
 If it wasn't for this light, I could show you
 what true pleasure is like...
 
-女王の幻影A：下
+Phantom IllusionA：下
 Even a simple Puff-Puff, would make you feel so
 good you'd leak semen-*
 So, hora- You know what you must do don't you?
@@ -21275,11 +21169,11 @@ Ray：上
 Haah, I-I released it so...❤❤
 P-Please, my q-queen...❤
 
-女王の幻影A：下
+Phantom IllusionA：下
 Ufufu. Very well then.
 Here's your Puff-Puff okay?
 
-女王の幻影A：下
+Phantom IllusionA：下
 Puff-Puff...♪ Puff-Puff...♪
 
 Ray：上
@@ -21961,17 +21855,17 @@ take you to heaven with my Paizuri OK? Kuhu-♪
 Flick the switch back
 Resist temptation
 
-淫魔スライム：上
+Slime Succubus：上
 Ooogh, why meee....
 
-淫魔スライム：上
+Slime Succubus：上
 Ehehe! Thanks a bunch!❤**
 Alright then, as promised, I'll stroke your penis
 with my sticky, gooey slime OK?*
 Hora- I'll pump your penis up from the tip and 
 down to the base of your shaft over and over...❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ufu- Each time I go up and down, your body goes 
 "twitch- twitch-", so it must feel really good-
 I'm glad you like it-
@@ -21984,7 +21878,7 @@ And whoa, judging by this amount of precum, it
 seems you're really enjoying it too- Fufu-❤ 
 There's so much it's leaking out a little-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Hora hora- Please enjoy the bouncy, rubbery
 texture of my slime as much as you like.*
 You've already betrayed the humans, so there's
@@ -21999,7 +21893,7 @@ Hora hora-❤ The base, the shaft, your sensitive
 tip... My slime will engulf and massage all of 
 your penis at once-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ufufu- That was a big, gooey load-
 Ahnn-❤ You're still cumming too! It's all 
 starting to flow out-❤
@@ -22007,7 +21901,7 @@ I was saved by a man weak to seduction...
 Guess I can somehow defend the castle for a little
 longer-
 
-淫魔スライム：上
+Slime Succubus：上
 Ufufu-❤
 So you switched it back-
 Thanks a bunch!-
@@ -22017,7 +21911,7 @@ That's it- Just stick your penis through the
 bars here and... there-❤
 Your penis is snug inside my slimy hole-❤
 
-淫魔スライム：上
+Slime Succubus：上
 How is it? It may be a little slippery, but the 
 squishiness and elasticity actually pretty 
 amazing don't you think?
@@ -22028,12 +21922,12 @@ Hora- I'll rub every last bit of your shaft
 with my slime onahole-❤ It must feel good 
 having your penis stroked huh?
 
-淫魔スライム：上
+Slime Succubus：上
 Yaay- Slipping slime up and down your shaft♪
 Ehehe- Having your penis stroked and massaged
 feels amazing right?
 
-淫魔スライム：上
+Slime Succubus：上
 You know- Everyone ends up cumming right away 
 whenever I do this, but I can only do it if I'm
 close enough, so I don't get to do it often.
@@ -22050,7 +21944,7 @@ Hora hora- Cum-❤ Cum-❤
 I'll keep stroking you over and over, so go
 ahead and shoot out all your cum-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ahnn-❤ You put a lot inside my slime! It's
 see-through, so you can see all the gooey semen-❤*
 I'd love to keep making you feel good, but sadly
@@ -22061,7 +21955,7 @@ make you my slave. I'll keep squeezing you lots
 and lots, so look forward to it! Ufufu-❤
 
 <TK334>
-淫魔スライム：上
+Slime Succubus：上
 Hora hora-❤
 I'm not going to stop until you cum!*
 If you don't like it, you're free to run away,
@@ -22074,7 +21968,7 @@ So hora- I know it feels good, but just let me
 handle the rest OK?
 Squish- Rub-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ufufu- How do you like that?
 Just being inside this makes you want to cum your
 brains out right?
@@ -22103,7 +21997,7 @@ There's no point in trying to refuse your
 reward now. Go ahead and spurt out all that
 cum of yours!❤ Wheee-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ahnn-❤ Look at all that gooey semen! I can see
 it all even from here-
 It's so nice when someone empties everything in
@@ -22113,7 +22007,7 @@ given into their desires-*
 If there's anyone else who wants to feel good,
 please go ahead and stand right there-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Mmm- All your gooey cum gushed out at full force-
 You put so much out into my slime onahole-❤
 Did my fake pussy hole feel that good?
@@ -23420,10 +23314,10 @@ Before he could reach the wall, the hero was
 captured by succubi and squeezed to death on 
 the battlefield.
 
-巨乳少女：上
+Big Breasted Girl：上
 Ufufu-❤
 As expected, it's only natural for a boy to lose
-breasts as big as these-❤
+to breasts as big as these-❤
 It's so easy to get what you want when you can
 just rub someone between big breasts...
 Hey, don't you agree, Mr. Reinforcement Leader?～❤
@@ -23431,7 +23325,7 @@ Hey, don't you agree, Mr. Reinforcement Leader?～❤
 Ray：上
 Gh, oooh...
 
-巨乳少女：上
+Big Breasted Girl：上
 Even now when I rub and squeeze your length up and
 down...*
 You can't hold in those pleasure filled moans,
@@ -23442,7 +23336,7 @@ Do my breasts feel good～?
 Ray：上
 Yess... Ah, dammit... I'm, already...❤
 
-巨乳少女：上
+Big Breasted Girl：上
 Aaah, you came so much on my chest-❤
 You've cum so many times, you're already 
 becoming lovey dovey～❤
@@ -23454,7 +23348,7 @@ You can't resist the pleasure, can you?～
 Ray：上
 No, I.. More... More...❤
 
-巨乳少女：上
+Big Breasted Girl：上
 Fufu. Very good～❤**
 While being infatuated with my breasts, ejaculate 
 in submission, until you're all dried up.
@@ -23464,7 +23358,7 @@ but the pull and tug of my breasts～❤
 Ray：上
 Ugh...❤❤❤
 
-巨乳少女：上
+Big Breasted Girl：上
 Fufu...❤
 He was a complete monkey, halfway through
 he couldn't even talk...
@@ -24007,14 +23901,14 @@ everyone else as well-❤
 Fufu- men are way too weak♪
 
 テロップ：中央
-the hero's mission to save the sage met a tragic
+The hero's mission to save the sage met a tragic
 end, due to the hero's inability to resist
 the girls' temptations.
 The kingdom was left with no way to attack or
 defend against the succubus attacks.*
 And although the succubi had not yet overthrown
 the Kingdom, defeat was inevitable.*
-And so, their adventure came to an end
+And so, their adventure came to an end.
 
 <TK352>
 テロップ：中央
@@ -24321,7 +24215,7 @@ everyone else as well-❤
 Fufu- men are way too weak♪
 
 テロップ：中央
-the hero's mission to save the sage met a tragic
+The hero's mission to save the sage met a tragic
 end, due to the hero's inability to resist
 the girls' temptations.
 The kingdom was left with no way to attack or
@@ -24336,7 +24230,7 @@ After being defeated by a female student in front
 of the sage's room, the protagonist
 was taken to another room.
 
-中等部生徒：上
+Middle Student：上
 Ufufu. Good morning.
 Have you woken up?*
 After you were defeated by a succubus and
@@ -24371,7 +24265,7 @@ breasts, you know?
 Ray：上
 Uhh...❤ Uhhh...❤
 
-中等部生徒：上
+Middle Student：上
 Fufu- your penis looks painfully hard from
 pressing against your pants.
 You can't take it anymore, can you?
@@ -24387,13 +24281,13 @@ coming from you... It seems you aren't a fake
 rescue squad. Very well, I shall open the door!
 ...!!!!!
 
-中等部生徒：上
+Middle Student：上
 Ara-❤ You finally opened the door, Senpai-❤
 
 Mizuhide：上
 Damn it! Mhn, hmnnnnn-❤❤❤
 
-中等部生徒：上
+Middle Student：上
 Nooope. I won't let you get away.
 Senpai should just be quiet inside my chest-❤*
 It's okay. Don't be afraid.
@@ -24404,7 +24298,7 @@ Hora, just leave everything to me okay...?
 Mizuhide：上
 H-hauhhh...❤
 
-中等部生徒：上
+Middle Student：上
 Hehe. Even though you're called the sage,
 you're so we-ak-❤*
 You easily gave in to my breasts didn't you,
@@ -24419,21 +24313,21 @@ Leader-san his reward, don't I?
 Ray：上
 Hahh, hahh, hahhh...
 
-中等部生徒：上
+Middle Student：上
 Teehee- Your breathing is so rough-❤
 Have you been looking forward to this the entire
 time?
 Do you want to be wrapped around by these
 breasts?
 
-中等部生徒：上
+Middle Student：上
 Okay. Hora, I'll send you to
 heaven with my breasts-❤
 
 Ray：上
 Ahh-❤ Ahhh-❤ Ahhhhh!!!
 
-中等部生徒：上
+Middle Student：上
 Hehehe. Being wrapped around by my breasts feels
 so good, doesn't it?❤ You're crying out so
 wonderfully, but aren't you embarrassed?❤
@@ -24446,7 +24340,7 @@ A pathetic masochist that betrayed everyone-❤
 Ray：上
 Ahhhh-❤ Ahhh-❤ Ahh-❤ Ahh-❤
 
-中等部生徒：上
+Middle Student：上
 Ufufu-❤
 Does my paizuri feel so good that you can't tell
 what's going on anymore?
@@ -24472,14 +24366,14 @@ Ray：上
 Ha-hahiiii...❤
 This... Is so amazinggg...❤
 
-中等部生徒：上
+Middle Student：上
 Ahnnn, you're letting out so much.
 And it's so full of energy-❤
 
 Mizuhide：上
 Hahhh-❤ Hahh...❤
 
-中等部生徒：上
+Middle Student：上
 Ara-❤ Senpai's eyes are bloodshot...❤
 He's gotten excited from seeing me milking this
 person-❤
@@ -24495,7 +24389,7 @@ Mizuhide：上
 Kuh-❤ I have to escape but...❤
 Why can't I...❤
 
-中等部生徒：上
+Middle Student：上
 It's useless. Your feet won't move, will they?
 Your body and mind have already been charmed by
 my breasts, they don't want to run away from me-❤
@@ -24521,7 +24415,7 @@ Mizuhide：上
 Hauhhhh... What... Is this-❤ Uwahhhh...❤
 It feels good-❤ It feels so good!!!
 
-中等部生徒：上
+Middle Student：上
 Fufu- you're twitching-❤ How cute-❤**
 Senpai doesn't know anything
 about perverted stuff, right?*
@@ -24640,8 +24534,7 @@ Ahh...❤❤❤
 Now then, my puppet.
 Your orders.*
 Stay there while I take care of
-the sage.
-Stay absolutely still.*
+the sage. Stay absolutely still.*
 That... Thing you wanted to save,
 you're going to watch him get sucked
 dry by succubi in the next room.
@@ -24713,7 +24606,7 @@ Ah, ahhh-❤ boobs... boobs...❤
 モルジア：上
 \vo[m62]Hehehe, the Sagey you came to save
 has already become unable to
-live without my breasts-❤*
+live without my breasts-❤
 \vo[m63]Even his intelligence has melted away-❤
 Now he's just a silly boy who can only think of
 letting his semen out between a pair of boobs-❤
@@ -25120,7 +25013,7 @@ What's hap...❤
 
 モルジア：上
 \vo[m112]Ufufu- Those who receive a Breast Succubus' energy 
-drain without a break, eventually being to perish-❤❤*
+drain without a break, eventually beginning to perish-❤❤*
 \vo[m113]Do you understand? As you entrust yourself to this
 pleasure, you're gradually turning into a mummy.
 Hora- Shouldn't you resist a bit?
@@ -25391,7 +25284,6 @@ Ray：上
 Ah, ah, ahhh...❤❤❤
 
 Devout Girl：上
-うふふ。すでに一度、
 (Giggle) You've been defeated by
 my breasts once already, haven't you?
 Your body remembers how good the pleasure felt.
@@ -25995,7 +25887,7 @@ Ray：下
 Haa-❤Aau-❤❤
 
 Boobie Elf：下
-Our breasts are bigger than anything, aren't they?*
+Our breasts are bigger than anything, aren't they?**
 When it comes to breasts like ours, 
 burying your face and penis between them is easy♪*
 These bouncy bouncy breasts are weapons capable
@@ -26187,7 +26079,7 @@ After all, we have you to thank for persuading
 him- Isn't that right, Mr. Penis?❤
 This is your reward-
 Hora, hora hora-❤ 
-We're going to life a happily married life, 
+We're going to live a happily married life, 
 okay?❤
 And after this, 
 you're going to start living together with us-❤
@@ -26370,7 +26262,7 @@ Haa-❤Aau-❤❤
 
 Boobie Elf：下
 Ehehe- 
-Our breasts are bigger than anything, aren't they?*
+Our breasts are bigger than anything, aren't they?**
 When it comes to breasts like ours, 
 burying your face and penis between them is easy♪*
 These bouncy bouncy breasts are weapons capable
@@ -26552,7 +26444,7 @@ After all, we have you to thank for persuading
 him- Isn't that right, Mr. Penis?❤
 This is your reward-
 Hora, hora hora-❤ 
-We're going to life a happily married life, 
+We're going to live a happily married life, 
 okay?❤
 And after this, 
 you're going to start living together with us-❤
@@ -26790,7 +26682,7 @@ Even if you ejaculate between my thighs,
 you won't be able to make any children, you know?
 Only fools would feel good from this-❤
 Hora- Cum- Ejaculate while embracing the 
-sensations of my legs to your heart’s content-❤
+sensations of my legs to your heart's content-❤
 Teehee-❤
 
 Ray：上
@@ -26916,7 +26808,7 @@ do you like losing or something?*
 You were so strong the other day, but now,
 your facial expression has totally melted...
 Kuhu-❤
-What's wrong? Those eyes of yours...*
+What's wrong? Those eyes of yours...**
 Didn't you come here to clear the trial?
 You're completely fawning over my legs.*
 Hey now- Why don't you speak honestly?
@@ -26953,8 +26845,8 @@ Amazing...❤
 Elf：上
 Wow, you're already blanking out-❤**
 Does the sensation of my thighs really feel 
-that good?
-Rubbing your face against it like that is
+that good?*
+Rubbing your face against them like that is
 kinda pathetic though, you know?-*
 We're Elves, you know? So we're using this 
 trial to find suitable husbands.*
@@ -27229,7 +27121,7 @@ you look so happy-❤*
 You squirted out so much, and didn't even try 
 to resist at all-❤*
 I'd probably kill you if I squeezed you any
-further, so let’s meet again next trial, okay?*
+further, so let's meet again next trial, okay?*
 Be sure to store up all your energy, alright?
 I'll be looking forward to it-
 
@@ -27334,7 +27226,7 @@ even stronger than last time, okay? Ho-ra...❤
 
 Ray：上
 Haah...❤
-Whoa, it's, is't so sweet!!❤*
+Whoa, it's, it's so sweet!!❤*
 More, I need to breathe it in more...❤
 Aaaah...❤
 
@@ -27347,7 +27239,7 @@ sticky mess isn't it?
 This aroma is incredibly addictive,
 so smelling it at this strength might
 cause your mind to snap a little-
-But, if you’re the kind of man to lose to me twice,
+But, if you're the kind of man to lose to me twice,
 you probably won't mind ending up being
 a tad deluded, right?
 After all, even if you challenge the trial again,
@@ -27501,7 +27393,7 @@ Ara- Are you going to cum already?-
 The tip is starting to swell up-*
 Although you're the leader of the knights,
 you're going to ejaculate from having your penis
-stroked my a monster's boobs- How uncouth-❤
+stroked by a monster's boobs- How uncouth-❤
 It's okay- It was a mistake for someone like you
 to attempt the trial anyway, so don't resist-*
 Just enjoy the feeling,
@@ -27519,7 +27411,7 @@ A little pressure between a pair of breasts,
 and they can't resist at all-*
 But at any rate, you should be happy, right?
 You didn't lose to a succubus-*
-If you did, you'd be dead around about now, huh?-**
+If you did, you'd be dead about now, huh?-**
 The breasts you love so much would drain your
 life force, and you'd meet a pathetic end while
 panting and moaning...
@@ -27610,12 +27502,12 @@ Oooaah-❤ Aiee-❤
 
 Boobie Mermaid：上
 Ara- That must feel good-❤
-Amazing, right?
+Amazing, right?*
 No man can last five minutes from being stroked
 by my beautiful breasts-*
 And even you couldn't resist ejaculating the other
 day either. I wonder if you'll be able endure
-it this time...?*
+it this time...?
 Hora- Squishh... Squish...❤
 Rubbing up- Rubbing down...❤*
 Oh, what's this?-
@@ -27644,15 +27536,15 @@ A little pressure between a pair of breasts,
 and they can't resist at all-*
 But at any rate, you should be happy, right?
 You didn't lose to a succubus-*
-If you did, you'd be dead around about now, huh?-**
+If you did, you'd be dead about now, huh?-**
 The breasts you love so much would drain your
 life force, and you'd meet a pathetic end while
 panting and moaning...
 Be careful when fighting succubi in the future, 
 alright?*
-For if a man's weak point is 
-surrounded by a pair of big soft breasts, they'd 
-surely meet their end. See? Hora-❤
+For if a man's weak point is surrounded by a pair
+of big soft breasts, they'd surely meet their end.
+See? Hora-❤
 
 Ray：上
 Hah, Haaah...❤
@@ -28181,7 +28073,7 @@ Ooh, oooooh...❤❤
 
 Alice：上
 \vo[a148]Have you lost the ability to 
-beg with your mouth?**
+beg with your mouth?*
 \vo[a149]Teehee♪
 You don't need to say a thing- 
 I know exactly what you want-
@@ -28246,7 +28138,7 @@ That mysterious sword big brother was using...
 Alice really wants it-
 \vo[a161]It shines with such a beautiful light, 
 doesn't it?-
-I really want to add it to my collection-*
+I really want to add it to my collection-
 \vo[a162]But, it's filled with strange magic, so a
 succubus like me can't touch it. When I tried to 
 take it, the light would stop me from reaching it.
@@ -28383,7 +28275,7 @@ Ooh, oooooh...❤❤
 
 Alice：上
 \vo[a148]Have you lost the ability to 
-beg with your mouth?**
+beg with your mouth?*
 \vo[a149]Teehee♪
 You don't need to say a thing- 
 I know exactly what you want-
@@ -28448,7 +28340,7 @@ That mysterious sword big brother was using...
 Alice really wants it-
 \vo[a178]It shines with such a beautiful light,
 doesn't it?-
-I really want to add it to my collection-*
+I really want to add it to my collection-
 \vo[a179]But, it's filled with strange magic, so a
 succubus like me can't touch it. When I tried to 
 take it, the light would stop me from reaching it.
@@ -28598,7 +28490,7 @@ all you can do is shake, shake, shake your hips-❤
 
 Miles：上
 D-dammit...❤
-As if a piece of ivy isn't gonna, 
+As if a piece of ivy is gonna, 
 make me feel good-❤
 Ah, aaah-❤
 Drat, I can't stopp...❤ Uuaagh-❤
@@ -28766,8 +28658,8 @@ Ara- So you're still doing your best to resist-**
 (Giggle) In that case, I'll let you ejaculate with
 gentle stroking motions instead.*
 First I'll use my ivy to draw your body closer to
-me like this...**
-And squish you face into my breasts-❤
+me like this...*
+And squish your face into my breasts-❤
 Poof-❤
 
 Ray：上
@@ -28925,7 +28817,7 @@ And after becoming a succubus, I bet they're even more
 voluptuous than before-*
 Check it out, hora-
 By squeezing the pressure around the head of your
-penis, it's like I'm crushing it-❤*
+penis, it's like I'm crushing it-❤
 If I put, Mmm- Strength into it like this,
 I can crush the tip between my thighs-❤
 Well? It feels amazing right?
@@ -29006,7 +28898,7 @@ eye-
 Aha- Is the sense of danger finally setting in?
 That's right, you mustn't ejaculate anymore-
 Mmhmm- It's much better when you struggle.
-But even if you try to endure, you're only
+But even if you try to endure, you're only a
 useless human after all-
 Hora- I'll move violently again-❤
 
@@ -29113,7 +29005,7 @@ Slurp- Kiss, mwah-❤ Mmm, mwah-❤ Mwah-❤
 Slurrurup-❤ Mmmwah, pop-❤*
 Kuhu- Your melted expression is amazing-
 Are you that pleased from being kissed while 
-having your energy drained?*
+having your energy drained?
 Your eyes are blank and unfocused, and your mouth
 is wide open. It's like you're in a deep dream-*
 I'll service and kiss you just like this-❤
@@ -29137,7 +29029,7 @@ That means it's time to feed on your penis-*
 That's right- Omnom-❤ 
 Your penis has been completely swallowed up-❤*
 Aha- You have such an amazing voice- It feels that
-good huh? you started moaning awkwardly the moment
+good huh? You started moaning awkwardly the moment
 you were inserted between them-
 As a reward for pleading so obediently,
 I'll keep you on the edge of bliss before your
@@ -29487,7 +29379,7 @@ tickle your mind with my sweet voice-
 
 Cherish：上
 \vo[c192]Idiot-❤ Masochist-❤ Pervert-❤**
-\vo[c193]Hora- Your stroking sped up-
+\vo[c193]Hora- your stroking sped up-
 You should have protected everyone, but you're 
 just a monkey who can't stop masturbating-
 \vo[c194]You're the lowest-❤ Masochist-❤ masochist-❤
@@ -29570,8 +29462,8 @@ Mr. Hero really is quite something-❤
 hopelessness, and everyone is my underlings-
 No one has the strength to run away-
 \vo[c217]There's no help for anyone now.
-All of the woman have become succubus and even the
-Hero is a man, so he's defeated like this-
+All of the women have become succubus and even the
+hero is a man, so he's defeated like this-
 \vo[c218]Hora- If everyone quickly submits to their fate
 of being a succubus. The future is going to be
 pretty fun-
@@ -30041,22 +29933,24 @@ Betrayed by your friend, driven into a
 state of helplessness, and drained by succubi.
 
 <TK383>
-テロップ：中央
-サキュバスの奇襲の前に、
-なすすべなく敗れた主人公たちは、
-淫魔に搾精されもてあそばれていた。
-あちこちで団員たちの嬌声があがるなか、
-主人公も狙撃手の淫魔に襲われていた。
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as even the hero was attacked by one of
+the sniper succubus...
 
 Sniper：上
-くす♪
-あっけない戦いだったわ。*
-遠くからわたしの魔力を当てるだけでメロメロになって・・
-とっても滑稽だったわよ？
+Kuhu♪
+What a underwhelming fight-*
+The finishing blow was due to someone getting 
+lovey dovey with one of my magic arrows...
+Pretty funny right?
 
 Ray：上
-ぐっ・・・。**
-でも、これだけ接近していればっ！！
+Ugh...**
+If, if only we were able to get a 
+little closer...!!
 
 Sniper：上
 Ara? Are you still wanting to fight?
@@ -30215,7 +30109,7 @@ But- I'm not going to let you rest-❤
 Ray：上
 Ahiee, I only just came,
 so if you start moving like that---❤❤*
-Aaaa, it's feels soo good!!❤
+Aaaa, it feels soo good!!❤
 I, I can't sto-❤ Aaaaaahh!!
 
 Ray：上
@@ -30235,8 +30129,8 @@ But as long as you're fighting for me,
 it doesn't matter right? Ufufu♪
 
 テロップ：中央
-After broken down and trained by her "rewards",
-I became an enemy to humankind.*
+After being broken down and trained by her
+"rewards", I became an enemy to humankind.*
 Me, who they once called a Hero,
 attacked human villages, and pointed my sword
 against those who opposed the Succubus.
@@ -30427,7 +30321,7 @@ But- I'm not going to let you rest-❤
 Ray：上
 Ahiee, I only just came,
 so if you start moving like that---❤❤*
-Aaaa, it's feels soo good!!❤
+Aaaa, it feels soo good!!❤
 I, I can't sto-❤ Aaaaaahh!!
 
 Ray：上
@@ -30447,8 +30341,8 @@ But as long as you're fighting for me,
 it doesn't matter right? Ufufu♪
 
 テロップ：中央
-After broken down and trained by her "rewards",
-I became an enemy to humankind.*
+After being broken down and trained by her
+"rewards", I became an enemy to humankind.*
 Me, who they once called a Hero,
 attacked human villages, and pointed my sword
 against those who opposed the Succubus.
@@ -31087,7 +30981,7 @@ When it comes to big breasts, men are just weak,
 pathetic creatures-❤
 
 テロップ：中央
-the hero lost all his power,
+The hero lost all his power,
 drained by the two healer's ginormous breasts.*
 The others, unable to resist their breasts'
 terrifyingly sexual pleasure, were tragically
@@ -31989,7 +31883,7 @@ won't stop thrusting you know?
 It's almost like your trying to move your hips,
 thrusting your stiff cock between the palms
 of my teasing hands...
-And yet, the my hand still keeps circling
+And yet, my hand still keeps circling
 around and around the head of your cock,
 frustrating, isn't it?
 Even though you can't cum, the pleasure is 
@@ -32318,7 +32212,7 @@ Luminara, it feels soo good--!❤❤
 \vo[r98]Yes, that's normal-
 I mean, this is my paizuri after all-*
 \vo[r99]Humans like you find it impossible to resist...❤
-Isn't that right?
+Isn't that right?*
 \vo[r100]Held between my tits,
 between my bouncing breasts,
 going rub- rub- on your penis...♪
@@ -32388,7 +32282,7 @@ Ahiee, aaah, Luminara--❤❤
 I can't stopp-❤ Aaaaahhhh-❤
 
 ルミーネ：上
-\vo[r119](Giggle) You stopped moving.*
+\vo[r119](Giggle) You stopped moving.**
 \vo[r120]You splurted out so much hot semen, I'm all slimy-
 Although... Mmm- Delicious♪
 As I had expected from the vigor of a hero-❤
@@ -32426,7 +32320,7 @@ Sir Ray...
 Dammit! Come to your senses!*
 Without the power of the holy swords you wield,
 we stand no chance against the intermediate
-succubui! We're all counting on you!
+succubi! We're all counting on you!
 
 Ray：上
 Yeaaah...❤
@@ -32570,7 +32464,7 @@ Despite advancing through the succubus stronghold,
 the hero was defeated and put in jail by a 
 stationed guard.
 
-淫魔スライム：上
+Slime Succubus：上
 Ehehe-❤ I can't believe we were able to fight 
 back on our own! I guess our surprise attackers 
 weren't much of a threat after all huh?
@@ -32578,7 +32472,7 @@ weren't much of a threat after all huh?
 Ray：上
 Uoogh, dammit...
 
-淫魔スライム：上
+Slime Succubus：上
 Seriously, it's too late to look frustrated now.
 And you had such silly grins on your face as we
 teased you with our lewd attacks earlier-❤
@@ -32590,7 +32484,7 @@ Ray：上
 Augh, this slime...
 H-hey, release me! Relea-aaugh, s-stop...❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ehehe-❤
 The moment my slimey hand oozed down into your 
 groin, your expression melted into a gooey jelly-
@@ -32600,12 +32494,12 @@ Hora- Coochie coochie coo-♪
 Ray：上
 Aah, aahhh...❤❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ahaha-❤ It feels so good you don't have strength
 to shake me off, right? It's not a good look to 
 writhe around with your crotch being held-❤
 
-淫魔スライム：上
+Slime Succubus：上
 When I stroke and churn my gooey slime around
 someone's penis, males usually end up on the brink
 of cumming in an instant-♪
@@ -32618,11 +32512,11 @@ Ahh aaaaah-❤
 N-no more, I don't think I can...❤❤*
 Ahieee-❤ I'm gonna cum-❤❤ I can't resist...❤❤
 
-淫魔スライム：上
+Slime Succubus：上
 That's it, I'm gonna eat up your entire penis-❤
 Squishy squishy, rubby rubby, strokey strokey-♪
 
-淫魔スライム：上
+Slime Succubus：上
 Teehee-❤
 If you wanna cum, then cum-❤*
 You can't beat us succubus if you're a silly 
@@ -32634,7 +32528,7 @@ So hora- Squishy squishy squishy-❤
 Ray：上
 Nh, noo, s-stopp...❤ A-aaahh...❤❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ehehe-❤ You came so much much!**
 How did it feel to have your semen forcefully
 milked while being looked down on from outside
@@ -32653,7 +32547,7 @@ so fufu- Look at this.
 Ray：上
 Wh-wha...
 
-淫魔スライム：上
+Slime Succubus：上
 This is my slime onahole.
 Wouldn't you like to insert your penis in here?*
 Thrusting your own hips inside my onahole,
@@ -32669,7 +32563,7 @@ Ahhh, aahh st-stop-❤❤
 Don't move the slime on my crotch...!❤*
 Ooogh, ooh, I'm gonna cum again...❤ Aaahh-❤
 
-淫魔スライム：上
+Slime Succubus：上
 Squishy squishy-♪
 Squishy squishy-♪
 Huh? You're going to cum already? But...
@@ -32678,14 +32572,14 @@ alright. Time to stop.
 Ray：上
 Aah, ahhh, I'll never...
 
-淫魔スライム：上
+Slime Succubus：上
 Ufufu- You know what you need to do now don't 
 you?
 
 Ray：上
 But, but that... Ahiiiee-❤ No-, stop!❤❤
 
-淫魔スライム：上
+Slime Succubus：上
 Hora- One more time then, squishy squishy-❤
 slurpy slurpy, strokey strokey-❤*
 Ahaha-❤ You're about to cum very, very soon- 
@@ -32698,7 +32592,7 @@ But... OK. Time to stop again.
 Ray：上
 Ahhhh.... Aaaahhh...❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ufufu- Why don't you come closer?**
 How about you willingly plunge your hips into my 
 slime onahole, and masturbate by shaking your 
@@ -32716,7 +32610,7 @@ you'll do whatever I say won't you? Teehee-❤
 Ray：上
 Oough, ooogh... D-dammit...❤
 
-淫魔スライム：上
+Slime Succubus：上
 You say 'Dammit,' but you're thrusting out your 
 hips... What you're saying and doing don't match 
 up at all-❤
@@ -32730,7 +32624,7 @@ front of me. You pervert-❤
 Ray：上
 Aah, aaaaahhh!!
 
-淫魔スライム：上
+Slime Succubus：上
 There we go- Shimmy shimmy-❤ Shimmy shimmy-❤
 My squishy squishy slime feels soo good-❤*
 Coiling around your penis with every shake of 
@@ -32746,7 +32640,7 @@ succubus-❤ Hora- Keep thrusting-❤
 Ray：上
 N-nooo, It feels too good... Uwaagh--❤❤
 
-淫魔スライム：上
+Slime Succubus：上
 Did you cum already?
 Cumming when you only just inserted yourself...
 you must be really weak-❤
@@ -32756,7 +32650,7 @@ let out all your remaining semen into my onahole-❤
 Ray：上
 Ahiee...❤❤ I-I'm being squeezed...❤
 
-淫魔スライム：上
+Slime Succubus：上
 Hora- I'll move it sightly a little more-❤**
 I'll rub you sweetly with my fake pussy, so go
 ahead and keep pumping it out-❤
@@ -32764,7 +32658,7 @@ ahead and keep pumping it out-❤
 Ray：上
 Ahieee...❤❤ N-nooo....❤❤
 
-淫魔スライム：上
+Slime Succubus：上
 Ahnn-❤ I squeezed you so much you fainted.**
 By the time our main forces return, you'll be 
 everyone's sex slave for life!*
@@ -33524,7 +33418,7 @@ lord's castle.
 Ray：上
 Uugh... W-Why you...!
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Master Ray. There is no point in struggling-
 Without a weapon, breaking those restraints will
 prove to be impossible.
@@ -33538,7 +33432,7 @@ Ufufu-❤
 Ray：上
 S-So that's it... Because we lost...
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Teehee-❤ Now now, there's no use in feeling down
 at this point-*
 Master Ray submitted to our breasts and squirted,
@@ -33554,7 +33448,7 @@ paradise for the time being.
 Ray：上
 Urghh...!
 
-サキュバスメイドA：上
+Succubus Maid A：上
 (Giggle) Is it possible you still have the
 willpower to resist succumbing to us?*
 Well then, I'll just have to melt that resistance
@@ -33563,7 +33457,7 @@ down with my chest, won't I?
 Ray：上
 Ooh...❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ara- Gazing at my cleavage with such lewd eyes...❤
 Perhaps they remind you of how they forced you
 to surrender during our fight from earlier?
@@ -33579,7 +33473,7 @@ Teehee...❤
 Ray：上
 Ooh, ooogh...❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Fufu- So, just the sight of my cleavage is enough 
 to make you swell up to full length-*
 It's become so hard, I don't think it could
@@ -33591,7 +33485,7 @@ up and down back of your penis like this and...
 Ray：上
 Ahieeee-❤ Ahhh, aaahhhh...❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Oh master, what a sweet voice you have-❤
 Ufufu-❤*
 Now then, let's get you squeezed, shall we?**
@@ -33603,14 +33497,14 @@ over it to catch it all, so please go ahead and
 pour out as much as you can- 
 Now then, I shall start immediately...
 
-サキュバスメイドA：上
+Succubus Maid A：上
 I'll place Master Ray's face between my cleavage
 and... There we go. Poof!❤
 
 Ray：上
 Aah, ooughh...❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ufufu- You were regretting your failures just
 a moment ago, but now your face has loosened up
 just like that-
@@ -33624,7 +33518,7 @@ Y-Yess...❤❤ T-They're so softtt...❤**
 W-Wait, n-no, I s-shouldn't be...❤ 
 Aah, aaaahh...❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 My breasts, they are soft yes? Ufufu-❤**
 I'm very confident in the softness of my breasts,
 many speak quite fondly of them. It makes me happy
@@ -33641,7 +33535,7 @@ Ray：上
 Aah, aah...❤ It feels so good-❤
 M-My resistance is...❤❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 That's right- During a Puff-Puff, there's no room 
 for such silly resistance-*
 Don't you worry about a thing-
@@ -33659,7 +33553,7 @@ Ray：上
 Aaaaaogh, c-cumming!❤❤
 Aaahhh-❤❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Hmm, that was quite an ejaculation wasn't it?
 But, this won't sufficient at all, so I'm afraid
 I'll have to squeeze you for much, much longer.
@@ -33669,7 +33563,7 @@ Fall in love with my hands-❤
 Ray：上
 Ahh, ahh, it's so good...❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 That's it. Just like that. Stroke stroke- Stroke
 stroke-❤ No one is looking, so go ahead and let
 yourself drown yourself in pleasure.
@@ -33677,7 +33571,7 @@ yourself drown yourself in pleasure.
 Ray：上
 Ooaahhhh...❤❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 There we go, that was quite a lot-**
 But, I'm afraid this still isn't enough.
 Let's give it one more go shall we?
@@ -33686,7 +33580,7 @@ Ray：上
 Ahh, ooogh-❤
 But, anymore than this is...
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Ufufu-❤ You can't cum anymore?**
 But there's no cause for concern. After all, when
 I stroke someone using these breasts of mine...*
@@ -33713,7 +33607,7 @@ S-Such soft breasts...❤❤*
 Aah- Aahhh, I'm cumming...❤
 I can't stop myself...❤
 
-サキュバスメイドA：上
+Succubus Maid A：上
 Teehee- Instant ejaculation- Looks like you can 
 still cum after all.*
 Hora- Master Ray's penis swelled up and burst
@@ -33742,7 +33636,7 @@ Despite advancing through the succubus stronghold,
 The hero was made to succumb by a maid succubus,
 and was held down from under her in the dining room.
 
-サキュバスメイドB：上
+Succubus Maid B：上
 (Sigh...) I thought our situation was hopeless, 
 but we were saved by our guests' weakness to 
 pleasure.
@@ -33753,7 +33647,7 @@ efforts. Fufu-
 Ray：上
 Ugh! Why you... Release me!!
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Oh my, just one ejaculation, and you're already
 clear headed and ready to fight aren't you?*
 But, if I rock my hips back and forth over your
@@ -33762,7 +33656,7 @@ dick like this...
 Ray：上
 Ahh, aaugh...❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 ...you stop moving at once- Ufufu-❤**
 Nonetheless, your struggling attempts may bother
 our other guests, so I'm afraid I must wring you 
@@ -33785,7 +33679,7 @@ Your eyes are already bulging with expectation-❤
 Ray：上
 N-No, that's not... I'd never...
 
-サキュバスメイドB：上
+Succubus Maid B：上
 There's no need to deny it. It's only natural for
 a man to stare at female genitals.*
 Furthermore, you won't be able to see it once I 
@@ -33805,7 +33699,7 @@ It's so warm... Ahh...❤❤*
 Ooough, amazing, it feels so good!❤
 Impossible...❤❤ It's coiling around me-❤ Aahh-❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 What do you think? This is what heaven is-❤
 It's as if my succubus pussy is melting your mind
 isn't it?
@@ -33821,7 +33715,7 @@ Ray：上
 Ahiee-❤ Aah, aah, oh noo...❤❤
 T-This is amazing...❤ Aaaahhh-❤❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Ufufu- In and out goes your dick-❤
 Is it more pleasure than you imagined?*
 A pathetic position isn't it- Being straddled
@@ -33832,7 +33726,7 @@ wish to enjoy myself as well.
 Ray：上
 Ahiee-❤ Aaaahh❤ Aahhhhhh...❤❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Ah, but that's already impossible for you isn't 
 it? Goodness, that is too fast.*
 Well, I suppose you can't resist anyway so allow
@@ -33841,7 +33735,7 @@ me to send you off-❤ Hora hora!
 Ray：上
 Aah, aaahhh...❤❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 And not a single drop missed-
 By how much semen gushed inside me, it seems the
 pleasure was very good indeed-
@@ -33860,7 +33754,7 @@ Aaheaaagh!! Aahh, it feels so good...❤
 Ray：上
 C-Cumming again...❤❤ I-It won't st-sto...❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Fufu- You just can't stop can you? Is that due
 to my intense succubus hip movements?
 Go ahead, let your mind dye itself in pleasure.
@@ -33868,7 +33762,7 @@ Go ahead, let your mind dye itself in pleasure.
 Ray：上
 Ahiee...❤❤
 
-サキュバスメイドB：上
+Succubus Maid B：上
 Mmm... Delicious...❤**
 Ara- Did you faint?**
 Fufu- Perhaps I overdid myself a little-
@@ -38168,7 +38062,7 @@ cleavage as much as you like♪
 
 Infirmary Girl：上
 Aha! Pew pew pew- It's so white and thick too❤
-Delicious-♪おいしいー♪
+Delicious-♪
 
 <TK441>
 Infirmary Girl：上
@@ -39571,8 +39465,8 @@ control, but you can't even control yourself at
 all- Teehee❤
 Hey- Hey- Shall I dribble this aphrodisiac lotion
 on your penis? Hora...dribble dribble❤
-Aha! Your stroking got even faster♪
-Your penis feel all slippery and good right?*
+Aha! you're stroking got even faster♪
+Your penis feels all slippery and good right?*
 Hora- I'll watch you so you can keep going until
 you cum. You can't hold back any more can you?*
 Stroke stroke❤ Stroke stroke❤
@@ -39613,8 +39507,8 @@ control, but you can't even control yourself at
 all- Teehee❤
 Hey- Hey- Shall I dribble this aphrodisiac lotion
 on your penis? Hora...dribble dribble❤
-Aha! Your stroking got even faster♪
-Your penis feel all slippery and good right?*
+Aha! you're stroking got even faster♪
+Your penis feels all slippery and good right?*
 Hora- I'll watch you so you can keep going until
 you cum. You can't hold back any more can you?*
 Stroke stroke❤ Stroke stroke❤
@@ -39925,7 +39819,7 @@ That's it- Gulp it down❤ Good boy❤
 
 Black Marketeer：上
 A succubus's saliva is a potent aphrodisiac, so
-it's affects combined with the medicine could
+it's effects combined with the medicine could
 lead to uncontrolable results...❤
 
 アクティブ：上
@@ -39963,7 +39857,7 @@ probably end up breaking in no time, right?❤
 Teehee-
 It's OK. Even if they break...❤*
 Your life ends here.
-Nothing that can save you anymore.*
+Nothing can save you anymore.*
 So then, why not keep cumming until you die?
 Over and over again...❤
 Let the otherworldly pleasure take over your
@@ -40002,7 +39896,7 @@ special medicine mouth to mouth...❤ How I drove
 him mad as he came helplessly with my handjob❤
 How good would it feel to be happily milked like
 that, gasping and moaning to the brink of death?❤
-Don't you evny him?
+Don't you envy him?
 Don't you want to experience it?*
 Say the word, and I'll present you with the
 highest of pleasures, in the same way as before❤
@@ -40550,7 +40444,7 @@ You finally made it inside, but your penis is
 throbbing so much...you can't help but jerk off
 to the girl before you♪ What a bad adult❤
 It's OK. It can't be helped after all.
-It's no surprise you were charmed by my after
+It's no surprise you were charmed by me after
 watching your friend jerk off to my body❤
 Hora, aim right out my open mouth and dangling
 tongue and stroke stroke♪ Stroke stroke♪*
@@ -40686,7 +40580,7 @@ It's not too late you know-
 If you tried your hardest and shook me off you,
 you would be able to defeat me with no regrets❤
 You could always rouse that floppy body of yours
-and push me off, but...❤
+and push me off, but...❤*
 Ufufu❤ You can put any strength into your arms
 at all❤ Rather than pulling me away, it's
 like your patting me on the head instead❤
@@ -40702,7 +40596,7 @@ Ahhh❤
 That was really tasty❤*
 You might have been strong enough to beat me❤
 I can taste your strength...it's delicious❤*
-I hope the everyone else loses to me as well❤
+I hope that everyone else loses to me as well❤
 Shoot it all into my mouth, and I'll gulp it
 all down❤
 
@@ -40842,7 +40736,7 @@ Aha!❤ Have you fallen in love with me too mister?
 You stopped fighting, and started stroking❤*
 Your friends are out fighting, but you just don't
 care anymore. You can't see anything but me, the
-love of your life...❤*
+love of your life...❤
 Blissfully entranced, stroking your penis...
 Looking at me watch you...
 Stroke stroke❤ Stroke stroke❤
@@ -41047,7 +40941,7 @@ TIme to knock you down. Eei❤
 Drain Imp：上
 Ufufu❤
 But unlike my body, the soles of my feet feel
-nice and soft right?❤*
+nice and soft right?❤
 I'll step on you lots with my curvy feet-❤
 
 選択肢：1
@@ -41105,7 +40999,7 @@ Drain Imp：上
 Kyaha!❤
 I can feel it throbbing underneath my socks❤*
 What an energetic penis❤
-It's your fault your master lost Mr. Penis❤
+It's your fault your master lost, Mr. Penis❤
 You should reflect on your actions❤ Squish❤
 Now, I've made a full recovery!
 With this energy, I can keep on fighting!
@@ -41129,7 +41023,7 @@ I won't be so gentle like before.
 I'm gonna make you cum in one go❤
 I'll grind my foot against your crotch so hard
 that your mind will go pure white, and you'll
-instantly leak out all your semen...❤*
+instantly leak out all your semen...❤
 Are you ready?
 Here I go- Hora❤
 
@@ -41176,7 +41070,7 @@ That's kinda weird mister❤*
 Only a masochistic pig would end up feeling good
 from something like this❤*
 Even though I'm only just roughly stepping on you,
-the my feet feel so good that you can't get away
+my feet feel so good that you can't get away
 at all❤
 So cute❤
 You're so perverted, even as your penis is crushed
@@ -41193,8 +41087,8 @@ Miss Succubus...❤ Step on me moreee❤
 
 Drain Imp：上
 Teehee❤
-Masocistic Pig❤
-You are very skilled beggar, aren't you?❤
+masochistic Pig❤
+You are a very skilled beggar, aren't you?❤
 Well then, I'll trample just enough to crush it❤
 Don't worry❤ I'm a succubus, so it won't hurt❤
 Though the sudden increase in pleasure might
@@ -41369,13 +41263,13 @@ Well then, let's not delay❤ Eei❤
 Boob Drain Succubus：上
 Eh? What am I doing?
 Ufufu- Isn't it obvious? This is the new start of
-our happy life together❤*
+our happy life together❤
 I'm gonna let you taste the happiness you'll
 experience every day right now❤
 Hora...❤
 
 Boob Drain Succubus：上
-Aha, are you hips starting to give way?
+Aha, are your hips starting to give way?
 It must be from all the thoughts of doing lewd
 things you want to do with me❤
 Once your heart accepts this, you won't be able
@@ -41397,7 +41291,7 @@ Morning, day, or night, we can do pleasent
 things together. Just the two of us❤
 Well, you'll be living in a prison, and if you
 run out of levels, you'll be sent out to 
-work but...❤*
+work but...❤
 Eh? I tricked you, you say?
 Have I lied to you?❤
 
@@ -41405,14 +41299,14 @@ Boob Drain Succubus：上
 Ufufu- Seems like you're already going to cum❤
 Hora- If you say I tricked you, then why don't
 you try and endure it?
-Resist my lushious paizuri then. Use those strong
+Resist my luscious paizuri then. Use those strong
 arms of yours to push me away-*
 Do that and it will all end. I won't be able to
 put you in my prison...❤*
 Ara ara... Aren't you resisting?❤**
 Your face has become slack, and you're moaning
-saying "moreee..."❤**
-Looks like your penis gave up from beening
+saying "moreee..."❤*
+Looks like your penis gave up from being
 pampered between my boobs❤ Teehee❤*
 How wonderful❤
 Hora- Go ahead and pour out your levels inside
@@ -41433,14 +41327,14 @@ I can't take anymore... This is too much for
 a girl like me... So come on, just leave
 me be. Please?❤
 Eh? You were watching earlier?
-And you'd never be tricked by such hollow words?*
+And you'd never be tricked by such deceitful words?*
 Ufufu❤
 You say that, but your cock is rock hard❤
 You're staring deep into my cleavage too❤
 Hey- Let me drain you with my boobs, just as I
 did to your friend❤ You wanna try it too right?*
 Your friend was moaning so sweetly as I drained
-him. It must have felt really good❤
+him. It must have felt really good❤*
 It can't be helped that you want it.
 You haven't fought succubus for so long, and
 you're already so pent up, right?
@@ -41566,8 +41460,8 @@ Drain Imp：上
 Your knees are trembling...seems like it feels
 really good, huh?❤
 Teehee❤
-As long as this penis is attached, you'll
-never win against bad little demons like us.
+As long as this penis is attached to you, you'll
+never win against bad little demons like us.*
 As soon as your weak member is touched, you get
 this goofy little grin on your face❤
 Boys really are really stupid❤
@@ -41645,7 +41539,7 @@ You did a bad thing defeating our queen.
 So now, you'll have to make it up to us.
 
 Boob Drain Succubus：上
-とOh well, for the time being-
+Oh well, for the time being-
 I think I'll keep teasing you over and over
 until our queen revives❤
 Hora, Puff-Puff... Puff-Puff...❤

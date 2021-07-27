@@ -859,7 +859,7 @@ Ooh, oooooh...❤❤
 
 Alice：上
 \vo[a148]Have you lost the ability to 
-beg with your mouth?**
+beg with your mouth?*
 \vo[a149]Teehee♪
 You don't need to say a thing- 
 I know exactly what you want-
@@ -924,7 +924,7 @@ That mysterious sword big brother was using...
 Alice really wants it-
 \vo[a161]It shines with such a beautiful light, 
 doesn't it?-
-I really want to add it to my collection-*
+I really want to add it to my collection-
 \vo[a162]But, it's filled with strange magic, so a
 succubus like me can't touch it. When I tried to 
 take it, the light would stop me from reaching it.
@@ -1061,7 +1061,7 @@ Ooh, oooooh...❤❤
 
 Alice：上
 \vo[a148]Have you lost the ability to 
-beg with your mouth?**
+beg with your mouth?*
 \vo[a149]Teehee♪
 You don't need to say a thing- 
 I know exactly what you want-
@@ -1126,7 +1126,7 @@ That mysterious sword big brother was using...
 Alice really wants it-
 \vo[a178]It shines with such a beautiful light,
 doesn't it?-
-I really want to add it to my collection-*
+I really want to add it to my collection-
 \vo[a179]But, it's filled with strange magic, so a
 succubus like me can't touch it. When I tried to 
 take it, the light would stop me from reaching it.
