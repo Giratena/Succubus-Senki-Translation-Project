@@ -1998,16 +1998,15 @@ You can't hold on? Come on, don't give in to
 your penis giving into my boobs, you can do it!
 
 Boobie Elf：上
-あううっ、どぴゅっどぴゅって射精しちゃった。
-いくらサキュバスが来たからってあんまりだよぉ・・・。*
-蛇神さまの話だと、
-英雄くんたちの指揮下にいれば、
-わたしでも戦えるはずだけど・・・。
-サキュバスと戦いなれたきみたちが頼りだったのに・・・。
+Auugh, you splurted and made a mess.
+And it's all because of succubus that came...*
+I know Miss Lamia said I would be able to fight
+under the guidance of the heroes but...
+I was relying on you to help me fight...
 
 テロップ：中央
-\pdb[58]は味方ユニットの成長力を少しだけ吸収し、
-さらに20の経験値を得た！
+\pdb[58] absorbed a little of an ally
+unit's growth, and gained 20 exp!
 
 <MC90>
 Boobie Elf：上
@@ -2050,8 +2049,8 @@ Boobie Elf：上
 癖になったりしちゃ、だめだよ？くすくす❤
 
 テロップ：中央
-\pdb[58]は味方ユニットの成長力を少しだけ吸収し、
-さらに20の経験値を得た！
+\pdb[58] absorbed a little of an ally
+unit's growth, and gained 20 exp!
 
 <MC91>
 Boobie Elf：上
@@ -2125,7 +2124,7 @@ Boobie Elf：上
 適度に休憩して、しっかりがんばろー！
 
 テロップ：中央
-\actは味方ユニットの成長力を少しだけ吸収し、
+\act absorbed a little of an ally
 and gained 20 exp!
 
 <MC93>
@@ -2191,8 +2190,8 @@ and gained 20 exp!
 うふふ❤
 
 テロップ：中央
-\pdb[59]は味方ユニットの成長力を少しだけ吸収し、
-さらに20の経験値を得た！
+\pdb[59] absorbed a little of an ally
+unit's growth, and gained 20 exp!
 
 <MC95>
 美脚エルフ：上
@@ -2247,7 +2246,7 @@ Ray：上
 くすくす❤
 
 テロップ：中央
-\actは味方ユニットの成長力を少しだけ吸収し、
+\act absorbed a little of an ally
 and gained 20 exp!
 
 <MC96>
@@ -2292,8 +2291,8 @@ and gained 20 exp!
 おっぱいでこねこね❤たまりませんでしたか？
 
 テロップ：中央
-\pdb[60]は味方ユニットの成長力を少しだけ吸収し、
-さらに20の経験値を得た！
+\pdb[60] absorbed a little of an ally
+unit's growth, and gained 20 exp!
 
 <MC97>
 アルラウネ：上
@@ -2353,7 +2352,7 @@ Ray：上
 あなたの精、とってもおいしいのですもの❤
 
 テロップ：中央
-\actは味方ユニットの成長力を少しだけ吸収し、
+\act absorbed a little of an ally
 and gained 20 exp!
 
 <MC98>
@@ -2399,8 +2398,8 @@ and gained 20 exp!
 くすくす❤
 
 テロップ：中央
-\pdb[61]は味方ユニットの成長力を少しだけ吸収し、
-さらに20の経験値を得た！
+\pdb[61] absorbed a little of an ally
+unit's growth, and gained 20 exp!
 
 <MC99>
 美乳マーメイド：上
@@ -2463,7 +2462,7 @@ Ray：上
 くすくす❤
 
 テロップ：中央
-\actは味方ユニットの成長力を少しだけ吸収し、
+\act absorbed a little of an ally
 and gained 20 exp!
 
 <MC100>
@@ -2489,8 +2488,8 @@ and gained 20 exp!
 んっちゅ❤
 
 テロップ：中央
-\pdb[62]は味方ユニットの成長力を少しだけ吸収し、
-さらに20の経験値を得た！
+\pdb[62] absorbed a little of an ally
+unit's growth, and gained 20 exp!
 
 <MC101>
 投げキッス人魚：上
@@ -2544,7 +2543,7 @@ Ray：上
 してほしくなったら言ってねー❤
 
 テロップ：中央
-\actは味方ユニットの成長力を少しだけ吸収し、
+\act absorbed a little of an ally
 and gained 20 exp!
 
 <MC103>
@@ -2586,8 +2585,8 @@ and gained 20 exp!
 少しは精進せい。
 
 テロップ：中央
-\pdb[63]は味方ユニットの成長力を少しだけ吸収し、
-さらに20の経験値を得た！
+\pdb[63] absorbed a little of an ally
+unit's growth, and gained 20 exp!
 
 <MC104>
 ラミア：上
@@ -2656,7 +2655,7 @@ and gained 20 exp!
 
 テロップ：中央
 \pdb[64] absorbed an ally unit's vigor
-さらに20の経験値を得た！
+unit's growth, and gained 20 exp!
 
 <MC106>
 サキュバスエルフ：上
@@ -2781,7 +2780,7 @@ and gained 20 exp!
 
 テロップ：中央
 \pdb[65] absorbed an ally unit's vigor
-さらに20の経験値を得た！
+unit's growth, and gained 20 exp!
 
 <MC108>
 ダークエルフ：上
@@ -2905,7 +2904,7 @@ and gained 20 exp!
 
 テロップ：中央
 \pdb[66] absorbed an ally unit's vigor
-さらに20の経験値を得た！
+unit's growth, and gained 20 exp!
 
 <MC110>
 サキュバスエルフ：上
@@ -3027,7 +3026,7 @@ and gained 20 exp!
 
 テロップ：中央
 \pdb[67] absorbed an ally unit's vigor
-さらに20の経験値を得た！
+unit's growth, and gained 20 exp!
 
 <MC112>
 ダークアルラウネ：上
@@ -3191,7 +3190,7 @@ and gained 20 exp!
 
 テロップ：中央
 \pdb[68]absorbed an ally's stats and abilities,
-さらに20の経験値を得た！
+unit's growth, and gained 20 exp!
 
 <MC114>
 チェリッシュ：上
@@ -3360,7 +3359,7 @@ and gained 20 exp!
 
 テロップ：中央
 \pdb[68]absorbed an ally's stats and abilities,
-さらに20の経験値を得た！
+unit's growth, and gained 20 exp!
 
 <MC118>
 チェリッシュ：上
