@@ -179,10 +179,10 @@ Just who are you?
 Ray：上
 ...
 
+Miles：上
 We're mercenaries requested by the kingdom.
 My name is Miles, and this guy is Ray,
 who happens to be our leader.
-Miles：上
 
 Nobus：上
 I'm Nobus. We don't know why, but for some
@@ -4468,9 +4468,9 @@ You're so weak senpai-❤
 Skip the opening?
 
 選択肢：1
-出撃から
-ボス戦から
-スキップしない
+From start
+From boss fight
+Don't skip
 
 <OP0>
 テロップ：中央
