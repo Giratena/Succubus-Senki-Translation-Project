@@ -1,70 +1,80 @@
 <AT0>
 テロップ：中央
-２週目を開始します。
+A second time playthrough will now be started.
+(New Game+)
 
 テロップ：中央
-女性キャラの雇用について選択してください。
+Please decide on the recruitment of 
+female characters.
 
 選択肢：1
-女性キャラ雇用あり
-女性キャラ雇用なし
+With recruitable female characters
+Without recruitable female characters
 
 テロップ：中央
-女性キャラ雇用ありでスタートします。**
-※女性キャラが敵淫魔に攻撃を受けた際のセリフは、
-百合責めのセリフではなく、男性と戦闘した場合と同
-じセリフが表示されます。ご容赦ください。
+Starting NG+ with recruitable female characters.**
+Note: When a succubus attacks a female, the
+dialogue will be the same as if they were
+attacking a man.
+Similarly, the dialogue of a female character
+attacked by a succubus won't provide any yuri
+dialogue, and will appear as if fighting a man.
+Please forgive me.
 
 テロップ：中央
-女性キャラ雇用なしでスタートします。
+Starting without recruitable
+female characters.
 
 テロップ：中央
-難易度を選択してください。
-（難易度をハードに設定しない場合、物語の途中から
-ハードに変更することはできませんのでご注意ください）
+Please choose the difficulty.
+(Note that you will not be able to set
+the difficulty to hard during the story.)
 
 選択肢：1
-ハード
-ノーマル
-イージー
-楽々モード
+Hard
+Normal
+Easy
+Super Easy
 
 テロップ：中央
-難易度が設定されました。
+Difficulty has been set.
 
 <OP0>
 テロップ：中央
-２週目プレイを始めますか？
+Would you like to start a
+second time playthrough?
 
 選択肢：1
-はい
-いいえ
+Yes
+No
 
 テロップ：中央
-クリア後拠点に戻ります。
+You will be returned back to the
+point just before clearing the game.
 
 テロップ：中央
-２週目以降のプレイでは、
-周回特典として、「ハードモード解放」、
-「女性キャラ雇用権」などの特典があります。
-これらの特典は２週目開始時のボーナスショップで
-自由に適用することができます。*
-またこれらの特典とは別に、クリア時のユニットの
-レベルと装備を引き継いで、ゲームを開始できる
-「強くてニューゲームモード」も存在します。
-強くてニューゲームで、２週目を開始しますか？
+From the second playthrough onwards, rewards
+such as "Hard Mode" and "Recruitable Female
+Characters" have been unlocked.
+These can be applied in the extra shop at the
+start of a second playthrough.*
+In addition to these rewards, you can also
+start the game (NG+) with the same levels and
+equipment of the units you've cleared.
+Would you like to begin a NG+?
 
 選択肢：1
-強くてニューゲーム
-普通に２週目プレイ
+Begin a NG+
+Start a second playthrough
 
 テロップ：中央
-「強くてニューゲーム」で開始しない場合、
-一度タイトルに戻ります。*
-タイトルで「最初から始める」を選び、
-２週目を開始してください。*
-難易度選択の後に、
-クリア後特典ショップが表示されます。
-ハード難易度もそこから選ぶことができます。
-クリア後特典ショップで難易度をハードに設定しない場
-合、あとからの変更はできませんのでご注意ください。
+If you do not wish to start a NG+, you will
+be turned to the title screen.*
+Select "New Game" from the title screen,
+and start a second time new playthrough.*
+After selecting the difficulty level,
+you will be shown new rewards for clearing
+the game. You can also choose hard mode.
+Please note though if you do not select
+hard mode, you will not be able to choose
+it again in the bonus menu.
