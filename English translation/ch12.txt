@@ -74,7 +74,7 @@ Select "New Game" from the title screen,
 and start a second time new playthrough.*
 After selecting the difficulty level,
 you will be shown new rewards for clearing
-the game. You can also choose hard mode.
+the game. Hard mode may also be selected.
 Please note though if you do not select
 hard mode, you will not be able to choose
 it again in the bonus menu.
