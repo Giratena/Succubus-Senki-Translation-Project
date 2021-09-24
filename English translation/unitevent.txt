@@ -90,7 +90,7 @@ It's as if my whole body is being
 protected by the wind...
 
 テロップ：中央
-When the holy sword of wind is released,
+When the holy sword of wind is activated,
 it can be used as a weapon.*
 In it's wake, allies will receive the 
 "Wind Blessing" status for three turns.*
@@ -122,7 +122,7 @@ It's as if my whole body is being
 protected by the wind...
 
 テロップ：中央
-When the holy sword is released,
+When the holy sword is activated,
 it can be used as a weapon.*
 In it's wake, allies will receive the 
 "Wind Blessing" status for three turns.*

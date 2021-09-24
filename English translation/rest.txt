@@ -1259,7 +1259,7 @@ Displayed.
 When the game is set to "Hero Mode",
 allies will move automatically, and the game will
 end when the protagonist faints.
-※Caution※、
+※Caution※
 As the game ends the moment the protagonist 
 faints, this makes the game exponentially harder.
 
