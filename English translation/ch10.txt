@@ -3875,8 +3875,8 @@ at all... Teehee...❤
 Skip the opening?
 
 選択肢：1
-はい
-いいえ
+Yes
+No
 
 <OP0>
 テロップ：中央

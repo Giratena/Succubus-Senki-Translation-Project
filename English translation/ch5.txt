@@ -5091,8 +5091,8 @@ Ufufu♪
 Skip the opening?
 
 選択肢：1
-はい
-いいえ
+Yes
+No
 
 <OP4>
 Lamia：上

@@ -10510,9 +10510,9 @@ My strength was squeezed by Mirage...
 
 <CM114>
 テロップ：中央
-In the investigation event memoirs,
-you have the option of setting whether
-gold or renown will decrease or not.
+In the investigation event memoirs, you have
+the option of setting whether gold or renown
+will decrease or not during events.
 
 テロップ：中央
 Currently, gold and renown retention
@@ -12707,23 +12707,6 @@ okay commander?❤
 
 <CM95>
 Bandit Girl：上
-Ah, it's Mr. Commander.
-You came to visit me again?*
-What do you think of my beautiful dress and
-jewelry? Do they suit me? It seems like I'm richer
-now than when I was a bandit! Fufu-
-And despite that, even though I just milked you 
-the other day, you're here again wanting to feel
-good.
-It's because you're young right? You can't help it
-if your penis gets hard easily. And you'll have a
-hard time if you can't control your desires right?
-...Even if it means using a bad, bad lady like
-me to help you out. Isn't that right? Teehee-*
-So, what should I do this time?
-Tell me-
-
-Bandit Girl：上
 Mmm- These sweets are really delicious.
 Maybe prison life might not be so bad after all.*
 Ah, Commander.
@@ -12948,25 +12931,6 @@ okay commander?❤
 <CM96>
 Bandit Girl：上
 Ah, it's Mr. Commander.
-You came to visit me again?*
-What do you think of my beautiful dress and
-jewelry? Do they suit me? It seems like I'm richer
-now than when I was a bandit! Fufu-
-And despite that, even though I just milked you 
-the other day, you're here again wanting to feel
-good.
-It's because you're young right? You can't help it
-if your penis gets hard easily. And you'll have a
-hard time if you can't control your desires right?
-...Even if it means using a bad, bad lady like
-me to help you out. Isn't that right? Teehee-*
-So, what should I do this time?
-Tell me-
-
-Bandit Girl：上
-Mmm- These sweets are really delicious.
-Maybe prison life might not be so bad after all.*
-Ah, Commander.
 You came to visit me again?*
 What do you think of my beautiful dress and
 jewelry? Do they suit me? It seems like I'm richer
