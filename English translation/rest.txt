@@ -1,4 +1,4 @@
-﻿<AT40>
+<AT40>
 Lady：上
 Whoa- You've bought quite a bit tonight-
 Thank you♪*
@@ -1103,8 +1103,8 @@ The current difficulty is set to super easy.
 
 選択肢：1
 ハード
-Normal
-Easy
+Normal*
+Easy*
 Super easy
 
 テロップ：中央
@@ -1300,8 +1300,8 @@ Disabled.
 
 選択肢：1
 すべて表示
-すべて非表示
-非表示・表示切り替え（オタニ）
+すべて非表示*
+非表示・表示切り替え（オタニ）*
 非表示・表示切替（BTK）
 
 テロップ：中央
@@ -1356,7 +1356,8 @@ Ray：上
 
 Miles：上
 We need to report this to the Order of Knights right 
-away.* 
+away.
+ 
 We'll make a new demon counter plan with the Order,
 and while doing so, create a name for 
 ourselves.
@@ -2619,7 +2620,7 @@ Ray：上
 
 選択肢：1
 Hit him as hard as you can
-Slap him
+Slap him*
 Don't hit him
 
 Nobus：上
@@ -3491,7 +3492,23 @@ I mustn't... but...❤
 Ray：上
 Aoooh...❤ It feels soo good...❤
 
-Mirage：上
+テロップ：中央
+(Giggle) You're already addicted to my handjob 
+from just experiencing it a coupld of times?
+That was too easy-❤
+You did overcome the curse of the holy sword,
+right? Ahh, but now you're addicted to losing-
+Sorry, sorry- I guess I overestimated you Ray-❤*
+And now, to taste your semen...
+Mmm!-♪ Delicious, as expected-❤*
+You'll fall for me like this more and more 
+won't you? I need lots of Ray's strength-❤
+Kyahaha-♪
+
+テロップ：中央
+My strength was squeezed into Mirage...
+
+Ray：上
 (Giggle) You're already addicted to my handjob 
 from just experiencing it a couple of times?
 That was too easy-❤
@@ -3786,7 +3803,6 @@ Ok then- Come over here...❤
 Mirage：上
 Hora- Puff-Puff, Puff-Puff...❤
 
-
 Ray：上
 Ahiee....❤
 
@@ -3834,13 +3850,13 @@ My strength was squeezed by Mirage...
 While walking through the town, 
 a robed man speaks out.
 
-Leon：上
+Lyon：上
 Um, excuse me.
 
 Ray：上
 ...?
 
-Leon：上
+Lyon：上
 Are you, perhaps Lord \pdb[0]?
 The one who defended the town against the recent
 demon attack?
@@ -3863,14 +3879,14 @@ Well then, I hope we make a solid team.
 テロップ：中央
 Leon joined the party!
 
-Leon：上
+Lyon：上
 I see...**
 What a shame, I suppose it is out of my hands.
 If you change your mind, 
 please come speak with me again.
 
 <CM0-2>
-Leon：上
+Lyon：上
 Ah, Lord \pdb[0].
 Did you reconsider?
 
@@ -3889,7 +3905,7 @@ Well then, I hope we make a solid team.
 テロップ：中央
 Leon joined the party!
 
-Leon：上
+Lyon：上
 I see...**
 What a shame, I suppose it is out of my hands.
 If you change your mind, please come speak with 
@@ -3911,6 +3927,14 @@ skip messages, or increase battle speed.
 It is very handy for omitting dialogue.
 You can also use the [Space Key]
 to skip events entirely.
+
+テロップ：中央
+While walking down the road, 
+you see the glittler of something shiny.
+
+テロップ：中央
+While walking down the road, you see the glittler 
+of something shiny.
 
 <CM5>
 Soldier：上
@@ -4020,7 +4044,8 @@ She's the innkeeper here.
 After we finished drinking, she asked me if I 
 would like to stay here for the night.
 It's a good place, and the meals are 
-delicious.* 
+delicious.
+ 
 It will be awhile before we make our
 way to the capital, so I was thinking of
 setting up base here in the meantime.
@@ -4046,7 +4071,7 @@ than deadly poison.
 You can only get such medicine from the capital
 though.*
 It's a tad expensive, but for the sake of my 
-duties... Oogh...*
+duties... Oogh...
 
 <CM10>
 Soldier：上
@@ -4074,7 +4099,7 @@ I guess I'll have to start over again...
 It's not just limited to townspeople, keeping
 records is incredibly important.*
 I'd recommend recording things whenever 
-possible so you don't find yourself in a bind.*
+possible so you don't find yourself in a bind.
 
 テロップ：中央
 The ability to [Save] is enabled during the 
@@ -4112,7 +4137,7 @@ and she tried to beckon me closer.*
 If I wasn't with my daughter at the time, I might
 have been swayed.*
 Not that I couldn't have resisted her seduction, 
-of course, oh-ho.*
+of course, oh-ho.
 
 <CM12>
 Man：上
@@ -4657,8 +4682,8 @@ Ray：下
 Uh...❤
 
 選択肢：1
-Follow along
-Shake them off
+女たちについていく
+女たちを振り払う
 
 Woman：下
 Ahnn-❤ Don't say such mean things.**
@@ -4689,8 +4714,8 @@ pleasure. That's it. Just leave everything to us,
 we'll make you feel good, okay?
 
 選択肢：1
-Follow along
-Shake them off
+女たちについていく
+女たちを振り払う
 
 Woman：下
 Ooh, that's too bad-❤
@@ -4804,8 +4829,8 @@ Ray：上
 Gulp...❤
 
 選択肢：1
-Follow along
-Shake them off
+女たちについていく
+女たちを振り払う
 
 Woman：上
 (Giggle)
@@ -5067,7 +5092,8 @@ So you can avoid enemy attacks with high speed,
 and unleash fatal strikes with high luck,
 I see...
 In other words, high skill is just as important
-as the weapon accuracy rates.* 
+as the weapon accuracy rates.
+ 
 I might need to rely on allies with high 
 skill when fighting faster units. Hmm....
 
@@ -6020,6 +6046,11 @@ ago...*
 It's making me giddy just thinking about it, don't
 you feel the same?
 
+選択肢：1
+Ask about the legend of the Succubi
+Ask about the magical barrier
+Nothing in particular
+
 Mizuhide：上
 I now understand the legend behind the succubi.
 Allow me to explain.*
@@ -6067,7 +6098,8 @@ Compared to the kingdom that we live in now,
 there was large amount of discrimination between 
 the commoners and the rich. 
 Perhaps he was treated harshly as a commoner,
-despite his activities.* 
+despite his activities.
+ 
 A Hero ostracized by the country he tried
 to save... What a sad story.
 
@@ -6141,7 +6173,8 @@ get how some war soldiers can have it so long.
 
 Miles：上
 Want me to cut your hair too, Ray?
-Your hair is growing too.* 
+Your hair is growing too.
+ 
 It can get hot with too much hair, and this is 
 the only village in the southern territory.
 
@@ -6267,8 +6300,8 @@ Well? Don't you want to feel good?
 
 選択肢：1
 Reject her request
-Use your hands...
-Use your feet...
+Use your hands...*
+Use your feet...*
 Use your boobs...
 
 Bandit Girl：上
@@ -6460,7 +6493,7 @@ Uoough...❤
 
 選択肢：1
 Use your hands...
-Use your feet...
+Use your feet...*
 Use your boobs...
 
 Bandit Girl：上
@@ -6646,7 +6679,7 @@ Tell me-
 
 選択肢：1
 Use your hands...
-Use your feet...
+Use your feet...*
 Use your boobs...
 
 Bandit Girl：上
@@ -7177,7 +7210,8 @@ During our travels, the oppression he faced was
 strong. He was persecuted and ridiculed to the 
 very end.
 To think that he was called a "Traitor" by his
-family... Ufufu- A cruel tale don't you think?* 
+family... Ufufu- A cruel tale don't you think?
+ 
 Together, the two of us fled the royal capital,
 and wound up hiding here in this southern region.*
 And so, we sealed away his sword, 
@@ -7434,6 +7468,10 @@ That's so cute-❤*
 Hora- Ok then, why don't you try asking me
 yourself? What do you want me to do? Hmm?
 
+選択肢：1
+I want her hands on my penis
+I don't want anything
+
 Mirage：上
 I see, so you want me to use my hands after all-
 Good choice-❤*
@@ -7597,10 +7635,6 @@ and disappeared.
 Mirage：上
 Mm-? You summoned me again, what's wrong?
 Perhaps you want to be pleasured again?
-
-選択肢：1
-Could you use your hands...?
-I don't need anything right now
 
 Mirage：上
 Can I stroke you with my hands again?**
@@ -7837,21 +7871,21 @@ The subquest "Cave Search" has been added.
 The moment I entered the bar to recruit allies,
 a lady sitting close by turned to talk to me.
 
-Greisa：上
+Grissa：上
 Oh, so you're the rumoured Hero I've heard about?
 I'm Greisa, I do mercenary work around here.*
 I've heard lots of good things about you, 
 even from my friends. Everyone wants to join 
 your army.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oooh- Check out the vibes from this kid-
 Any more muscle, and he'd end up looking like
 some kind of demonic beast.
 For a kind hearted man, isn't he adorable?
 Fufu- Wanna play with us ladies for a bit?
 
-Greisa：上
+Grissa：上
 Aha, oh he's so shy- 
 What's the matter?
 Not much of a womaniser, commander?
@@ -7868,7 +7902,7 @@ And, as a thank you...❤
 In that moment, Greisa slowly rolled up her 
 clothing and slowly exposed her breasts.
 
-Greisa：上
+Grissa：上
 Fufu- No one around will see this so don't 
 worry you can rest easy. From here, you're the 
 only person who can see anything.
@@ -7877,7 +7911,7 @@ time with us?*
 Suppose you lend us some of your soldiers, we
 could get a room upstairs and do something nice-❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 (Giggle) He can't take his eyes off them, and his 
 face has gone bright red too, that's so cute-❤*
 Come on- Hurry up and play with us, okay?
@@ -7888,7 +7922,7 @@ Let me say this right now, you are gonna love
 my mouth. You wanna try my blowjob, right?
 Ufufu-❤
 
-Greisa：上
+Grissa：上
 There's no need for concern. 
 This is perfectly reasonable-*
 And if you lent some soldiers to work for us,
@@ -7905,7 +7939,7 @@ Suddenly, the ladies clung to both my arms,
 intentionally pushing their breasts into me,
 whispering sweet nothings in my ears.
 
-Greisa：上
+Grissa：上
 Look- You've already swollen up with expectation-
 Teehee...❤*
 Look at this. You've given us your answer 
@@ -7917,7 +7951,7 @@ Despite having no business there, I entered the
 bar and went towards the two women who talked to 
 me the other day.
 
-Greisa：上
+Grissa：上
 Oh my, Mr. Leader.
 Since you came back to us, I assume you've decided
 to lend us someone?
@@ -7943,7 +7977,7 @@ but I was able to resist lending my allies.
 Besides, it seemed too good to be true.
 There had to be some kind of catch.
 
-Greisa：上
+Grissa：上
 Tsk- You're so serious, Mr. Leader.**
 Well, it can't be helped.
 Talk to me again when you change your mind.*
@@ -7965,22 +7999,22 @@ laughing at my sudden accidental moaning.
 Ray：上
 Auugh...❤
 
-Greisa：上
+Grissa：上
 Ehehe- He's completely under our spell.
 How adorable. He must really want to have some
 fun with us huh?
 
-Greisa's Friend：上
+Grissa's Friend：上
 So, who will you lend us?
 We'd be happy if we could borrow at least
 three people.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oh, so you've made the preparations?
 If people hear your name, I'm sure people
 would gather together soon wouldn't they?
 
-Greisa's Friend：上
+Grissa's Friend：上
 (Giggle) I think so too- He's called out to more
 than three people-*
 Desperately gathering soldiers for us so we can
@@ -7992,12 +8026,12 @@ Mwah-❤
 Ray：上
 Eiaah, aaaah...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 So, who will you lend us?
 We'd be happy if we could borrow at least
 three people.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Huh?
 You can't lend us so much as three people?
 Sigh... What the heck.
@@ -8010,52 +8044,52 @@ and released me...
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 Ahuhu- So that's the first person is it?
 Who's the second one?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 And with the second person...
 Who will the final person be?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 All done- Thanks-
 Now just sign here please-
 
@@ -8064,12 +8098,12 @@ As instructed,
 I signed the contract to confirm I had 
 agreed to transfer some troops over.
 
-Greisa：上
+Grissa：上
 Ahuhu- Thanks for the three people. Well then, 
 let's go upstairs. We shouldn't keep you
 waiting...❤
 
-Greisa：上
+Grissa：上
 Now- Sit on the bed.**
 I bet you're not used to having sexual services 
 like this are you? We'll take the lead, 
@@ -8091,7 +8125,7 @@ small gap below her breasts.
 Ray：上
 Uaaahh...❤
 
-Greisa：上
+Grissa：上
 Heh, they're amazing right? My breasts-❤
 Even just being inserted between them is enough
 to make guys involuntarily wet themselves.
@@ -8107,7 +8141,7 @@ Ray：上
 Aah, Ahiieee...❤
 A, amazing, it's crushing me from all around...❤
 
-Greisa：上
+Grissa：上
 That's right. You know it-
 This is my specialty paizuri after all-*
 Think of it as thanks for lending me your people.
@@ -8126,7 +8160,7 @@ Ray：上
 Ahiee!❤❤ Aah, too, too fast...!❤
 Ah, aaaah!!!
 
-Greisa's Friend：上
+Grissa's Friend：上
 Teehee-❤
 Looks like Greisa caught you off guard with 
 her serious paizuri-
@@ -8134,7 +8168,7 @@ No matter how much you try, you can't touch her
 breasts can you?-  I bet you'll cum loads after 
 struggling this much-
 
-Greisa：上
+Grissa：上
 Oh? You think you can endure by clenching your
 teeth? Ha ha! *
 I suppose if you were forced to cum from something
@@ -8159,7 +8193,7 @@ Ray：上
 Ahiee...❤
 It feels soo good...
 
-Greisa：上
+Grissa：上
 Heehee- Your hips got stuck thrusting upwards-
 Looks like you felt a little too good huh?-
 My cleavage is totally slimy now too.
@@ -8173,7 +8207,7 @@ You want to feel even more pleasure right?*
 No problem. We'll make you cum over and 
 over again...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oh, it's my turn to have a go for a bit, 
 Greisa. I still need to give our leader my lovely
 blowjob after all.
@@ -8213,7 +8247,7 @@ strange they hadn't come back already.*
 I headed in the direction of the bar
 to ask them about it.
 
-Greisa：上
+Grissa：上
 Oh, if it isn't the Leader of the Ninth Order!
 Thanks for the other day, by the way.*
 Hm? You want us to return the troops you 
@@ -8228,7 +8262,7 @@ your soldiers.
 Ray：上
 But that's...!
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oh my- You can glare at us all you like,
 but it's written right here in the agreement-*
 Look- It's written quite clearly here in the 
@@ -8238,7 +8272,7 @@ Haha- Maybe your mind was so full of naughty
 thoughts that you didn't read it properly?
 Teehee...❤
 
-Greisa：上
+Grissa：上
 Ha- Your face turned red with embarrassment,
 How naive- Kuhuhu...❤*
 Huh?
@@ -8253,12 +8287,12 @@ Look at this...❤
 The moment Greisa said this, she placed her hand
 between her breasts and exposed her cleavage.
 
-Greisa：上
+Grissa：上
 See this black tattoo right here?
 This is what they call a [Succubus Crest].
 It's a mark imbued with a bit of special magic.
 
-Greisa's Friend：上
+Grissa's Friend：上
 And this mark in my hand here means 
 [Crest of the Servant].*
 If we pop the crest of the servant onto the 
@@ -8269,7 +8303,7 @@ flow through him, and he can't think of
 anything else other than cumming his brains out-
 Interesting stuff, right?
 
-Greisa：上
+Grissa：上
 For example, if I placed the servant crest on 
 someone's penis, and then squeezed it between my 
 breasts...❤
@@ -8282,7 +8316,7 @@ Kuhuhu...❤
 Ray：上
 Ugh...!
 
-Greisa：上
+Grissa：上
 Now, now, don't give me that look!
 Why don't we give you a little taste of how good 
 it feels. It'll put you right back in the mood-
@@ -8292,7 +8326,7 @@ And with that Greisa's friend came up from behind
 and wrapped her legs around my body, applying a
 stamp to the nape of my neck with a "slap".
 
-Greisa's Friend：上
+Grissa's Friend：上
 Fufu- You remember the time when we were doing 
 lewd stuff before right? During that time I had
 the [Succubus Crest] on my tongue.
@@ -8302,7 +8336,7 @@ with my tongue now...❤
 Ray：上
 Ahiee-❤ Ahiaaah!❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 Well? How does it feel when I kiss and lick your
 neck with the tip of my tongue? I bet it feels so 
 good that your mind goes numb and empty-
@@ -8312,12 +8346,12 @@ Teehee-❤ So cute-❤
 Ray：上
 Aah, aah, aaah...❤
 
-Greisa：上
+Grissa：上
 Ha! Look at that- This guy came in his pants with 
 just a kiss on the neck. His pants are 
 totally stained-❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 You know- If you're feeling this good, then even 
 if your allies never come back, it's not like you'd 
 be able to do anything about it right? Teehee...❤
@@ -8332,7 +8366,7 @@ pulsed with a chilling throb.
 I couldn't think at all, let alone manage to
 reply...
 
-Greisa：上
+Grissa：上
 Now, this is just a proposal, but how about...**
 Lending us some more troops-
 What do you think?
@@ -8340,7 +8374,7 @@ What do you think?
 Ray：上
 Th, that would be...!
 
-Greisa：上
+Grissa：上
 Well, I know it's a crazy proposal-
 But...*
 Wouldn't you like to have a seal on your penis,
@@ -8349,7 +8383,7 @@ while being fucked between my breasts too...?
 Ray：上
 Ooogh...❤ Aagh...❤
 
-Greisa：上
+Grissa：上
 Ha ha, is your penis throbbing with anticipation?
 Your posture is totally bent forward.*
 Well, I guess you want it then right?
@@ -8358,14 +8392,14 @@ the other crest onto your penis-❤
 Nothing feels greater-
 It'll feel so good, you might faint-❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 And I'd lick your crest-etched penis with this 
 tongue too...❤
 Well? Don't you?
 Lend us some troops, and we'll play with you
 lots okay?-
 
-Greisa：上
+Grissa：上
 Well, naturally, there's no guarantee these 
 soldiers will come back either. They could have
 so much fun, they might not want to return.
@@ -8378,7 +8412,7 @@ As Greisa intentionally flaunted the seal in her
 cleavage, she rubbed her lewd breasts together,
 almost as if she was performing paizuri.
 
-Greisa：上
+Grissa：上
 Don't lie- We know what you really want, don't we?
 Kuhuhu...❤
 
@@ -8388,7 +8422,7 @@ Lend them some of your units
 Ray：上
 Oogh, oooogh...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 (Giggle)
 Even though you know we're actually just 
 seducing you, you can't turn us down can you?
@@ -8396,23 +8430,23 @@ I've been kissing the servant's crest on your neck
 a couple of times now-❤
 Oh, you're so cute Mr. Leader-❤
 
-Greisa：上
+Grissa：上
 You've already experienced the pleasure
 of our paizuri and fellatio before-❤*
 So if you think about how much better this would
 feel... Kuhuhu- There's no way you could refuse-
 Men are only animals after all-❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 So, who will you lend us this time I wonder?
 I'd be happy if you could lend us about 5 people.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oh, have you gathered everyone already?
 When it comes to someone like you,
 everyone really does come at once, huh?
 
-Greisa's Friend：上
+Grissa's Friend：上
 Ahuhu- I see.
 So you've called about 5 people, huh?*
 Desperately raking in people, just so we can
@@ -8431,11 +8465,11 @@ Mwah-❤
 Ray：上
 Ahiee-❤❤ Aahaaah...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 So, who will you lend us?
 Hurry up and choose 5 people.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Huh?
 You can't even lend us as much as five people?
 Haah... What the heck.
@@ -8448,86 +8482,86 @@ away from me...
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 Fufu- So that's the first person?
 Who's the second one?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 That's the second person...
 Who's the third?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 That's the third person...
 And, the fourth?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 Fourth person, check!
 And now, who's the last person?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 There- Thank you!
 Now please sign this contract okay?
 
@@ -8535,12 +8569,12 @@ Now please sign this contract okay?
 As instructed, I signed the contract to 
 confirm I was sending troops.
 
-Greisa：上
+Grissa：上
 Ahuhu- Thanks for the five people.
 Well then, shall we go upstairs?
 It's the moment you've been waiting for...❤
 
-Greisa：上
+Grissa：上
 Ok- Lie down on the bed Mr. Leader-**
 First, let us tie your hands to the bed posts
 with this cord. If we don't do this, your
@@ -8553,7 +8587,7 @@ Greisa took off my clothes in a familiar way,
 And stamped the [Crest of the Servant] on the
 tip of my penis.
 
-Greisa：上
+Grissa：上
 Ahuhu- This place is really sensitive, 
 even for a man.*
 If you had a stamp on you right here while
@@ -8569,7 +8603,7 @@ Greisa pushed my penis into her cleavage.
 Ray：上
 Haah-❤ Ahieee-❤
 
-Greisa：上
+Grissa：上
 Ha ha, your struggles are so pathetic-
 You're not even all the way in yet, how is it?*
 Your penis is being pressed up against the stamp 
@@ -8581,7 +8615,7 @@ Ray：上
 Aguhaagh!❤ So, so good...!❤
 Aaaaah!! Some, something feels strange...❤❤
 
-Greisa：上
+Grissa：上
 Heh heh. The other day, even my regular paizuri
 was enough to satisfy you-*
 But if a man receives a paizuri in this state,
@@ -8603,7 +8637,7 @@ Ray：上
 Haah ahieee...❤
 I, I can't hold on anymoreee-❤❤ Aguaaagh!!
 
-Greisa：上
+Grissa：上
 Hahaha! Such a forceful ejaculation-
 If it weren't for my clothing getting in the way,
 it'd probably hit the ceiling right?
@@ -8616,7 +8650,7 @@ it'd be like with the stamp on your whole penis?❤
 Ray：上
 Ahiee...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 Teehee-❤ It'd feel like total absentminded bliss.
 It'd feel so good, you wouldn't be able to think of
 anything at all.
@@ -8644,12 +8678,12 @@ semen out of me.
 Five allies were lost.
 
 <CM82-3>
-Greisa：上
+Grissa：上
 Oh, if it isn't the Leader of the Ninth Order!
 Kuhuhu- So you couldn't forget our [service],
 and decided to come back again?
 
-Greisa's Friend：上
+Grissa's Friend：上
 But I'm afraid we have to disappoint.
 With the people you lent the other day, 
 we have enough people for now-
@@ -9113,7 +9147,7 @@ Well, see you later-
 Ray：上
 ....
 
-Bunny Girl：下
+バニーガール：下
 Ara- Welcome, welcome!
 Is this your first time at the casino?*
 Well, I say casino, but it's more of
@@ -9131,14 +9165,22 @@ you these coins to start you off.
 テロップ：中央
 Obtained 100 coins.
 
-Bunny Girl：下
 バニーガール：下
-Now then, enjoy yourself OK?
+
 
 選択肢：1
 コイン交換所を見に行く
 サイコロゲームをする
 箱当てゲームをする
+店から出る
+
+Woman：上
+Now then, enjoy yourself OK?
+
+選択肢：1
+コイン交換所を見に行く
+サイコロゲームをする*
+箱当てゲームをする*
 店から出る
 
 Woman：上
@@ -9361,7 +9403,7 @@ So when the holy sword recoil kicks in, you can
 count on me to shield everyone the best I can.
 
 <CM73>
-Leon：上
+Lyon：上
 It's been awhile since I called out to you in the 
 town of Reshina, and we've finally come this 
 far...
@@ -9604,7 +9646,8 @@ You're stroking like a sweet little monkey-❤
 It makes me happy that you think my breasts are
 pretty dear guest-❤
 You can't stop anymore can you? 
-Strokey strokey- Strokey strokey-* 
+Strokey strokey- Strokey strokey-
+ 
 It's possible your friends could notice you, but 
 your penis feels soo good, you can't stop 
 yourself.
@@ -9969,7 +10012,8 @@ You're stroking like a sweet little monkey-❤
 It makes me happy that you think my breasts are
 pretty dear guest-❤
 You can't stop anymore can you? 
-Strokey strokey- Strokey strokey-* 
+Strokey strokey- Strokey strokey-
+ 
 It's possible your friends could notice you, but 
 your penis feels soo good, you can't stop 
 yourself.
@@ -10437,6 +10481,7 @@ Ray：上
 Aooogh, your pussy, it feels too good...❤
 Aah, aaaahhh...
  
+
 Mirage：上
 Aha, has your waist gone slack?
 When you're inserted inside here, you can't move 
@@ -10454,7 +10499,8 @@ I'm feeling strange❤❤❤ Aaahh❤
 
 Mirage：上
 It's OK to let yourself go.
-What more could you possibly want?*	
+What more could you possibly want?
+	
 What's most important is that you're here,	
 inside my succubus pussy❤ Mmm, Mmm❤
 Even if it means letting out all your levels...❤
@@ -12366,8 +12412,8 @@ Well? Don't you want to feel good?
 
 選択肢：1
 Reject her request
-Use your hands...
-Use your feet...
+Use your hands...*
+Use your feet...*
 Use your boobs...
 
 Bandit Girl：上
@@ -12559,7 +12605,7 @@ Uoough...❤
 
 選択肢：1
 Use your hands...
-Use your feet...
+Use your feet...*
 Use your boobs...
 
 Bandit Girl：上
@@ -12728,20 +12774,8 @@ Tell me-
 
 選択肢：1
 Use your hands...
-Use your feet...
+Use your feet...*
 Use your boobs...
-
-Bandit Girl：上
-Ah, I see-
-But, before I start stroking your penis...*
-That's right-
-Your tribute❤*
-Have you brought me some clothing and jewelry
-this time too? Those are my favourite- Give me as
-much as you can❤ I can never have enough❤
-If you don't give me anything soon, I might just
-change my mind, so you'd better be quick-
-Teehee♪
 
 Bandit Girl：上
 Ah, I see-
@@ -12949,7 +12983,7 @@ Tell me-
 
 選択肢：1
 Use your hands...
-Use your feet...
+Use your feet...*
 Use your boobs...
 
 Bandit Girl：上
@@ -13002,8 +13036,9 @@ Ufufu...
 
 Bandit Girl：上
 Aha❤ Thank you-
-You've brought some meat, and is that candy?*
-You know how to treat a lady well, I'm so happy❤**
+Goodness! What beautiful jewelry.
+It must have cost a lot.
+You know how to treat a lady well, I'm overjoyed❤**
 Well then, looks like I'd better reward you for
 being such a good boy huh?*
 Pass your cock through the jail cell bars OK?
@@ -13153,18 +13188,9 @@ I really feel like a handjob right now though-
 So- What do you think Ray?
 Want me to grasp your penis with my hands?
 
-Mirage：上
-Pah- What is it this time?
-Do you want to feel good with me or what?*
-You didn't just summon me again for nothing,
-did you?*
-I guess you couldn't fight the urge to have your
-my strokey strokey hands on your penis after all,
-could you?
-Kyaha♪ I knew it- You can't resist at all-
-That's so cute-❤*
-Hora- Ok then, why don't you try asking me
-yourself? What do you want me to do? Hmm?
+選択肢：1
+I want her hands on my penis
+I don't want anything
 
 Mirage：上
 I see, so you want me to use my hands after all-
@@ -13340,6 +13366,9 @@ I really feel like a handjob right now though-
 So- What do you think Ray?
 Want me to grasp your penis with my hands?
 
+選択肢：1
+I want her hands on my penis
+
 Mirage：上
 Pah- What is it this time?
 Do you want to feel good with me or what?*
@@ -13358,7 +13387,7 @@ I see, so you want me to use my hands after all-
 Good choice-❤*
 Hora- Let's go over to that tree over there okay?
 
-Mirage：上
+Ray：上
 (Giggle) The Elves all walk past this spot, right?
 No one would ever think that the hero would be
 doing such a thing near here-
@@ -13382,10 +13411,10 @@ Hora-
 First I'll grasp the length with my hands and...
 Stroke stroke stroke♪ Stroke stroke stroke♪
 
-Ray：上
+Mirage：上
 Aah... aaah...❤
 
-Mirage：上
+Ray：上
 Kyahaha- I'm only just moving a little, and
 you're already moaning♪
 Does it feel that good?
@@ -13395,34 +13424,34 @@ Next I'll tightly hold your shaft and squee-eeze-
 If I do this, it'll feel just like you're
 being milked...
 
-Ray：上
+Mirage：上
 Oooh...❤ Aaah, that feels soo good-❤
 
-Mirage：上
+Elf：上
 Right?- It feels good doesn't it?-
 I'll make you cum soon-❤ So don't fight it-❤*
 Hora- Stroke stroke stroke♪
 While my small hands grasp around your penis,
 Stroke stroke stroke-♪　Stroke stroke stroke♪
 
-Elf：上
+Ray：上
 Huh-? Mr. Leader, 
 what are you doing in a place like this?
 
-Ray：上
+Mirage：上
 ...!!!
 
-Mirage：上
+Ray：上
 Uh oh♪
 You got discovered by an Elf girl-*
 But, I'm not going to stop stroking-❤
 You'd better endure if you don't want to be
 found out♪
 
-Ray：上
+Elf：上
 Wai-❤　Aaah-❤, aaah-❤
 
-Elf：上
+Mirage：上
 Hey- Is something wrong?
 You're slouching so much, and your face is
 all red too.
@@ -13430,7 +13459,7 @@ And what's with all the weird noises?
 Perhaps you're still sick from the holy sword?
 Are you okay?
 
-Mirage：上
+Ray：上
 Pfft- She's so worried about you, but the truth is
 you're just getting jerked off by a young girl♪
 What a pervert-❤
@@ -13451,10 +13480,10 @@ is looking at you-❤ Kyahaha♪
 Ray：上
 Aaah, oh no-❤ It's too much-❤ I'm already...!❤
 
-Ray：上
+Elf：上
 Aah, aaaah...!
 
-Elf：上
+Mirage：上
 Huh? Huh?
 Hey, are you alright!?*
 You suddenly collapsed...
@@ -13473,7 +13502,7 @@ Mr. Ray is a masochist after all, so thinking
 about things you shouldn't be doing just makes the 
 pleasure more intense doesn't it, Mr. Per-vert?❤
 
-Mirage：上
+Elf：上
 And now to taste this semen... 
 Mmm!-♪ I can feel your delicious power
 melting in my mouth-❤
@@ -13482,7 +13511,13 @@ with me-*
 I'll make you feel really good in return too-
 I'm be looking forward to next time- Kyahaha♪
 
-Elf：上
+テロップ：中央
+エルフの女の子は気まずそうに去っていった。
+
+テロップ：中央
+My strength was squeezed by Mirage...
+
+Mirage：上
 Umm, so... 
 I guess that explains why you
 were doing... "that", huh...?
@@ -13516,10 +13551,6 @@ and disappeared.
 Mirage：上
 Mm-? You summoned me again, what's wrong?
 Perhaps you want to be pleasured again?
-
-選択肢：1
-Could you use your hands...?
-I don't need anything right now
 
 Mirage：上
 Can I stroke you with my hands again?**
@@ -13610,21 +13641,21 @@ My strength was squeezed by Mirage...
 The moment I entered the bar to recruit allies,
 a lady sitting close by turned to talk to me.
 
-Greisa：上
+Grissa：上
 Oh, so you're the rumoured Hero I've heard about?
 I'm Greisa, I do mercenary work around here.*
 I've heard lots of good things about you, 
 even from my friends. Everyone wants to join 
 your army.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oooh- Check out the vibes from this kid-
 Any more muscle, and he'd end up looking like
 some kind of demonic beast.
 For a kind hearted man, isn't he adorable?
 Fufu- Wanna play with us ladies for a bit?
 
-Greisa：上
+Grissa：上
 Aha, oh he's so shy- 
 What's the matter?
 Not much of a womaniser, commander?
@@ -13641,7 +13672,7 @@ And, as a thank you...❤
 In that moment, Greisa slowly rolled up her 
 clothing and slowly exposed her breasts.
 
-Greisa：上
+Grissa：上
 Fufu- No one around will see this so don't 
 worry you can rest easy. From here, you're the 
 only person who can see anything.
@@ -13650,7 +13681,7 @@ time with us?*
 Suppose you lend us some of your soldiers, we
 could get a room upstairs and do something nice-❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 (Giggle) He can't take his eyes off them, and his 
 face has gone bright red too, that's so cute-❤*
 Come on- Hurry up and play with us, okay?
@@ -13661,7 +13692,7 @@ Let me say this right now, you are gonna love
 my mouth. You wanna try my blowjob, right?
 Ufufu-❤
 
-Greisa：上
+Grissa：上
 There's no need for concern. 
 This is perfectly reasonable-*
 And if you lent some soldiers to work for us,
@@ -13678,7 +13709,7 @@ Suddenly, the ladies clung to both my arms,
 intentionally pushing their breasts into me,
 whispering sweet nothings in my ears.
 
-Greisa：上
+Grissa：上
 Look- You've already swollen up with expectation-
 Teehee...❤*
 Look at this. You've given us your answer 
@@ -13690,7 +13721,7 @@ Despite having no business there, I entered the
 bar and went towards the two women who talked to 
 me the other day.
 
-Greisa：上
+Grissa：上
 Oh my, Mr. Leader.
 Since you came back to us, I assume you've decided
 to lend us someone?
@@ -13716,7 +13747,7 @@ but I was able to resist lending my allies.
 Besides, it seemed too good to be true.
 There had to be some kind of catch.
 
-Greisa：上
+Grissa：上
 Tsk- You're so serious, Mr. Leader.**
 Well, it can't be helped.
 Talk to me again when you change your mind.*
@@ -13738,22 +13769,22 @@ laughing at my sudden accidental moaning.
 Ray：上
 Auugh...❤
 
-Greisa：上
+Grissa：上
 Ehehe- He's completely under our spell.
 How adorable. He must really want to have some
 fun with us huh?
 
-Greisa's Friend：上
+Grissa's Friend：上
 So, who will you lend us?
 We'd be happy if we could borrow at least
 three people.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oh, so you've made the preparations?
 If people hear your name, I'm sure people
 would gather together soon wouldn't they?
 
-Greisa's Friend：上
+Grissa's Friend：上
 (Giggle) I think so too- He's called out to more
 than three people-*
 Desperately gathering soldiers for us so we can
@@ -13765,12 +13796,12 @@ Mwah-❤
 Ray：上
 Eiaah, aaaah...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 So, who will you lend us?
 We'd be happy if we could borrow at least
 three people.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Huh?
 You can't lend us so much as three people?
 Sigh... What the heck.
@@ -13783,52 +13814,52 @@ and released me...
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 Ahuhu- So that's the first person is it?
 Who's the second one?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 And with the second person...
 Who will the final person be?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 All done- Thanks-
 Now just sign here please-
 
@@ -13837,12 +13868,12 @@ As instructed,
 I signed the contract to confirm I had 
 agreed to transfer some troops over.
 
-Greisa：上
+Grissa：上
 Ahuhu- Thanks for the three people. Well then, 
 let's go upstairs. We shouldn't keep you
 waiting...❤
 
-Greisa：上
+Grissa：上
 Now- Sit on the bed.**
 I bet you're not used to having sexual services 
 like this are you? We'll take the lead, 
@@ -13864,7 +13895,7 @@ small gap below her breasts.
 Ray：上
 Uaaahh...❤
 
-Greisa：上
+Grissa：上
 Heh, they're amazing right? My breasts-❤
 Even just being inserted between them is enough
 to make guys involuntarily wet themselves.
@@ -13880,7 +13911,7 @@ Ray：上
 Aah, Ahiieee...❤
 A, amazing, it's crushing me from all around...❤
 
-Greisa：上
+Grissa：上
 That's right. You know it-
 This is my specialty paizuri after all-*
 Think of it as thanks for lending me your people.
@@ -13899,7 +13930,7 @@ Ray：上
 Ahiee!❤❤ Aah, too, too fast...!❤
 Ah, aaaah!!!
 
-Greisa's Friend：上
+Grissa's Friend：上
 Teehee-❤
 Looks like Greisa caught you off guard with 
 her serious paizuri-
@@ -13907,7 +13938,7 @@ No matter how much you try, you can't touch her
 breasts can you?-  I bet you'll cum loads after 
 struggling this much-
 
-Greisa：上
+Grissa：上
 Oh? You think you can endure by clenching your
 teeth? Ha ha! *
 I suppose if you were forced to cum from something
@@ -13932,7 +13963,7 @@ Ray：上
 Ahiee...❤
 It feels soo good...
 
-Greisa：上
+Grissa：上
 Heehee- Your hips got stuck thrusting upwards-
 Looks like you felt a little too good huh?-
 My cleavage is totally slimy now too.
@@ -13946,7 +13977,7 @@ You want to feel even more pleasure right?*
 No problem. We'll make you cum over and 
 over again...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oh, it's my turn to have a go for a bit, 
 Greisa. I still need to give our leader my lovely
 blowjob after all.
@@ -13982,21 +14013,21 @@ Three ally units were lost.
 The moment I entered the bar to recruit allies,
 a lady sitting close by turned to talk to me.
 
-Greisa：上
+Grissa：上
 Oh, so you're the rumoured Hero I've heard about?
 I'm Greisa, I do mercenary work around here.*
 I've heard lots of good things about you, 
 even from my friends. Everyone wants to join 
 your army.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oooh- Check out the vibes from this kid-
 Any more muscle, and he'd end up looking like
 some kind of demonic beast.
 For a kind hearted man, isn't he adorable?
 Fufu- Wanna play with us ladies for a bit?
 
-Greisa：上
+Grissa：上
 Aha, oh he's so shy- 
 What's the matter?
 Not much of a womaniser, commander?
@@ -14013,7 +14044,7 @@ And, as a thank you...❤
 In that moment, Greisa slowly rolled up her 
 clothing and slowly exposed her breasts.
 
-Greisa：上
+Grissa：上
 Fufu- No one around will see this so don't 
 worry you can rest easy. From here, you're the 
 only person who can see anything.
@@ -14022,7 +14053,7 @@ time with us?*
 Suppose you lend us some of your soldiers, we
 could get a room upstairs and do something nice-❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 (Giggle) He can't take his eyes off them, and his 
 face has gone bright red too, that's so cute-❤*
 Come on- Hurry up and play with us, okay?
@@ -14033,7 +14064,7 @@ Let me say this right now, you are gonna love
 my mouth. You wanna try my blowjob, right?
 Ufufu-❤
 
-Greisa：上
+Grissa：上
 There's no need for concern. 
 This is perfectly reasonable-*
 And if you lent some soldiers to work for us,
@@ -14050,7 +14081,7 @@ Suddenly, the ladies clung to both my arms,
 intentionally pushing their breasts into me,
 whispering sweet nothings in my ears.
 
-Greisa：上
+Grissa：上
 Look- You've already swollen up with expectation-
 Teehee...❤*
 Look at this. You've given us your answer 
@@ -14062,7 +14093,7 @@ Despite having no business there, I entered the
 bar and went towards the two women who talked to 
 me the other day.
 
-Greisa：上
+Grissa：上
 Oh my, Mr. Leader.
 Since you came back to us, I assume you've decided
 to lend us someone?
@@ -14088,7 +14119,7 @@ but I was able to resist lending my allies.
 Besides, it seemed too good to be true.
 There had to be some kind of catch.
 
-Greisa：上
+Grissa：上
 Tsk- You're so serious, Mr. Leader.**
 Well, it can't be helped.
 Talk to me again when you change your mind.*
@@ -14110,22 +14141,22 @@ laughing at my sudden accidental moaning.
 Ray：上
 Auugh...❤
 
-Greisa：上
+Grissa：上
 Ehehe- He's completely under our spell.
 How adorable. He must really want to have some
 fun with us huh?
 
-Greisa's Friend：上
+Grissa's Friend：上
 So, who will you lend us?
 We'd be happy if we could borrow at least
 three people.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oh, so you've made the preparations?
 If people hear your name, I'm sure people
 would gather together soon wouldn't they?
 
-Greisa's Friend：上
+Grissa's Friend：上
 (Giggle) I think so too- He's called out to more
 than three people-*
 Desperately gathering soldiers for us so we can
@@ -14137,12 +14168,12 @@ Mwah-❤
 Ray：上
 Eiaah, aaaah...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 So, who will you lend us?
 We'd be happy if we could borrow at least
 three people.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Huh?
 You can't lend us so much as three people?
 Sigh... What the heck.
@@ -14155,52 +14186,52 @@ and released me...
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 Ahuhu- So that's the first person is it?
 Who's the second one?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 And with the second person...
 Who will the final person be?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 All done- Thanks-
 Now just sign here please-
 
@@ -14209,12 +14240,12 @@ As instructed,
 I signed the contract to confirm I had 
 agreed to transfer some troops over.
 
-Greisa：上
+Grissa：上
 Ahuhu- Thanks for the three people. Well then, 
 let's go upstairs. We shouldn't keep you
 waiting...❤
 
-Greisa：上
+Grissa：上
 Now- Sit on the bed.**
 I bet you're not used to having sexual services 
 like this are you? We'll take the lead, 
@@ -14236,7 +14267,7 @@ small gap below her breasts.
 Ray：上
 Uaaahh...❤
 
-Greisa：上
+Grissa：上
 Heh, they're amazing right? My breasts-❤
 Even just being inserted between them is enough
 to make guys involuntarily wet themselves.
@@ -14252,7 +14283,7 @@ Ray：上
 Aah, Ahiieee...❤
 A, amazing, it's crushing me from all around...❤
 
-Greisa：上
+Grissa：上
 That's right. You know it-
 This is my specialty paizuri after all-*
 Think of it as thanks for lending me your people.
@@ -14271,7 +14302,7 @@ Ray：上
 Ahiee!❤❤ Aah, too, too fast...!❤
 Ah, aaaah!!!
 
-Greisa's Friend：上
+Grissa's Friend：上
 Teehee-❤
 Looks like Greisa caught you off guard with 
 her serious paizuri-
@@ -14279,7 +14310,7 @@ No matter how much you try, you can't touch her
 breasts can you?-  I bet you'll cum loads after 
 struggling this much-
 
-Greisa：上
+Grissa：上
 Oh? You think you can endure by clenching your
 teeth? Ha ha! *
 I suppose if you were forced to cum from something
@@ -14304,7 +14335,7 @@ Ray：上
 Ahiee...❤
 It feels soo good...
 
-Greisa：上
+Grissa：上
 Heehee- Your hips got stuck thrusting upwards-
 Looks like you felt a little too good huh?-
 My cleavage is totally slimy now too.
@@ -14318,7 +14349,7 @@ You want to feel even more pleasure right?*
 No problem. We'll make you cum over and 
 over again...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oh, it's my turn to have a go for a bit, 
 Greisa. I still need to give our leader my lovely
 blowjob after all.
@@ -14358,7 +14389,7 @@ strange they hadn't come back already.*
 I headed in the direction of the bar
 to ask them about it.
 
-Greisa：上
+Grissa：上
 Oh, if it isn't the Leader of the Ninth Order!
 Thanks for the other day, by the way.*
 Hm? You want us to return the troops you 
@@ -14373,7 +14404,7 @@ your soldiers.
 Ray：上
 But that's...!
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oh my- You can glare at us all you like,
 but it's written right here in the agreement-*
 Look- It's written quite clearly here in the 
@@ -14383,7 +14414,7 @@ Haha- Maybe your mind was so full of naughty
 thoughts that you didn't read it properly?
 Teehee...❤
 
-Greisa：上
+Grissa：上
 Ha- Your face turned red with embarrassment,
 How naive- Kuhuhu...❤*
 Huh?
@@ -14398,12 +14429,12 @@ Look at this...❤
 The moment Greisa said this, she placed her hand
 between her breasts and exposed her cleavage.
 
-Greisa：上
+Grissa：上
 See this black tattoo right here?
 This is what they call a [Succubus Crest].
 It's a mark imbued with a bit of special magic.
 
-Greisa's Friend：上
+Grissa's Friend：上
 And this mark in my hand here means 
 [Crest of the Servant].*
 If we pop the crest of the servant onto the 
@@ -14414,7 +14445,7 @@ flow through him, and he can't think of
 anything else other than cumming his brains out-
 Interesting stuff, right?
 
-Greisa：上
+Grissa：上
 For example, if I placed the servant crest on 
 someone's penis, and then squeezed it between my 
 breasts...❤
@@ -14427,7 +14458,7 @@ Kuhuhu...❤
 Ray：上
 Ugh...!
 
-Greisa：上
+Grissa：上
 Now, now, don't give me that look!
 Why don't we give you a little taste of how good 
 it feels. It'll put you right back in the mood-
@@ -14437,7 +14468,7 @@ And with that Greisa's friend came up from behind
 and wrapped her legs around my body, applying a
 stamp to the nape of my neck with a "slap".
 
-Greisa's Friend：上
+Grissa's Friend：上
 Fufu- You remember the time when we were doing 
 lewd stuff before right? During that time I had
 the [Succubus Crest] on my tongue.
@@ -14447,7 +14478,7 @@ with my tongue now...❤
 Ray：上
 Ahiee-❤ Ahiaaah!❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 Well? How does it feel when I kiss and lick your
 neck with the tip of my tongue? I bet it feels so 
 good that your mind goes numb and empty-
@@ -14457,12 +14488,12 @@ Teehee-❤ So cute-❤
 Ray：上
 Aah, aah, aaah...❤
 
-Greisa：上
+Grissa：上
 Ha! Look at that- This guy came in his pants with 
 just a kiss on the neck. His pants are 
 totally stained-❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 You know- If you're feeling this good, then even 
 if your allies never come back, it's not like you'd 
 be able to do anything about it right? Teehee...❤
@@ -14477,7 +14508,7 @@ pulsed with a chilling throb.
 I couldn't think at all, let alone manage to
 reply...
 
-Greisa：上
+Grissa：上
 Now, this is just a proposal, but how about...**
 Lending us some more troops-
 What do you think?
@@ -14485,7 +14516,7 @@ What do you think?
 Ray：上
 Th, that would be...!
 
-Greisa：上
+Grissa：上
 Well, I know it's a crazy proposal-
 But...*
 Wouldn't you like to have a seal on your penis,
@@ -14494,7 +14525,7 @@ while being fucked between my breasts too...?
 Ray：上
 Ooogh...❤ Aagh...❤
 
-Greisa：上
+Grissa：上
 Ha ha, is your penis throbbing with anticipation?
 Your posture is totally bent forward.*
 Well, I guess you want it then right?
@@ -14503,14 +14534,14 @@ the other crest onto your penis-❤
 Nothing feels greater-
 It'll feel so good, you might faint-❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 And I'd lick your crest-etched penis with this 
 tongue too...❤
 Well? Don't you?
 Lend us some troops, and we'll play with you
 lots okay?-
 
-Greisa：上
+Grissa：上
 Well, naturally, there's no guarantee these 
 soldiers will come back either. They could have
 so much fun, they might not want to return.
@@ -14523,7 +14554,7 @@ As Greisa intentionally flaunted the seal in her
 cleavage, she rubbed her lewd breasts together,
 almost as if she was performing paizuri.
 
-Greisa：上
+Grissa：上
 Don't lie- We know what you really want, don't we?
 Kuhuhu...❤
 
@@ -14533,7 +14564,7 @@ Lend them some of your units
 Ray：上
 Oogh, oooogh...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 (Giggle)
 Even though you know we're actually just 
 seducing you, you can't turn us down can you?
@@ -14541,23 +14572,23 @@ I've been kissing the servant's crest on your neck
 a couple of times now-❤
 Oh, you're so cute Mr. Leader-❤
 
-Greisa：上
+Grissa：上
 You've already experienced the pleasure
 of our paizuri and fellatio before-❤*
 So if you think about how much better this would
 feel... Kuhuhu- There's no way you could refuse-
 Men are only animals after all-❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 So, who will you lend us this time I wonder?
 I'd be happy if you could lend us about 5 people.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oh, have you gathered everyone already?
 When it comes to someone like you,
 everyone really does come at once, huh?
 
-Greisa's Friend：上
+Grissa's Friend：上
 Ahuhu- I see.
 So you've called about 5 people, huh?*
 Desperately raking in people, just so we can
@@ -14576,11 +14607,11 @@ Mwah-❤
 Ray：上
 Ahiee-❤❤ Aahaaah...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 So, who will you lend us?
 Hurry up and choose 5 people.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Huh?
 You can't even lend us as much as five people?
 Haah... What the heck.
@@ -14593,82 +14624,99 @@ away from me...
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 Fufu- So that's the first person?
 Who's the second one?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 That's the second person...
 Who's the third?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 Fourth person, check!
 And now, who's the last person?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 There- Thank you!
 Now please sign this contract okay?
+
+選択肢：1
+雑兵を貸す
+エリート雑兵を貸す*
+教官を貸す*
+発掘家を貸す*
+ランサーを貸す*
+ヒーラーを貸す*
+アルケミストを貸す*
+軍旗持ちを貸す*
+呪術師を貸す*
+格闘家を貸す*
+盗賊くずれを貸す
+
+Grissa's Friend：上
+はーい、ありがと。
+この念書にサインしといてね。
 
 テロップ：中央
 As instructed, I signed the contract to 
 confirm I was sending troops.
 
-Greisa：上
+Grissa：上
 Ahuhu- Thanks for the five people.
 Well then, shall we go upstairs?
 It's the moment you've been waiting for...❤
 
-Greisa：上
+Grissa：上
 Ok- Lie down on the bed Mr. Leader-**
 First, let us tie your hands to the bed posts
 with this cord. If we don't do this, your
@@ -14681,7 +14729,7 @@ Greisa took off my clothes in a familiar way,
 And stamped the [Crest of the Servant] on the
 tip of my penis.
 
-Greisa：上
+Grissa：上
 Ahuhu- This place is really sensitive, 
 even for a man.*
 If you had a stamp on you right here while
@@ -14697,7 +14745,7 @@ Greisa pushed my penis into her cleavage.
 Ray：上
 Haah-❤ Ahieee-❤
 
-Greisa：上
+Grissa：上
 Ha ha, your struggles are so pathetic-
 You're not even all the way in yet, how is it?*
 Your penis is being pressed up against the stamp 
@@ -14709,7 +14757,7 @@ Ray：上
 Aguhaagh!❤ So, so good...!❤
 Aaaaah!! Some, something feels strange...❤❤
 
-Greisa：上
+Grissa：上
 Heh heh. The other day, even my regular paizuri
 was enough to satisfy you-*
 But if a man receives a paizuri in this state,
@@ -14731,7 +14779,7 @@ Ray：上
 Haah ahieee...❤
 I, I can't hold on anymoreee-❤❤ Aguaaagh!!
 
-Greisa：上
+Grissa：上
 Hahaha! Such a forceful ejaculation-
 If it weren't for my clothing getting in the way,
 it'd probably hit the ceiling right?
@@ -14744,7 +14792,7 @@ it'd be like with the stamp on your whole penis?❤
 Ray：上
 Ahiee...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 Teehee-❤ It'd feel like total absentminded bliss.
 It'd feel so good, you wouldn't be able to think of
 anything at all.
@@ -14780,7 +14828,7 @@ strange they hadn't come back already.*
 I headed in the direction of the bar
 to ask them about it.
 
-Greisa：上
+Grissa：上
 Oh, if it isn't the Leader of the Ninth Order!
 Thanks for the other day, by the way.*
 Hm? You want us to return the troops you 
@@ -14795,7 +14843,7 @@ your soldiers.
 Ray：上
 But that's...!
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oh my- You can glare at us all you like,
 but it's written right here in the agreement-*
 Look- It's written quite clearly here in the 
@@ -14805,7 +14853,7 @@ Haha- Maybe your mind was so full of naughty
 thoughts that you didn't read it properly?
 Teehee...❤
 
-Greisa：上
+Grissa：上
 Ha- Your face turned red with embarrassment,
 How naive- Kuhuhu...❤*
 Huh?
@@ -14820,12 +14868,12 @@ Look at this...❤
 The moment Greisa said this, she placed her hand
 between her breasts and exposed her cleavage.
 
-Greisa：上
+Grissa：上
 See this black tattoo right here?
 This is what they call a [Succubus Crest].
 It's a mark imbued with a bit of special magic.
 
-Greisa's Friend：上
+Grissa's Friend：上
 And this mark in my hand here means 
 [Crest of the Servant].*
 If we pop the crest of the servant onto the 
@@ -14836,7 +14884,7 @@ flow through him, and he can't think of
 anything else other than cumming his brains out-
 Interesting stuff, right?
 
-Greisa：上
+Grissa：上
 For example, if I placed the servant crest on 
 someone's penis, and then squeezed it between my 
 breasts...❤
@@ -14849,7 +14897,7 @@ Kuhuhu...❤
 Ray：上
 Ugh...!
 
-Greisa：上
+Grissa：上
 Now, now, don't give me that look!
 Why don't we give you a little taste of how good 
 it feels. It'll put you right back in the mood-
@@ -14859,7 +14907,7 @@ And with that Greisa's friend came up from behind
 and wrapped her legs around my body, applying a
 stamp to the nape of my neck with a "slap".
 
-Greisa's Friend：上
+Grissa's Friend：上
 Fufu- You remember the time when we were doing 
 lewd stuff before right? During that time I had
 the [Succubus Crest] on my tongue.
@@ -14869,7 +14917,7 @@ with my tongue now...❤
 Ray：上
 Ahiee-❤ Ahiaaah!❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 Well? How does it feel when I kiss and lick your
 neck with the tip of my tongue? I bet it feels so 
 good that your mind goes numb and empty-
@@ -14879,12 +14927,12 @@ Teehee-❤ So cute-❤
 Ray：上
 Aah, aah, aaah...❤
 
-Greisa：上
+Grissa：上
 Ha! Look at that- This guy came in his pants with 
 just a kiss on the neck. His pants are 
 totally stained-❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 You know- If you're feeling this good, then even 
 if your allies never come back, it's not like you'd 
 be able to do anything about it right? Teehee...❤
@@ -14899,7 +14947,7 @@ pulsed with a chilling throb.
 I couldn't think at all, let alone manage to
 reply...
 
-Greisa：上
+Grissa：上
 Now, this is just a proposal, but how about...**
 Lending us some more troops-
 What do you think?
@@ -14907,7 +14955,7 @@ What do you think?
 Ray：上
 Th, that would be...!
 
-Greisa：上
+Grissa：上
 Well, I know it's a crazy proposal-
 But...*
 Wouldn't you like to have a seal on your penis,
@@ -14916,7 +14964,7 @@ while being fucked between my breasts too...?
 Ray：上
 Ooogh...❤ Aagh...❤
 
-Greisa：上
+Grissa：上
 Ha ha, is your penis throbbing with anticipation?
 Your posture is totally bent forward.*
 Well, I guess you want it then right?
@@ -14925,14 +14973,14 @@ the other crest onto your penis-❤
 Nothing feels greater-
 It'll feel so good, you might faint-❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 And I'd lick your crest-etched penis with this 
 tongue too...❤
 Well? Don't you?
 Lend us some troops, and we'll play with you
 lots okay?-
 
-Greisa：上
+Grissa：上
 Well, naturally, there's no guarantee these 
 soldiers will come back either. They could have
 so much fun, they might not want to return.
@@ -14945,7 +14993,7 @@ As Greisa intentionally flaunted the seal in her
 cleavage, she rubbed her lewd breasts together,
 almost as if she was performing paizuri.
 
-Greisa：上
+Grissa：上
 Don't lie- We know what you really want, don't we?
 Kuhuhu...❤
 
@@ -14955,7 +15003,7 @@ Lend them some of your units
 Ray：上
 Oogh, oooogh...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 (Giggle)
 Even though you know we're actually just 
 seducing you, you can't turn us down can you?
@@ -14963,23 +15011,23 @@ I've been kissing the servant's crest on your neck
 a couple of times now-❤
 Oh, you're so cute Mr. Leader-❤
 
-Greisa：上
+Grissa：上
 You've already experienced the pleasure
 of our paizuri and fellatio before-❤*
 So if you think about how much better this would
 feel... Kuhuhu- There's no way you could refuse-
 Men are only animals after all-❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 So, who will you lend us this time I wonder?
 I'd be happy if you could lend us about 5 people.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Oh, have you gathered everyone already?
 When it comes to someone like you,
 everyone really does come at once, huh?
 
-Greisa's Friend：上
+Grissa's Friend：上
 Ahuhu- I see.
 So you've called about 5 people, huh?*
 Desperately raking in people, just so we can
@@ -14998,11 +15046,11 @@ Mwah-❤
 Ray：上
 Ahiee-❤❤ Aahaaah...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 So, who will you lend us?
 Hurry up and choose 5 people.
 
-Greisa's Friend：上
+Grissa's Friend：上
 Huh?
 You can't even lend us as much as five people?
 Haah... What the heck.
@@ -15015,86 +15063,86 @@ away from me...
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 Fufu- So that's the first person?
 Who's the second one?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 That's the second person...
 Who's the third?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 That's the third person...
 And, the fourth?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 Fourth person, check!
 And now, who's the last person?
 
 選択肢：1
 Foot Soldier
-Elite Soldier
-Professor
-Excavator
-Lancer
-Healer
-Alchemist
-Flag Bearer
-Black Mage
-Martial Artist
+Elite Soldier*
+Professor*
+Excavator*
+Lancer*
+Healer*
+Alchemist*
+Flag Bearer*
+Black Mage*
+Martial Artist*
 Bandit
 
-Greisa's Friend：上
+Grissa's Friend：上
 There- Thank you!
 Now please sign this contract okay?
 
@@ -15102,12 +15150,12 @@ Now please sign this contract okay?
 As instructed, I signed the contract to 
 confirm I was sending troops.
 
-Greisa：上
+Grissa：上
 Ahuhu- Thanks for the five people.
 Well then, shall we go upstairs?
 It's the moment you've been waiting for...❤
 
-Greisa：上
+Grissa：上
 Ok- Lie down on the bed Mr. Leader-**
 First, let us tie your hands to the bed posts
 with this cord. If we don't do this, your
@@ -15120,7 +15168,7 @@ Greisa took off my clothes in a familiar way,
 And stamped the [Crest of the Servant] on the
 tip of my penis.
 
-Greisa：上
+Grissa：上
 Ahuhu- This place is really sensitive, 
 even for a man.*
 If you had a stamp on you right here while
@@ -15136,7 +15184,7 @@ Greisa pushed my penis into her cleavage.
 Ray：上
 Haah-❤ Ahieee-❤
 
-Greisa：上
+Grissa：上
 Ha ha, your struggles are so pathetic-
 You're not even all the way in yet, how is it?*
 Your penis is being pressed up against the stamp 
@@ -15148,7 +15196,7 @@ Ray：上
 Aguhaagh!❤ So, so good...!❤
 Aaaaah!! Some, something feels strange...❤❤
 
-Greisa：上
+Grissa：上
 Heh heh. The other day, even my regular paizuri
 was enough to satisfy you-*
 But if a man receives a paizuri in this state,
@@ -15170,7 +15218,7 @@ Ray：上
 Haah ahieee...❤
 I, I can't hold on anymoreee-❤❤ Aguaaagh!!
 
-Greisa：上
+Grissa：上
 Hahaha! Such a forceful ejaculation-
 If it weren't for my clothing getting in the way,
 it'd probably hit the ceiling right?
@@ -15183,7 +15231,7 @@ it'd be like with the stamp on your whole penis?❤
 Ray：上
 Ahiee...❤
 
-Greisa's Friend：上
+Grissa's Friend：上
 Teehee-❤ It'd feel like total absentminded bliss.
 It'd feel so good, you wouldn't be able to think of
 anything at all.
@@ -15211,12 +15259,12 @@ semen out of me.
 Five allies were lost.
 
 <CM105>
-Greisa：上
+Grissa：上
 Oh, if it isn't the Leader of the Ninth Order!
 Kuhuhu- So you couldn't forget our [service],
 and decided to come back again?
 
-Greisa's Friend：上
+Grissa's Friend：上
 But I'm afraid we have to disappoint.
 With the people you lent the other day, 
 we have enough people for now-
@@ -16304,7 +16352,8 @@ You're stroking like a sweet little monkey-❤
 It makes me happy that you think my breasts are
 pretty dear guest-❤
 You can't stop anymore can you? 
-Strokey strokey- Strokey strokey-* 
+Strokey strokey- Strokey strokey-
+ 
 It's possible your friends could notice you, but 
 your penis feels soo good, you can't stop 
 yourself.
@@ -16653,7 +16702,6 @@ The fingers hiding such important places were
 most intrusive weren't they? Let's get them out of
 the way okay...?❤
 
-
 テロップ：中央
 The succubus removed her fingers one by one, 
 exposing her beautiful pink nipples little 
@@ -16670,7 +16718,8 @@ You're stroking like a sweet little monkey-❤
 It makes me happy that you think my breasts are
 pretty dear guest-❤
 You can't stop anymore can you? 
-Strokey strokey- Strokey strokey-* 
+Strokey strokey- Strokey strokey-
+ 
 It's possible your friends could notice you, but 
 your penis feels soo good, you can't stop 
 yourself.
@@ -17138,6 +17187,7 @@ Ray：上
 Aooogh, your pussy, it feels too good...❤
 Aah, aaaahhh...
  
+
 Mirage：上
 Aha, has your waist gone slack?
 When you're inserted inside here, you can't move 
@@ -17155,7 +17205,8 @@ I'm feeling strange❤❤❤ Aaahh❤
 
 Mirage：上
 It's OK to let yourself go.
-What more could you possibly want?*	
+What more could you possibly want?
+	
 What's most important is that you're here,	
 inside my succubus pussy❤ Mmm, Mmm❤
 Even if it means letting out all your levels...❤

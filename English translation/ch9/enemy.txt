@@ -1,4 +1,6 @@
-﻿<(65536)Succubus Maid A@8>
+
+
+<(65536)Succubus Maid A@8>
 アクティブ：上
 I can see how you were able to make it as far as
 this castle, but I'm afraid I don't intend on
@@ -716,7 +718,7 @@ Gale Dance (Big speed boost to allies in 8 spaces)
 Feel the rush of the wind everyone...♪
 
 タイトル：中央
-Gale Dance (Big speed boost to allies in 8 spaces)
+Gale Dance (Big speed boost to allies in 8 spaces
 
 <(65537)Dancer@2>
 アクティブ：上
@@ -732,7 +734,7 @@ Feel my dance everyone! Feel the power-♪
 タイトル：中央
 Firestorm Dance (All allies gain Attack UP)
 
-アクティブ：上
+：上
 I'll help out and dance for those who betrayed us
 too-❤
 
@@ -743,7 +745,7 @@ Feel my dance everyone! Feel the power-♪
 タイトル：中央
 Firestorm Dance (All allies gain Attack UP)
 
-アクティブ：上
+：上
 And all you who double-crossed for us, I'll dance
 for you too-❤
 
@@ -754,7 +756,7 @@ Feel my dance everyone! Feel the power-♪
 タイトル：中央
 Firestorm Dance (All allies gain Attack UP)
 
-アクティブ：上
+：上
 And all you who double-crossed for us, I'll dance
 for you too-❤
 
@@ -842,12 +844,12 @@ Feel the rush of the wind everyone...♪
 タイトル：中央
 Gale Dance (Big speed boost to allies in 8 spaces)
 
-<(65537)Dancer@1>
+<(65545)Dancer@1>
 アクティブ：上
 Feel the rush of the wind everyone...♪
 
 タイトル：中央
-Gale Dance (Big speed boost to allies in 8 spaces
+Gale Dance (Big speed boost to allies in 8 spaces)
 
 <(65545)Dancer@2>
 アクティブ：上
@@ -863,7 +865,7 @@ Feel my dance everyone! Feel the power-♪
 タイトル：中央
 Firestorm Dance (All allies gain Attack UP)
 
-アクティブ：上
+：上
 I'll help out and dance for those who betrayed us
 too-❤
 
@@ -874,7 +876,7 @@ Feel my dance everyone! Feel the power-♪
 タイトル：中央
 Firestorm Dance (All allies gain Attack UP)
 
-アクティブ：上
+：上
 And all you who double-crossed for us, I'll dance
 for you too-❤
 
@@ -885,7 +887,7 @@ Feel my dance everyone! Feel the power-♪
 タイトル：中央
 Firestorm Dance (All allies gain Attack UP)
 
-アクティブ：上
+：上
 And all you who double-crossed for us, I'll dance
 for you too-❤
 
@@ -973,7 +975,7 @@ Feel the rush of the wind everyone...♪
 タイトル：中央
 Gale Dance (Big speed boost to allies in 8 spaces)
 
-アクティブ：上
+：上
 Ufufu-❤
 You do your best too traitors-❤
 I'll give you a big power up-❤
@@ -985,7 +987,7 @@ Feel the rush of the wind everyone...♪
 タイトル：中央
 Gale Dance (Big speed boost to allies in 8 spaces
 
-アクティブ：上
+：上
 Ufufu-❤
 You do your best too traitors-❤
 I'll give you a big power up-❤
@@ -997,7 +999,7 @@ Feel the rush of the wind everyone...♪
 タイトル：中央
 Gale Dance (Big speed boost to allies in 8 spaces)
 
-アクティブ：上
+：上
 Ufufu-❤
 You do your best too traitors-❤
 I'll give you a big power up-❤
@@ -1101,7 +1103,7 @@ I wonder if that turns you on too?
 Teehee...❤
 
 <(65539)Bard@9>
-アクティブ：上
+：上
 Hmmph. As it seems, you didn't come here 
 though ordinary means. As expected of a hero.*
 But then again, there isn't a man whose mind won't
@@ -1111,14 +1113,14 @@ Ufufu-❤
 タイトル：中央
 Song of Seduction
 
-アクティブ：上
+：上
 Teehee-❤ Your eyes are getting drowsy... 
 It feels soo good...❤*
 Just allow my commands to sink into those sticky, 
 melted minds of yours OK?
 Now- Fight your allies-❤
 
-アクティブ：上
+：上
 No way... How did you manage to keep your sanity
 while listening to my voice...?
 Ugh, that's annoying...
@@ -1503,13 +1505,6 @@ your penis, so let yourself feel better and
 better- Just sit still until you cum OK?❤
 
 <(65544)Slime Succubus@0>
-Is my slime already getting you nice and hard?
-Teehee...♪*
-Hora- I'll move my slime around, and around, and
-around- Squishing and squeezing over your shaft-♪
-Stroke stroke-♪
-Ehehe- Just give in to the feeling and cum-❤
-
 アクティブ：上
 It looks like my slime made you feel really good
 huh? Your penis is as hard as a rock-❤*
@@ -1702,6 +1697,17 @@ rougher if you like-❤*
 I'll jerk my squishy slime stroking it up and down
 your penis, so let yourself feel better and 
 better- Just sit still until you cum OK?❤
+
+アクティブ：上
+えへへ。当たっちゃいましたね。**
+どうですか？
+スライムに大事なところをもみもみされて・・・。
+気持ちいいですか？
+そのまま動かないでいてくれれば、
+もっと激しく動かしてあげてもいいですよ❤*
+ぬちゅぬちゅぬちゅって扱いてあげますから、
+どんどん気持ちよくなってください。
+射精するまでそこでじっとてしてましょうね❤
 
 <(65548)Slime Succubus@0>
 アクティブ：上

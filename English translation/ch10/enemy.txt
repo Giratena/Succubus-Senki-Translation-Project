@@ -1,12 +1,14 @@
+
+
 <(65538)Alice@11>
-アクティブ：上
+：上
 \vo[a195]Here I go!❤
 Energy Drain, Giga!
 
 タイトル：中央
 Giga Energy Drain (Mini++ on all units)
 
-アクティブ：上
+：上
 \vo[a196]Ehehe, everyone's become so wittle-❤
 I wonder how you'll able to win against Alice 
 and friends with such small bodies? Teehee-❤
@@ -14,20 +16,20 @@ and friends with such small bodies? Teehee-❤
 Miles：上
 Ha! It's no use, that won't work on us!
 
-アクティブ：上
+：上
 \vo[a197]Ooough, I got blocked...?
 That holy sword barrier is so strong, not even
 Alice can break it!
 
 <(65538)Alice@258>
-アクティブ：上
+：上
 \vo[a195]Here I go!❤
 Energy Drain, Giga!
 
 タイトル：中央
 Giga Energy Drain (Mini++ on all units)
 
-アクティブ：上
+：上
 \vo[a196]Ehehe, everyone's become so wittle-❤
 I wonder how you'll able to win against Alice 
 and friends with such small bodies? Teehee-❤
@@ -35,7 +37,7 @@ and friends with such small bodies? Teehee-❤
 Miles：上
 Ha! It's no use, that won't work on us!
 
-アクティブ：上
+：上
 \vo[a196-1]Muugh!! 
 You blocked my spell with that barrier!*
 \vo[a196-2]Don't you want to become small and
@@ -43,14 +45,14 @@ wrapped up in Alice's boobies?
 Even though it would feel soo good...❤
 
 <(65538)Alice@2>
-アクティブ：上
+：上
 Come to me, my dolls!
 
 タイトル：中央
 Summon Marionettes
 
 <(65538)Alice@4>
-アクティブ：上
+：上
 Let's add some more to the mix!
 Drown in my swarm of boobie dolls!
 
@@ -58,21 +60,21 @@ Drown in my swarm of boobie dolls!
 Summon Marionettes
 
 <(65538)Alice@1>
-アクティブ：上
+：上
 Ufufu, I'll summon even more allies!
 
 タイトル：中央
 Magic Charge
 
 <(65538)Alice@3>
-アクティブ：上
+：上
 There's more dolls where that came from!
 
 タイトル：中央
 Magic Charge
 
 <(65538)Alice@10>
-アクティブ：上
+：上
 \vo[a194]Come on, I'll make all my big brother's
 bodies smaller-❤
 
@@ -80,7 +82,7 @@ bodies smaller-❤
 Magic Charge
 
 <(65538)Alice@255>
-アクティブ：上
+：上
 \vo[a194]Come on, I'll make all my big brother's
 bodies smaller-❤
 
@@ -88,7 +90,7 @@ bodies smaller-❤
 Magic Charge
 
 <(65538)Alice@256>
-アクティブ：上
+：上
 \vo[a194]Come on, I'll make all my big brother's
 bodies smaller-❤
 
@@ -96,7 +98,7 @@ bodies smaller-❤
 Magic Charge
 
 <(65538)Alice@257>
-アクティブ：上
+：上
 \vo[a194]Come on, I'll make all my big brother's
 bodies smaller-❤
 

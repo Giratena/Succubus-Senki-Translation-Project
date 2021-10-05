@@ -1,4 +1,4 @@
-﻿<PL0>
+<PL0>
 テロップ：中央
 The magic generator was destroyed!
 
@@ -294,7 +294,7 @@ It should be easy for you to endure
 the slow strokes of a young girl's hand-
 That's super duper cute-❤
 It's okay. That just means you can feel even
-better with my hands, right?
+better with my hands, right?*
 Hora, I'll jerk you off really fast in order to
 to give you the best ejaculation ever, okay?❤
 Stroke-stroke-stroke-stroke♪
@@ -1510,16 +1510,6 @@ If you sniff them, you might not ever want to
 stop but... Ufufu- You should use them however
 you like, OK?❤
 
-<AT11>
-テロップ：中央
-【About Fetish Status Abnormalities】
-These cause certain attacks to do more damage,
-and also prevent attacks against foes with the
-matching "seduction" skill.
-【How To Cure】
-Wait until 2 turns have passed, or cure it with
-a panacea or similar healing item.
-
 <AT15>
 アクティブ：上
 Ahh, aaah...❤
@@ -1960,6 +1950,171 @@ Priestess：上
 Now you do your best as my servant too
 alright?❤
 Ufufu-❤
+
+<AT34>
+Man：上
+（ううっ・・・・・・）**
+（この体はいったい・・・？）
+
+テロップ：中央
+ふと気が付くと、自分の体が別人の体になっている！**
+しかし、自分の体を自由に動かすことができない。
+どうやらこの青年の体験を魔力結晶を通じて
+見せられているようだ・・・。
+
+Man：上
+今日から僕たち夫婦だね。
+幼馴染同士だったお前と結婚できるなんて、
+本当に僕は幸せものだよ。
+
+Lady：上
+うふふ。うれしいなぁ・・・❤
+大好き・・・❤*
+そういえば教会のおじいちゃん神父さんが
+新しい人に交代したんだって。
+どんな人なのかな？
+
+Priestess：上
+こんにちは。はじめまして。
+わたしがここの新しい管理人ですよ。*
+今日は愛し合うお二人の結婚式に立ち合えて、
+実にうれしく思います。
+
+Lady：上
+うわぁ・・・。きれいな人。
+
+Man：上
+・・・・・・❤
+
+Priestess：上
+あら？どうしたのですか？
+ボーっとこちらの方をご覧になられて。
+顔も赤くなっていますよ？
+
+Man：上
+っ！いや、なんでもないんです。**
+（おかしいな。彼女の顔を見たとたん、
+意識がぼんやりして・・・。
+それにしてもすごい美人だ。体つきもすごい・・・。）
+
+Woman：上
+こら！
+いくら美人だからって、花嫁を前にして
+他の女の人をジロジロ見ないでよ！もう！
+
+Man：上
+ああ、ごめん・・・・。
+
+Priestess：上
+くすくす。お二人は仲がいいのですね。**
+さて、それでは誓いの言葉を始めましょうか。**
+愛と智慧の女神のもと、
+お二人に永遠の絆の祝福を与えましょう。
+
+Soldier：上
+そうですか。**
+例の新種の魔物が現れてから、
+これで12人目の行方不明者です。
+このままでは村の安全にかかわります。
+
+Priestess：上
+そうですね。
+一刻も早く解決されるとよいのですが・・・。
+
+Soldier：上
+ところで・・・。
+新種の魔物は、話によれば、
+とても美しい女性の姿をしているそうなのです。
+
+Priestess：上
+・・・？
+わたくしのことをジロジロ見てどうしたのですか？
+
+Soldier：上
+その、シスターさんは相当な美人ですよね。
+それに例の魔物が現れてからこの村に赴任してきた…。*
+・・・。**
+いえ、何でもないんです。
+忘れてください。
+
+Priestess：上
+うふふ。美人だなんて、お世辞でもうれしいです❤**
+そうだ。頑張っている兵士さんに、
+少しだけご褒美をあげますね。
+
+Soldier：上
+は？ご褒美・・・？
+
+Priestess：上
+ええ。とても素敵なご褒美です。
+こうやって口元に手を当てて、*
+ふぅー・・・・❤
+
+Soldier：上
+ふわぁ・・・❤❤❤
+
+Priestess：上
+くすくす❤
+どうですか？淫魔の吐息は。*
+ピンク色のもやが、すーっと肺にしみ込んで、
+頭の中が気持ちよくなってくるでしょう？*
+さあ、力を抜いて・・・。
+わたしの声に耳を傾けなさい・・・❤
+
+Soldier：上
+はぅぅ・・・・❤
+
+Priestess：上
+くすくす❤
+すっかり洗脳されてしまいましたね。*
+サキュバスの香りを体中に取り込んで、
+脳みそがとろとろ❤
+
+Soldier：上
+はひぃ・・・❤
+シスター様ぁ❤
+
+Priestess：上
+行方不明者が出ても、
+真剣に捜査してはいけませんよ。
+いいですね？
+
+Soldier：上
+わかりましたぁ❤シスター様ぁ❤
+何かあっても、もみ消しますぅ・・・❤
+だから、もっとご褒美を・・・。
+
+Priestess：上
+はいはい。また後でね❤**
+それと、魔物の件ですが、
+適当に森で見かけたとでも広めておきなさい。
+いいですね？わたしの下僕❤
+
+Soldier：上
+はいぃ・・❤❤
+もちろんです、シスター様ぁ❤❤
+
+Priestess：上
+うふふ。これでこの村の兵隊さんのほとんどが
+わたしの下僕ですね❤
+こんな安全な狩場がほかにあるでしょうか。
+さあ、下僕❤
+怪しまれないようにわたしのために尽くすのです。
+頑張りなさいね。
+
+Priestess：上
+あらあら。記憶水晶を通して、
+わたしの香りを堪能してしまったようですね。*
+何回も何回もフェロモンを浴びせられて、
+とても素敵だったでしょう？
+
+アクティブ：上
+はひぃ・・・❤シスター様ぁ・・❤
+
+Priestess：上
+わたしの下僕として
+あなたも頑張ってくださいね❤
+うふふ❤
 
 <AT8>
 Blowjob Bandit：上
@@ -3270,6 +3425,16 @@ If you could see the disgusting expressions
 on their faces, you might even consider this a
 happy ending.
 
+<AT11>
+テロップ：中央
+【About Fetish Status Abnormalities】
+These cause certain attacks to do more damage,
+and also prevent attacks against foes with the
+matching "seduction" skill.
+【How To Cure】
+Wait until 2 turns have passed, or cure it with
+a panacea or similar healing item.
+
 <TK0>
 Ray：上
 Haah... Aaah...❤
@@ -4504,7 +4669,7 @@ Hora, don't speed up.
 Let's engrave the pleasure of slow masturbation
 into the deepest depths of your mind, okay?❤
 
-敬虔な少女：上
+Devout Girl：上
 Ufufu. You came so much, didn't you?
 How was that? Are you content now?*
 I'm so happy I was able to wrap you up in the
@@ -4830,7 +4995,7 @@ make it happen.
 
 選択肢：1
 \wdb[30]
-\wdb[57]
+\wdb[57]*
 Tempting Body
 
 Priestess：上

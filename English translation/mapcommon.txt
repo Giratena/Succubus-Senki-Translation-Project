@@ -148,18 +148,18 @@ A clear switch cannot be used in this stage!
 <MC52>
 選択肢：1
 Arousal
-Charm
-Full Erection
-Titty Fetish
-Foot Fetish
-Blowjob Fetish
-Hand Fetish
+Charm*
+Full Erection*
+Titty Fetish*
+Foot Fetish*
+Blowjob Fetish*
+Hand Fetish*
 Sex Fetish
 
 <MC0>
 選択肢：1
 Surrender (Offer no resistance)
-Give up (Combat ends)
+Give up (Combat ends)*
 Back
 
 <MC15>
@@ -194,13 +194,13 @@ Obtained Gold!
 Obtained Gold!
 
 <MC115>
-Drain Imp：上
+ドレインインプ：上
 Kyaha❤ You let out loads of semen❤**
 It feels good to have so much power❤
 Thanks mister! Mwah-❤
 
 <MC59>
-Village Girl：上
+Village Lady：上
 Oh my...
 Why are you using an ally to masturbate?*
 Perhaps you're remembering the time of our
@@ -211,7 +211,7 @@ It must have felt really good huh?
 Your penis gets all fired up just thinking
 about it right?
 
-Village Girl：上
+Village Lady：上
 Oh my...
 Why are you using an ally to masturbate?*
 Fufu- When we fight together, can you not
@@ -224,13 +224,13 @@ Teehee❤
 アクティブ：上
 Oough...❤
 
-Village Girl：上
+Village Lady：上
 Teehee❤
 Don't hold back...❤*
 Submit❤
 Pervert❤
 
-Village Girl：上
+Village Lady：上
 Ahh❤ There's so much...❤**
 It's no wonder you couldn't fight after
 being so pent up❤*
@@ -243,7 +243,7 @@ Teehee❤
 and gained 20 exp!
 
 <MC60>
-Village Girl：上
+Village Lady：上
 Oh Mr. Leader❤
 Can I give you...a special service?❤*
 That's right- I wanna service you with
@@ -254,13 +254,13 @@ Not during such an important battle?*
 Don't say that...❤
 Hora❤
 
-Village Girl：上
+Village Lady：上
 You can look at my boobs whenever you like❤
 
 Ray：上
 Ooo..ooohhh...❤
 
-Village Girl：上
+Village Lady：上
 Aha...❤
 Your gasping moans are so cute❤*
 To think that until recently, you were just
@@ -269,10 +269,10 @@ women❤
 Do you like boobs, Mr. Leader?
 Then would you be happy if I did this...?❤
 
-Village Girl：上
+Village Lady：上
 That's right❤ Paizuri❤
 
-Village Girl：上
+Village Lady：上
 It feels soo good...❤**
 Even though everyone is fighting,
 the two of us are doing naughty things at the
@@ -286,7 +286,7 @@ Hora- It's ok if you cum❤
 Let it all out into my cleavage, okay?❤
 Eei- Eei❤
 
-Village Girl：上
+Village Lady：上
 Ahn❤ You're making my cleavage all slippery...❤**
 Fufu, I'm pleased that you seem to be satisfied
 after letting out so much❤*
@@ -712,7 +712,7 @@ taking a nap.
 and gained 20 exp!
 
 <MC70>
-Primary Schoolgirl：上
+Junior Student：上
 Ooh❤ Senpai❤
 Are you not able to hold it in anymore?*
 You're holding up such a small child,
@@ -728,13 +728,13 @@ Hey- It's written all over your stupid face
 Senpai- You want me to service you, right?❤*
 Hora...♪
 
-Primary Schoolgirl：上
+Junior Student：上
 I'll rub your balls with my thigh❤
 
 アクティブ：上
 Aaaouugh...❤
 
-Primary Schoolgirl：上
+Junior Student：上
 Aha! Did you think I'd so something better?
 Ah, that's too bad❤*
 I'm not very nice to people who suddenly
@@ -754,7 +754,7 @@ Whenever senpai strokes his penis, his balls
 clench up...you're about to cum soon❤
 Fufufu- What a quickshot❤
 
-Primary Schoolgirl：上
+Junior Student：上
 Aha! Pew pew pew♪
 You sure let out a lot-*
 It even got all over my thighs...
@@ -769,7 +769,7 @@ We can play and have some fun again❤
 and gained 20 exp!
 
 <MC71>
-Primary Schoolgirl：上
+Junior Student：上
 Senpai❤
 I'm gonna make you feel good okay?❤*
 Huh? You're busy right now?
@@ -780,7 +780,7 @@ Omph❤
 Ray：上
 O-Ohhh❤
 
-Primary Schoolgirl：上
+Junior Student：上
 My mouth feels good right?❤
 And I can tighten it like this...❤*
 Slurrp slurp slurppp❤**
@@ -791,11 +791,11 @@ softly chewing on it right?
 Hora- Mm❤ Shurp❤ Pop❤
 Shurp, slurp, mwaah❤
 
-Primary Schoolgirl：上
+Junior Student：上
 Mmm- Gulp...❤
 Yummy❤
 
-Primary Schoolgirl：上
+Junior Student：上
 Ehehe- You couldn't resist one bit huh?❤
 You were totally defeated by a girl's mouth❤*
 Senpai, you're the leader of this group, but
@@ -808,7 +808,7 @@ to me❤ You understand?
 and gained 20 exp!
 
 <MC72>
-Primary Schoolgirl：上
+Junior Student：上
 Huh...? What's wrong Senpai?**
 Mmm...I see...
 So you can't hold on any more❤*
@@ -819,7 +819,7 @@ Hora...❤
 アクティブ：上
 Oohh...❤
 
-Primary Schoolgirl：上
+Junior Student：上
 Teehee❤
 You're really aroused♪*
 The Senpai that easily defeated us,
@@ -836,7 +836,7 @@ Are you gonna cum?
 It's okay, keep stroking and let it all out-
 it'll feel really good❤
 
-Primary Schoolgirl：上
+Junior Student：上
 Ehehe- That's a lot of thick fluid❤
 Well done❤*
 Did it feel good to masturbate?
@@ -848,7 +848,7 @@ handle it anymore OK, Senpai?❤
 and gained 20 exp!
 
 <MC73>
-Primary Schoolgirl：上
+Junior Student：上
 Senpai... I'm not feeling so good.
 My body feels so hot...❤*
 I want to take you so badly...❤
@@ -856,7 +856,7 @@ I want to take you so badly...❤
 Ray：上
 Wha, wh-ooogh...❤
 
-Primary Schoolgirl：上
+Junior Student：上
 Are you going to tell me to stop?**
 Sorry Senpai, I can't do that❤
 I couldn't stop myself even if I wanted to❤*
@@ -867,7 +867,7 @@ against your chest❤
 Ray：上
 A-Aaahhh❤
 
-Primary Schoolgirl：上
+Junior Student：上
 Ehehe❤ Your body has gone limp❤**
 My boobs have turned you into
 a slack-faced fool❤*
@@ -882,11 +882,11 @@ I really want Senpai's energy❤
 So I'll bounce and jiggle my boobs around
 Senpai's penis until it squirts, okay?
 
-Primary Schoolgirl：上
+Junior Student：上
 Mmm- What a large amount...❤
 You've made a real mess on my boobs❤
 
-Primary Schoolgirl：上
+Junior Student：上
 Mmm...❤ Delicious!❤
 
 テロップ：中央
@@ -894,7 +894,7 @@ Mmm...❤ Delicious!❤
 and gained 20 exp!
 
 <MC76>
-Middle School Girl：上
+Middle Student：上
 Hm? Mizuhide? What's wrong?**
 You've um... Teehee- Suddenly started
 jerking off in front of me...*
@@ -914,14 +914,14 @@ Hora- If you want to keep stroking your dick,
 why not do it with your face buried between
 my breasts?
 
-Middle School Girl：上
+Middle Student：上
 I'll squeeze my tits around Senpai's head,
 just like this-
 
 Mizuhide：上
 O-Ooooohhh❤
 
-Middle School Girl：上
+Middle Student：上
 Teehee❤ Your expression just melted-
 My boy genius Senpai, is being cradled
 in my boobs like a baby❤
@@ -939,7 +939,7 @@ Slowly and gently, savouring the time
 with the two of us...
 Up and down...❤ Up and down...❤
 
-Middle School Girl：上
+Middle Student：上
 Ufu- Your body twitched.
 It feels good doing lewd stuff
 together with me, right?
@@ -956,7 +956,7 @@ It's okay- I'm a succubus, so people
 will understand if you wet your pants
 because of a junior's boobs❤
 
-Middle School Girl：上
+Middle Student：上
 Ufufu- When I hug you tight, it seems
 to make your body twitch as you shoot❤*
 To shoot out this much thick fluid...❤
@@ -973,7 +973,7 @@ Let's do our best together, Senpai❤
 and gained 20 exp!
 
 <MC74>
-Middle School Girl：上
+Middle Student：上
 Hm? What's the matter?**
 You've um... Teehee- Suddenly started
 jerking off in front of me...*
@@ -983,7 +983,7 @@ Huh? You...can't hold on anymore?
 I guess it can't be helped then.
 Hora...❤
 
-Middle School Girl：上
+Middle Student：上
 I'll wrap my tits around your head and
 give you a big hug, so rub that dick
 and let it all out.
@@ -1003,7 +1003,7 @@ Breathe in all of those pleasant smells,
 and stroke your dick hard- And when you cum,
 I'll squeeze you tight...❤
 
-Middle School Girl：上
+Middle Student：上
 Ufufu- Let it out- Let it out...❤
 What a great amount❤*
 Now, consider this a special favour.
@@ -1015,7 +1015,7 @@ not pulling your weight, OK?
 and gained 20 exp!
 
 <MC75>
-Middle School Girl：上
+Middle Student：上
 Huh? What's wrong commader?
 You're falling behind.*
 Oh! I see...❤
@@ -1028,7 +1028,7 @@ Hora- Just sit over there.
 I'll use these boobs of mine to make you
 go squirt right away❤
 
-Middle School Girl：上
+Middle Student：上
 And...there-**
 Ufufu❤ They're super heavy aren't they?❤
 Does your penis feel like it's being crushed?*
@@ -1039,7 +1039,7 @@ Hora- I'm gonna move them...❤
 Ray：上
 Aaaaghh...❤
 
-Middle School Girl：上
+Middle Student：上
 This is my specialty♪
 My tight, dick squeezing titty paizuri❤
 It feels super good doesn't it?
@@ -1067,7 +1067,7 @@ Hora, hora❤ I'll rub it faster...❤
 Let it all out as hard as you
 can into my cleavage...❤
 
-Middle School Girl：上
+Middle Student：上
 Ahn- Your semen is going everywhere❤
 I've never seen someone shoot so much❤*
 Boys who continue to fight succubus need
@@ -1529,7 +1529,7 @@ Go ahead and let all your semen out❤
 Forget your duties in the
 comfort of my hands❤
 Stroke stroke stroke❤
-Stroke stroke stroke～❤*
+Stroke stroke stroke～❤
 
 Village Girl：上
 There we go- Squirrrrt-❤**
@@ -1850,7 +1850,7 @@ don't you think? Teehee❤
 and gained 20 exp!
 
 <MC88>
-Preistess：上
+Priestess：上
 Ufufu❤ Even when it comes to being an
 ally, nothing has changed, has it?*
 Masturbating like a ape who's lost their
@@ -1868,7 +1868,7 @@ with sexy thoughts- Kuhuhu❤
 Aooohh...❤
 B-But, Preistess, your scent...it's...❤
 
-Preistess：上
+Priestess：上
 Kuhuhu❤ I'm only emitting a small amount
 of my pheromones. So you would do well to
 endure at least this much❤
@@ -1885,7 +1885,7 @@ You musn't lose focus- Stroke that penis
 while I breathe my sweet scent upon you❤
 Pshew--...❤
 
-Preistess：上
+Priestess：上
 Fufufu❤
 Though just from being breathed on, you
 ejaculated without resisting❤
@@ -1902,7 +1902,7 @@ abilities as my norishment❤ Teehee❤
 and abilities, and gained 20 exp!
 
 <MC89>
-Preistess：上
+Priestess：上
 Ray, do you not ever get tired
 of being a hero?*
 You fight for everyone to your body's limits,
@@ -1916,7 +1916,7 @@ First, a dose of my pheromones...❤
 Ray：上
 Ooooh...❤
 
-Preistess：上
+Priestess：上
 Kuhu- You lost strength and fell to your knees❤**
 You must have already been at your limit huh?
 It's just as well you didn't fall while at the
@@ -1929,7 +1929,7 @@ Ray：上
 Ahhh- Aoohhh...❤**
 It feels so goodd...❤
 
-Preistess：上
+Priestess：上
 That's right❤ They're the breasts of a
 middle class succubus after all❤*
 While you're engulfed in my pheromones,
@@ -1955,7 +1955,7 @@ It's okay- Let it out❤
 Thurst out your hips and ejaculate with
 your heart buried in bliss❤
 
-Preistess：上
+Priestess：上
 Splurt splurt splurt...❤
 Your semen is so thick, it's like your peeing-*
 I'll gently caress your penis with my hand
@@ -2381,7 +2381,7 @@ Your sperm is very very delicious❤
 and gained 20 exp!
 
 <MC98>
-Boobie Mermaid：上
+Mermaid：上
 Huh?
 Are you masturbating to me, your friend?
 Not an enemy succubus?
@@ -2395,7 +2395,7 @@ Like for example, this cleavage of mine❤
 If you look at me from above, you can see
 it all as clear as day can't you?
 
-Boobie Mermaid：上
+Mermaid：上
 I'll give you a closer look.
 Hora❤*
 When I use my elbows to push them out,
@@ -2405,7 +2405,7 @@ even sexier doesn't it?
 アクティブ：上
 Ooughhh❤❤
 
-Boobie Mermaid：上
+Mermaid：上
 Aha! You're stroking your dick so fast♪
 You've become horny just from watching
 me squeeze them in front of you❤
@@ -2421,7 +2421,7 @@ for you, so stare at them a whole lot♪*
 Burn the image of my boobs into your mind,
 and indulge yourself in pleasure❤
 
-Boobie Mermaid：上
+Mermaid：上
 Aha! It's all flying out at an amazing pace.
 It got all over my boobs❤*
 I wonder if you'll be fapping to my boobs for
@@ -2435,7 +2435,7 @@ Teehee❤
 unit's growth, and gained 20 exp!
 
 <MC99>
-Boobie Mermaid：上
+Mermaid：上
 Oh um, Mr. Leader? It's been on my mind
 for awhile now but... Don't you think
 your penis is getting a bit too stiff?
@@ -2447,7 +2447,7 @@ fighting succubus for too long?
 Ray：上
 Uughh...❤
 
-Boobie Mermaid：上
+Mermaid：上
 It can't be helped. I'll have to give you
 a one time cure for your horniness.*
 Hm? What am I going to do?
@@ -2455,13 +2455,13 @@ Ufufu❤ These boobs that Mr. Leader has been
 watching for awhile now❤
 Right in here...
 
-Boobie Mermaid：上
+Mermaid：上
 I'll insert you right between them❤
 
 Ray：上
 Ahaaah...❤
 
-Boobie Mermaid：上
+Mermaid：上
 Aha- You started dripping precum the moment
 you were inserted❤*
 I can't believe you're leaking just from
@@ -2478,7 +2478,7 @@ Eei❤ Eei❤
 Ray：上
 Ahh, ahh, ohhh...❤
 
-Boobie Mermaid：上
+Mermaid：上
 Teehee❤
 The moment your penis entered my boobs,
 your ass clenched❤ Fascin-ating❤
@@ -2490,7 +2490,7 @@ Well then, go ahead- Resist❤*
 Hora hora hora❤
 My boobs are gonna slowly speed up❤
 
-Boobie Mermaid：上
+Mermaid：上
 Aha! Let it out... Let it out❤**
 What a terrible amount-
 Were you that pleased with my paizuri?*
@@ -3591,7 +3591,9 @@ and gained 20 exp!
 
 <MC12>
 情報：情報
-【Abnormalities and Fetishes：】
+
+
+Ray：上
 These are states that imprint certain
 fetishes on the body. What type of state
 it is depends on the letter shown.
@@ -3604,6 +3606,13 @@ it is depends on the letter shown.
 <BK0>
 テロップ：中央
 Due to arousal, you couldn't refuse her request!
+
+選択肢：1
+
+
+選択肢：1
+Yes
+No
 
 <BK6>
 テロップ：中央

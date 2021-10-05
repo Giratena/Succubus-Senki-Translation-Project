@@ -449,7 +449,7 @@ Just let me know what you want to do❤
 
 選択肢：1
 More kisses...
-More kisses...
+More kisses...*
 More kisses...
 
 Drain Imp：上
@@ -1184,7 +1184,7 @@ as a Drain Imp's level tank.
 Failing to rescue the prisoners, our
 hero was captured by a Drain Imp.*
 He lay shamefully spread out on the floor,
-as the girl looked down on him.*
+as the girl looked down on him.
 
 Ray：上
 Ough...

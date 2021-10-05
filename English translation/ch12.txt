@@ -12,8 +12,7 @@ With recruitable female characters
 Without recruitable female characters
 
 テロップ：中央
-Starting NG+ with recruitable female characters.**
-Note: When a succubus attacks a female, the
+Starting NG+ with recruitable female characters.
 dialogue will be the same as if they were
 attacking a man.
 Similarly, the dialogue of a female character
@@ -32,7 +31,7 @@ the difficulty to hard during the story.)
 
 選択肢：1
 Hard
-Normal
+Nomal
 Easy
 Super Easy
 

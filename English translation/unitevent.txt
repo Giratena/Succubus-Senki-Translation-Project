@@ -13,11 +13,11 @@ Ray：上
 ...!!
 
 タイトル：中央
-Activate Holy Sword (Light)
+Mithrus
 
 Alice：上
 \vo[a83]Uwawawah, I can't feel my body!
-What gives? My sexual aura won't work...!
+What's going on? My sexy aura won't work...!
 
 テロップ：中央
 When the holy sword of light is released,
@@ -25,26 +25,26 @@ it can be used as a weapon.*
 In it's wake, enemy succubus will be inflicted
 with the "Light Seal" status.*
 The "Light Seal" status prevents enemies from 
-using stronger skills, and decreases movement.*
+using stronger skills, and decreases their stats.*
 The "Light Seal" is so advanced it can even 
 effect advanced level succubus, and power them
 down.
 
-<(0)レイ7>
+<(0)Ray@7>
 テロップ：中央
 The holy sword can no longer be activated
 at this level!
 (No. Times activated-\va1[0], Currently-\va4[9]）
 
-レイ：上
+Ray：上
 ...!!
 
 タイトル：中央
-Activate Holy Sword (Light)
+Mithrus
 
 Alice：上
 \vo[a83]Uwawawah, I can't feel my body!
-What gives? My sexual aura won't work...!
+What's going on? My sexy aura won't work...!
 
 テロップ：中央
 When the holy sword of light is released,
@@ -52,7 +52,7 @@ it can be used as a weapon.*
 In it's wake, enemy succubus will be inflicted
 with the "Light Seal" status.*
 The "Light Seal" status prevents enemies from 
-using stronger skills, and decreases movement.*
+using stronger skills, and decreases their stats.*
 The "Light Seal" is so advanced it can even 
 effect advanced level succubus, and power them
 down.
@@ -81,7 +81,7 @@ O'holy wind sword! Lend me your power!
 Distill all evil and cast it to the wind!
 
 タイトル：中央
-Activate Holy Sword (Wind)
+Amihan
 
 Miles：上
 What on earth...? 
@@ -90,12 +90,12 @@ It's as if my whole body is being
 protected by the wind...
 
 テロップ：中央
-When the holy sword of wind is activated,
+When the holy sword of wind is released,
 it can be used as a weapon.*
 In it's wake, allies will receive the 
-"Wind Blessing" status for three turns.*
+"Wind Blessing" status for three turns.
 As long as the "Wind Blessing" is active, allies
-will not receive abnormal states.*
+will not receive abnormal states.
 Some powerful enemy attacks can only be prevented
 via the "Wind Blessing" status.*
 ※Caution※
@@ -113,7 +113,7 @@ O'holy wind sword! Lend me your power!
 Distill all evil and cast it to the wind!
 
 タイトル：中央
-Activate Holy Sword (Wind)
+Amihan
 
 Miles：上
 What on earth...? 
@@ -122,12 +122,12 @@ It's as if my whole body is being
 protected by the wind...
 
 テロップ：中央
-When the holy sword is activated,
+When the holy sword is released,
 it can be used as a weapon.*
 In it's wake, allies will receive the 
-"Wind Blessing" status for three turns.*
+"Wind Blessing" status for three turns.
 As long as the "Wind Blessing" is active, allies
-will not receive abnormal states.*
+will not receive abnormal states.
 Some powerful enemy attacks can only be prevented
 via the "Wind Blessing" status.*
 ※Caution※
@@ -991,11 +991,11 @@ You already have too many items.
 テロップ：中央
 You already have too many items.
 
-<(44)Village Girl@0>
+<(44)Village Lady@0>
 アクティブ：上
 Aaah, but that's...❤
 
-<(44)Village Girl@1>
+<(44)Village Lady@1>
 アクティブ：上
 Ah- Aahhn-❤
 I'll fill your mind up with lots of sexy thoughts-❤
@@ -1004,7 +1004,7 @@ I'll fill your mind up with lots of sexy thoughts-❤
 アクティブ：上
 Ooogh...❤
 
-<(53)モルジア@1>
+<(53)Moumei@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1017,7 +1017,7 @@ Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(53)モルジア@2>
+<(53)Moumei@2>
 アクティブ：上
 Ho-ra- Become captivated by my body-❤
 
@@ -1030,7 +1030,7 @@ I wonder if men can keep their reason before
 these succubus breasts?
 Hora- Stare. Stare at my cleavage-❤
 
-<(54)村の少女@1>
+<(54)Village Girl@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1043,7 +1043,7 @@ Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(55)敬虔な少女@1>
+<(55)Devout Girl@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1056,7 +1056,7 @@ Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(56)フェラ盗賊@1>
+<(56)Blowjob Bandit@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1069,11 +1069,11 @@ Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(57)シスター@2>
+<(57)Priestess@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(57)シスター@3>
+<(57)Priestess@3>
 アクティブ：上
 You will melt with my pheromones-❤
 Pshew-...❤
@@ -1086,7 +1086,7 @@ until your brain melts-❤
 Now, you serve me-❤
 Pshew-...❤
 
-<(57)シスター@1>
+<(57)Priestess@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1099,11 +1099,11 @@ Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(58)巨乳エルフ@2>
+<(58)Boobie Elf@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(58)巨乳エルフ@1>
+<(58)Boobie Elf@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1116,11 +1116,11 @@ Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(59)美脚エルフ@2>
+<(59)Elf@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(59)美脚エルフ@1>
+<(59)Elf@1>
 アクティブ：上
 Drink my milk.
 It will help you recover-
@@ -1133,91 +1133,91 @@ Hora- Drink directly from my boobies.
 They'll cure all your wounds.
 You'll get a little addicted to them though...❤
 
-<(60)アルラウネ@2>
+<(60)Alraune@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(60)アルラウネ@1>
+<(60)Alraune@1>
 アクティブ：上
 The power of my honey compels you...!
 
-<(61)美乳マーメイド@2>
+<(61)Mermaid@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(61)美乳マーメイド@1>
+<(61)Mermaid@1>
 アクティブ：上
 My song will rob you of the will to fight-
 
-<(62)投げキッス人魚@2>
+<(62)Kissing Mermaid@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(62)投げキッス人魚@1>
+<(62)Kissing Mermaid@1>
 アクティブ：上
 I'll give you a little kiss, so do your best-♪
 Mmm--wah!-❤
 
-<(63)ラミア@2>
+<(63)Lamia@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(63)ラミア@1>
+<(63)Lamia@1>
 アクティブ：上
 I'll give you a little kiss, so do your best-♪
 Mmm--wah!-❤
 
-<(64)サキュバスエルフ@2>
+<(64)Succubus Elf@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(64)サキュバスエルフ@1>
+<(64)Succubus Elf@1>
 アクティブ：上
 I'll give you a little kiss, so do your best-♪
 Mmm--wah!-❤
 
-<(65)ダークエルフ@2>
+<(65)Dark Elf@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(65)ダークエルフ@1>
+<(65)Dark Elf@1>
 アクティブ：上
 I'll give you a little kiss, so do your best-♪
 Mmm--wah!-❤
 
-<(66)サキュバスエルフ@2>
+<(66)Succubus Elf@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(66)サキュバスエルフ@1>
+<(66)Succubus Elf@1>
 アクティブ：上
 I'll give you a little kiss, so do your best-♪
 Mmm--wah!-❤
 
-<(67)ダークアルラウネ@2>
+<(67)Dark Alraune@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(67)ダークアルラウネ@1>
+<(67)Dark Alraune@1>
 アクティブ：上
 I shall weaken you with my aphrodisiac.
 Pshew-...♪
 
-<(67)ダークアルラウネ@3>
+<(67)Dark Alraune@3>
 アクティブ：上
 I shall entrance you with my aphrodisiac.
 Pshew-...♪
 
-<(68)チェリッシュ@2>
+<(68)Cherish@2>
 アクティブ：上
 Fall under my pheromones-❤
 
-<(68)チェリッシュ@1>
+<(68)Cherish@1>
 アクティブ：上
 I shall weaken you with my aphrodisiac.
 Pshew-...♪
 
-<(68)チェリッシュ@3>
+<(68)Cherish@3>
 アクティブ：上
 I shall entrance you with my aphrodisiac.
 Pshew-...♪

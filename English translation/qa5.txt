@@ -44,7 +44,6 @@ Ufufu-
 Were you so taken off guard by our surprise attack
 that you forgot to watch your footing?
 
-
 テロップ：中央
 The ground suddenly began to collapse!**
 It was a pitfall!
@@ -55,7 +54,6 @@ Ufufu-
 Were you so taken off guard by our surprise attack
 that you forgot to watch your footing?
 
-
 テロップ：中央
 The ground suddenly began to collapse!**
 It was a pitfall!
@@ -65,7 +63,6 @@ Bandit Leader：上
 Ufufu-
 Were you so taken off guard by our surprise attack
 that you forgot to watch your footing?
-
 
 テロップ：中央
 The ground suddenly began to collapse!**
@@ -1462,7 +1459,7 @@ We'll arrive at the mountain of our destination
 soon.*
 Hmm... Is that...?
 
-Bandit：上
+Bandit Lacky：上
 Superior!
 Bad news!*
 Some knights from the royal capital or
@@ -1478,7 +1475,7 @@ Let's set up a trap.
 This is our chance to defeat a difficult foe.*
 Get everyone ready to intercept!
 
-Bandit：上
+Bandit Lacky：上
 As expected of our superior!
 W-We'll get everyone ready at once!
 

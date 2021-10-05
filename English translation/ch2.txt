@@ -16,7 +16,7 @@ The HP of nearby allies has been restored!
 (Healers increase the range of it's effects!)
 
 <AT2>
-Guard：下
+Guardian：下
 Ugh... Hngh...
 Foul demons! You will pass no further!*
 I'd like to see you get past these solid
@@ -28,14 +28,14 @@ Is this wall really all that?*
 \vo[rumi02]Oh, Mr. Guard～❤ Look here～❤**
 \vo[rumi03]Mm～ Mwah～❤
 
-Guard：下
+Guardian：下
 Haaa... Aaah...❤
 
 Luminara：下
 \vo[rumi04]Hora, and you too～❤
 Mm, mwah～❤
 
-Guard：下
+Guardian：下
 Aaaaa... Mistress Luminara!❤
 
 Luminara：下
@@ -46,14 +46,14 @@ Luminara：下
 \vo[rumi07]Kill your friends, and let me into
 the castle. Pretty please?❤
 
-Guard：下
+Guardian：下
 Yess... Mistress Luminara-❤
 
-Guard：上
+Guardian：上
 Gah! What are you doing!?
 Stop! I'm on your side!
 
-Guard：下
+Guardian：下
 For Mistress Luminara!!
 
 Miles：下
@@ -68,7 +68,7 @@ This marks the end of the demo version.
 Thank you for playing.
 
 <AT0>
-Guard：上
+Guardian：上
 Uggh... Gaah...
 
 テロップ：中央
@@ -791,7 +791,7 @@ dealt with-❤
 \vo[rumi12] Even the leader of the reinforcements 
 has become Luminara's slave～❤
 
-Guard：上
+Guardian：上
 N, no...**
 Keep at it, don't give up now!
 
@@ -805,7 +805,7 @@ Aaaah... Mistress Luminara-❤
 Luminara：上
 \vo[rumi14]Hora, he's completely under my spell...❤
 
-Guard：上
+Guardian：上
 Uuugh, damn it...
 
 Luminara：上
@@ -836,7 +836,7 @@ in my mouth. How pathetic♪
 Ray：上
 Aah... It feels so good. Mistress Luminara...❤
 
-Guard：上
+Guardian：上
 （...Gulp）
 
 Luminara：上
@@ -847,7 +847,7 @@ Those looks...❤ Could you all be envious?
 But for now, this'll do right?
 Mm～ Mwah～♥
 
-Guard：上
+Guardian：上
 Haah...❤
 
 Luminara：上
@@ -904,7 +904,7 @@ Haah...❤ Mistress Luminara-❤
 Luminara：上
 \vo[rumi36]Kill all the people in the capital-❤
 
-Guard：上
+Guardian：上
 ...!!
 
 Luminara：上
@@ -920,7 +920,7 @@ Although you came to help, you betrayed your
 people by getting lovey dovey with me...❤
 \vo[rumi39]Fufu- men are so simple～❤
 
-Guard：上
+Guardian：上
 No, stop! Come no closer!
 
 テロップ：中央
@@ -1276,7 +1276,7 @@ I'm listening, I'll be gentle～❤
 
 選択肢：1
 \wdb[18]
-\wdb[20]
+\wdb[20]*
 \wdb[21]
 
 Luminara：上
@@ -1448,13 +1448,13 @@ Yes
 No
 
 <OP0>
-兵隊：上
+Soldier：上
 T-this is terrible...!!
 
 Ray：上
 ...?
 
-兵隊：上
+Soldier：上
 M-Monsters have invaded the capital!!
 Someone help!
 
@@ -1463,14 +1463,14 @@ Hey hey, shouldn't the Order of Knights be
 able to handle the monsters? 
 There's no need for panic...
 
-兵隊：上
+Soldier：上
 N-No, this is different.
 The monsters are unlike anything we've seen...!
 
 Ray：上
 ...!
 
-兵隊：上
+Soldier：上
 Female monsters have surrounded the castle walls!
 No matter how much we attack, our swords just go 
 through them!
@@ -1484,7 +1484,6 @@ drained dry.
 We're barely holding on!
 T-This is bad.
 Someone please help us!!
-
 
 Miles：上
 Those must be the female monsters we fought
@@ -1503,11 +1502,11 @@ It's no use, Miles.
 Our forces are too worn out...*
 Besides, take a look over there...
 
-Guard：上
+Guardian：上
 ...!!
 You won, we won!!?
 
-男：上
+Man：上
 I... don't believe it! We're saved!!
 The demons are retreating!!
 
@@ -1613,6 +1612,3 @@ other enemies.
 Those who are engulfed in these heart kisses are 
 said to experience indescribable euphoria, and 
 will mindlessly swear their allegiance to her.
-
-
-
