@@ -4657,8 +4657,8 @@ Ray：下
 Uh...❤
 
 選択肢：1
-女たちについていく
-女たちを振り払う
+Follow along
+Shake them off
 
 Woman：下
 Ahnn-❤ Don't say such mean things.**
@@ -4689,8 +4689,8 @@ pleasure. That's it. Just leave everything to us,
 we'll make you feel good, okay?
 
 選択肢：1
-女たちについていく
-女たちを振り払う
+Follow along
+Shake them off
 
 Woman：下
 Ooh, that's too bad-❤
@@ -4804,8 +4804,8 @@ Ray：上
 Gulp...❤
 
 選択肢：1
-女たちについていく
-女たちを振り払う
+Follow along
+Shake them off
 
 Woman：上
 (Giggle)
@@ -6711,8 +6711,9 @@ Ufufu...
 
 Bandit Girl：上
 Aha❤ Thank you-
-You've brought some meat, and is that candy?*
-You know how to treat a lady well, I'm so happy❤**
+Goodness! What beautiful jewelry.
+It must have cost a lot.
+You know how to treat a lady well, I'm overjoyed❤**
 Well then, looks like I'd better reward you for
 being such a good boy huh?*
 Pass your cock through the jail cell bars OK?
@@ -8020,7 +8021,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 Ahuhu- So that's the first person is it?
 Who's the second one?
 
@@ -8037,7 +8038,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 And with the second person...
 Who will the final person be?
 
@@ -8054,7 +8055,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 All done- Thanks-
 Now just sign here please-
 
@@ -8458,7 +8459,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 Fufu- So that's the first person?
 Who's the second one?
 
@@ -8475,7 +8476,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 That's the second person...
 Who's the third?
 
@@ -8492,7 +8493,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 That's the third person...
 And, the fourth?
 
@@ -8509,7 +8510,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 Fourth person, check!
 And now, who's the last person?
 
@@ -8526,7 +8527,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 There- Thank you!
 Now please sign this contract okay?
 
@@ -13793,7 +13794,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 Ahuhu- So that's the first person is it?
 Who's the second one?
 
@@ -13810,7 +13811,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 And with the second person...
 Who will the final person be?
 
@@ -13827,7 +13828,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 All done- Thanks-
 Now just sign here please-
 
@@ -14165,7 +14166,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 Ahuhu- So that's the first person is it?
 Who's the second one?
 
@@ -14182,7 +14183,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 And with the second person...
 Who will the final person be?
 
@@ -14199,7 +14200,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 All done- Thanks-
 Now just sign here please-
 
@@ -14603,7 +14604,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 Fufu- So that's the first person?
 Who's the second one?
 
@@ -14620,7 +14621,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 That's the second person...
 Who's the third?
 
@@ -14637,7 +14638,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 Fourth person, check!
 And now, who's the last person?
 
@@ -14654,7 +14655,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 There- Thank you!
 Now please sign this contract okay?
 
@@ -15025,7 +15026,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 Fufu- So that's the first person?
 Who's the second one?
 
@@ -15042,7 +15043,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 That's the second person...
 Who's the third?
 
@@ -15059,7 +15060,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 That's the third person...
 And, the fourth?
 
@@ -15076,7 +15077,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 Fourth person, check!
 And now, who's the last person?
 
@@ -15093,7 +15094,7 @@ Black Mage
 Martial Artist
 Bandit
 
-グリッサの仲間：上
+Greisa's Friend：上
 There- Thank you!
 Now please sign this contract okay?
 
