@@ -22,18 +22,18 @@ What's going on? My sexy aura won't work...!
 テロップ：中央
 When the holy sword of light is released,
 it can be used as a weapon.*
-In it's wake, enemy succubus will be inflicted
+In its wake, enemy succubi will be inflicted
 with the "Light Seal" status.*
 The "Light Seal" status prevents enemies from 
 using stronger skills, and decreases their stats.*
-The "Light Seal" is so advanced it can even 
-effect advanced level succubus, and power them
+The "Light Seal" is so advanced, it can even 
+affect advanced level succubi, and power them
 down.
 
 <(0)Ray@7>
 テロップ：中央
 The holy sword can no longer be activated
-at this level!
+in this level!
 (No. Times activated-\va1[0], Currently-\va4[9]）
 
 Ray：上
@@ -49,12 +49,12 @@ What's going on? My sexy aura won't work...!
 テロップ：中央
 When the holy sword of light is released,
 it can be used as a weapon.*
-In it's wake, enemy succubus will be inflicted
+In its wake, enemy succubi will be inflicted
 with the "Light Seal" status.*
 The "Light Seal" status prevents enemies from 
 using stronger skills, and decreases their stats.*
 The "Light Seal" is so advanced it can even 
-effect advanced level succubus, and power them
+affect advanced level succubi, and power them
 down.
 
 <(1)Miles@0>
@@ -92,20 +92,20 @@ protected by the wind...
 テロップ：中央
 When the holy sword of wind is released,
 it can be used as a weapon.*
-In it's wake, allies will receive the 
+In its wake, allies will receive the 
 "Wind Blessing" status for three turns.
 As long as the "Wind Blessing" is active, allies
-will not receive abnormal states.
+will not receive abnormal status effects.
 Some powerful enemy attacks can only be prevented
 via the "Wind Blessing" status.*
 ※Caution※
-If an ally is already under an abnormal state,
+If an ally is already in an abnormal state,
 they won't be cured when the blessing is applied.
 
 <(1)Miles@4>
 テロップ：中央
 The holy sword can no longer be activated
-at this level!
+in this level!
 (No. Times activated-\va1[0], Currently-\va4[10]）
 
 Miles：上
@@ -124,14 +124,14 @@ protected by the wind...
 テロップ：中央
 When the holy sword is released,
 it can be used as a weapon.*
-In it's wake, allies will receive the 
+In its wake, allies will receive the 
 "Wind Blessing" status for three turns.
 As long as the "Wind Blessing" is active, allies
-will not receive abnormal states.
+will not receive abnormal status effects.
 Some powerful enemy attacks can only be prevented
 via the "Wind Blessing" status.*
 ※Caution※
-If an ally is already under an abnormal state,
+If an ally is already in an abnormal state,
 they won't be cured when the blessing is applied.
 
 <(2)Nobus@0>
@@ -998,7 +998,7 @@ Aaah, but that's...❤
 <(44)Village Lady@1>
 アクティブ：上
 Ah- Aahhn-❤
-I'll fill your mind up with lots of sexy thoughts-❤
+I'll fill your mind with lots of sexy thoughts-❤
 
 <(45)Determined Girl@0>
 アクティブ：上
