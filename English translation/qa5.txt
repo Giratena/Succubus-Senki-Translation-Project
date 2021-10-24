@@ -1418,8 +1418,8 @@ Let's play❤
 Would you like to see the opening again?
 
 選択肢：1
-見ない
-見る
+見ない.
+見る.
 
 <OP1>
 Soldier：上
