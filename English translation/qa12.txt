@@ -706,37 +706,14 @@ begged instead. What terrible mercenaries～❤
 
 <TK2>
 Village Lady：上
-
-
-選択肢：1
-したい
-したくない
-
-テロップ：中央
-発情中のため命乞いを断ることができない！
-
-選択肢：1
-したい
-
-Village Lady：上
 Gah, you're so mean... Beating me up like this...**
 Hey... I'm not bad... I just wanna do stuff that 
 feels better than those barbaric things...*
 No? Come on, you know you want to～❤
 
-Village Lady：上
-ほんと？やったぁ。
-うれしいわ。*
-それじゃあ、気持ちいいキス
-いっぱいしようね♥
-
-Village Lady：上
-あは、エナジードレイン、どうだった？
-気持ちよかったかな？
-
 選択肢：1
-Yes please!
-Well um...
+I want it.
+I don't want it.
 
 テロップ：中央
 Due to arousal, you couldn't refuse her request!
@@ -8351,11 +8328,12 @@ Teehee♪
 
 <TK146>
 Alice：上
-\vo[a24]魔力チャージ完了ー！**
-\vo[a25]お兄さんたちをアリスの遊び相手にしてあげる**
-\vo[a26]今のままだとちょっと大人すぎるから、
-みーんな小さくしちゃうね♪
-えいっ！
+\vo[a24]Magic Charge complete!**
+\vo[a25]Now Alice's big brothers will play with 
+her whether they like it or not!-*
+\vo[a26]Everyone's a bit too mature right now though,
+so I'll have to make everyone a little smaller♪
+Ei!-
 
 タイトル：中央
 Regression++ (Inflicts Mini Status on All Foes)
@@ -17544,26 +17522,24 @@ Don't you want to just have a little fun before
 you defeat me? Teehee❤
 
 Paizuri Doll：上
-アラ？あなたもデスカ？
-なめまわすようにわたしの体を見て・・・。*
-あなたの仲間は、それは気持ちよさそうに、
-腰をふっていましたものネ。
-少なからず発情してしまうのも仕方のないことデス。
-そうデスネ・・・。発情してしまわれたのなら、、
-少しだけお楽しみいただいても大丈夫デスヨ。*
-わたしの体を道具のようにお使いクダサイ。
-このおっぱいに男性器を入れて腰を振レバ、
-さぞや気持ちいいデショウ。
-わたしは人形デスカラ、
-使われるままにじっとしていマス。*
-わたしのおっぱいをオナホ代わりにして、
-男性器を何度も出し入れ・・・❤
-射精する寸前で抜けば、楽しいことだけで終わりデス。
-あなたの仲間は我慢できずに、
-結局最後まで楽しんでしまいマシタが・・・。
-サテ、あたはどうでしょうか。
-わたしを倒す前に、少しだけ、楽しみマセンカ？
-クスクス・・・❤
+Ara? Not you too?
+Looking at my body while licking your lips...*
+Your friend must have looked like he was feeling
+really good, shaking his hips and all- Well, if 
+that arouses you, I suppose it can't be helped.
+That's right- Well, since you're so aroused, I'm 
+sure it'll be fine if you indulge just a little-*
+Please use my body as your tool.
+Insert your manhood into these breasts and shake
+your hips. I'm sure it will feel very good.
+I'm only a doll, so I can stay still as you
+use me.*
+Your manhood will pour out it's load over and over
+from using my boobs as an onahole...❤ Just 
+pull out before you cum, and the fun will end. 
+How about it?
+Don't you want to just have a little fun before
+you defeat me? Teehee❤
 
 選択肢：1
 Apporach absentmindedly
@@ -30020,11 +29996,12 @@ state of helplessness, and drained by succubi.
 
 <TK383>
 テロップ：中央
-サキュバスの奇襲の前に、
-なすすべなく敗れた主人公たちは、
-淫魔に搾精されもてあそばれていた。
-あちこちで団員たちの嬌声があがるなか、
-主人公も狙撃手の淫魔に襲われていた。
+After the succubus surprise attack,
+our defeated protagonists ended up toyed with 
+and squeezed by the many succubus in the area.
+Indecent moans from soldiers filled the
+area as even the hero was attacked by one of
+the sniper succubus...
 
 Sniper：上
 Kuhu♪

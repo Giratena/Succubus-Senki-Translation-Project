@@ -212,7 +212,7 @@ Ray：上
 .....
 
 選択肢：1
-今は後悔するより大事なことがある
+There's something more important than lamenting
 
 Village Healer：上
 Hm?
@@ -764,8 +764,8 @@ Delicious-♪
 Would you like to see the opening again?
 
 選択肢：1
-見ない
-見る
+Don't see
+See
 
 <OP0>
 Lyon：上
