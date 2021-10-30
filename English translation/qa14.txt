@@ -1,12 +1,12 @@
 <PL1>
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
+It's a healing circle.**
+The HP of surrounding allies has been restored!
 
 テロップ：中央
-回復の魔法陣だ**
-周囲の味方の体力が回復する！
-（ヒーラーが使用したため効果範囲がアップ！）
+It's a healing circle.**
+The HP of surrounding allies has been restored!
+(The healer increased the range of effect!)
 
 <AT0>
 テロップ：中央
