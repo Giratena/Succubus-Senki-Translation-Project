@@ -1,32 +1,32 @@
 <PL0>
 テロップ：中央
-It's a healing circle.**
+It's a recovery circle!**
 The HP of surrounding allies has been restored!
 
 テロップ：中央
-It's a healing circle.**
+It's a recovery circle!**
 The HP of surrounding allies has been restored!
-(The range is greater when used by a healer!)
+(Healers increase the range of effect!)
 
 <PL1>
 テロップ：中央
-It's a healing circle.**
+It's a recovery circle!**
 The HP of surrounding allies has been restored!
 
 テロップ：中央
-It's a healing circle.**
+It's a recovery circle!**
 The HP of surrounding allies has been restored!
-(The range is greater when used by a healer!)
+(Healers increase the range of effect!)
 
-<PL2>
+<PL14>
 テロップ：中央
-It's a healing circle.**
+It's a recovery circle!**
 The HP of surrounding allies has been restored!
 
 テロップ：中央
-It's a healing circle.**
+It's a recovery circle!**
 The HP of surrounding allies has been restored!
-(The range is greater when used by a healer!)
+(Healers increase the range of effect!)
 
 <PL7>
 テロップ：中央
@@ -2199,9 +2199,10 @@ Ray：上
 Ugh... Why you...
 
 Alice：上
-\vo[a508]Aha, it is frustrating when I make fun of you
-in this way?*
-\vo[a509]It was when I teased you by saying "for a human", right? Teehee❤**
+\vo[a508]Aha, is it frustrating when I make fun of you
+this way?*
+\vo[a509]It was when I teased you by saying 
+"for a human", right? Teehee❤*
 \vo[a510]But- A human can't win against an advanced
 level succubus-*
 \vo[a511]Big brother, it's clear as day that you
@@ -3681,8 +3682,9 @@ Your begging to Alice?*
 \vo[a365]You've been staring at Alice's boobs
 at point blank range after all I guess-
 It can't be helped your mind has gone stupid❤
-\vo[e]Hora, forget about your duties to defeat our queen.
-Beg and tell Alice, "put me between your boobs-"❤
+\vo[e]Hora, forget about your duties to defeat our
+queen. Beg and tell Alice, 
+"Put me between your boobs-"❤
 
 選択肢：1
 \wdb[72]
