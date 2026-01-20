@@ -7,7 +7,7 @@ The most recent patch can be found whenever the game is updated on Dlsite.
 This is the translation script for Succubus Senki. I translate the script and send it to
 the creator of the game who patches them into the game!
 
-Enjoy these kinds of things? Check out our discord [here!](https://discord.gg/MwrDgQNdm3
+Enjoy these kinds of things? Check out our discord [here!](https://discord.gg/MwrDgQNdm3)
 
 If you like my translations, consider supporting me on patreon! -> https://www.patreon.com/Giratena
 I occasionally put out side translations too!
